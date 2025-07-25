@@ -1,3 +1,4 @@
+from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from config import settings, setup_logging, logger
@@ -8,10 +9,20 @@ from routers import design_router, health_router
 # Logging'i başlat
 setup_logging()
 
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    """Application lifespan event handler."""
+    # Startup
+    logger.info("Starting Deko Assistant AI API...")
+    yield
+    # Shutdown
+    logger.info("Shutting down Deko Assistant AI API...")
+
 app = FastAPI(
     title=settings.APP_TITLE,
     description=settings.APP_DESCRIPTION,
     version=settings.APP_VERSION,
+    lifespan=lifespan,
 )
 
 # Setup CORS
@@ -30,20 +41,10 @@ setup_exception_handlers(app)
 app.include_router(health_router, tags=["Health"])
 app.include_router(design_router, prefix="/api", tags=["Design"])
 
-@app.on_event("startup")
-async def startup_event():
-    """Application startup event."""
-    logger.info("Starting Deko Assistant AI API...")
-
-@app.on_event("shutdown")
-async def shutdown_event():
-    """Application shutdown event."""
-    logger.info("Shutting down Deko Assistant AI API...")
-
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(
-        app, 
+        "main:app",  # Import string formatında
         host=settings.host,      # Environment'a göre otomatik
         port=settings.port,      # Environment'a göre otomatik  
         reload=settings.reload   # Environment'a göre otomatik
