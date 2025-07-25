@@ -7,15 +7,15 @@ class Settings(BaseSettings):
     Application settings - sadece main.py'daki mevcut özellikler için.
     """
     
-    # FastAPI App ayarları (main.py'dan)
+    # FastAPI App ayarları
     APP_TITLE: str = "Deko Assistant AI API"
     APP_DESCRIPTION: str = "Deko Assistant AI API is an AI-powered application where users can get decoration suggestions."
     APP_VERSION: str = "1.0.0"
-    
-    # CORS ayarları (main.py'dan)
+
+    # CORS ayarları
     ALLOWED_ORIGINS: List[str] = ["http://localhost:3000"]
-    
-    # AI API ayarları (main.py'dan)
+
+    # AI API ayarları
     GEMINI_API_KEY: str
     GENERATIVE_MODEL_NAME: str = "gemini-2.5-pro"
     

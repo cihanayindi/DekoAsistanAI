@@ -5,7 +5,7 @@ from .settings import settings
 
 def setup_logging():
     """
-    Logging konfigürasyonunu ayarla - main.py'daki gibi.
+    Logging konfigürasyonunu ayarla
     """
     # Logs klasörünü oluştur
     os.makedirs("logs", exist_ok=True)
