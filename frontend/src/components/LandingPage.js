@@ -1,11 +1,12 @@
 import React from 'react';
-import { HeroSection, DemoSection, FeaturesSection, Footer } from './sections';
+import { HeroSection, FeaturesSection, Footer,RoomDesignDemo } from './sections';
 
 const LandingPage = () => {
   return (
     <div className="min-h-screen bg-gray-900 text-white">
       <HeroSection />
-      <DemoSection />
+      {/* <DemoSection /> */}
+      <RoomDesignDemo />
       <FeaturesSection />
       <Footer />
     </div>
