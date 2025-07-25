@@ -1,0 +1,122 @@
+
+2025-07-25 02:33:47,050 - INFO - Starting Deko Assistant AI API...
+
+2025-07-25 02:37:38,523 - INFO - Test endpoint'e istek alındı:
+
+2025-07-25 02:37:38,524 - INFO - Oda Tipi: yatak-odasi
+
+2025-07-25 02:37:38,524 - INFO - Tasarım Stili: skandinav
+
+2025-07-25 02:37:38,524 - INFO - Notlar: asdasd baba kral kingo
+
+2025-07-25 02:37:38,524 - INFO - Yüklenen Fotoğraf: Yok
+
+2025-07-25 16:01:24,434 - INFO - Starting Deko Assistant AI API...
+
+2025-07-25 16:01:24,434 - INFO - Starting Deko Assistant AI API...
+
+2025-07-25 16:01:38,486 - INFO - Starting Deko Assistant AI API...
+
+2025-07-25 16:02:27,990 - INFO - Starting Deko Assistant AI API...
+
+2025-07-25 16:03:05,632 - INFO - Tasarım isteği alındı:
+
+2025-07-25 16:03:05,632 - INFO - Oda Tipi: salon
+
+2025-07-25 16:03:05,632 - INFO - Tasarım Stili: modern
+
+2025-07-25 16:03:05,633 - INFO - Notlar: Oda Boyutları: 100m x 190m
+Tavan Yüksekliği: 500m
+Ekstra Alanlar:
+  1. 25m x 25m (Konum: x:25, y:25)
+Kullanıcı Notları: babnın evi
+
+2025-07-25 16:03:17,846 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-25 16:03:18,538 - INFO - Starting Deko Assistant AI API...
+
+2025-07-25 22:04:21,452 - INFO - Starting Deko Assistant AI API...
+
+2025-07-25 22:04:27,052 - INFO - Root endpoint'e istek geldi
+
+2025-07-25 22:04:27,247 - WARNING - HTTP Exception: 404 - Not Found
+
+2025-07-25 22:06:20,330 - INFO - Tasarım isteği alındı:
+
+2025-07-25 22:06:20,331 - INFO - Oda Tipi: salon
+
+2025-07-25 22:06:20,331 - INFO - Tasarım Stili: modern
+
+2025-07-25 22:06:20,331 - INFO - Notlar: Oda Boyutları: 90000m x 45000m
+Tavan Yüksekliği: 500m
+Ekstra Alanlar:
+  1. 500m x 500m (Konum: x:500, y:500)
+Kullanıcı Notları: asdsad
+
+2025-07-25 22:13:13,250 - INFO - Tasarım isteği alındı:
+
+2025-07-25 22:13:13,251 - INFO - Oda Tipi: yatak
+
+2025-07-25 22:13:13,251 - INFO - Tasarım Stili: klasik
+
+2025-07-25 22:13:13,251 - INFO - Notlar: Oda Boyutları: 1000cm x 1000cm x 250cm (G x U x Y)
+Ekstra Alanlar:
+  1. 150cm x 150cm (Konum: x:50cm, y:50cm)
+Kullanıcı Notları: asdasd
+
+2025-07-25 22:51:15,143 - INFO - Tasarım isteği alındı:
+
+2025-07-25 22:51:15,145 - INFO - Oda Tipi: yatak
+
+2025-07-25 22:51:15,145 - INFO - Tasarım Stili: modern
+
+2025-07-25 22:51:15,145 - INFO - Notlar: Oda Boyutları: 1000cm x 1000cm x 200cm (G x U x Y)
+Ekstra Alanlar:
+  1. 50cm x 50cm (Konum: x:0cm, y:50cm)
+Kullanıcı Notları: ben bir erkeğim harry poter hayarnıyım bana uygun oda tasarla 
+
+2025-07-25 22:58:25,841 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-25 23:36:02,917 - INFO - Gemini Service initialized
+
+2025-07-25 23:36:02,922 - INFO - Starting Deko Assistant AI API...
+
+2025-07-25 23:42:15,398 - WARNING - Validation Error: [{'type': 'missing', 'loc': ('body', 'room_type'), 'msg': 'Field required', 'input': None}, {'type': 'missing', 'loc': ('body', 'design_style'), 'msg': 'Field required', 'input': None}, {'type': 'missing', 'loc': ('body', 'notes'), 'msg': 'Field required', 'input': None}]
+
+2025-07-25 23:51:26,441 - WARNING - Validation Error: [{'type': 'missing', 'loc': ('body', 'room_type'), 'msg': 'Field required', 'input': None}, {'type': 'missing', 'loc': ('body', 'design_style'), 'msg': 'Field required', 'input': None}, {'type': 'missing', 'loc': ('body', 'notes'), 'msg': 'Field required', 'input': None}]
+
+2025-07-25 23:54:17,268 - WARNING - Validation Error: [{'type': 'missing', 'loc': ('body', 'room_type'), 'msg': 'Field required', 'input': None}, {'type': 'missing', 'loc': ('body', 'design_style'), 'msg': 'Field required', 'input': None}, {'type': 'missing', 'loc': ('body', 'notes'), 'msg': 'Field required', 'input': None}]
+
+2025-07-25 23:54:35,678 - WARNING - HTTP Exception: 404 - Not Found
+
+2025-07-25 23:56:04,816 - WARNING - HTTP Exception: 404 - Not Found
+
+2025-07-25 23:56:19,716 - INFO - Design request received:
+
+2025-07-25 23:56:19,716 - INFO - Room Type: salon
+
+2025-07-25 23:56:19,716 - INFO - Design Style: modern
+
+2025-07-25 23:56:19,716 - INFO - Notes: Oda Boyutları: 200cm x 200cm x 20cm (G x U x Y)
+Kullanıcı Notları: .lklşklşlkş
+
+2025-07-25 23:56:19,717 - INFO - Requesting design suggestion from Gemini: salon - modern
+
+2025-07-25 23:56:30,224 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-25 23:56:30,225 - INFO - Design suggestion created successfully: Minimalizm ve Aydınlık Bir Atmosfer
+
+2025-07-25 23:56:52,192 - INFO - Design request received:
+
+2025-07-25 23:56:52,192 - INFO - Room Type: salon
+
+2025-07-25 23:56:52,192 - INFO - Design Style: modern
+
+2025-07-25 23:56:52,192 - INFO - Notes: Oda Boyutları: 200cm x 200cm x 200cm (G x U x Y)
+Kullanıcı Notları: bana şık bir oda oluştur 
+
+2025-07-25 23:56:52,192 - INFO - Requesting design suggestion from Gemini: salon - modern
+
+2025-07-25 23:57:03,445 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-25 23:57:03,446 - INFO - Design suggestion created successfully: Minimalist Çizgilerle Şık Salon
