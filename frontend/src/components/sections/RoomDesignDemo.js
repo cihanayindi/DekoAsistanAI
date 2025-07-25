@@ -13,6 +13,7 @@ const RoomDesignDemo = () => {
     form,
     newBlock,
     result,
+    isLoading,
     handleChange,
     handleExtraChange,
     addBlock,
@@ -40,6 +41,7 @@ const RoomDesignDemo = () => {
           form={form}
           handleChange={handleChange}
           handleSubmit={handleSubmit}
+          isLoading={isLoading}
         />
 
         {/* SECTION 3 - Tasarım Önerisi */}

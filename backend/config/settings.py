@@ -26,7 +26,7 @@ class Settings(BaseSettings):
     PROD_RELOAD: bool = False        # Production'da reload kapalı
 
     # AI API ayarları
-    GEMINI_API_KEY: str
+    GEMINI_API_KEY: str = "test_key_for_development"
     GENERATIVE_MODEL_NAME: str = "gemini-2.5-pro"
     
     @property

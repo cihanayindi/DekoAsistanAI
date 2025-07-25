@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { validateForm, validateBlock, generateDesignSuggestion } from '../utils/roomDesignUtils';
+import { DesignService } from '../services/designService';
 
 /**
  * Oda tasarımı hook'u - Ana business logic
@@ -21,6 +22,7 @@ export const useRoomDesign = () => {
   });
 
   const [result, setResult] = useState(null);
+  const [isLoading, setIsLoading] = useState(false);
 
   // Form değişiklik handler'ı
   const handleChange = (e) => {
@@ -72,8 +74,8 @@ export const useRoomDesign = () => {
     }));
   };
 
-  // Form gönderme
-  const handleSubmit = () => {
+  // Form gönderme - Backend'e istek gönder
+  const handleSubmit = async () => {
     const validation = validateForm(form);
     
     if (!validation.isValid) {
@@ -84,8 +86,37 @@ export const useRoomDesign = () => {
       return;
     }
 
-    const designResult = generateDesignSuggestion(form);
-    setResult(designResult);
+    setIsLoading(true);
+    
+    try {
+      // Backend'e istek gönder
+      const response = await DesignService.submitDesignRequest(form);
+      
+      if (response.success) {
+        // Backend'den gelen veriyi işle
+        const backendResult = {
+          success: true,
+          backendData: response.data,
+          // Şimdilik mock tasarım önerisi de ekleyelim
+          designSuggestion: generateDesignSuggestion(form)
+        };
+        setResult(backendResult);
+        alert('✅ İstek başarıyla backend\'e gönderildi!');
+      } else {
+        throw new Error(response.error);
+      }
+      
+    } catch (error) {
+      console.error('Submit error:', error);
+      alert(`❌ Hata: ${error.message}`);
+      
+      // Hata durumunda fallback olarak lokal tasarım önerisi göster
+      const designResult = generateDesignSuggestion(form);
+      setResult(designResult);
+      
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   return {
@@ -93,6 +124,7 @@ export const useRoomDesign = () => {
     form,
     newBlock,
     result,
+    isLoading,
     
     // Handlers
     handleChange,

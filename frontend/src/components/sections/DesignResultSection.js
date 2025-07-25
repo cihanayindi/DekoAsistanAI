@@ -11,27 +11,77 @@ const DesignResultSection = ({ result }) => {
       <h2 className="text-lg font-semibold mb-3">🎨 Tasarım Önerisi</h2>
       {result ? (
         <div className="space-y-3">
-          <div className="bg-gray-700 p-3 rounded">
-            <p className="text-sm"><strong>🧱 Boyutlar:</strong></p>
-            <p className="text-xs text-gray-300">{result.dimensions}</p>
-          </div>
-          <div className="bg-gray-700 p-3 rounded">
-            <p className="text-sm"><strong>💡 Öneri:</strong></p>
-            <p className="text-xs text-gray-300">{result.suggestion}</p>
-          </div>
-          {result.extras.length > 0 && (
-            <div className="bg-gray-700 p-3 rounded">
-              <p className="text-sm font-medium mb-2">📦 Çıkıntılar:</p>
-              <div className="space-y-1 max-h-40 overflow-y-auto">
-                {result.extras.map((b, i) => (
-                  <ExtraBlock 
-                    key={`result-block-${i}-${b.x}-${b.y}`} 
-                    block={b} 
-                    index={i} 
-                  />
-                ))}
+          {/* Backend Response */}
+          {result.backendData && (
+            <div className="bg-blue-900 border border-blue-600 p-3 rounded">
+              <p className="text-sm font-medium text-blue-200 mb-2">🔌 Backend Yanıtı:</p>
+              <div className="text-xs text-blue-100 space-y-1">
+                <p><strong>Oda Tipi:</strong> {result.backendData.oda_tipi}</p>
+                <p><strong>Tasarım Stili:</strong> {result.backendData.tasarim_stili}</p>
+                <div className="mt-2">
+                  <p><strong>Notlar:</strong></p>
+                  <pre className="text-xs bg-blue-800 p-2 rounded mt-1 whitespace-pre-wrap">
+                    {result.backendData.notlar}
+                  </pre>
+                </div>
               </div>
             </div>
+          )}
+          
+          {/* Design Suggestion */}
+          {result.designSuggestion && (
+            <>
+              <div className="bg-gray-700 p-3 rounded">
+                <p className="text-sm"><strong>🧱 Boyutlar:</strong></p>
+                <p className="text-xs text-gray-300">{result.designSuggestion.dimensions}</p>
+              </div>
+              <div className="bg-gray-700 p-3 rounded">
+                <p className="text-sm"><strong>💡 Öneri:</strong></p>
+                <p className="text-xs text-gray-300">{result.designSuggestion.suggestion}</p>
+              </div>
+              {result.designSuggestion.extras?.length > 0 && (
+                <div className="bg-gray-700 p-3 rounded">
+                  <p className="text-sm font-medium mb-2">📦 Çıkıntılar:</p>
+                  <div className="space-y-1 max-h-40 overflow-y-auto">
+                    {result.designSuggestion.extras.map((b, i) => (
+                      <ExtraBlock 
+                        key={`result-block-${i}-${b.x}-${b.y}`} 
+                        block={b} 
+                        index={i} 
+                      />
+                    ))}
+                  </div>
+                </div>
+              )}
+            </>
+          )}
+          
+          {/* Legacy support */}
+          {!result.designSuggestion && !result.backendData && (
+            <>
+              <div className="bg-gray-700 p-3 rounded">
+                <p className="text-sm"><strong>🧱 Boyutlar:</strong></p>
+                <p className="text-xs text-gray-300">{result.dimensions}</p>
+              </div>
+              <div className="bg-gray-700 p-3 rounded">
+                <p className="text-sm"><strong>💡 Öneri:</strong></p>
+                <p className="text-xs text-gray-300">{result.suggestion}</p>
+              </div>
+              {result.extras?.length > 0 && (
+                <div className="bg-gray-700 p-3 rounded">
+                  <p className="text-sm font-medium mb-2">📦 Çıkıntılar:</p>
+                  <div className="space-y-1 max-h-40 overflow-y-auto">
+                    {result.extras.map((b, i) => (
+                      <ExtraBlock 
+                        key={`result-block-${i}-${b.x}-${b.y}`} 
+                        block={b} 
+                        index={i} 
+                      />
+                    ))}
+                  </div>
+                </div>
+              )}
+            </>
           )}
         </div>
       ) : (

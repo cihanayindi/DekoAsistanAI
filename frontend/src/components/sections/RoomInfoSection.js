@@ -6,8 +6,9 @@ import Tooltip from '../common/Tooltip';
  * @param {Object} form - Form state'i
  * @param {Function} handleChange - Form değişiklik handler'ı
  * @param {Function} handleSubmit - Form gönderme handler'ı
+ * @param {boolean} isLoading - Yükleme durumu
  */
-const RoomInfoSection = ({ form, handleChange, handleSubmit }) => {
+const RoomInfoSection = ({ form, handleChange, handleSubmit, isLoading }) => {
   const isFormValid = form.width && form.length && form.height && form.notes.trim();
 
   return (
@@ -93,11 +94,20 @@ const RoomInfoSection = ({ form, handleChange, handleSubmit }) => {
         <Tooltip text="Tüm bilgileri doldurduktan sonra tasarım önerisi oluşturmak için tıklayın">
           <button 
             onClick={handleSubmit} 
-            className="w-full bg-green-600 hover:bg-green-700 py-2 px-4 rounded-lg font-semibold text-base transition-colors flex items-center justify-center shadow-lg"
-            disabled={!isFormValid}
+            className="w-full bg-green-600 hover:bg-green-700 py-2 px-4 rounded-lg font-semibold text-base transition-colors flex items-center justify-center shadow-lg disabled:bg-gray-600 disabled:cursor-not-allowed"
+            disabled={!isFormValid || isLoading}
           >
-            <span className="mr-2">🎯</span>
-            Tasarım Önerisi Oluştur
+            {isLoading ? (
+              <>
+                <span className="mr-2">⏳</span>
+                Gönderiliyor...
+              </>
+            ) : (
+              <>
+                <span className="mr-2">🎯</span>
+                Tasarım Önerisi Oluştur
+              </>
+            )}
           </button>
         </Tooltip>
         

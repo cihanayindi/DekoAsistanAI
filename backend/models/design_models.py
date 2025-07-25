@@ -1,5 +1,4 @@
 from pydantic import BaseModel, Field
-from typing import Optional
 
 
 class DesignRequestModel(BaseModel):
@@ -13,9 +12,8 @@ class DesignRequestModel(BaseModel):
 
 class DesignResponseModel(BaseModel):
     """
-    Tasarım cevabı için model - gelecekte kullanılacak.
+    Tasarım cevabı için model - fotoğraf özelliği kaldırıldı.
     """
     oda_tipi: str
     tasarim_stili: str
     notlar: str
-    foto_yuklendi: Optional[str] = None
