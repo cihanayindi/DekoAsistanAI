@@ -9,7 +9,18 @@ import Tooltip from '../common/Tooltip';
  * @param {boolean} isLoading - Yükleme durumu
  */
 const RoomInfoSection = ({ form, handleChange, handleSubmit, isLoading }) => {
-  const isFormValid = form.width && form.length && form.height && form.notes.trim();
+  // Boyut sınırları
+  const MAX_HEIGHT = 2000; // 20m
+  const MAX_WIDTH = 5000;  // 50m
+  const MAX_LENGTH = 5000; // 50m
+  
+  // Sınır aşım kontrolü
+  const isHeightOverLimit = form.height && parseInt(form.height) > MAX_HEIGHT;
+  const isWidthOverLimit = form.width && parseInt(form.width) > MAX_WIDTH;
+  const isLengthOverLimit = form.length && parseInt(form.length) > MAX_LENGTH;
+  const hasLimitExceeded = isHeightOverLimit || isWidthOverLimit || isLengthOverLimit;
+  
+  const isFormValid = form.width && form.length && form.height && form.notes?.trim() && !hasLimitExceeded;
 
   return (
     <div className="bg-gray-800 p-3 rounded-lg shadow-lg space-y-3">
@@ -57,23 +68,6 @@ const RoomInfoSection = ({ form, handleChange, handleSubmit, isLoading }) => {
       </div>
 
       <div>
-        <Tooltip text="Odanın yüksekliği (zemin-tavan) cm cinsinden">
-          <label className="block text-sm text-gray-300 mb-1.5 cursor-help">
-            ⬆️ Yükseklik (cm)
-          </label>
-        </Tooltip>
-        <input 
-          name="height" 
-          type="number" 
-          placeholder="250" 
-          className="w-full p-1.5 bg-gray-700 rounded border border-gray-600 focus:border-blue-500 transition-colors" 
-          onChange={handleChange} 
-          value={form.height}
-          min="1"
-        />
-      </div>
-
-      <div>
         <Tooltip text="Özel isteklerinizi, renk tercihlerinizi veya önemli noktaları yazın">
           <label className="block text-sm text-gray-300 mb-1.5 cursor-help">
             📝 Tasarım Notları
@@ -81,7 +75,7 @@ const RoomInfoSection = ({ form, handleChange, handleSubmit, isLoading }) => {
         </Tooltip>
         <textarea 
           name="notes" 
-          rows={6} 
+          rows={8} 
           placeholder="Örnek: Açık renkler, doğal ışık, çocuk güvenliği..." 
           className="w-full p-1.5 rounded bg-gray-700 border border-gray-600 focus:border-blue-500 transition-colors resize-none" 
           value={form.notes} 
@@ -111,9 +105,12 @@ const RoomInfoSection = ({ form, handleChange, handleSubmit, isLoading }) => {
           </button>
         </Tooltip>
         
-        {!isFormValid && (
+        {(!isFormValid || hasLimitExceeded) && (
           <p className="text-xs text-yellow-400 text-center mt-1">
-            ⚠️ Lütfen tüm alanları doldurun
+            {hasLimitExceeded 
+              ? '⚠️ Boyut sınırları aşıldı - lütfen düzeltin'
+              : '⚠️ Lütfen boyutları ve tasarım notlarını doldurun'
+            }
           </p>
         )}
       </div>

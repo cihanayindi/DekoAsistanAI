@@ -10,10 +10,32 @@
 export const validateForm = (form) => {
   const errors = [];
   
-  if (!form.width) errors.push('Oda genişliği gerekli');
-  if (!form.length) errors.push('Oda uzunluğu gerekli');
-  if (!form.height) errors.push('Oda yüksekliği gerekli');
-  if (!form.notes?.trim()) errors.push('Tasarım notları gerekli');
+  // Boyut sınırları
+  const MAX_HEIGHT = 2000; // 20m
+  const MAX_WIDTH = 5000;  // 50m
+  const MAX_LENGTH = 5000; // 50m
+  
+  if (!form.width) {
+    errors.push('Oda genişliği gerekli');
+  } else if (parseInt(form.width) > MAX_WIDTH) {
+    errors.push(`Oda genişliği maksimum ${MAX_WIDTH}cm (50m) olmalıdır`);
+  }
+  
+  if (!form.length) {
+    errors.push('Oda uzunluğu gerekli');
+  } else if (parseInt(form.length) > MAX_LENGTH) {
+    errors.push(`Oda uzunluğu maksimum ${MAX_LENGTH}cm (50m) olmalıdır`);
+  }
+  
+  if (!form.height) {
+    errors.push('Oda yüksekliği gerekli');
+  } else if (parseInt(form.height) > MAX_HEIGHT) {
+    errors.push(`Oda yüksekliği maksimum ${MAX_HEIGHT}cm (20m) olmalıdır`);
+  }
+  
+  if (!form.notes?.trim()) {
+    errors.push('Tasarım notları gerekli');
+  }
   
   return {
     isValid: errors.length === 0,
@@ -31,6 +53,10 @@ export const validateBlock = (block, roomDimensions) => {
   const { width, length, x = 0, y = 0 } = block;
   const { width: roomWidth, length: roomLength } = roomDimensions;
   
+  // Boyut sınırları
+  const MAX_WIDTH = 5000;  // 50m
+  const MAX_LENGTH = 5000; // 50m
+  
   if (!width || !length) {
     return {
       isValid: false,
@@ -43,6 +69,21 @@ export const validateBlock = (block, roomDimensions) => {
   const blockX = parseInt(x) || 0;
   const blockY = parseInt(y) || 0;
   
+  // Çıkıntı boyut sınırları kontrolü
+  if (blockWidth > MAX_WIDTH) {
+    return {
+      isValid: false,
+      error: `❌ Çıkıntı genişliği çok büyük!\n\n📐 Girilen değer: ${blockWidth}cm\n🚫 Maksimum limit: ${MAX_WIDTH}cm (50m)\n\n💡 Çözüm: Daha küçük bir genişlik değeri girin.`
+    };
+  }
+  
+  if (blockLength > MAX_LENGTH) {
+    return {
+      isValid: false,
+      error: `❌ Çıkıntı uzunluğu çok büyük!\n\n📐 Girilen değer: ${blockLength}cm\n🚫 Maksimum limit: ${MAX_LENGTH}cm (50m)\n\n💡 Çözüm: Daha küçük bir uzunluk değeri girin.`
+    };
+  }
+
   if (roomWidth > 0 && roomLength > 0) {
     if (blockX + blockWidth > roomWidth) {
       return {

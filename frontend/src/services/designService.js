@@ -49,19 +49,20 @@ export class DesignService {
     let notes = [];
     
     // Oda boyutları
-    if (formData.width && formData.length) {
-      notes.push(`Oda Boyutları: ${formData.width}m x ${formData.length}m`);
-    }
-    
-    if (formData.height) {
-      notes.push(`Tavan Yüksekliği: ${formData.height}m`);
+    if (formData.width && formData.length && formData.height) {
+      notes.push(`Oda Boyutları: ${formData.width}cm x ${formData.length}cm x ${formData.height}cm (G x U x Y)`);
+    } else if (formData.width && formData.length) {
+      notes.push(`Oda Boyutları: ${formData.width}cm x ${formData.length}cm (Genişlik x Uzunluk)`);
+      if (formData.height) {
+        notes.push(`Tavan Yüksekliği: ${formData.height}cm`);
+      }
     }
 
     // Ekstra alanlar (çıkıntılar)
     if (formData.extras && formData.extras.length > 0) {
       notes.push(`Ekstra Alanlar:`);
       formData.extras.forEach((extra, index) => {
-        notes.push(`  ${index + 1}. ${extra.width}m x ${extra.length}m (Konum: x:${extra.x}, y:${extra.y})`);
+        notes.push(`  ${index + 1}. ${extra.width}cm x ${extra.length}cm (Konum: x:${extra.x}cm, y:${extra.y}cm)`);
       });
     }
 
