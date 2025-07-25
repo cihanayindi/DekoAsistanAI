@@ -14,10 +14,35 @@ class Settings(BaseSettings):
 
     # CORS ayarları
     ALLOWED_ORIGINS: List[str] = ["http://localhost:3000"]
+    
+    # Server ayarları - development vs production
+    ENVIRONMENT: str = "development"  # development, production
+    DEV_HOST: str = "127.0.0.1"      # Development için localhost
+    DEV_PORT: int = 8000
+    DEV_RELOAD: bool = True           # Auto-reload development'da
+    
+    PROD_HOST: str = "0.0.0.0"       # Production için tüm interface'ler
+    PROD_PORT: int = 8000
+    PROD_RELOAD: bool = False        # Production'da reload kapalı
 
     # AI API ayarları
     GEMINI_API_KEY: str
     GENERATIVE_MODEL_NAME: str = "gemini-2.5-pro"
+    
+    @property
+    def host(self) -> str:
+        """Environment'a göre host döndür."""
+        return self.DEV_HOST if self.ENVIRONMENT == "development" else self.PROD_HOST
+    
+    @property
+    def port(self) -> int:
+        """Environment'a göre port döndür."""
+        return self.DEV_PORT if self.ENVIRONMENT == "development" else self.PROD_PORT
+    
+    @property
+    def reload(self) -> bool:
+        """Environment'a göre reload döndür."""
+        return self.DEV_RELOAD if self.ENVIRONMENT == "development" else self.PROD_RELOAD
     
     # Logging ayarları (logging_config.py tarafından kullanılacak)
     LOG_LEVEL: str = "INFO"
