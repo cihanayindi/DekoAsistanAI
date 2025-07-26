@@ -1,0 +1,50 @@
+[
+  {
+    "log_id": "mbl_20250726_181157_33aed2d0",
+    "mood_board_id": "33aed2d0-9bce-4037-9b4e-1a75fe8e57f4",
+    "connection_id": "930b7e16-8e81-4fd6-9975-ba26606cd44d",
+    "timestamp": "2025-07-26T18:11:57.618836",
+    "user_input": {
+      "room_type": "yatak",
+      "design_style": "klasik",
+      "notes": "Oda Boyutları: 300cm x 400cm x 250cm (G x U x Y)\r\nKullanıcı Notları: antik şeyleri severim odam antik bir tarz olsun "
+    },
+    "design_content": {
+      "title": "** Komodinlerin üzerine yerleştirilecek, kumaş başlıklı, pirinç ayaklı abajurlar (Yumuşak ışık sağlar, okuma lambası olarak idealdir).",
+      "description": "Bu tasarım, zamansız klasik stilin zarafetini antik dokunuşlarla birleştiriyor. Derin bordo, krem ve altın tonları, odanıza sıcak ve sofistike bir hava katarken, antika mobilyalar ve aksesuarlar dönemin ruhunu yansıtacak.\n"
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-26T18:11:57.618814",
+      "prompt_used": "Mood board: Classic bedroom. Deep burgundy, cream, gold tones. Antique furniture, brass lamps w/ fabric shades. Soft lighting. High-res.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250726_182636_d067d827",
+    "mood_board_id": "d067d827-704f-4f76-81aa-e720f92c5c4e",
+    "connection_id": "a250fd8a-48d4-4dfb-8056-c8f8a0d62134",
+    "timestamp": "2025-07-26T18:26:36.245214",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "klasik",
+      "notes": "Oda Boyutları: 600cm x 400cm x 500cm (G x U x Y)\r\nKullanıcı Notları: gotik bir tasarıma sahip oda yap  sanki bir gotik krallıktaki bir kral salonu gibi olsun "
+    },
+    "design_content": {
+      "title": "** Gotik Kraliyet Salonu",
+      "description": "Bu tasarım, gotik mimarinin ihtişamını yansıtan, karanlık ve dramatik bir atmosfer yaratmayı amaçlar. Derin bordo, zümrüt yeşili ve altın tonları, mekana asalet ve lüks katacaktır. Ağır, detaylı mobilyalar ve dramatik aydınlatma ile kraliyet salonu havası oluşturulacaktır.\n"
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-26T18:26:36.245185",
+      "prompt_used": "Modern mood board layout, classical living room, gothic design, dark burgundy, emerald green, gold accents, heavy detailed furniture, dramatic lighting, textures, Gothic royal hall, medium resolution, professional interior design.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  }
+]
