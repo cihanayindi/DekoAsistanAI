@@ -1,0 +1,1282 @@
+
+2025-07-26 00:05:05,004 - INFO - Gemini Service initialized
+
+2025-07-26 00:05:05,011 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 00:05:13,180 - INFO - Request received at root endpoint
+
+2025-07-26 00:05:27,645 - INFO - Design request received:
+
+2025-07-26 00:05:27,646 - INFO - Room Type: salon
+
+2025-07-26 00:05:27,646 - INFO - Design Style: modern
+
+2025-07-26 00:05:27,646 - INFO - Notes: Oda Boyutları: 200cm x 200cm x 200cm (G x U x Y)
+Kullanıcı Notları: bana şık bir oda oluştur 
+
+2025-07-26 00:05:27,646 - INFO - Requesting design suggestion from Gemini: salon - modern
+
+2025-07-26 00:05:40,677 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 00:05:40,678 - INFO - Design suggestion created successfully: Minimalist Charm)
+
+2025-07-26 00:05:40,679 - INFO - Design request saved with ID: design_20250726_000540_678
+
+2025-07-26 00:14:09,593 - INFO - Design request received:
+
+2025-07-26 00:14:09,593 - INFO - Room Type: salon
+
+2025-07-26 00:14:09,593 - INFO - Design Style: modern
+
+2025-07-26 00:14:09,593 - INFO - Notes: Oda Boyutları: 200cm x 200cm x 200cm (G x U x Y)
+Kullanıcı Notları: bana şık bir oda oluştur 
+
+2025-07-26 00:14:09,593 - INFO - Requesting design suggestion from Gemini: salon - modern
+
+2025-07-26 00:14:20,679 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 00:14:20,679 - INFO - Design suggestion created successfully: Modern Salon Tasarımı
+
+2025-07-26 00:14:20,681 - INFO - Design request saved with ID: design_20250726_001420_679
+
+2025-07-26 00:14:46,307 - INFO - Design request received:
+
+2025-07-26 00:14:46,308 - INFO - Room Type: salon
+
+2025-07-26 00:14:46,308 - INFO - Design Style: modern
+
+2025-07-26 00:14:46,308 - INFO - Notes: Oda Boyutları: 200cm x 200cm x 200cm (G x U x Y)
+Kullanıcı Notları: bana şık bir oda oluştur 
+
+2025-07-26 00:14:46,308 - INFO - Requesting design suggestion from Gemini: salon - modern
+
+2025-07-26 00:14:58,536 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 00:14:58,536 - INFO - Design suggestion created successfully: Küp Salon İçin Şık Bir Tasarım
+
+2025-07-26 00:14:58,549 - INFO - Design request saved with ID: design_20250726_001458_536
+
+2025-07-26 00:17:38,859 - INFO - Design request received:
+
+2025-07-26 00:17:38,859 - INFO - Room Type: salon
+
+2025-07-26 00:17:38,859 - INFO - Design Style: modern
+
+2025-07-26 00:17:38,859 - INFO - Notes: Oda Boyutları: 200cm x 200cm x 200cm (G x U x Y)
+Kullanıcı Notları: bana şık bir oda oluştur 
+
+2025-07-26 00:17:38,859 - INFO - Requesting design suggestion from Gemini: salon - modern
+
+2025-07-26 00:17:49,813 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 00:17:49,813 - INFO - Design suggestion created successfully: Küçük Salon İçin Şık Bir Dönüşüm
+
+2025-07-26 00:17:49,815 - INFO - Design request saved with ID: design_20250726_001749_813
+
+2025-07-26 00:18:46,843 - INFO - Design request received:
+
+2025-07-26 00:18:46,844 - INFO - Room Type: salon
+
+2025-07-26 00:18:46,844 - INFO - Design Style: modern
+
+2025-07-26 00:18:46,844 - INFO - Notes: Oda Boyutları: 200cm x 198cm x 250cm (G x U x Y)
+Kullanıcı Notları: modern bir oda oluştur
+
+2025-07-26 00:18:46,844 - INFO - Requesting design suggestion from Gemini: salon - modern
+
+2025-07-26 00:18:57,794 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 00:18:57,794 - INFO - Design suggestion created successfully: Modern ve Ferah Bir Mekan
+
+2025-07-26 00:18:57,796 - INFO - Design request saved with ID: design_20250726_001857_794
+
+2025-07-26 00:20:53,468 - INFO - Design request received:
+
+2025-07-26 00:20:53,468 - INFO - Room Type: salon
+
+2025-07-26 00:20:53,468 - INFO - Design Style: modern
+
+2025-07-26 00:20:53,468 - INFO - Notes: Oda Boyutları: 200cm x 198cm x 250cm (G x U x Y)
+Kullanıcı Notları: modern bir oda oluştur
+
+2025-07-26 00:20:53,468 - INFO - Requesting design suggestion from Gemini: salon - modern
+
+2025-07-26 00:21:04,354 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 00:21:04,355 - INFO - Design suggestion created successfully: Küçük Alanlara Büyük Modernlik"
+
+2025-07-26 00:21:04,357 - INFO - Design request saved with ID: design_20250726_002104_355
+
+2025-07-26 00:22:51,508 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 00:22:54,772 - INFO - Gemini Service initialized
+
+2025-07-26 00:22:54,780 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 00:23:21,636 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 00:23:22,863 - INFO - Gemini Service initialized
+
+2025-07-26 00:23:22,870 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 00:25:30,006 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 00:25:31,269 - INFO - Gemini Service initialized
+
+2025-07-26 00:25:31,276 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 00:25:42,566 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 00:25:43,945 - INFO - Gemini Service initialized
+
+2025-07-26 00:25:43,952 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 00:25:55,023 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 00:25:56,242 - INFO - Gemini Service initialized
+
+2025-07-26 00:25:56,250 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 00:26:05,273 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 00:26:06,610 - INFO - Gemini Service initialized
+
+2025-07-26 00:26:06,618 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 00:26:15,626 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 00:26:16,930 - INFO - Gemini Service initialized
+
+2025-07-26 00:26:16,937 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 00:26:34,335 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 00:26:35,576 - INFO - Gemini Service initialized
+
+2025-07-26 00:26:35,582 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 00:27:31,228 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 00:27:32,517 - INFO - Gemini Service initialized
+
+2025-07-26 00:27:32,524 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 00:28:53,917 - INFO - Design request received:
+
+2025-07-26 00:28:53,917 - INFO - Room Type: yatak
+
+2025-07-26 00:28:53,917 - INFO - Design Style: modern
+
+2025-07-26 00:28:53,918 - INFO - Notes: Oda Boyutları: 400cm x 500cm x 200cm (G x U x Y)
+Kullanıcı Notları: Ben bir ünivesite öğrencisiyim ve witcher hayranıyım bunu göz önünde bulundurarak bana güzel bir oda tasarımı oluşturmanı istiyorum 
+
+2025-07-26 00:28:53,918 - INFO - Requesting design suggestion from Gemini: yatak - modern
+
+2025-07-26 00:29:00,358 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 00:29:00,358 - INFO - Design suggestion created successfully: ** Witcher Esintili Modern Üniversite Yurdu
+
+2025-07-26 00:29:00,360 - INFO - Design request saved with ID: design_20250726_002900_358
+
+2025-07-26 01:06:30,302 - INFO - Gemini Service initialized
+
+2025-07-26 01:06:30,318 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 01:06:51,119 - INFO - Design request received:
+
+2025-07-26 01:06:51,120 - INFO - Room Type: yatak
+
+2025-07-26 01:06:51,120 - INFO - Design Style: modern
+
+2025-07-26 01:06:51,120 - INFO - Notes: Oda Boyutları: 400cm x 500cm x 200cm (G x U x Y)
+Ekstra Alanlar:
+  1. 50cm x 50cm (Konum: x:250cm, y:0cm)
+  2. 50cm x 60cm (Konum: x:0cm, y:0cm)
+  3. 0cm x 100cm (Konum: x:0cm, y:250cm)
+  4. 200cm x 200cm (Konum: x:100cm, y:100cm)
+Kullanıcı Notları: Ben bir ünivesite öğrencisiyim ve witcher hayranıyım bunu göz önünde bulundurarak bana güzel bir oda tasarımı oluşturmanı istiyorum 
+
+2025-07-26 01:06:51,121 - INFO - Requesting design suggestion from Gemini: yatak - modern
+
+2025-07-26 01:06:57,630 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 01:06:57,630 - INFO - Design suggestion created successfully: ** Witcher Evreninden Modern Üniversite Yurdu
+
+2025-07-26 01:06:57,633 - INFO - Design request saved with ID: design_20250726_010657_630
+
+2025-07-26 13:49:32,961 - INFO - Gemini Service initialized
+
+2025-07-26 13:49:32,968 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 13:49:48,753 - INFO - Design request received:
+
+2025-07-26 13:49:48,754 - INFO - Room Type: salon
+
+2025-07-26 13:49:48,754 - INFO - Design Style: modern
+
+2025-07-26 13:49:48,754 - INFO - Notes: test
+
+2025-07-26 13:49:48,754 - INFO - Requesting design suggestion from Gemini: salon - modern
+
+2025-07-26 13:49:53,911 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 13:49:53,911 - INFO - Design suggestion created successfully: ** Minimal Şıklıkla Modern Salon
+
+2025-07-26 13:49:53,924 - INFO - Design request saved with ID: design_20250726_134953_911
+
+2025-07-26 15:46:40,428 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 15:46:45,107 - INFO - Gemini Service initialized
+
+2025-07-26 15:46:45,113 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:31:53,481 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:31:53,483 - INFO - Gemini Service initialized
+
+2025-07-26 16:31:53,485 - INFO - Gemini Service initialized
+
+2025-07-26 16:31:53,485 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:31:54,622 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:31:54,624 - INFO - Gemini Service initialized
+
+2025-07-26 16:31:54,626 - INFO - Gemini Service initialized
+
+2025-07-26 16:31:54,626 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:31:54,764 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:33:34,822 - INFO - Client client_opg4qw59h_1753536814499 connected. Total connections: 1
+
+2025-07-26 16:34:03,140 - INFO - Design request received:
+
+2025-07-26 16:34:03,141 - INFO - Room Type: salon
+
+2025-07-26 16:34:03,141 - INFO - Design Style: modern
+
+2025-07-26 16:34:03,141 - INFO - Notes: bu bir erkek evinin salonu eğlenceli ama koyu tema olsun çok temizlik yapmıyor
+
+2025-07-26 16:34:03,141 - INFO - Client ID: client_opg4qw59h_1753536814499
+
+2025-07-26 16:34:03,141 - INFO - Requesting design suggestion from Gemini: salon - modern
+
+2025-07-26 16:34:09,275 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 16:34:09,276 - INFO - Design suggestion created successfully: Koyu ve Eğlenceli"
+
+2025-07-26 16:34:09,285 - INFO - Design request saved with ID: design_20250726_163409_277
+
+2025-07-26 16:34:09,285 - INFO - Starting mood board generation for client: client_opg4qw59h_1753536814499
+
+2025-07-26 16:34:09,289 - INFO - Starting async mood board generation for client: client_opg4qw59h_1753536814499
+
+2025-07-26 16:34:09,290 - INFO - Starting mood board generation for: Koyu ve Eğlenceli"
+
+2025-07-26 16:34:11,301 - INFO - Mood board generated successfully
+
+2025-07-26 16:34:11,302 - INFO - Mood board generation completed for client: client_opg4qw59h_1753536814499
+
+2025-07-26 16:34:13,912 - INFO - Client client_opg4qw59h_1753536814499 disconnected. Total connections: 0
+
+2025-07-26 16:34:13,912 - INFO - WebSocket client client_opg4qw59h_1753536814499 disconnected
+
+2025-07-26 16:34:14,021 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:34:17,325 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:34:17,326 - INFO - Gemini Service initialized
+
+2025-07-26 16:34:17,328 - INFO - Gemini Service initialized
+
+2025-07-26 16:34:17,328 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:34:17,413 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:36:26,094 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:36:27,505 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:36:27,507 - INFO - Gemini Service initialized
+
+2025-07-26 16:36:27,509 - INFO - Gemini Service initialized
+
+2025-07-26 16:36:27,509 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:36:27,591 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:36:34,017 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:36:35,302 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:36:35,304 - INFO - Gemini Service initialized
+
+2025-07-26 16:36:35,306 - INFO - Gemini Service initialized
+
+2025-07-26 16:36:35,306 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:36:35,389 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:36:39,499 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:36:40,785 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:36:40,787 - INFO - Gemini Service initialized
+
+2025-07-26 16:36:40,788 - INFO - Gemini Service initialized
+
+2025-07-26 16:36:40,788 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:36:40,868 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:36:45,529 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:36:46,777 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:36:46,779 - INFO - Gemini Service initialized
+
+2025-07-26 16:36:46,781 - INFO - Gemini Service initialized
+
+2025-07-26 16:36:46,781 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:36:46,876 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:36:52,079 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:36:53,396 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:36:53,398 - INFO - Gemini Service initialized
+
+2025-07-26 16:36:53,399 - INFO - Gemini Service initialized
+
+2025-07-26 16:36:53,399 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:36:53,480 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:37:02,861 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:37:04,155 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:37:04,157 - INFO - Gemini Service initialized
+
+2025-07-26 16:37:04,159 - INFO - Gemini Service initialized
+
+2025-07-26 16:37:04,159 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:37:04,249 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:37:09,885 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:37:11,203 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:37:11,205 - INFO - Gemini Service initialized
+
+2025-07-26 16:37:11,207 - INFO - Gemini Service initialized
+
+2025-07-26 16:37:11,207 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:37:11,299 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:37:17,943 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:37:19,250 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:37:19,252 - INFO - Gemini Service initialized
+
+2025-07-26 16:37:19,254 - INFO - Gemini Service initialized
+
+2025-07-26 16:37:19,254 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:37:19,334 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:37:29,705 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:37:31,029 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:37:31,031 - INFO - Gemini Service initialized
+
+2025-07-26 16:37:31,033 - INFO - Gemini Service initialized
+
+2025-07-26 16:37:31,033 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:37:31,033 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:37:31,116 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:37:44,808 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:37:46,099 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:37:46,101 - INFO - Gemini Service initialized
+
+2025-07-26 16:37:46,103 - INFO - Gemini Service initialized
+
+2025-07-26 16:37:46,104 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:37:46,104 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:37:46,186 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:38:23,175 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:38:24,573 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:38:24,575 - INFO - Gemini Service initialized
+
+2025-07-26 16:38:24,576 - INFO - Gemini Service initialized
+
+2025-07-26 16:38:24,577 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:38:24,577 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:38:24,660 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:38:31,301 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:38:32,624 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:38:32,626 - INFO - Gemini Service initialized
+
+2025-07-26 16:38:32,628 - INFO - Gemini Service initialized
+
+2025-07-26 16:38:32,628 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:38:32,628 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:38:32,628 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:38:32,709 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:39:09,710 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:39:11,144 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:39:11,146 - INFO - Gemini Service initialized
+
+2025-07-26 16:39:11,148 - INFO - Gemini Service initialized
+
+2025-07-26 16:39:11,148 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:39:11,148 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:39:11,148 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:39:11,235 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:39:23,551 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:39:23,553 - INFO - Gemini Service initialized
+
+2025-07-26 16:39:23,555 - INFO - Gemini Service initialized
+
+2025-07-26 16:39:23,555 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:39:23,555 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:39:23,555 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:39:24,708 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:39:24,710 - INFO - Gemini Service initialized
+
+2025-07-26 16:39:24,712 - INFO - Gemini Service initialized
+
+2025-07-26 16:39:24,712 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:39:24,713 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:39:24,713 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:39:24,806 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:39:44,875 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:39:44,891 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:39:46,451 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:39:46,451 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:39:46,453 - INFO - Gemini Service initialized
+
+2025-07-26 16:39:46,453 - INFO - Gemini Service initialized
+
+2025-07-26 16:39:46,455 - INFO - Gemini Service initialized
+
+2025-07-26 16:39:46,455 - INFO - Gemini Service initialized
+
+2025-07-26 16:39:46,455 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:39:46,455 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:39:46,455 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:39:46,455 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:39:46,455 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:39:46,545 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:39:46,545 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:40:11,856 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:40:11,861 - INFO - Gemini Service initialized
+
+2025-07-26 16:40:11,863 - INFO - Gemini Service initialized
+
+2025-07-26 16:40:11,864 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:40:11,864 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:40:11,864 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:40:13,387 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:40:13,390 - INFO - Gemini Service initialized
+
+2025-07-26 16:40:13,392 - INFO - Gemini Service initialized
+
+2025-07-26 16:40:13,392 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:40:13,392 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:40:13,392 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:40:13,500 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:40:24,169 - INFO - Request received at root endpoint
+
+2025-07-26 16:40:24,214 - WARNING - HTTP Exception: 404 - Not Found
+
+2025-07-26 16:40:27,162 - WARNING - HTTP Exception: 404 - Not Found
+
+2025-07-26 16:40:29,478 - WARNING - HTTP Exception: 404 - Not Found
+
+2025-07-26 16:40:31,799 - WARNING - HTTP Exception: 404 - Not Found
+
+2025-07-26 16:40:34,118 - WARNING - HTTP Exception: 404 - Not Found
+
+2025-07-26 16:40:36,450 - WARNING - HTTP Exception: 404 - Not Found
+
+2025-07-26 16:40:38,796 - WARNING - HTTP Exception: 404 - Not Found
+
+2025-07-26 16:40:43,682 - INFO - Design request received:
+
+2025-07-26 16:40:43,683 - INFO - Room Type: yatak
+
+2025-07-26 16:40:43,683 - INFO - Design Style: rustik
+
+2025-07-26 16:40:43,683 - INFO - Notes: gotik bir kızım bana oda oluştur 
+
+2025-07-26 16:40:43,683 - INFO - Client ID: client_62niatfqz_1753537226845
+
+2025-07-26 16:40:43,683 - INFO - Requesting design suggestion from Gemini: yatak - rustik
+
+2025-07-26 16:40:49,538 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 16:40:49,538 - INFO - Design suggestion created successfully: ** Gotik Dokunuşlu Rustik Kız Odası
+
+2025-07-26 16:40:49,544 - INFO - Design request saved with ID: design_20250726_164049_539
+
+2025-07-26 16:41:12,926 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:41:29,824 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:41:29,826 - INFO - Gemini Service initialized
+
+2025-07-26 16:41:29,828 - INFO - Gemini Service initialized
+
+2025-07-26 16:41:29,828 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:41:29,828 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:41:29,828 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:41:29,840 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:41:34,453 - INFO - Design request received:
+
+2025-07-26 16:41:34,454 - INFO - Room Type: yatak
+
+2025-07-26 16:41:34,454 - INFO - Design Style: rustik
+
+2025-07-26 16:41:34,454 - INFO - Notes: gotik bir kızım bana oda oluştur 
+
+2025-07-26 16:41:34,454 - INFO - Client ID: client_62niatfqz_1753537226845
+
+2025-07-26 16:41:34,454 - INFO - Requesting design suggestion from Gemini: yatak - rustik
+
+2025-07-26 16:41:40,453 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 16:41:40,454 - INFO - Design suggestion created successfully: ** Gotik Dokunuşlu Rustik Kız Odası
+
+2025-07-26 16:41:40,461 - INFO - Design request saved with ID: design_20250726_164140_454
+
+2025-07-26 16:55:52,162 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:55:55,531 - INFO - WebSocket Manager initialized
+
+2025-07-26 16:55:55,533 - INFO - Gemini Service initialized
+
+2025-07-26 16:55:55,534 - INFO - Gemini Service initialized
+
+2025-07-26 16:55:55,535 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:55:55,535 - INFO - MoodBoard Service initialized
+
+2025-07-26 16:55:55,535 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 16:55:55,550 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 16:56:08,032 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 16:59:42,702 - INFO - WebSocket Manager initialized
+
+2025-07-26 17:00:03,161 - INFO - WebSocket Manager initialized
+
+2025-07-26 17:00:03,163 - INFO - Gemini Service initialized
+
+2025-07-26 17:00:03,164 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 17:00:03,164 - INFO - MoodBoard Service initialized with image generation capabilities
+
+2025-07-26 17:00:03,164 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 17:00:42,630 - INFO - WebSocket Manager initialized
+
+2025-07-26 17:00:42,634 - INFO - Gemini Service initialized
+
+2025-07-26 17:00:42,635 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 17:00:42,635 - INFO - MoodBoard Service initialized with image generation capabilities
+
+2025-07-26 17:00:42,635 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 17:01:06,356 - INFO - WebSocket Manager initialized
+
+2025-07-26 17:01:06,358 - INFO - Gemini Service initialized
+
+2025-07-26 17:01:06,359 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 17:01:06,359 - INFO - MoodBoard Service initialized with image generation capabilities
+
+2025-07-26 17:01:06,359 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 17:01:07,490 - INFO - WebSocket Manager initialized
+
+2025-07-26 17:01:07,492 - INFO - Gemini Service initialized
+
+2025-07-26 17:01:07,492 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 17:01:07,493 - INFO - MoodBoard Service initialized with image generation capabilities
+
+2025-07-26 17:01:07,493 - INFO - MoodBoard Log Service initialized
+
+2025-07-26 17:01:07,584 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 17:31:24,413 - INFO - WebSocket Manager initialized
+
+2025-07-26 17:31:24,418 - INFO - Created mood board log file: data/mood_board_history.json
+
+2025-07-26 17:31:24,418 - INFO - Mood Board Log Service initialized
+
+2025-07-26 17:31:24,420 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 17:31:24,422 - INFO - Gemini Service initialized
+
+2025-07-26 17:31:27,352 - INFO - WebSocket Manager initialized
+
+2025-07-26 17:31:27,353 - INFO - Mood Board Log Service initialized
+
+2025-07-26 17:31:27,355 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 17:31:27,357 - INFO - Gemini Service initialized
+
+2025-07-26 17:31:27,449 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 17:37:30,620 - INFO - Design request received:
+
+2025-07-26 17:37:30,621 - INFO - Room Type: çocuk
+
+2025-07-26 17:37:30,621 - INFO - Design Style: modern
+
+2025-07-26 17:37:30,621 - INFO - Notes: Oda Boyutları: 200cm x 200cm x 200cm (G x U x Y)
+Kullanıcı Notları: bebeğim için bu odayı dizayn etmeni istiyorum 
+
+2025-07-26 17:37:30,621 - INFO - Requesting design suggestion from Gemini: çocuk - modern
+
+2025-07-26 17:37:37,430 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 17:37:37,431 - INFO - Design suggestion created successfully: Bebek Odası
+
+2025-07-26 17:37:37,437 - INFO - Design request saved with ID: design_20250726_173737_431
+
+2025-07-26 18:09:54,820 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:09:54,822 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:09:54,824 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:09:54,825 - INFO - Gemini Service initialized
+
+2025-07-26 18:09:54,839 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:09:58,734 - INFO - New WebSocket connection established: 5a30b635-8b1f-457b-9d0b-722ef2a1a859
+
+2025-07-26 18:10:02,379 - INFO - New WebSocket connection established: c6b29691-318b-4a73-abc6-809e7e53d854
+
+2025-07-26 18:10:04,556 - INFO - WebSocket connection disconnected: 5a30b635-8b1f-457b-9d0b-722ef2a1a859
+
+2025-07-26 18:10:04,557 - INFO - WebSocket connection removed: 5a30b635-8b1f-457b-9d0b-722ef2a1a859
+
+2025-07-26 18:10:04,557 - INFO - WebSocket connection disconnected: c6b29691-318b-4a73-abc6-809e7e53d854
+
+2025-07-26 18:10:04,557 - INFO - WebSocket connection removed: c6b29691-318b-4a73-abc6-809e7e53d854
+
+2025-07-26 18:10:05,982 - INFO - New WebSocket connection established: ef223509-1fa7-47fd-b34e-fec7fbc904aa
+
+2025-07-26 18:10:08,485 - INFO - New WebSocket connection established: 930b7e16-8e81-4fd6-9975-ba26606cd44d
+
+2025-07-26 18:11:47,445 - INFO - Design request received:
+
+2025-07-26 18:11:47,446 - INFO - Room Type: yatak
+
+2025-07-26 18:11:47,446 - INFO - Design Style: klasik
+
+2025-07-26 18:11:47,447 - INFO - Notes: Oda Boyutları: 300cm x 400cm x 250cm (G x U x Y)
+Kullanıcı Notları: antik şeyleri severim odam antik bir tarz olsun 
+
+2025-07-26 18:11:47,448 - INFO - Requesting design suggestion from Gemini: yatak - klasik
+
+2025-07-26 18:11:54,652 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 18:11:54,653 - INFO - Design suggestion created successfully: ** Komodinlerin üzerine yerleştirilecek, kumaş başlıklı, pirinç ayaklı abajurlar (Yumuşak ışık sağlar, okuma lambası olarak idealdir).
+
+2025-07-26 18:11:54,653 - INFO - Starting mood board generation for connection: 930b7e16-8e81-4fd6-9975-ba26606cd44d
+
+2025-07-26 18:11:54,656 - INFO - Design request saved with ID: design_20250726_181154_653
+
+2025-07-26 18:11:54,661 - INFO - Mood board progress updated for 930b7e16-8e81-4fd6-9975-ba26606cd44d: preparing_prompt
+
+2025-07-26 18:11:55,607 - INFO - Enhanced Imagen prompt created: Mood board: Classic bedroom. Deep burgundy, cream, gold tones. Antique furniture, brass lamps w/ fab...
+
+2025-07-26 18:11:55,607 - INFO - Mood board progress updated for 930b7e16-8e81-4fd6-9975-ba26606cd44d: optimizing_prompt
+
+2025-07-26 18:11:55,608 - INFO - Mood board progress updated for 930b7e16-8e81-4fd6-9975-ba26606cd44d: generating_image
+
+2025-07-26 18:11:57,617 - INFO - Imagen 4 image generated successfully (placeholder - replace with actual API)
+
+2025-07-26 18:11:57,617 - INFO - Mood board progress updated for 930b7e16-8e81-4fd6-9975-ba26606cd44d: processing_image
+
+2025-07-26 18:11:57,618 - INFO - Mood board progress updated for 930b7e16-8e81-4fd6-9975-ba26606cd44d: finalizing
+
+2025-07-26 18:11:57,618 - INFO - Mood board progress updated for 930b7e16-8e81-4fd6-9975-ba26606cd44d: completed
+
+2025-07-26 18:11:57,618 - INFO - Mood board completed and sent to 930b7e16-8e81-4fd6-9975-ba26606cd44d
+
+2025-07-26 18:11:57,619 - INFO - Mood board log saved: mbl_20250726_181157_33aed2d0
+
+2025-07-26 18:11:57,620 - INFO - Mood board generated successfully: 33aed2d0-9bce-4037-9b4e-1a75fe8e57f4
+
+2025-07-26 18:16:51,255 - INFO - WebSocket connection disconnected: ef223509-1fa7-47fd-b34e-fec7fbc904aa
+
+2025-07-26 18:16:51,255 - INFO - WebSocket connection removed: ef223509-1fa7-47fd-b34e-fec7fbc904aa
+
+2025-07-26 18:16:51,256 - INFO - WebSocket connection disconnected: 930b7e16-8e81-4fd6-9975-ba26606cd44d
+
+2025-07-26 18:16:51,256 - INFO - WebSocket connection removed: 930b7e16-8e81-4fd6-9975-ba26606cd44d
+
+2025-07-26 18:16:51,362 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:16:57,169 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:16:57,171 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:16:57,173 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:16:57,175 - INFO - Gemini Service initialized
+
+2025-07-26 18:16:57,188 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:16:57,251 - INFO - New WebSocket connection established: 19ccc3fa-6851-4f17-bd8a-fa3018836486
+
+2025-07-26 18:16:57,266 - INFO - New WebSocket connection established: bb2dec57-908d-4704-bcad-b3b9987b8b0f
+
+2025-07-26 18:16:57,687 - INFO - WebSocket connection disconnected: 19ccc3fa-6851-4f17-bd8a-fa3018836486
+
+2025-07-26 18:16:57,687 - INFO - WebSocket connection removed: 19ccc3fa-6851-4f17-bd8a-fa3018836486
+
+2025-07-26 18:16:57,688 - INFO - WebSocket connection disconnected: bb2dec57-908d-4704-bcad-b3b9987b8b0f
+
+2025-07-26 18:16:57,688 - INFO - WebSocket connection removed: bb2dec57-908d-4704-bcad-b3b9987b8b0f
+
+2025-07-26 18:16:57,796 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:17:01,337 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:17:01,338 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:17:01,340 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:17:01,342 - INFO - Gemini Service initialized
+
+2025-07-26 18:17:01,352 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:17:01,416 - INFO - New WebSocket connection established: 913ab669-8269-44e7-b676-cbd7e7173b2c
+
+2025-07-26 18:17:01,443 - INFO - New WebSocket connection established: f6a4f7ad-f89f-450c-a95a-c6e9c7dfc609
+
+2025-07-26 18:17:08,871 - INFO - WebSocket connection disconnected: 913ab669-8269-44e7-b676-cbd7e7173b2c
+
+2025-07-26 18:17:08,872 - INFO - WebSocket connection removed: 913ab669-8269-44e7-b676-cbd7e7173b2c
+
+2025-07-26 18:17:08,873 - INFO - WebSocket connection disconnected: f6a4f7ad-f89f-450c-a95a-c6e9c7dfc609
+
+2025-07-26 18:17:08,873 - INFO - WebSocket connection removed: f6a4f7ad-f89f-450c-a95a-c6e9c7dfc609
+
+2025-07-26 18:17:08,979 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:17:12,385 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:17:12,386 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:17:12,388 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:17:12,390 - INFO - Gemini Service initialized
+
+2025-07-26 18:17:12,399 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:17:12,440 - INFO - New WebSocket connection established: 5b2588d6-9a7f-484a-b1f4-ebff15ade826
+
+2025-07-26 18:17:12,453 - INFO - New WebSocket connection established: 7527065c-25c0-4ece-b579-91a9917eb199
+
+2025-07-26 18:18:07,364 - INFO - WebSocket connection disconnected: 5b2588d6-9a7f-484a-b1f4-ebff15ade826
+
+2025-07-26 18:18:07,364 - INFO - WebSocket connection removed: 5b2588d6-9a7f-484a-b1f4-ebff15ade826
+
+2025-07-26 18:18:07,364 - INFO - WebSocket connection disconnected: 7527065c-25c0-4ece-b579-91a9917eb199
+
+2025-07-26 18:18:07,364 - INFO - WebSocket connection removed: 7527065c-25c0-4ece-b579-91a9917eb199
+
+2025-07-26 18:18:07,474 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:18:10,795 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:18:10,797 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:18:10,799 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:18:10,801 - INFO - Gemini Service initialized
+
+2025-07-26 18:18:10,811 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:18:10,854 - INFO - New WebSocket connection established: d2c518dd-f474-44bd-b87b-d1958c316977
+
+2025-07-26 18:18:10,881 - INFO - New WebSocket connection established: ec3ce3d4-31f9-4297-ba38-11a4a7c0d97b
+
+2025-07-26 18:18:18,293 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:18:18,294 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:18:18,296 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:18:18,297 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:18:19,387 - INFO - Enhanced Imagen prompt created: Modern yatak odası mood board. Clean composition, modern design. Specific colors, materials, furnitu...
+
+2025-07-26 18:21:52,900 - INFO - WebSocket connection disconnected: d2c518dd-f474-44bd-b87b-d1958c316977
+
+2025-07-26 18:21:52,900 - INFO - WebSocket connection removed: d2c518dd-f474-44bd-b87b-d1958c316977
+
+2025-07-26 18:21:52,901 - INFO - WebSocket connection disconnected: ec3ce3d4-31f9-4297-ba38-11a4a7c0d97b
+
+2025-07-26 18:21:52,901 - INFO - WebSocket connection removed: ec3ce3d4-31f9-4297-ba38-11a4a7c0d97b
+
+2025-07-26 18:21:53,009 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:21:57,168 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:21:57,170 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:21:57,172 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:21:57,173 - INFO - Gemini Service initialized
+
+2025-07-26 18:21:57,182 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:21:57,224 - INFO - New WebSocket connection established: 9ac4f68f-faf8-460c-a3d0-8f1d84012b5e
+
+2025-07-26 18:21:57,250 - INFO - New WebSocket connection established: 9f03da81-fd40-4f85-84d0-40b3fc1ec3ba
+
+2025-07-26 18:22:02,731 - INFO - WebSocket connection disconnected: 9ac4f68f-faf8-460c-a3d0-8f1d84012b5e
+
+2025-07-26 18:22:02,731 - INFO - WebSocket connection removed: 9ac4f68f-faf8-460c-a3d0-8f1d84012b5e
+
+2025-07-26 18:22:02,731 - INFO - WebSocket connection disconnected: 9f03da81-fd40-4f85-84d0-40b3fc1ec3ba
+
+2025-07-26 18:22:02,731 - INFO - WebSocket connection removed: 9f03da81-fd40-4f85-84d0-40b3fc1ec3ba
+
+2025-07-26 18:22:02,840 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:22:06,120 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:22:06,121 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:22:06,123 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:22:06,125 - INFO - Gemini Service initialized
+
+2025-07-26 18:22:06,133 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:22:06,404 - INFO - New WebSocket connection established: 0120aedb-3e9a-49ec-b7d8-d00317212ec7
+
+2025-07-26 18:22:06,419 - INFO - New WebSocket connection established: a2f7386c-6fdf-4f00-b685-656e3cb65086
+
+2025-07-26 18:22:10,907 - INFO - WebSocket connection disconnected: 0120aedb-3e9a-49ec-b7d8-d00317212ec7
+
+2025-07-26 18:22:10,908 - INFO - WebSocket connection removed: 0120aedb-3e9a-49ec-b7d8-d00317212ec7
+
+2025-07-26 18:22:10,909 - INFO - WebSocket connection disconnected: a2f7386c-6fdf-4f00-b685-656e3cb65086
+
+2025-07-26 18:22:10,909 - INFO - WebSocket connection removed: a2f7386c-6fdf-4f00-b685-656e3cb65086
+
+2025-07-26 18:22:11,015 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:22:14,432 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:22:14,433 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:22:14,435 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:22:14,437 - INFO - Gemini Service initialized
+
+2025-07-26 18:22:14,446 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:22:14,486 - INFO - New WebSocket connection established: d8cc10c3-bae7-40b7-a970-ff29d1051b47
+
+2025-07-26 18:22:14,511 - INFO - New WebSocket connection established: e767d4a7-4b93-4914-9a79-0dec52ba2440
+
+2025-07-26 18:22:18,459 - INFO - WebSocket connection disconnected: d8cc10c3-bae7-40b7-a970-ff29d1051b47
+
+2025-07-26 18:22:18,459 - INFO - WebSocket connection removed: d8cc10c3-bae7-40b7-a970-ff29d1051b47
+
+2025-07-26 18:22:18,459 - INFO - WebSocket connection disconnected: e767d4a7-4b93-4914-9a79-0dec52ba2440
+
+2025-07-26 18:22:18,459 - INFO - WebSocket connection removed: e767d4a7-4b93-4914-9a79-0dec52ba2440
+
+2025-07-26 18:22:18,569 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:22:21,858 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:22:21,859 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:22:21,861 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:22:21,863 - INFO - Gemini Service initialized
+
+2025-07-26 18:22:21,872 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:22:22,408 - INFO - New WebSocket connection established: 6fb37d50-2b31-4ec2-810a-eb6baf53581b
+
+2025-07-26 18:22:22,424 - INFO - New WebSocket connection established: 6eecdc73-c355-437c-8fbf-d89c7d1e254c
+
+2025-07-26 18:22:27,414 - INFO - WebSocket connection disconnected: 6fb37d50-2b31-4ec2-810a-eb6baf53581b
+
+2025-07-26 18:22:27,414 - INFO - WebSocket connection removed: 6fb37d50-2b31-4ec2-810a-eb6baf53581b
+
+2025-07-26 18:22:27,414 - INFO - WebSocket connection disconnected: 6eecdc73-c355-437c-8fbf-d89c7d1e254c
+
+2025-07-26 18:22:27,414 - INFO - WebSocket connection removed: 6eecdc73-c355-437c-8fbf-d89c7d1e254c
+
+2025-07-26 18:22:27,523 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:22:30,841 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:22:30,842 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:22:30,845 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:22:30,846 - INFO - Gemini Service initialized
+
+2025-07-26 18:22:30,855 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:22:31,404 - INFO - New WebSocket connection established: 2184cc59-59be-485c-b85e-5daea77aeeac
+
+2025-07-26 18:22:31,419 - INFO - New WebSocket connection established: 47d874f5-6d7d-493a-9949-261df5e56fe8
+
+2025-07-26 18:22:34,850 - INFO - WebSocket connection disconnected: 2184cc59-59be-485c-b85e-5daea77aeeac
+
+2025-07-26 18:22:34,850 - INFO - WebSocket connection removed: 2184cc59-59be-485c-b85e-5daea77aeeac
+
+2025-07-26 18:22:34,850 - INFO - WebSocket connection disconnected: 47d874f5-6d7d-493a-9949-261df5e56fe8
+
+2025-07-26 18:22:34,851 - INFO - WebSocket connection removed: 47d874f5-6d7d-493a-9949-261df5e56fe8
+
+2025-07-26 18:22:34,957 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:22:38,215 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:22:38,216 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:22:38,219 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:22:38,220 - INFO - Gemini Service initialized
+
+2025-07-26 18:22:38,229 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:22:38,411 - INFO - New WebSocket connection established: adb57b53-564f-49cc-9e62-bdfe9ad4d25b
+
+2025-07-26 18:22:38,424 - INFO - New WebSocket connection established: a8fb330e-5f44-4654-aaae-7bc4da8c7a9d
+
+2025-07-26 18:22:48,748 - INFO - WebSocket connection disconnected: adb57b53-564f-49cc-9e62-bdfe9ad4d25b
+
+2025-07-26 18:22:48,749 - INFO - WebSocket connection removed: adb57b53-564f-49cc-9e62-bdfe9ad4d25b
+
+2025-07-26 18:22:48,749 - INFO - WebSocket connection disconnected: a8fb330e-5f44-4654-aaae-7bc4da8c7a9d
+
+2025-07-26 18:22:48,749 - INFO - WebSocket connection removed: a8fb330e-5f44-4654-aaae-7bc4da8c7a9d
+
+2025-07-26 18:22:48,857 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:22:52,130 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:22:52,131 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:22:52,133 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:22:52,135 - INFO - Gemini Service initialized
+
+2025-07-26 18:22:52,144 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:22:52,186 - INFO - New WebSocket connection established: ff338ea5-1036-4ad2-95c8-006397d7ce33
+
+2025-07-26 18:22:52,206 - INFO - New WebSocket connection established: c4688445-cfe7-4168-a94a-7ad33c4d335c
+
+2025-07-26 18:23:03,752 - INFO - WebSocket connection disconnected: c4688445-cfe7-4168-a94a-7ad33c4d335c
+
+2025-07-26 18:23:03,753 - INFO - WebSocket connection removed: c4688445-cfe7-4168-a94a-7ad33c4d335c
+
+2025-07-26 18:23:03,754 - INFO - WebSocket connection disconnected: ff338ea5-1036-4ad2-95c8-006397d7ce33
+
+2025-07-26 18:23:03,754 - INFO - WebSocket connection removed: ff338ea5-1036-4ad2-95c8-006397d7ce33
+
+2025-07-26 18:23:03,858 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:23:07,249 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:23:07,250 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:23:07,252 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:23:07,254 - INFO - Gemini Service initialized
+
+2025-07-26 18:23:07,263 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:23:07,304 - INFO - New WebSocket connection established: d015fdba-e1b3-40f2-ad34-dc3a78ea0ea6
+
+2025-07-26 18:23:07,332 - INFO - New WebSocket connection established: 9fb5342b-a092-4f5c-b738-f30ee25acd05
+
+2025-07-26 18:23:09,716 - INFO - WebSocket connection disconnected: d015fdba-e1b3-40f2-ad34-dc3a78ea0ea6
+
+2025-07-26 18:23:09,716 - INFO - WebSocket connection removed: d015fdba-e1b3-40f2-ad34-dc3a78ea0ea6
+
+2025-07-26 18:23:09,717 - INFO - WebSocket connection disconnected: 9fb5342b-a092-4f5c-b738-f30ee25acd05
+
+2025-07-26 18:23:09,717 - INFO - WebSocket connection removed: 9fb5342b-a092-4f5c-b738-f30ee25acd05
+
+2025-07-26 18:23:09,825 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:23:13,047 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:23:13,048 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:23:13,050 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:23:13,052 - INFO - Gemini Service initialized
+
+2025-07-26 18:23:13,061 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:23:13,102 - INFO - New WebSocket connection established: 6d0f30d3-4985-4a15-b909-9a1fb9ad6316
+
+2025-07-26 18:23:13,131 - INFO - New WebSocket connection established: 501c3a50-cb7c-4704-a9ad-9bbb18e67062
+
+2025-07-26 18:23:24,344 - INFO - WebSocket connection disconnected: 501c3a50-cb7c-4704-a9ad-9bbb18e67062
+
+2025-07-26 18:23:24,344 - INFO - WebSocket connection removed: 501c3a50-cb7c-4704-a9ad-9bbb18e67062
+
+2025-07-26 18:23:24,345 - INFO - WebSocket connection disconnected: 6d0f30d3-4985-4a15-b909-9a1fb9ad6316
+
+2025-07-26 18:23:24,345 - INFO - WebSocket connection removed: 6d0f30d3-4985-4a15-b909-9a1fb9ad6316
+
+2025-07-26 18:23:24,454 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:23:28,057 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:23:28,059 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:23:28,063 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:23:28,065 - INFO - Gemini Service initialized
+
+2025-07-26 18:23:28,083 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:23:28,408 - INFO - New WebSocket connection established: af51b298-0404-4e97-b3a3-e913bd86208b
+
+2025-07-26 18:23:28,424 - INFO - New WebSocket connection established: edf0a068-89df-4ed0-ba19-52cd0c758e01
+
+2025-07-26 18:23:29,396 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:23:29,397 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:23:29,399 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:23:29,400 - INFO - Mood board image saved: data\mood_boards\mood_board_20250726_182329_test-moo.png
+
+2025-07-26 18:23:49,892 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:23:49,893 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:23:49,895 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:23:49,897 - INFO - Gemini Service initialized
+
+2025-07-26 18:24:41,964 - INFO - WebSocket connection disconnected: edf0a068-89df-4ed0-ba19-52cd0c758e01
+
+2025-07-26 18:24:41,964 - INFO - WebSocket connection removed: edf0a068-89df-4ed0-ba19-52cd0c758e01
+
+2025-07-26 18:24:41,964 - INFO - WebSocket connection disconnected: af51b298-0404-4e97-b3a3-e913bd86208b
+
+2025-07-26 18:24:41,964 - INFO - WebSocket connection removed: af51b298-0404-4e97-b3a3-e913bd86208b
+
+2025-07-26 18:24:42,075 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:25:28,277 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:25:28,278 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:25:28,281 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:25:28,282 - INFO - Gemini Service initialized
+
+2025-07-26 18:25:28,293 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:25:28,419 - INFO - New WebSocket connection established: e00d9775-2f32-46f0-871f-cfe8b8babcce
+
+2025-07-26 18:25:30,972 - INFO - New WebSocket connection established: a250fd8a-48d4-4dfb-8056-c8f8a0d62134
+
+2025-07-26 18:26:26,717 - INFO - Design request received:
+
+2025-07-26 18:26:26,717 - INFO - Room Type: salon
+
+2025-07-26 18:26:26,717 - INFO - Design Style: klasik
+
+2025-07-26 18:26:26,718 - INFO - Notes: Oda Boyutları: 600cm x 400cm x 500cm (G x U x Y)
+Kullanıcı Notları: gotik bir tasarıma sahip oda yap  sanki bir gotik krallıktaki bir kral salonu gibi olsun 
+
+2025-07-26 18:26:26,718 - INFO - Requesting design suggestion from Gemini: salon - klasik
+
+2025-07-26 18:26:33,133 - INFO - Design suggestion successfully received from Gemini
+
+2025-07-26 18:26:33,133 - INFO - Design suggestion created successfully: ** Gotik Kraliyet Salonu
+
+2025-07-26 18:26:33,133 - INFO - Starting mood board generation for connection: a250fd8a-48d4-4dfb-8056-c8f8a0d62134
+
+2025-07-26 18:26:33,135 - INFO - Design request saved with ID: design_20250726_182633_133
+
+2025-07-26 18:26:33,140 - INFO - Mood board progress updated for a250fd8a-48d4-4dfb-8056-c8f8a0d62134: preparing_prompt
+
+2025-07-26 18:26:34,240 - INFO - Enhanced Imagen prompt created: Modern mood board layout, classical living room, gothic design, dark burgundy, emerald green, gold a...
+
+2025-07-26 18:26:34,240 - INFO - Mood board progress updated for a250fd8a-48d4-4dfb-8056-c8f8a0d62134: optimizing_prompt
+
+2025-07-26 18:26:34,241 - INFO - Mood board progress updated for a250fd8a-48d4-4dfb-8056-c8f8a0d62134: generating_image
+
+2025-07-26 18:26:36,242 - INFO - Imagen 4 image generated successfully (placeholder - replace with actual API)
+
+2025-07-26 18:26:36,243 - INFO - Mood board image saved: data\mood_boards\mood_board_20250726_182636_d067d827.png
+
+2025-07-26 18:26:36,243 - INFO - Mood board progress updated for a250fd8a-48d4-4dfb-8056-c8f8a0d62134: processing_image
+
+2025-07-26 18:26:36,244 - INFO - Mood board progress updated for a250fd8a-48d4-4dfb-8056-c8f8a0d62134: finalizing
+
+2025-07-26 18:26:36,244 - INFO - Mood board progress updated for a250fd8a-48d4-4dfb-8056-c8f8a0d62134: completed
+
+2025-07-26 18:26:36,245 - INFO - Mood board completed and sent to a250fd8a-48d4-4dfb-8056-c8f8a0d62134
+
+2025-07-26 18:26:36,246 - INFO - Mood board log saved: mbl_20250726_182636_d067d827
+
+2025-07-26 18:26:36,246 - INFO - Mood board generated successfully: d067d827-704f-4f76-81aa-e720f92c5c4e
+
+2025-07-26 18:29:03,325 - INFO - WebSocket connection disconnected: e00d9775-2f32-46f0-871f-cfe8b8babcce
+
+2025-07-26 18:29:03,326 - INFO - WebSocket connection removed: e00d9775-2f32-46f0-871f-cfe8b8babcce
+
+2025-07-26 18:29:03,327 - INFO - WebSocket connection disconnected: a250fd8a-48d4-4dfb-8056-c8f8a0d62134
+
+2025-07-26 18:29:03,327 - INFO - WebSocket connection removed: a250fd8a-48d4-4dfb-8056-c8f8a0d62134
+
+2025-07-26 18:29:03,433 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:29:08,866 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:29:08,867 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:29:08,869 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:29:08,870 - INFO - Gemini Service initialized
+
+2025-07-26 18:29:08,880 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:29:08,921 - INFO - New WebSocket connection established: d1f9f614-094d-48bb-baa3-06fc3862125f
+
+2025-07-26 18:29:08,940 - INFO - New WebSocket connection established: 6bcdfe8a-ef3a-4c1f-9bd9-d4c757eaaa37
+
+2025-07-26 18:29:18,749 - INFO - WebSocket connection disconnected: 6bcdfe8a-ef3a-4c1f-9bd9-d4c757eaaa37
+
+2025-07-26 18:29:18,750 - INFO - WebSocket connection removed: 6bcdfe8a-ef3a-4c1f-9bd9-d4c757eaaa37
+
+2025-07-26 18:29:18,750 - INFO - WebSocket connection disconnected: d1f9f614-094d-48bb-baa3-06fc3862125f
+
+2025-07-26 18:29:18,750 - INFO - WebSocket connection removed: d1f9f614-094d-48bb-baa3-06fc3862125f
+
+2025-07-26 18:29:18,856 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:29:22,163 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:29:22,164 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:29:22,166 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:29:22,168 - INFO - Gemini Service initialized
+
+2025-07-26 18:29:22,177 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:29:22,410 - INFO - New WebSocket connection established: 0c69e2cf-0dfe-46b7-b3ac-0104ff05b652
+
+2025-07-26 18:29:22,425 - INFO - New WebSocket connection established: 4d751149-33b0-4a03-af15-fc7f7dd03876
+
+2025-07-26 18:29:31,388 - INFO - WebSocket connection disconnected: 4d751149-33b0-4a03-af15-fc7f7dd03876
+
+2025-07-26 18:29:31,388 - INFO - WebSocket connection removed: 4d751149-33b0-4a03-af15-fc7f7dd03876
+
+2025-07-26 18:29:31,389 - INFO - WebSocket connection disconnected: 0c69e2cf-0dfe-46b7-b3ac-0104ff05b652
+
+2025-07-26 18:29:31,389 - INFO - WebSocket connection removed: 0c69e2cf-0dfe-46b7-b3ac-0104ff05b652
+
+2025-07-26 18:29:31,498 - INFO - Shutting down Deko Assistant AI API...
+
+2025-07-26 18:29:34,996 - INFO - WebSocket Manager initialized
+
+2025-07-26 18:29:34,997 - INFO - Mood Board Log Service initialized
+
+2025-07-26 18:29:34,999 - INFO - Mood Board Service initialized with Imagen 4
+
+2025-07-26 18:29:35,001 - INFO - Gemini Service initialized
+
+2025-07-26 18:29:35,011 - INFO - Starting Deko Assistant AI API...
+
+2025-07-26 18:29:35,409 - INFO - New WebSocket connection established: 9554bd3b-e6c8-4ce2-ac2d-d02ac4280e0a
+
+2025-07-26 18:29:35,425 - INFO - New WebSocket connection established: bd3696d7-e4f2-4b78-8384-ddcfadb53cac
