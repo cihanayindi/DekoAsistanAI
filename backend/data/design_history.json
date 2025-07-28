@@ -815,5 +815,187 @@
       "raw_response": "{\n  \"title\": \"Modern Şıklık: İstanbul Esintili Salon Tasarımı\",\n  \"description\": \"Bu tasarım, modern estetiği İstanbul'un şehirli ve sofistike atmosferiyle birleştiriyor. Nötr renk paleti, doğal dokular ve minimalist detaylar ile ferah ve davetkar bir salon yaratmayı hedefliyor. Aydınlatma, hem işlevsel hem de atmosferik unsurları bir araya getiriyor.\",\n  \"products\": [\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Köşe Koltuk Takımı (Gri)\",\n      \"description\": \"Minimalist hatlara sahip, geniş ve rahat bir köşe koltuk. Gri renk, modern ve nötr bir zemin oluşturur.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Orta Sehpa (Ahşap & Metal)\",\n      \"description\": \"Doğal ahşap ve metal detayları bir araya getiren, modern ve şık bir orta sehpa. Odaya sıcaklık katar.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"TV Ünitesi (Beyaz & Ahşap)\",\n      \"description\": \"Duvara monte, minimalist bir TV ünitesi. Beyaz ve ahşap kombinasyonu, modern bir görünüm sağlar.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Ayaklı Lamba (Metal)\",\n      \"description\": \"Köşeye yerleştirilecek, modern tasarımlı bir ayaklı lamba. Ambiyans aydınlatması için idealdir.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Tavan Spotları (LED)\",\n      \"description\": \"Tavana gömme, enerji tasarruflu LED spotlar. Genel aydınlatma için kullanılır. Dim edilebilir modeller tercih edilebilir.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Halı (Geometrik Desenli)\",\n      \"description\": \"Modern ve geometrik desenli bir halı. Odaya hareket ve sıcaklık katar. Renkleri koltukla uyumlu olmalı.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Dekoratif Yastıklar\",\n      \"description\": \"Farklı dokularda ve desenlerde dekoratif yastıklar. Koltuğa renk ve karakter katar. (Gri, bej, turuncu tonları)\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Duvar Tabloları (Soyut)\",\n      \"description\": \"Soyut sanat eserlerinden oluşan bir duvar tablosu seti. Odaya sanatsal bir dokunuş katar.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Bitkiler (Salon Bitkileri)\",\n      \"description\": \"Büyük yapraklı salon bitkileri. Odaya canlılık ve doğal bir hava katar.\"\n    },\n    {\n      \"category\": \"Perdeler\",\n      \"name\": \"Tül Perde (Beyaz)\",\n      \"description\": \"Hafif ve şeffaf beyaz tül perdeler. Doğal ışığı içeri alır ve mahremiyet sağlar.\"\n    },\n    {\n      \"category\": \"Duvar Dekorasyonu\",\n      \"name\": \"Ayna (Yuvarlak)\",\n      \"description\": \"Büyük yuvarlak ayna. Odayı daha geniş ve aydınlık gösterir.\"\n    }\n  ]\n}"
     },
     "error_message": null
+  },
+  {
+    "request_id": "design_20250728_203956_028",
+    "timestamp": "2025-07-28T20:39:56.028819",
+    "input": {
+      "room_type": "çocuk",
+      "design_style": "klasik",
+      "notes": "Oda Boyutları: 400cm x 400cm x 250cm (G x U x Y)\r\nKullanıcı Notları: Oğlum harry potter seviyor onunla ilgili bir şeyler de ekler misin?"
+    },
+    "output": {
+      "success": true,
+      "design_title": "Harry Potter Esintili Klasik Çocuk Odası",
+      "design_description": "Bu tasarım, klasik stilin zarafetini Harry Potter'ın büyülü dünyasıyla birleştiriyor. Sıcak renkler, ahşap detaylar ve tematik aksesuarlar, çocuğunuz için hem rahatlatıcı hem de ilham verici bir atmosfer yaratıyor. Amaç, çocuğunuzun hayal gücünü besleyen, konforlu ve şık bir mekan sunmak.",
+      "product_suggestion": "- Mobilyalar\n  • Ahşap Oyma Detaylı Çocuk Yatağı - Klasik tarzda, ahşap oyma detaylı, dayanıklı çocuk yatağı. Odanın odak noktası olacak ve uzun yıllar kullanılabilecek kaliteli bir seçim.\n  • Antik Görünümlü Komodin - Yatağın yanına yerleştirilecek, ahşap ve antik görünümlü komodin. Kitaplar ve gece lambası için ideal.\n  • Geniş Ahşap Çalışma Masası - Ders çalışma ve hobiler için geniş, ahşap çalışma masası. Çekmeceleri ve rafı sayesinde düzenli bir alan sunar.\n\n- Aydınlatma\n  • Avize - Mum Görünümlü - Klasik tarzda, mum görünümlü avize. Odaya sıcak ve loş bir ışık yayar.\n  • Masa Lambası - Hogwarts Logolu - Çalışma masası için, Hogwarts logolu masa lambası. Harry Potter temasına gönderme yapar.\n\n- Tekstil\n  • Krem Rengi Yün Halı - Odaya sıcaklık katacak, yumuşak krem rengi yün halı. Oyun alanı için ideal.\n  • Koyu Yeşil Kadife Perdeler - Odayı karartacak ve mahremiyet sağlayacak, koyu yeşil kadife perdeler.\n  • Hogwarts Armalı Yastıklar - Yatağın üzerinde kullanılacak, Hogwarts armalı dekoratif yastıklar.\n\n- Dekoratif Objeler\n  • Harry Potter Temalı Tablolar - Duvarlara asılacak, Harry Potter temalı çerçeveli tablolar. Büyüleyici bir atmosfer yaratır.\n  • Kitaplık - Hogwarts Binaları Temalı - Hogwarts binalarını temsil eden renklerde kitaplık. Kitapları sergilemek için harika bir alan.\n  • Altın Renkli Çerçeveli Ayna - Klasik tarzda, altın renkli çerçeveli ayna. Odaya şıklık katar.\n\n- Duvar Kağıdı\n  • Desenli Duvar Kağıdı - Bej Tonlarında - Odanın bir duvarına uygulanacak, klasik desenli, bej tonlarında duvar kağıdı. Sakin ve zarif bir görünüm sunar.",
+      "products": [
+        {
+          "category": "Mobilyalar",
+          "name": "Ahşap Oyma Detaylı Çocuk Yatağı",
+          "description": "Klasik tarzda, ahşap oyma detaylı, dayanıklı çocuk yatağı. Odanın odak noktası olacak ve uzun yıllar kullanılabilecek kaliteli bir seçim.",
+          "type": "product"
+        },
+        {
+          "category": "Mobilyalar",
+          "name": "Antik Görünümlü Komodin",
+          "description": "Yatağın yanına yerleştirilecek, ahşap ve antik görünümlü komodin. Kitaplar ve gece lambası için ideal.",
+          "type": "product"
+        },
+        {
+          "category": "Mobilyalar",
+          "name": "Geniş Ahşap Çalışma Masası",
+          "description": "Ders çalışma ve hobiler için geniş, ahşap çalışma masası. Çekmeceleri ve rafı sayesinde düzenli bir alan sunar.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Avize - Mum Görünümlü",
+          "description": "Klasik tarzda, mum görünümlü avize. Odaya sıcak ve loş bir ışık yayar.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Masa Lambası - Hogwarts Logolu",
+          "description": "Çalışma masası için, Hogwarts logolu masa lambası. Harry Potter temasına gönderme yapar.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Krem Rengi Yün Halı",
+          "description": "Odaya sıcaklık katacak, yumuşak krem rengi yün halı. Oyun alanı için ideal.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Koyu Yeşil Kadife Perdeler",
+          "description": "Odayı karartacak ve mahremiyet sağlayacak, koyu yeşil kadife perdeler.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Harry Potter Temalı Tablolar",
+          "description": "Duvarlara asılacak, Harry Potter temalı çerçeveli tablolar. Büyüleyici bir atmosfer yaratır.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Kitaplık - Hogwarts Binaları Temalı",
+          "description": "Hogwarts binalarını temsil eden renklerde kitaplık. Kitapları sergilemek için harika bir alan.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Altın Renkli Çerçeveli Ayna",
+          "description": "Klasik tarzda, altın renkli çerçeveli ayna. Odaya şıklık katar.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Hogwarts Armalı Yastıklar",
+          "description": "Yatağın üzerinde kullanılacak, Hogwarts armalı dekoratif yastıklar.",
+          "type": "product"
+        },
+        {
+          "category": "Duvar Kağıdı",
+          "name": "Desenli Duvar Kağıdı - Bej Tonlarında",
+          "description": "Odanın bir duvarına uygulanacak, klasik desenli, bej tonlarında duvar kağıdı. Sakin ve zarif bir görünüm sunar.",
+          "type": "product"
+        }
+      ],
+      "raw_response": "{\n  \"title\": \"Harry Potter Esintili Klasik Çocuk Odası\",\n  \"description\": \"Bu tasarım, klasik stilin zarafetini Harry Potter'ın büyülü dünyasıyla birleştiriyor. Sıcak renkler, ahşap detaylar ve tematik aksesuarlar, çocuğunuz için hem rahatlatıcı hem de ilham verici bir atmosfer yaratıyor. Amaç, çocuğunuzun hayal gücünü besleyen, konforlu ve şık bir mekan sunmak.\",\n  \"products\": [\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Ahşap Oyma Detaylı Çocuk Yatağı\",\n      \"description\": \"Klasik tarzda, ahşap oyma detaylı, dayanıklı çocuk yatağı. Odanın odak noktası olacak ve uzun yıllar kullanılabilecek kaliteli bir seçim.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Antik Görünümlü Komodin\",\n      \"description\": \"Yatağın yanına yerleştirilecek, ahşap ve antik görünümlü komodin. Kitaplar ve gece lambası için ideal.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Geniş Ahşap Çalışma Masası\",\n      \"description\": \"Ders çalışma ve hobiler için geniş, ahşap çalışma masası. Çekmeceleri ve rafı sayesinde düzenli bir alan sunar.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Avize - Mum Görünümlü\",\n      \"description\": \"Klasik tarzda, mum görünümlü avize. Odaya sıcak ve loş bir ışık yayar.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Masa Lambası - Hogwarts Logolu\",\n      \"description\": \"Çalışma masası için, Hogwarts logolu masa lambası. Harry Potter temasına gönderme yapar.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Krem Rengi Yün Halı\",\n      \"description\": \"Odaya sıcaklık katacak, yumuşak krem rengi yün halı. Oyun alanı için ideal.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Koyu Yeşil Kadife Perdeler\",\n      \"description\": \"Odayı karartacak ve mahremiyet sağlayacak, koyu yeşil kadife perdeler.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Harry Potter Temalı Tablolar\",\n      \"description\": \"Duvarlara asılacak, Harry Potter temalı çerçeveli tablolar. Büyüleyici bir atmosfer yaratır.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Kitaplık - Hogwarts Binaları Temalı\",\n      \"description\": \"Hogwarts binalarını temsil eden renklerde kitaplık. Kitapları sergilemek için harika bir alan.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Altın Renkli Çerçeveli Ayna\",\n      \"description\": \"Klasik tarzda, altın renkli çerçeveli ayna. Odaya şıklık katar.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Hogwarts Armalı Yastıklar\",\n      \"description\": \"Yatağın üzerinde kullanılacak, Hogwarts armalı dekoratif yastıklar.\"\n    },\n    {\n      \"category\": \"Duvar Kağıdı\",\n      \"name\": \"Desenli Duvar Kağıdı - Bej Tonlarında\",\n      \"description\": \"Odanın bir duvarına uygulanacak, klasik desenli, bej tonlarında duvar kağıdı. Sakin ve zarif bir görünüm sunar.\"\n    }\n  ]\n}"
+    },
+    "error_message": null
+  },
+  {
+    "request_id": "design_20250728_212815_086",
+    "timestamp": "2025-07-28T21:28:15.086793",
+    "input": {
+      "room_type": "yatak",
+      "design_style": "klasik",
+      "notes": "Oda Boyutları: 400cm x 400cm x 280cm (G x U x Y)\r\nKullanıcı Notları: bu odada yaşayacak çiftimiz biraz ateşli bu yüzden kırmızı tonda olmasını istiyor "
+    },
+    "output": {
+      "success": true,
+      "design_title": "Tutkulu Kırmızının Klasik Dansı",
+      "design_description": "Bu tasarım, klasik zarafeti tutkulu kırmızı tonlarıyla birleştirerek ateşli bir atmosfer yaratıyor. Yatak odası, romantizmi ve lüksü ön plana çıkarırken, klasik detaylar şıklığı koruyor. Kırmızı tonları aşkı ve enerjiyi temsil ederken, altın detaylar odanın ihtişamını artırıyor.",
+      "product_suggestion": "- Mobilyalar\n  • Kırmızı Kadife Yatak Başlığı - Odaya odak noktası olan bu başlık, klasik oymaları ve derin kırmızı kadife dokusuyla romantik bir hava katıyor.\n  • Ahşap Komodin (Koyu) - Koyu renkli ahşap komodinler, yatağın iki yanına yerleştirilerek hem işlevsellik sağlar hem de kırmızıya kontrast oluşturur.\n  • Şezlong (Kırmızı Kadife) - Pencere kenarına yerleştirilecek kırmızı kadife şezlong, okuma köşesi veya dinlenme alanı oluşturur.\n\n- Tekstil\n  • Kırmızı İpek Yatak Örtüsü - Yatağın üzerinde kullanılan kırmızı ipek yatak örtüsü, lüks ve romantik bir dokunuş sunar. Farklı kırmızı tonları kullanılabilir.\n  • Krem Rengi Tül Perdeler - Krem rengi tül perdeler, odaya doğal ışık girmesini sağlarken, kırmızının yoğunluğunu dengeler ve yumuşak bir geçiş yaratır.\n\n- Aydınlatma\n  • Kristal Avize (Altın Detaylı) - Odaya ihtişam katan kristal avize, altın detaylarıyla kırmızı tonlarını tamamlar ve sıcak bir aydınlatma sunar.\n  • Abajur (Kırmızı) - Komodinlerin üzerine yerleştirilen kırmızı abajurlar, romantik bir atmosfer yaratır ve okuma lambası olarak da kullanılabilir.\n\n- Dekoratif Objeler\n  • Altın Varaklı Ayna - Duvara asılan altın varaklı ayna, odaya derinlik katar ve ışığı yansıtarak daha aydınlık bir ortam sağlar.\n  • Kırmızı Mumlar - Farklı boyutlarda kırmızı mumlar, romantik bir atmosfer yaratmak için komodinler, sehpa veya şömine üzerine yerleştirilebilir.\n  • Kırmızı Vazoda Beyaz Güller - Odaya ferahlık ve zarafet katan beyaz güller, kırmızı bir vazoda sergilenerek romantik bir dokunuş sunar.\n\n- Duvar Dekorasyonu\n  • Soyut Sanat Tabloları (Kırmızı Tonları) - Duvarlara asılan soyut sanat tabloları, kırmızı ve altın tonlarında seçilerek odanın genel temasına uyum sağlar.\n\n- Halı\n  • Yün Halı (Krem/Bej) - Odaya sıcaklık ve konfor katan yün halı, krem veya bej tonlarında seçilerek kırmızının yoğunluğunu dengeler.",
+      "products": [
+        {
+          "category": "Mobilyalar",
+          "name": "Kırmızı Kadife Yatak Başlığı",
+          "description": "Odaya odak noktası olan bu başlık, klasik oymaları ve derin kırmızı kadife dokusuyla romantik bir hava katıyor.",
+          "type": "product"
+        },
+        {
+          "category": "Mobilyalar",
+          "name": "Ahşap Komodin (Koyu)",
+          "description": "Koyu renkli ahşap komodinler, yatağın iki yanına yerleştirilerek hem işlevsellik sağlar hem de kırmızıya kontrast oluşturur.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Kırmızı İpek Yatak Örtüsü",
+          "description": "Yatağın üzerinde kullanılan kırmızı ipek yatak örtüsü, lüks ve romantik bir dokunuş sunar. Farklı kırmızı tonları kullanılabilir.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Krem Rengi Tül Perdeler",
+          "description": "Krem rengi tül perdeler, odaya doğal ışık girmesini sağlarken, kırmızının yoğunluğunu dengeler ve yumuşak bir geçiş yaratır.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Kristal Avize (Altın Detaylı)",
+          "description": "Odaya ihtişam katan kristal avize, altın detaylarıyla kırmızı tonlarını tamamlar ve sıcak bir aydınlatma sunar.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Abajur (Kırmızı)",
+          "description": "Komodinlerin üzerine yerleştirilen kırmızı abajurlar, romantik bir atmosfer yaratır ve okuma lambası olarak da kullanılabilir.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Altın Varaklı Ayna",
+          "description": "Duvara asılan altın varaklı ayna, odaya derinlik katar ve ışığı yansıtarak daha aydınlık bir ortam sağlar.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Kırmızı Mumlar",
+          "description": "Farklı boyutlarda kırmızı mumlar, romantik bir atmosfer yaratmak için komodinler, sehpa veya şömine üzerine yerleştirilebilir.",
+          "type": "product"
+        },
+        {
+          "category": "Duvar Dekorasyonu",
+          "name": "Soyut Sanat Tabloları (Kırmızı Tonları)",
+          "description": "Duvarlara asılan soyut sanat tabloları, kırmızı ve altın tonlarında seçilerek odanın genel temasına uyum sağlar.",
+          "type": "product"
+        },
+        {
+          "category": "Halı",
+          "name": "Yün Halı (Krem/Bej)",
+          "description": "Odaya sıcaklık ve konfor katan yün halı, krem veya bej tonlarında seçilerek kırmızının yoğunluğunu dengeler.",
+          "type": "product"
+        },
+        {
+          "category": "Mobilyalar",
+          "name": "Şezlong (Kırmızı Kadife)",
+          "description": "Pencere kenarına yerleştirilecek kırmızı kadife şezlong, okuma köşesi veya dinlenme alanı oluşturur.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Kırmızı Vazoda Beyaz Güller",
+          "description": "Odaya ferahlık ve zarafet katan beyaz güller, kırmızı bir vazoda sergilenerek romantik bir dokunuş sunar.",
+          "type": "product"
+        }
+      ],
+      "raw_response": "{\n  \"title\": \"Tutkulu Kırmızının Klasik Dansı\",\n  \"description\": \"Bu tasarım, klasik zarafeti tutkulu kırmızı tonlarıyla birleştirerek ateşli bir atmosfer yaratıyor. Yatak odası, romantizmi ve lüksü ön plana çıkarırken, klasik detaylar şıklığı koruyor. Kırmızı tonları aşkı ve enerjiyi temsil ederken, altın detaylar odanın ihtişamını artırıyor.\",\n  \"products\": [\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Kırmızı Kadife Yatak Başlığı\",\n      \"description\": \"Odaya odak noktası olan bu başlık, klasik oymaları ve derin kırmızı kadife dokusuyla romantik bir hava katıyor.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Ahşap Komodin (Koyu)\",\n      \"description\": \"Koyu renkli ahşap komodinler, yatağın iki yanına yerleştirilerek hem işlevsellik sağlar hem de kırmızıya kontrast oluşturur.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Kırmızı İpek Yatak Örtüsü\",\n      \"description\": \"Yatağın üzerinde kullanılan kırmızı ipek yatak örtüsü, lüks ve romantik bir dokunuş sunar. Farklı kırmızı tonları kullanılabilir.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Krem Rengi Tül Perdeler\",\n      \"description\": \"Krem rengi tül perdeler, odaya doğal ışık girmesini sağlarken, kırmızının yoğunluğunu dengeler ve yumuşak bir geçiş yaratır.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Kristal Avize (Altın Detaylı)\",\n      \"description\": \"Odaya ihtişam katan kristal avize, altın detaylarıyla kırmızı tonlarını tamamlar ve sıcak bir aydınlatma sunar.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Abajur (Kırmızı)\",\n      \"description\": \"Komodinlerin üzerine yerleştirilen kırmızı abajurlar, romantik bir atmosfer yaratır ve okuma lambası olarak da kullanılabilir.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Altın Varaklı Ayna\",\n      \"description\": \"Duvara asılan altın varaklı ayna, odaya derinlik katar ve ışığı yansıtarak daha aydınlık bir ortam sağlar.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Kırmızı Mumlar\",\n      \"description\": \"Farklı boyutlarda kırmızı mumlar, romantik bir atmosfer yaratmak için komodinler, sehpa veya şömine üzerine yerleştirilebilir.\"\n    },\n    {\n      \"category\": \"Duvar Dekorasyonu\",\n      \"name\": \"Soyut Sanat Tabloları (Kırmızı Tonları)\",\n      \"description\": \"Duvarlara asılan soyut sanat tabloları, kırmızı ve altın tonlarında seçilerek odanın genel temasına uyum sağlar.\"\n    },\n    {\n      \"category\": \"Halı\",\n      \"name\": \"Yün Halı (Krem/Bej)\",\n      \"description\": \"Odaya sıcaklık ve konfor katan yün halı, krem veya bej tonlarında seçilerek kırmızının yoğunluğunu dengeler.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Şezlong (Kırmızı Kadife)\",\n      \"description\": \"Pencere kenarına yerleştirilecek kırmızı kadife şezlong, okuma köşesi veya dinlenme alanı oluşturur.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Kırmızı Vazoda Beyaz Güller\",\n      \"description\": \"Odaya ferahlık ve zarafet katan beyaz güller, kırmızı bir vazoda sergilenerek romantik bir dokunuş sunar.\"\n    }\n  ]\n}"
+    },
+    "error_message": null
   }
 ]
