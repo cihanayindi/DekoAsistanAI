@@ -463,5 +463,357 @@
       "raw_response": "{\n  \"title\": \"Minimalist Modern Salon\",\n  \"description\": \"Bu tasarım, modern ve minimalist bir yaklaşımla, ferah ve işlevsel bir salon yaratmayı amaçlar. Nötr renk paleti, doğal ışığı vurgularken, geometrik formlar ve sade detaylar mekana modern bir hava katar. Konforlu oturma alanı ve akıllı depolama çözümleri ön plandadır.\",\n  \"products\": [\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Köşe Koltuk (Gri)\",\n      \"description\": \"Açık gri tonlarında, sade hatlara sahip köşe koltuk. Odaya ferahlık katar ve geniş oturma alanı sunar.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Orta Sehpa (Ahşap)\",\n      \"description\": \"Doğal ahşap tonlarında, minimalist tasarımlı orta sehpa. Koltuk önünde kullanışlı bir alan yaratır.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"TV Ünitesi (Beyaz)\",\n      \"description\": \"Beyaz renkte, duvara monte minimalist TV ünitesi. Depolama alanı sağlar ve modern bir görünüm sunar.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Ayaklı Lamba (Siyah)\",\n      \"description\": \"Siyah metal ayaklı, sade tasarımlı lambader. Odaya sıcak bir ışık yayar ve okuma köşesi için idealdir.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Tavan Spotları (Beyaz)\",\n      \"description\": \"Tavana gömme beyaz spotlar. Genel aydınlatma için kullanılır ve modern bir görünüm sağlar.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Halı (Geometrik Desen)\",\n      \"description\": \"Gri ve beyaz tonlarında, geometrik desenli halı. Odaya sıcaklık ve modern bir dokunuş katar.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Dekoratif Yastıklar\",\n      \"description\": \"Gri, bej ve hardal tonlarında, farklı dokularda dekoratif yastıklar. Koltuğa renk ve konfor katar.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Duvar Tabloları\",\n      \"description\": \"Soyut desenli, çerçeveli duvar tabloları. Odaya sanatsal bir hava katar.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Bitki Saksıları\",\n      \"description\": \"Beton görünümlü, farklı boyutlarda bitki saksıları. Odaya doğal bir dokunuş katar.\"\n    },\n    {\n      \"category\": \"Perdeler\",\n      \"name\": \"Tül Perde (Beyaz)\",\n      \"description\": \"Beyaz renkli, ince tül perde. Doğal ışığın içeri girmesini sağlar ve mahremiyet sunar.\"\n    },\n    {\n      \"category\": \"Depolama\",\n      \"name\": \"Kitaplık (Açık Raf)\",\n      \"description\": \"Açık raflı, duvara monte kitaplık. Dekoratif objeler ve kitaplar için sergileme alanı yaratır.\"\n    }\n  ]\n}"
     },
     "error_message": null
+  },
+  {
+    "request_id": "design_20250728_004727_549",
+    "timestamp": "2025-07-28T00:47:27.549099",
+    "input": {
+      "room_type": "salon",
+      "design_style": "minimal",
+      "notes": "Oda Boyutları: 300cm x 400cm x 250cm (G x U x Y)\r\nKullanıcı Notları: Beyaz bir masa kesin içersin"
+    },
+    "output": {
+      "success": true,
+      "design_title": "Minimal Salon Tasarımı: Beyazın Ferahlığı",
+      "design_description": "Bu tasarım, minimalizm prensiplerini benimseyerek, beyazın ve nötr tonların hakim olduğu, ferah ve işlevsel bir salon yaratmayı amaçlar. Doğal ışık kullanımı ve az eşya ile sakin bir atmosfer hedeflenir.",
+      "product_suggestion": "- Mobilyalar\n  • Beyaz Çalışma Masası - Sade ve modern tasarımlı, 120x60 cm boyutlarında beyaz bir çalışma masası. Odaya aydınlık ve ferah bir hava katacak.\n  • Köşe Koltuk (Gri) - Açık gri tonlarında, minimalist tasarımlı köşe koltuk. Odaya sıcaklık ve konfor katarken, alandan tasarruf sağlar.\n  • TV Ünitesi (Beyaz) - Duvara monte, minimalist beyaz TV ünitesi. Kabloları gizleyerek düzenli bir görünüm sağlar.\n\n- Aydınlatma\n  • Ayaklı Lamba (Metal) - Siyah metal ayaklı, minimalist tasarımlı lambader. Odaya sıcak ve odaklı bir aydınlatma sağlar.\n  • Gömme Spotlar - Tavan aydınlatması için, odaya genel bir ışık yayacak gömme spotlar.\n\n- Tekstil\n  • Düz Renk Halı (Bej) - Bej rengi, yumuşak dokulu, büyük boy halı. Odaya sıcaklık ve konfor katar.\n  • Dekoratif Yastıklar - Gri ve beyaz tonlarında, geometrik desenli dekoratif yastıklar. Koltuğa renk ve doku katar.\n\n- Dekoratif Objeler\n  • Duvar Rafı (Ahşap) - Doğal ahşap tonlarında, duvara monte raf. Kitaplar ve dekoratif objeler için sergileme alanı sağlar.\n  • Bitki Saksısı - Seramik, beyaz renkli bitki saksısı. Odaya doğal bir dokunuş katar.\n  • Soyut Duvar Tablosu - Siyah beyaz tonlarında, soyut desenli duvar tablosu. Odaya sanatsal bir hava katar.\n\n- Perdeler\n  • Tül Perde (Beyaz) - Beyaz renkli, ince tül perde. Doğal ışığı içeri alırken, mahremiyet sağlar.",
+      "products": [
+        {
+          "category": "Mobilyalar",
+          "name": "Beyaz Çalışma Masası",
+          "description": "Sade ve modern tasarımlı, 120x60 cm boyutlarında beyaz bir çalışma masası. Odaya aydınlık ve ferah bir hava katacak.",
+          "type": "product"
+        },
+        {
+          "category": "Mobilyalar",
+          "name": "Köşe Koltuk (Gri)",
+          "description": "Açık gri tonlarında, minimalist tasarımlı köşe koltuk. Odaya sıcaklık ve konfor katarken, alandan tasarruf sağlar.",
+          "type": "product"
+        },
+        {
+          "category": "Mobilyalar",
+          "name": "TV Ünitesi (Beyaz)",
+          "description": "Duvara monte, minimalist beyaz TV ünitesi. Kabloları gizleyerek düzenli bir görünüm sağlar.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Ayaklı Lamba (Metal)",
+          "description": "Siyah metal ayaklı, minimalist tasarımlı lambader. Odaya sıcak ve odaklı bir aydınlatma sağlar.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Gömme Spotlar",
+          "description": "Tavan aydınlatması için, odaya genel bir ışık yayacak gömme spotlar.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Düz Renk Halı (Bej)",
+          "description": "Bej rengi, yumuşak dokulu, büyük boy halı. Odaya sıcaklık ve konfor katar.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Dekoratif Yastıklar",
+          "description": "Gri ve beyaz tonlarında, geometrik desenli dekoratif yastıklar. Koltuğa renk ve doku katar.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Duvar Rafı (Ahşap)",
+          "description": "Doğal ahşap tonlarında, duvara monte raf. Kitaplar ve dekoratif objeler için sergileme alanı sağlar.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Bitki Saksısı",
+          "description": "Seramik, beyaz renkli bitki saksısı. Odaya doğal bir dokunuş katar.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Soyut Duvar Tablosu",
+          "description": "Siyah beyaz tonlarında, soyut desenli duvar tablosu. Odaya sanatsal bir hava katar.",
+          "type": "product"
+        },
+        {
+          "category": "Perdeler",
+          "name": "Tül Perde (Beyaz)",
+          "description": "Beyaz renkli, ince tül perde. Doğal ışığı içeri alırken, mahremiyet sağlar.",
+          "type": "product"
+        }
+      ],
+      "raw_response": "{\n  \"title\": \"Minimal Salon Tasarımı: Beyazın Ferahlığı\",\n  \"description\": \"Bu tasarım, minimalizm prensiplerini benimseyerek, beyazın ve nötr tonların hakim olduğu, ferah ve işlevsel bir salon yaratmayı amaçlar. Doğal ışık kullanımı ve az eşya ile sakin bir atmosfer hedeflenir.\",\n  \"products\": [\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Beyaz Çalışma Masası\",\n      \"description\": \"Sade ve modern tasarımlı, 120x60 cm boyutlarında beyaz bir çalışma masası. Odaya aydınlık ve ferah bir hava katacak.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Köşe Koltuk (Gri)\",\n      \"description\": \"Açık gri tonlarında, minimalist tasarımlı köşe koltuk. Odaya sıcaklık ve konfor katarken, alandan tasarruf sağlar.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"TV Ünitesi (Beyaz)\",\n      \"description\": \"Duvara monte, minimalist beyaz TV ünitesi. Kabloları gizleyerek düzenli bir görünüm sağlar.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Ayaklı Lamba (Metal)\",\n      \"description\": \"Siyah metal ayaklı, minimalist tasarımlı lambader. Odaya sıcak ve odaklı bir aydınlatma sağlar.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Gömme Spotlar\",\n      \"description\": \"Tavan aydınlatması için, odaya genel bir ışık yayacak gömme spotlar.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Düz Renk Halı (Bej)\",\n      \"description\": \"Bej rengi, yumuşak dokulu, büyük boy halı. Odaya sıcaklık ve konfor katar.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Dekoratif Yastıklar\",\n      \"description\": \"Gri ve beyaz tonlarında, geometrik desenli dekoratif yastıklar. Koltuğa renk ve doku katar.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Duvar Rafı (Ahşap)\",\n      \"description\": \"Doğal ahşap tonlarında, duvara monte raf. Kitaplar ve dekoratif objeler için sergileme alanı sağlar.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Bitki Saksısı\",\n      \"description\": \"Seramik, beyaz renkli bitki saksısı. Odaya doğal bir dokunuş katar.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Soyut Duvar Tablosu\",\n      \"description\": \"Siyah beyaz tonlarında, soyut desenli duvar tablosu. Odaya sanatsal bir hava katar.\"\n    },\n    {\n      \"category\": \"Perdeler\",\n      \"name\": \"Tül Perde (Beyaz)\",\n      \"description\": \"Beyaz renkli, ince tül perde. Doğal ışığı içeri alırken, mahremiyet sağlar.\"\n    }\n  ]\n}"
+    },
+    "error_message": null
+  },
+  {
+    "request_id": "design_20250728_011441_250",
+    "timestamp": "2025-07-28T01:14:41.250210",
+    "input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 300cm x 400cm x 250cm (G x U x Y)\r\nKullanıcı Notları: Beyaz bir masa kesin içersin"
+    },
+    "output": {
+      "success": true,
+      "design_title": "Modern Salon: Minimal Şıklık ve Beyazın Ferahlığı",
+      "design_description": "Bu tasarım, modern stilin minimalist ve ferahlatıcı etkisini beyazın saflığıyla birleştiriyor. Nötr renk paleti, doğal ışıkla birleşerek aydınlık bir atmosfer yaratırken, geometrik desenler ve metalik detaylar modern bir dokunuş katıyor. Beyaz masa, odanın odak noktası olarak işlevselliği ve estetiği bir araya getiriyor.",
+      "product_suggestion": "- Mobilyalar\n  • Köşe Koltuk (Açık Gri) - Modern hatlara sahip, geniş ve konforlu açık gri köşe koltuk. Odaya ferahlık katarken, oturma alanı için ideal.\n  • Beyaz Lake Masa - Parlak beyaz lake yüzeyli, minimalist tasarımlı masa. Çalışma alanı veya yemek masası olarak kullanılabilir.\n  • TV Ünitesi (Ahşap ve Metal) - Ahşap ve metal detaylı, modern TV ünitesi. Odaya sıcaklık katarken, depolama alanı sunar.\n\n- Aydınlatma\n  • Ayaklı Lamba (Metal) - Metal ayaklı, modern tasarımlı ayaklı lamba. Odaya loş ve sıcak bir aydınlatma sağlar.\n  • Tavan Armatürü (Geometrik) - Geometrik şekilli, modern tavan armatürü. Odaya şık ve farklı bir aydınlatma katar.\n\n- Tekstil\n  • Halı (Geometrik Desenli) - Açık renkli, geometrik desenli halı. Odaya modern bir dokunuş katar ve zemini sıcak tutar.\n  • Dekoratif Yastıklar (Gri ve Beyaz) - Gri ve beyaz tonlarında, farklı dokularda dekoratif yastıklar. Koltuğa konfor ve stil katar.\n\n- Dekoratif Objeler\n  • Metal Duvar Dekoru - Metalden yapılmış, soyut ve modern duvar dekoru. Odaya sanatsal bir hava katar.\n  • Seramik Vazolar - Farklı boyutlarda, minimalist tasarımlı seramik vazolar. Masa veya sehpa üzerinde kullanılabilir.\n\n- Bitkiler\n  • Salon Bitkisi (Paşa Kılıcı) - Paşa kılıcı gibi bakımı kolay, modern saksıda salon bitkisi. Odaya doğal bir hava katar.\n\n- Perdeler\n  • Tül Perde (Beyaz) - Beyaz renkli, hafif tül perde. Odaya doğal ışığın girmesini sağlarken, mahremiyet sağlar.\n\n- Aksesuarlar\n  • Ayna (Yuvarlak) - Yuvarlak çerçeveli, büyük ayna. Odayı daha geniş ve aydınlık gösterir.",
+      "products": [
+        {
+          "category": "Mobilyalar",
+          "name": "Köşe Koltuk (Açık Gri)",
+          "description": "Modern hatlara sahip, geniş ve konforlu açık gri köşe koltuk. Odaya ferahlık katarken, oturma alanı için ideal.",
+          "type": "product"
+        },
+        {
+          "category": "Mobilyalar",
+          "name": "Beyaz Lake Masa",
+          "description": "Parlak beyaz lake yüzeyli, minimalist tasarımlı masa. Çalışma alanı veya yemek masası olarak kullanılabilir.",
+          "type": "product"
+        },
+        {
+          "category": "Mobilyalar",
+          "name": "TV Ünitesi (Ahşap ve Metal)",
+          "description": "Ahşap ve metal detaylı, modern TV ünitesi. Odaya sıcaklık katarken, depolama alanı sunar.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Ayaklı Lamba (Metal)",
+          "description": "Metal ayaklı, modern tasarımlı ayaklı lamba. Odaya loş ve sıcak bir aydınlatma sağlar.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Tavan Armatürü (Geometrik)",
+          "description": "Geometrik şekilli, modern tavan armatürü. Odaya şık ve farklı bir aydınlatma katar.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Halı (Geometrik Desenli)",
+          "description": "Açık renkli, geometrik desenli halı. Odaya modern bir dokunuş katar ve zemini sıcak tutar.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Dekoratif Yastıklar (Gri ve Beyaz)",
+          "description": "Gri ve beyaz tonlarında, farklı dokularda dekoratif yastıklar. Koltuğa konfor ve stil katar.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Metal Duvar Dekoru",
+          "description": "Metalden yapılmış, soyut ve modern duvar dekoru. Odaya sanatsal bir hava katar.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Seramik Vazolar",
+          "description": "Farklı boyutlarda, minimalist tasarımlı seramik vazolar. Masa veya sehpa üzerinde kullanılabilir.",
+          "type": "product"
+        },
+        {
+          "category": "Bitkiler",
+          "name": "Salon Bitkisi (Paşa Kılıcı)",
+          "description": "Paşa kılıcı gibi bakımı kolay, modern saksıda salon bitkisi. Odaya doğal bir hava katar.",
+          "type": "product"
+        },
+        {
+          "category": "Perdeler",
+          "name": "Tül Perde (Beyaz)",
+          "description": "Beyaz renkli, hafif tül perde. Odaya doğal ışığın girmesini sağlarken, mahremiyet sağlar.",
+          "type": "product"
+        },
+        {
+          "category": "Aksesuarlar",
+          "name": "Ayna (Yuvarlak)",
+          "description": "Yuvarlak çerçeveli, büyük ayna. Odayı daha geniş ve aydınlık gösterir.",
+          "type": "product"
+        }
+      ],
+      "raw_response": "{\n  \"title\": \"Modern Salon: Minimal Şıklık ve Beyazın Ferahlığı\",\n  \"description\": \"Bu tasarım, modern stilin minimalist ve ferahlatıcı etkisini beyazın saflığıyla birleştiriyor. Nötr renk paleti, doğal ışıkla birleşerek aydınlık bir atmosfer yaratırken, geometrik desenler ve metalik detaylar modern bir dokunuş katıyor. Beyaz masa, odanın odak noktası olarak işlevselliği ve estetiği bir araya getiriyor.\",\n  \"products\": [\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Köşe Koltuk (Açık Gri)\",\n      \"description\": \"Modern hatlara sahip, geniş ve konforlu açık gri köşe koltuk. Odaya ferahlık katarken, oturma alanı için ideal.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Beyaz Lake Masa\",\n      \"description\": \"Parlak beyaz lake yüzeyli, minimalist tasarımlı masa. Çalışma alanı veya yemek masası olarak kullanılabilir.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"TV Ünitesi (Ahşap ve Metal)\",\n      \"description\": \"Ahşap ve metal detaylı, modern TV ünitesi. Odaya sıcaklık katarken, depolama alanı sunar.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Ayaklı Lamba (Metal)\",\n      \"description\": \"Metal ayaklı, modern tasarımlı ayaklı lamba. Odaya loş ve sıcak bir aydınlatma sağlar.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Tavan Armatürü (Geometrik)\",\n      \"description\": \"Geometrik şekilli, modern tavan armatürü. Odaya şık ve farklı bir aydınlatma katar.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Halı (Geometrik Desenli)\",\n      \"description\": \"Açık renkli, geometrik desenli halı. Odaya modern bir dokunuş katar ve zemini sıcak tutar.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Dekoratif Yastıklar (Gri ve Beyaz)\",\n      \"description\": \"Gri ve beyaz tonlarında, farklı dokularda dekoratif yastıklar. Koltuğa konfor ve stil katar.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Metal Duvar Dekoru\",\n      \"description\": \"Metalden yapılmış, soyut ve modern duvar dekoru. Odaya sanatsal bir hava katar.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Seramik Vazolar\",\n      \"description\": \"Farklı boyutlarda, minimalist tasarımlı seramik vazolar. Masa veya sehpa üzerinde kullanılabilir.\"\n    },\n    {\n      \"category\": \"Bitkiler\",\n      \"name\": \"Salon Bitkisi (Paşa Kılıcı)\",\n      \"description\": \"Paşa kılıcı gibi bakımı kolay, modern saksıda salon bitkisi. Odaya doğal bir hava katar.\"\n    },\n    {\n      \"category\": \"Perdeler\",\n      \"name\": \"Tül Perde (Beyaz)\",\n      \"description\": \"Beyaz renkli, hafif tül perde. Odaya doğal ışığın girmesini sağlarken, mahremiyet sağlar.\"\n    },\n    {\n      \"category\": \"Aksesuarlar\",\n      \"name\": \"Ayna (Yuvarlak)\",\n      \"description\": \"Yuvarlak çerçeveli, büyük ayna. Odayı daha geniş ve aydınlık gösterir.\"\n    }\n  ]\n}"
+    },
+    "error_message": null
+  },
+  {
+    "request_id": "design_20250728_011526_594",
+    "timestamp": "2025-07-28T01:15:26.594178",
+    "input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 300cm x 400cm x 250cm (G x U x Y)\r\nKullanıcı Notları: Duvar rengi kırmızı olsun ve beyaz bir masa kesin bulunsun"
+    },
+    "output": {
+      "success": true,
+      "design_title": "Modern Kırmızı Salon Tasarımı",
+      "design_description": "Bu tasarım, modern stili kırmızı duvarların enerjisiyle birleştiriyor. Beyaz masa, kırmızı tonları dengelerken ferah bir hava katıyor. Geometrik desenler ve metal detaylar modern çizgiyi vurguluyor.",
+      "product_suggestion": "- Duvar Boyası\n  • Koyu Kızıl Duvar Boyası - Salonun ana duvarında kullanılacak, modern ve sıcak bir atmosfer yaratacak koyu kızıl tonlu mat duvar boyası.\n  • Açık Gri Duvar Boyası - Diğer duvarlarda kullanılacak, kırmızı rengi dengeleyecek ve modern bir görünüm sağlayacak açık gri tonlu duvar boyası.\n\n- Masa\n  • Beyaz Metal Ayaklı Masa - Odaya ferahlık katacak, modern tasarımlı, metal ayaklı beyaz yemek veya çalışma masası (160x80cm).\n\n- Koltuk\n  • Gri Köşe Koltuk - Salonun boyutuna uygun, konforlu ve modern tasarımlı gri köşe koltuk. Kırmızı ile uyumlu, nötr bir seçim.\n\n- Halı\n  • Geometrik Desenli Halı - Modern tasarımı destekleyen, kırmızı ve gri tonlarını içeren geometrik desenli, yumuşak dokulu halı (200x300cm).\n\n- Aydınlatma\n  • Siyah Metal Sarkıt Lamba - Masanın üzerine asılacak, modern ve minimalist tasarımlı siyah metal sarkıt lamba.\n  • Ayaklı Lambader - Köşe koltuğun yanına yerleştirilecek, modern tasarımlı, ayarlanabilir ışık şiddetine sahip lambader.\n\n- Dekoratif Objeler\n  • Metal Duvar Tabloları - Duvarlara asılacak, modern ve soyut desenlere sahip metal duvar tabloları. Kızıl tonları tamamlayacak renklerde.\n  • Seramik Vazolar - Masanın üzerinde sergilenecek, minimalist tasarımlı, beyaz veya gri renklerde seramik vazolar.\n\n- Tekstil\n  • Dekoratif Yastıklar - Koltuk üzerinde kullanılacak, kırmızı, gri ve beyaz renklerde, farklı dokularda dekoratif yastıklar.\n\n- Perdeler\n  • Beyaz Tül Perdeler - Odaya doğal ışık girmesini sağlayan, hafif ve şeffaf beyaz tül perdeler.\n\n- Bitkiler\n  • Salon Bitkisi - Odaya canlılık katacak, büyük yapraklı salon bitkisi (örn: Areka Palmiyesi).",
+      "products": [
+        {
+          "category": "Duvar Boyası",
+          "name": "Koyu Kızıl Duvar Boyası",
+          "description": "Salonun ana duvarında kullanılacak, modern ve sıcak bir atmosfer yaratacak koyu kızıl tonlu mat duvar boyası.",
+          "type": "product"
+        },
+        {
+          "category": "Duvar Boyası",
+          "name": "Açık Gri Duvar Boyası",
+          "description": "Diğer duvarlarda kullanılacak, kırmızı rengi dengeleyecek ve modern bir görünüm sağlayacak açık gri tonlu duvar boyası.",
+          "type": "product"
+        },
+        {
+          "category": "Masa",
+          "name": "Beyaz Metal Ayaklı Masa",
+          "description": "Odaya ferahlık katacak, modern tasarımlı, metal ayaklı beyaz yemek veya çalışma masası (160x80cm).",
+          "type": "product"
+        },
+        {
+          "category": "Koltuk",
+          "name": "Gri Köşe Koltuk",
+          "description": "Salonun boyutuna uygun, konforlu ve modern tasarımlı gri köşe koltuk. Kırmızı ile uyumlu, nötr bir seçim.",
+          "type": "product"
+        },
+        {
+          "category": "Halı",
+          "name": "Geometrik Desenli Halı",
+          "description": "Modern tasarımı destekleyen, kırmızı ve gri tonlarını içeren geometrik desenli, yumuşak dokulu halı (200x300cm).",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Siyah Metal Sarkıt Lamba",
+          "description": "Masanın üzerine asılacak, modern ve minimalist tasarımlı siyah metal sarkıt lamba.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Ayaklı Lambader",
+          "description": "Köşe koltuğun yanına yerleştirilecek, modern tasarımlı, ayarlanabilir ışık şiddetine sahip lambader.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Metal Duvar Tabloları",
+          "description": "Duvarlara asılacak, modern ve soyut desenlere sahip metal duvar tabloları. Kızıl tonları tamamlayacak renklerde.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Seramik Vazolar",
+          "description": "Masanın üzerinde sergilenecek, minimalist tasarımlı, beyaz veya gri renklerde seramik vazolar.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Dekoratif Yastıklar",
+          "description": "Koltuk üzerinde kullanılacak, kırmızı, gri ve beyaz renklerde, farklı dokularda dekoratif yastıklar.",
+          "type": "product"
+        },
+        {
+          "category": "Perdeler",
+          "name": "Beyaz Tül Perdeler",
+          "description": "Odaya doğal ışık girmesini sağlayan, hafif ve şeffaf beyaz tül perdeler.",
+          "type": "product"
+        },
+        {
+          "category": "Bitkiler",
+          "name": "Salon Bitkisi",
+          "description": "Odaya canlılık katacak, büyük yapraklı salon bitkisi (örn: Areka Palmiyesi).",
+          "type": "product"
+        }
+      ],
+      "raw_response": "{\n  \"title\": \"Modern Kırmızı Salon Tasarımı\",\n  \"description\": \"Bu tasarım, modern stili kırmızı duvarların enerjisiyle birleştiriyor. Beyaz masa, kırmızı tonları dengelerken ferah bir hava katıyor. Geometrik desenler ve metal detaylar modern çizgiyi vurguluyor.\",\n  \"products\": [\n    {\n      \"category\": \"Duvar Boyası\",\n      \"name\": \"Koyu Kızıl Duvar Boyası\",\n      \"description\": \"Salonun ana duvarında kullanılacak, modern ve sıcak bir atmosfer yaratacak koyu kızıl tonlu mat duvar boyası.\"\n    },\n    {\n      \"category\": \"Duvar Boyası\",\n      \"name\": \"Açık Gri Duvar Boyası\",\n      \"description\": \"Diğer duvarlarda kullanılacak, kırmızı rengi dengeleyecek ve modern bir görünüm sağlayacak açık gri tonlu duvar boyası.\"\n    },\n    {\n      \"category\": \"Masa\",\n      \"name\": \"Beyaz Metal Ayaklı Masa\",\n      \"description\": \"Odaya ferahlık katacak, modern tasarımlı, metal ayaklı beyaz yemek veya çalışma masası (160x80cm).\"\n    },\n    {\n      \"category\": \"Koltuk\",\n      \"name\": \"Gri Köşe Koltuk\",\n      \"description\": \"Salonun boyutuna uygun, konforlu ve modern tasarımlı gri köşe koltuk. Kırmızı ile uyumlu, nötr bir seçim.\"\n    },\n    {\n      \"category\": \"Halı\",\n      \"name\": \"Geometrik Desenli Halı\",\n      \"description\": \"Modern tasarımı destekleyen, kırmızı ve gri tonlarını içeren geometrik desenli, yumuşak dokulu halı (200x300cm).\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Siyah Metal Sarkıt Lamba\",\n      \"description\": \"Masanın üzerine asılacak, modern ve minimalist tasarımlı siyah metal sarkıt lamba.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Ayaklı Lambader\",\n      \"description\": \"Köşe koltuğun yanına yerleştirilecek, modern tasarımlı, ayarlanabilir ışık şiddetine sahip lambader.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Metal Duvar Tabloları\",\n      \"description\": \"Duvarlara asılacak, modern ve soyut desenlere sahip metal duvar tabloları. Kızıl tonları tamamlayacak renklerde.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Seramik Vazolar\",\n      \"description\": \"Masanın üzerinde sergilenecek, minimalist tasarımlı, beyaz veya gri renklerde seramik vazolar.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Dekoratif Yastıklar\",\n      \"description\": \"Koltuk üzerinde kullanılacak, kırmızı, gri ve beyaz renklerde, farklı dokularda dekoratif yastıklar.\"\n    },\n    {\n      \"category\": \"Perdeler\",\n      \"name\": \"Beyaz Tül Perdeler\",\n      \"description\": \"Odaya doğal ışık girmesini sağlayan, hafif ve şeffaf beyaz tül perdeler.\"\n    },\n    {\n      \"category\": \"Bitkiler\",\n      \"name\": \"Salon Bitkisi\",\n      \"description\": \"Odaya canlılık katacak, büyük yapraklı salon bitkisi (örn: Areka Palmiyesi).\"\n    }\n  ]\n}"
+    },
+    "error_message": null
+  },
+  {
+    "request_id": "design_20250728_012220_706",
+    "timestamp": "2025-07-28T01:22:20.706366",
+    "input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 300cm x 400cm x 250cm (G x U x Y)\r\nKullanıcı Notları: İstanbul ankara arası nasıl giderim"
+    },
+    "output": {
+      "success": true,
+      "design_title": "Modern Şıklık: İstanbul Esintili Salon Tasarımı",
+      "design_description": "Bu tasarım, modern estetiği İstanbul'un şehirli ve sofistike atmosferiyle birleştiriyor. Nötr renk paleti, doğal dokular ve minimalist detaylar ile ferah ve davetkar bir salon yaratmayı hedefliyor. Aydınlatma, hem işlevsel hem de atmosferik unsurları bir araya getiriyor.",
+      "product_suggestion": "- Mobilyalar\n  • Köşe Koltuk Takımı (Gri) - Minimalist hatlara sahip, geniş ve rahat bir köşe koltuk. Gri renk, modern ve nötr bir zemin oluşturur.\n  • Orta Sehpa (Ahşap & Metal) - Doğal ahşap ve metal detayları bir araya getiren, modern ve şık bir orta sehpa. Odaya sıcaklık katar.\n  • TV Ünitesi (Beyaz & Ahşap) - Duvara monte, minimalist bir TV ünitesi. Beyaz ve ahşap kombinasyonu, modern bir görünüm sağlar.\n\n- Aydınlatma\n  • Ayaklı Lamba (Metal) - Köşeye yerleştirilecek, modern tasarımlı bir ayaklı lamba. Ambiyans aydınlatması için idealdir.\n  • Tavan Spotları (LED) - Tavana gömme, enerji tasarruflu LED spotlar. Genel aydınlatma için kullanılır. Dim edilebilir modeller tercih edilebilir.\n\n- Tekstil\n  • Halı (Geometrik Desenli) - Modern ve geometrik desenli bir halı. Odaya hareket ve sıcaklık katar. Renkleri koltukla uyumlu olmalı.\n  • Dekoratif Yastıklar - Farklı dokularda ve desenlerde dekoratif yastıklar. Koltuğa renk ve karakter katar. (Gri, bej, turuncu tonları)\n\n- Dekoratif Objeler\n  • Duvar Tabloları (Soyut) - Soyut sanat eserlerinden oluşan bir duvar tablosu seti. Odaya sanatsal bir dokunuş katar.\n  • Bitkiler (Salon Bitkileri) - Büyük yapraklı salon bitkileri. Odaya canlılık ve doğal bir hava katar.\n\n- Perdeler\n  • Tül Perde (Beyaz) - Hafif ve şeffaf beyaz tül perdeler. Doğal ışığı içeri alır ve mahremiyet sağlar.\n\n- Duvar Dekorasyonu\n  • Ayna (Yuvarlak) - Büyük yuvarlak ayna. Odayı daha geniş ve aydınlık gösterir.",
+      "products": [
+        {
+          "category": "Mobilyalar",
+          "name": "Köşe Koltuk Takımı (Gri)",
+          "description": "Minimalist hatlara sahip, geniş ve rahat bir köşe koltuk. Gri renk, modern ve nötr bir zemin oluşturur.",
+          "type": "product"
+        },
+        {
+          "category": "Mobilyalar",
+          "name": "Orta Sehpa (Ahşap & Metal)",
+          "description": "Doğal ahşap ve metal detayları bir araya getiren, modern ve şık bir orta sehpa. Odaya sıcaklık katar.",
+          "type": "product"
+        },
+        {
+          "category": "Mobilyalar",
+          "name": "TV Ünitesi (Beyaz & Ahşap)",
+          "description": "Duvara monte, minimalist bir TV ünitesi. Beyaz ve ahşap kombinasyonu, modern bir görünüm sağlar.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Ayaklı Lamba (Metal)",
+          "description": "Köşeye yerleştirilecek, modern tasarımlı bir ayaklı lamba. Ambiyans aydınlatması için idealdir.",
+          "type": "product"
+        },
+        {
+          "category": "Aydınlatma",
+          "name": "Tavan Spotları (LED)",
+          "description": "Tavana gömme, enerji tasarruflu LED spotlar. Genel aydınlatma için kullanılır. Dim edilebilir modeller tercih edilebilir.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Halı (Geometrik Desenli)",
+          "description": "Modern ve geometrik desenli bir halı. Odaya hareket ve sıcaklık katar. Renkleri koltukla uyumlu olmalı.",
+          "type": "product"
+        },
+        {
+          "category": "Tekstil",
+          "name": "Dekoratif Yastıklar",
+          "description": "Farklı dokularda ve desenlerde dekoratif yastıklar. Koltuğa renk ve karakter katar. (Gri, bej, turuncu tonları)",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Duvar Tabloları (Soyut)",
+          "description": "Soyut sanat eserlerinden oluşan bir duvar tablosu seti. Odaya sanatsal bir dokunuş katar.",
+          "type": "product"
+        },
+        {
+          "category": "Dekoratif Objeler",
+          "name": "Bitkiler (Salon Bitkileri)",
+          "description": "Büyük yapraklı salon bitkileri. Odaya canlılık ve doğal bir hava katar.",
+          "type": "product"
+        },
+        {
+          "category": "Perdeler",
+          "name": "Tül Perde (Beyaz)",
+          "description": "Hafif ve şeffaf beyaz tül perdeler. Doğal ışığı içeri alır ve mahremiyet sağlar.",
+          "type": "product"
+        },
+        {
+          "category": "Duvar Dekorasyonu",
+          "name": "Ayna (Yuvarlak)",
+          "description": "Büyük yuvarlak ayna. Odayı daha geniş ve aydınlık gösterir.",
+          "type": "product"
+        }
+      ],
+      "raw_response": "{\n  \"title\": \"Modern Şıklık: İstanbul Esintili Salon Tasarımı\",\n  \"description\": \"Bu tasarım, modern estetiği İstanbul'un şehirli ve sofistike atmosferiyle birleştiriyor. Nötr renk paleti, doğal dokular ve minimalist detaylar ile ferah ve davetkar bir salon yaratmayı hedefliyor. Aydınlatma, hem işlevsel hem de atmosferik unsurları bir araya getiriyor.\",\n  \"products\": [\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Köşe Koltuk Takımı (Gri)\",\n      \"description\": \"Minimalist hatlara sahip, geniş ve rahat bir köşe koltuk. Gri renk, modern ve nötr bir zemin oluşturur.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"Orta Sehpa (Ahşap & Metal)\",\n      \"description\": \"Doğal ahşap ve metal detayları bir araya getiren, modern ve şık bir orta sehpa. Odaya sıcaklık katar.\"\n    },\n    {\n      \"category\": \"Mobilyalar\",\n      \"name\": \"TV Ünitesi (Beyaz & Ahşap)\",\n      \"description\": \"Duvara monte, minimalist bir TV ünitesi. Beyaz ve ahşap kombinasyonu, modern bir görünüm sağlar.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Ayaklı Lamba (Metal)\",\n      \"description\": \"Köşeye yerleştirilecek, modern tasarımlı bir ayaklı lamba. Ambiyans aydınlatması için idealdir.\"\n    },\n    {\n      \"category\": \"Aydınlatma\",\n      \"name\": \"Tavan Spotları (LED)\",\n      \"description\": \"Tavana gömme, enerji tasarruflu LED spotlar. Genel aydınlatma için kullanılır. Dim edilebilir modeller tercih edilebilir.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Halı (Geometrik Desenli)\",\n      \"description\": \"Modern ve geometrik desenli bir halı. Odaya hareket ve sıcaklık katar. Renkleri koltukla uyumlu olmalı.\"\n    },\n    {\n      \"category\": \"Tekstil\",\n      \"name\": \"Dekoratif Yastıklar\",\n      \"description\": \"Farklı dokularda ve desenlerde dekoratif yastıklar. Koltuğa renk ve karakter katar. (Gri, bej, turuncu tonları)\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Duvar Tabloları (Soyut)\",\n      \"description\": \"Soyut sanat eserlerinden oluşan bir duvar tablosu seti. Odaya sanatsal bir dokunuş katar.\"\n    },\n    {\n      \"category\": \"Dekoratif Objeler\",\n      \"name\": \"Bitkiler (Salon Bitkileri)\",\n      \"description\": \"Büyük yapraklı salon bitkileri. Odaya canlılık ve doğal bir hava katar.\"\n    },\n    {\n      \"category\": \"Perdeler\",\n      \"name\": \"Tül Perde (Beyaz)\",\n      \"description\": \"Hafif ve şeffaf beyaz tül perdeler. Doğal ışığı içeri alır ve mahremiyet sağlar.\"\n    },\n    {\n      \"category\": \"Duvar Dekorasyonu\",\n      \"name\": \"Ayna (Yuvarlak)\",\n      \"description\": \"Büyük yuvarlak ayna. Odayı daha geniş ve aydınlık gösterir.\"\n    }\n  ]\n}"
+    },
+    "error_message": null
   }
 ]
