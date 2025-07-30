@@ -22,8 +22,6 @@ export const validateForm = (form) => {
  */
 export const validateBlock = (block, roomDimensions) => {
   return ValidationUtils.validateRoomBlock(block, roomDimensions);
-};
-
 /**
  * Tasarım önerisi oluşturucu
  * @param {Object} form - Form verisi
