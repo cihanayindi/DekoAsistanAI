@@ -18,6 +18,7 @@ const RoomDesignStudio = () => {
     moodBoard,
     progress,
     isMoodBoardLoading,
+    connectionId,
     isConnected,
     handleChange,
     handleExtraChange,
