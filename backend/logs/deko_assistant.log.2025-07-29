@@ -1,0 +1,1580 @@
+\n2025-07-29 20:50:15,101 - INFO - WebSocket Manager initialized
+\n2025-07-29 20:50:15,104 - INFO - Created mood board log file: data/mood_board_history.json
+\n2025-07-29 20:50:15,104 - INFO - Mood Board Log Service initialized
+\n2025-07-29 20:50:15,114 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 20:50:15,171 - INFO - Gemini Service initialized
+\n2025-07-29 20:50:21,726 - INFO - WebSocket Manager initialized
+\n2025-07-29 20:50:21,728 - INFO - Mood Board Log Service initialized
+\n2025-07-29 20:50:21,737 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 20:50:21,798 - INFO - Gemini Service initialized
+\n2025-07-29 20:50:22,076 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 20:50:29,285 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-29 20:50:29,291 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-29 20:50:53,703 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+\n2025-07-29 20:59:53,920 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-29 21:02:15,329 - INFO - Design request from cihanayindi00@gmail.com: salon - minimal
+\n2025-07-29 21:02:15,330 - INFO - Requesting design suggestion from Gemini: salon - minimal
+\n2025-07-29 21:02:22,992 - INFO - Design suggestion successfully received from Gemini
+\n2025-07-29 21:02:22,992 - INFO - Design suggestion created successfully for cihanayindi00@gmail.com: Minimal Country Esintili Salon
+\n2025-07-29 21:02:22,992 - INFO - Starting background mood board generation for connection: 48655034-228c-4d4e-be51-03522f2e0513
+\n2025-07-29 21:02:23,429 - INFO - Design saved to database for cihanayindi00@gmail.com with ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 21:02:23,484 - INFO - Mood board progress updated for 48655034-228c-4d4e-be51-03522f2e0513: preparing_prompt
+\n2025-07-29 21:02:25,018 - INFO - Enhanced Imagen prompt created: Modern mood board layout. Minimalist salon: country furniture, natural colors, wood details, Turkish...
+\n2025-07-29 21:02:25,019 - INFO - Mood board progress updated for 48655034-228c-4d4e-be51-03522f2e0513: generating_image
+\n2025-07-29 21:02:25,039 - INFO - 🎨 Generating mood board with Vertex AI...
+\n2025-07-29 21:02:35,650 - INFO - ✅ Vertex AI mood board generated successfully
+\n2025-07-29 21:02:35,667 - INFO - Mood board image saved: data\mood_boards\mood_board_20250729_210235_0270eedc.png
+\n2025-07-29 21:02:35,668 - INFO - Mood board progress updated for 48655034-228c-4d4e-be51-03522f2e0513: processing_image
+\n2025-07-29 21:02:35,669 - INFO - Mood board progress updated for 48655034-228c-4d4e-be51-03522f2e0513: finalizing
+\n2025-07-29 21:02:35,669 - INFO - Mood board progress updated for 48655034-228c-4d4e-be51-03522f2e0513: completed
+\n2025-07-29 21:02:36,014 - INFO - Mood board completed and sent to 48655034-228c-4d4e-be51-03522f2e0513
+\n2025-07-29 21:02:36,016 - INFO - Mood board log saved: mbl_20250729_210236_0270eedc
+\n2025-07-29 21:02:36,016 - INFO - Mood board generated successfully: 0270eedc-2614-465a-838b-07ac4ac7d2de
+\n2025-07-29 21:04:43,360 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 21:04:43,631 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 21:05:48,262 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 21:05:52,293 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 21:05:55,845 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 21:05:57,189 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 21:07:52,190 - INFO - Design request from cihanayindi00@gmail.com: salon - klasik
+\n2025-07-29 21:07:52,190 - INFO - Requesting design suggestion from Gemini: salon - klasik
+\n2025-07-29 21:08:00,409 - INFO - Design suggestion successfully received from Gemini
+\n2025-07-29 21:08:00,409 - INFO - Design suggestion created successfully for cihanayindi00@gmail.com: Retro Şıklıkta Klasik Salon Tasarımı
+\n2025-07-29 21:08:00,410 - INFO - Starting background mood board generation for connection: 70828fd3-b2cc-43b4-a416-3e05356afb94
+\n2025-07-29 21:08:47,456 - ERROR - Error saving design to database: 
+\n2025-07-29 21:08:47,458 - INFO - Mood board progress updated for 70828fd3-b2cc-43b4-a416-3e05356afb94: preparing_prompt
+\n2025-07-29 21:08:48,513 - INFO - Enhanced Imagen prompt created: Mood board, classic living room, retro details, wood tones, pastel colors, geometric patterns, vinta...
+\n2025-07-29 21:08:48,514 - INFO - Mood board progress updated for 70828fd3-b2cc-43b4-a416-3e05356afb94: generating_image
+\n2025-07-29 21:08:48,514 - INFO - 🎨 Generating mood board with Vertex AI...
+\n2025-07-29 21:08:58,855 - INFO - ✅ Vertex AI mood board generated successfully
+\n2025-07-29 21:08:58,873 - INFO - Mood board image saved: data\mood_boards\mood_board_20250729_210858_cf888aa5.png
+\n2025-07-29 21:08:58,874 - INFO - Mood board progress updated for 70828fd3-b2cc-43b4-a416-3e05356afb94: processing_image
+\n2025-07-29 21:08:58,875 - INFO - Mood board progress updated for 70828fd3-b2cc-43b4-a416-3e05356afb94: finalizing
+\n2025-07-29 21:08:58,875 - INFO - Mood board progress updated for 70828fd3-b2cc-43b4-a416-3e05356afb94: completed
+\n2025-07-29 21:08:59,224 - INFO - Mood board completed and sent to 70828fd3-b2cc-43b4-a416-3e05356afb94
+\n2025-07-29 21:08:59,243 - INFO - Mood board log saved: mbl_20250729_210859_cf888aa5
+\n2025-07-29 21:08:59,243 - INFO - Mood board generated successfully: cf888aa5-ccee-4cc6-8e1a-5fde58d8285f
+\n2025-07-29 22:05:51,269 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 22:25:06,840 - INFO - WebSocket Manager initialized
+\n2025-07-29 22:25:06,842 - INFO - Mood Board Log Service initialized
+\n2025-07-29 22:25:06,850 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 22:25:06,904 - INFO - Gemini Service initialized
+\n2025-07-29 22:25:13,009 - INFO - WebSocket Manager initialized
+\n2025-07-29 22:25:13,011 - INFO - Mood Board Log Service initialized
+\n2025-07-29 22:25:13,019 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 22:25:13,073 - INFO - Gemini Service initialized
+\n2025-07-29 22:25:13,303 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 22:25:55,096 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+\n2025-07-29 22:26:30,435 - INFO - Design request from cihanayindi00@gmail.com: yatak - klasik
+\n2025-07-29 22:26:30,435 - INFO - Requesting design suggestion from Gemini: yatak - klasik
+\n2025-07-29 22:26:37,670 - INFO - Design suggestion successfully received from Gemini
+\n2025-07-29 22:26:37,671 - INFO - Design suggestion created successfully for cihanayindi00@gmail.com: Yunan Esintili Klasik Yatak Odası
+\n2025-07-29 22:26:37,671 - INFO - Starting background mood board generation for connection: e0441019-f68f-47ad-af48-7468dc2355f1
+\n2025-07-29 22:26:38,795 - INFO - Design saved to database for cihanayindi00@gmail.com with ID: 2bb9834e-50ee-4a65-8e5e-ebff99d7a7e5
+\n2025-07-29 22:26:38,846 - INFO - Mood board progress updated for e0441019-f68f-47ad-af48-7468dc2355f1: preparing_prompt
+\n2025-07-29 22:26:39,743 - INFO - Enhanced Imagen prompt created: Mood board. Classic bedroom interior. Greek mythology theme. Cream, gold, navy colors. Sculptures, c...
+\n2025-07-29 22:26:39,744 - INFO - Mood board progress updated for e0441019-f68f-47ad-af48-7468dc2355f1: generating_image
+\n2025-07-29 22:26:39,764 - INFO - 🎨 Generating mood board with Vertex AI...
+\n2025-07-29 22:26:50,018 - INFO - ✅ Vertex AI mood board generated successfully
+\n2025-07-29 22:26:50,032 - INFO - Mood board image saved: data\mood_boards\mood_board_20250729_222650_2c879775.png
+\n2025-07-29 22:26:50,034 - INFO - Mood board progress updated for e0441019-f68f-47ad-af48-7468dc2355f1: processing_image
+\n2025-07-29 22:26:50,034 - INFO - Mood board progress updated for e0441019-f68f-47ad-af48-7468dc2355f1: finalizing
+\n2025-07-29 22:26:50,035 - INFO - Mood board progress updated for e0441019-f68f-47ad-af48-7468dc2355f1: completed
+\n2025-07-29 22:26:50,331 - INFO - Mood board completed and sent to e0441019-f68f-47ad-af48-7468dc2355f1
+\n2025-07-29 22:26:50,333 - INFO - Mood board log saved: mbl_20250729_222650_2c879775
+\n2025-07-29 22:26:50,658 - INFO - Mood board 2c879775-3ec3-49aa-9bd9-b6e6183b5f84 saved to database and linked to design 2bb9834e-50ee-4a65-8e5e-ebff99d7a7e5
+\n2025-07-29 22:26:50,659 - INFO - Mood board saved to database: 2c879775-3ec3-49aa-9bd9-b6e6183b5f84
+\n2025-07-29 22:26:50,660 - INFO - Mood board generated successfully: 2c879775-3ec3-49aa-9bd9-b6e6183b5f84
+\n2025-07-29 22:30:56,286 - INFO - Request received at root endpoint
+\n2025-07-29 22:31:30,891 - INFO - Found mood board: 2c879775-3ec3-49aa-9bd9-b6e6183b5f84
+\n2025-07-29 22:31:53,995 - INFO - Found mood board: 2c879775-3ec3-49aa-9bd9-b6e6183b5f84
+\n2025-07-29 22:31:54,038 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-29 22:36:00,869 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 22:36:09,714 - INFO - WebSocket Manager initialized
+\n2025-07-29 22:36:09,716 - INFO - Mood Board Log Service initialized
+\n2025-07-29 22:36:09,724 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 22:36:09,776 - INFO - Gemini Service initialized
+\n2025-07-29 22:36:09,990 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 22:54:03,253 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 23:11:12,130 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:11:12,132 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:11:12,140 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:11:12,195 - INFO - Gemini Service initialized
+\n2025-07-29 23:11:18,387 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:11:18,390 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:11:18,398 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:11:18,456 - INFO - Gemini Service initialized
+\n2025-07-29 23:11:18,727 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 23:11:18,881 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-29 23:11:18,884 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-29 23:11:37,190 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+\n2025-07-29 23:11:42,229 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:11:43,270 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:13:09,413 - INFO - Design request from cihanayindi00@gmail.com: salon - modern
+\n2025-07-29 23:13:09,414 - INFO - Requesting design suggestion from Gemini: salon - modern
+\n2025-07-29 23:13:15,714 - INFO - Design suggestion successfully received from Gemini
+\n2025-07-29 23:13:15,714 - INFO - Design suggestion created successfully for cihanayindi00@gmail.com: Modern Yeşil Salon Tasarımı
+\n2025-07-29 23:13:15,714 - INFO - Starting background mood board generation for connection: 331a44af-344e-4a80-8104-37ff2e63041e
+\n2025-07-29 23:13:16,031 - INFO - Design saved to database for cihanayindi00@gmail.com with ID: f31fe543-0636-4391-a089-8e44c4cfe8b1
+\n2025-07-29 23:13:17,750 - INFO - Successfully saved 10 hashtags for design f31fe543-0636-4391-a089-8e44c4cfe8b1
+\n2025-07-29 23:13:17,751 - INFO - Hashtags saved for design f31fe543-0636-4391-a089-8e44c4cfe8b1: ['#interior_design', '#modern', '#living_room', '#green_tones', '#functional_design', '#small_space', '#workspace', '#tv_area', '#natural_light', '#indoor_plants']
+\n2025-07-29 23:13:17,752 - INFO - Mood board progress updated for 331a44af-344e-4a80-8104-37ff2e63041e: preparing_prompt
+\n2025-07-29 23:13:18,858 - INFO - Enhanced Imagen prompt created: Modern mood board layout: Green tones salon, large desk, TV, 300x300cm, plants, natural light. Mediu...
+\n2025-07-29 23:13:18,859 - INFO - Mood board progress updated for 331a44af-344e-4a80-8104-37ff2e63041e: generating_image
+\n2025-07-29 23:13:18,878 - INFO - 🎨 Generating mood board with Vertex AI...
+\n2025-07-29 23:13:29,530 - INFO - ✅ Vertex AI mood board generated successfully
+\n2025-07-29 23:13:29,548 - INFO - Mood board image saved: data\mood_boards\mood_board_20250729_231329_4026ff8b.png
+\n2025-07-29 23:13:29,549 - INFO - Mood board progress updated for 331a44af-344e-4a80-8104-37ff2e63041e: processing_image
+\n2025-07-29 23:13:29,550 - INFO - Mood board progress updated for 331a44af-344e-4a80-8104-37ff2e63041e: finalizing
+\n2025-07-29 23:13:29,550 - INFO - Mood board progress updated for 331a44af-344e-4a80-8104-37ff2e63041e: completed
+\n2025-07-29 23:13:29,911 - INFO - Mood board completed and sent to 331a44af-344e-4a80-8104-37ff2e63041e
+\n2025-07-29 23:13:29,913 - INFO - Mood board log saved: mbl_20250729_231329_4026ff8b
+\n2025-07-29 23:13:30,215 - INFO - Mood board 4026ff8b-2589-448f-86e1-3dffed924b63 saved to database and linked to design f31fe543-0636-4391-a089-8e44c4cfe8b1
+\n2025-07-29 23:13:30,215 - INFO - Mood board saved to database: 4026ff8b-2589-448f-86e1-3dffed924b63
+\n2025-07-29 23:13:30,216 - INFO - Mood board generated successfully: 4026ff8b-2589-448f-86e1-3dffed924b63
+\n2025-07-29 23:14:55,061 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 23:15:03,705 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:15:03,707 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:15:03,715 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:15:03,768 - INFO - Gemini Service initialized
+\n2025-07-29 23:15:03,982 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 23:19:05,602 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 23:19:12,312 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:19:12,314 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:19:12,322 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:19:12,376 - INFO - Gemini Service initialized
+\n2025-07-29 23:19:12,594 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 23:19:13,789 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 23:25:54,468 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:25:54,470 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:25:54,479 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:26:14,762 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:26:14,764 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:26:14,771 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:29:15,897 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:29:15,899 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:29:15,907 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:29:15,907 - INFO - Unknown hashtags found (kept as English): ['#luxury_apartment', '#new_hashtag']
+\n2025-07-29 23:29:15,908 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-29 23:41:12,898 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:41:12,900 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:41:12,908 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:41:12,960 - INFO - Gemini Service initialized
+\n2025-07-29 23:41:19,025 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:41:19,027 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:41:19,036 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:41:19,089 - INFO - Gemini Service initialized
+\n2025-07-29 23:41:19,315 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 23:42:11,920 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-29 23:42:11,923 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-29 23:42:24,601 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+\n2025-07-29 23:42:33,814 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:42:34,856 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:42:44,727 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:42:44,980 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:43:04,356 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:43:04,612 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:43:25,198 - INFO - Design request from cihanayindi00@gmail.com: salon - minimal
+\n2025-07-29 23:43:25,198 - INFO - Requesting design suggestion from Gemini: salon - minimal
+\n2025-07-29 23:43:31,668 - INFO - Unknown hashtags found (kept as English): ['#minimalism', '#dark_colors', '#modern_design', '#cozy_space', '#geometric_patterns', '#mood_lighting', '#textural_contrast']
+\n2025-07-29 23:43:31,668 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-29 23:43:31,669 - INFO - Design suggestion successfully received from Gemini
+\n2025-07-29 23:43:31,669 - INFO - Design suggestion created successfully for cihanayindi00@gmail.com: Koyu Minimalizm: Şık Salon Tasarımı
+\n2025-07-29 23:43:31,670 - INFO - Starting background mood board generation for connection: aee62112-dc08-454f-a665-ab41899d2969
+\n2025-07-29 23:43:31,965 - INFO - Design saved to database for cihanayindi00@gmail.com with ID: cb8612d6-8e65-43fe-b21c-9db5f224e5b3
+\n2025-07-29 23:43:33,638 - INFO - Successfully saved 10 hashtags for design cb8612d6-8e65-43fe-b21c-9db5f224e5b3
+\n2025-07-29 23:43:33,639 - INFO - Hashtags saved for design cb8612d6-8e65-43fe-b21c-9db5f224e5b3: EN=['#interior_design', '#minimalism', '#living_room', '#dark_colors', '#modern_design', '#contemporary', '#cozy_space', '#geometric_patterns', '#mood_lighting', '#textural_contrast'] TR=['#ic_tasarim', '#minimalism', '#oturma_odasi', '#dark_colors', '#modern_design', '#cagdas', '#cozy_space', '#geometric_patterns', '#mood_lighting', '#textural_contrast']
+\n2025-07-29 23:43:33,641 - INFO - Mood board progress updated for aee62112-dc08-454f-a665-ab41899d2969: preparing_prompt
+\n2025-07-29 23:43:34,853 - INFO - Enhanced Imagen prompt created: Modern mood board: Minimal dark salon. 300x300cm room, dark tones, clean lines. Furniture, lighting,...
+\n2025-07-29 23:43:34,854 - INFO - Mood board progress updated for aee62112-dc08-454f-a665-ab41899d2969: generating_image
+\n2025-07-29 23:43:34,874 - INFO - 🎨 Generating mood board with Vertex AI...
+\n2025-07-29 23:43:45,144 - INFO - ✅ Vertex AI mood board generated successfully
+\n2025-07-29 23:43:45,160 - INFO - Mood board image saved: data\mood_boards\mood_board_20250729_234345_ea27b74b.png
+\n2025-07-29 23:43:45,161 - INFO - Mood board progress updated for aee62112-dc08-454f-a665-ab41899d2969: processing_image
+\n2025-07-29 23:43:45,161 - INFO - Mood board progress updated for aee62112-dc08-454f-a665-ab41899d2969: finalizing
+\n2025-07-29 23:43:45,162 - INFO - Mood board progress updated for aee62112-dc08-454f-a665-ab41899d2969: completed
+\n2025-07-29 23:43:45,481 - INFO - Mood board completed and sent to aee62112-dc08-454f-a665-ab41899d2969
+\n2025-07-29 23:43:45,483 - INFO - Mood board log saved: mbl_20250729_234345_ea27b74b
+\n2025-07-29 23:43:45,770 - INFO - Mood board ea27b74b-cd7d-4c46-8d8f-c70b9bfab2f5 saved to database and linked to design cb8612d6-8e65-43fe-b21c-9db5f224e5b3
+\n2025-07-29 23:43:45,771 - INFO - Mood board saved to database: ea27b74b-cd7d-4c46-8d8f-c70b9bfab2f5
+\n2025-07-29 23:43:45,772 - INFO - Mood board generated successfully: ea27b74b-cd7d-4c46-8d8f-c70b9bfab2f5
+\n2025-07-29 23:44:10,182 - INFO - Design request from cihanayindi00@gmail.com: salon - modern
+\n2025-07-29 23:44:10,182 - INFO - Requesting design suggestion from Gemini: salon - modern
+\n2025-07-29 23:44:15,712 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_design', '#indoor_plants', '#textural_elements', '#airy_atmosphere']
+\n2025-07-29 23:44:15,712 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-29 23:44:15,713 - INFO - Design suggestion successfully received from Gemini
+\n2025-07-29 23:44:15,713 - INFO - Design suggestion created successfully for cihanayindi00@gmail.com: Yeşilin Ferahlığı: Modern Salon Tasarımı
+\n2025-07-29 23:44:15,714 - INFO - Starting background mood board generation for connection: 60a835c8-d10d-4634-8a2a-df001d1e0a40
+\n2025-07-29 23:44:16,051 - INFO - Design saved to database for cihanayindi00@gmail.com with ID: 9254e588-917a-47d1-b668-4837254afc0d
+\n2025-07-29 23:44:17,704 - INFO - Successfully saved 10 hashtags for design 9254e588-917a-47d1-b668-4837254afc0d
+\n2025-07-29 23:44:17,704 - INFO - Hashtags saved for design 9254e588-917a-47d1-b668-4837254afc0d: EN=['#interior_design', '#modern', '#living_room', '#neutral_colors', '#green_design', '#minimalist', '#natural_light', '#indoor_plants', '#textural_elements', '#airy_atmosphere'] TR=['#ic_tasarim', '#modern', '#oturma_odasi', '#neutral_colors', '#green_design', '#minimalist', '#dogal_isik', '#indoor_plants', '#textural_elements', '#airy_atmosphere']
+\n2025-07-29 23:44:17,706 - INFO - Mood board progress updated for 60a835c8-d10d-4634-8a2a-df001d1e0a40: preparing_prompt
+\n2025-07-29 23:44:18,785 - INFO - Enhanced Imagen prompt created: Modern mood board: Interior design for a bright, modern living room filled with greenery. Neutral co...
+\n2025-07-29 23:44:18,786 - INFO - Mood board progress updated for 60a835c8-d10d-4634-8a2a-df001d1e0a40: generating_image
+\n2025-07-29 23:44:18,787 - INFO - 🎨 Generating mood board with Vertex AI...
+\n2025-07-29 23:44:29,231 - INFO - ✅ Vertex AI mood board generated successfully
+\n2025-07-29 23:44:29,249 - INFO - Mood board image saved: data\mood_boards\mood_board_20250729_234429_b52ab82d.png
+\n2025-07-29 23:44:29,250 - INFO - Mood board progress updated for 60a835c8-d10d-4634-8a2a-df001d1e0a40: processing_image
+\n2025-07-29 23:44:29,251 - INFO - Mood board progress updated for 60a835c8-d10d-4634-8a2a-df001d1e0a40: finalizing
+\n2025-07-29 23:44:29,251 - INFO - Mood board progress updated for 60a835c8-d10d-4634-8a2a-df001d1e0a40: completed
+\n2025-07-29 23:44:29,629 - INFO - Mood board completed and sent to 60a835c8-d10d-4634-8a2a-df001d1e0a40
+\n2025-07-29 23:44:29,631 - INFO - Mood board log saved: mbl_20250729_234429_b52ab82d
+\n2025-07-29 23:44:29,914 - INFO - Mood board b52ab82d-bebe-4355-a5ad-d2f1d865d317 saved to database and linked to design 9254e588-917a-47d1-b668-4837254afc0d
+\n2025-07-29 23:44:29,915 - INFO - Mood board saved to database: b52ab82d-bebe-4355-a5ad-d2f1d865d317
+\n2025-07-29 23:44:29,915 - INFO - Mood board generated successfully: b52ab82d-bebe-4355-a5ad-d2f1d865d317
+\n2025-07-29 23:44:45,272 - INFO - Design details retrieved for ID: 9254e588-917a-47d1-b668-4837254afc0d
+\n2025-07-29 23:44:45,511 - INFO - Design details retrieved for ID: 9254e588-917a-47d1-b668-4837254afc0d
+\n2025-07-29 23:44:55,154 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:44:55,395 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:45:00,626 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 23:50:34,192 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:50:34,194 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:50:34,203 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:50:34,257 - INFO - Gemini Service initialized
+\n2025-07-29 23:50:40,488 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:50:40,490 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:50:40,498 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:50:40,559 - INFO - Gemini Service initialized
+\n2025-07-29 23:50:40,796 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 23:51:59,512 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 23:52:06,428 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:52:06,430 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:52:06,439 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:52:06,492 - INFO - Gemini Service initialized
+\n2025-07-29 23:52:06,747 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 23:52:06,753 - ERROR - Error sending message to 3c1986ad-4ac2-417d-a2a8-31549862f64a: 
+\n2025-07-29 23:52:06,753 - ERROR - WebSocket error for 3c1986ad-4ac2-417d-a2a8-31549862f64a: WebSocket is not connected. Need to call "accept" first.
+\n2025-07-29 23:52:15,790 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:52:16,908 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-29 23:52:49,752 - INFO - Design request from cihanayindi00@gmail.com: salon - modern
+\n2025-07-29 23:52:49,752 - INFO - Requesting design suggestion from Gemini: salon - modern
+\n2025-07-29 23:52:55,657 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-29 23:52:55,657 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-29 23:52:55,658 - INFO - Design suggestion successfully received from Gemini
+\n2025-07-29 23:52:55,658 - INFO - Design suggestion created successfully for cihanayindi00@gmail.com: Modern Yeşil Vaha Salon Tasarımı
+\n2025-07-29 23:52:55,659 - INFO - Starting background mood board generation for connection: 5339edf9-6f54-40d7-85cd-461139f3a2b4
+\n2025-07-29 23:52:56,021 - INFO - Design saved to database for cihanayindi00@gmail.com with ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-29 23:52:57,720 - INFO - Successfully saved 10 hashtags for design 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-29 23:52:57,720 - INFO - Hashtags saved for design 12580159-b778-4993-ba0e-e563310f8e76: EN=['#interior_design', '#modern', '#living_room', '#neutral_colors', '#green_accents', '#minimalist', '#natural_light', '#urban_jungle', '#metal_details', '#airy_space'] TR=['#ic_tasarim', '#modern', '#oturma_odasi', '#neutral_colors', '#green_accents', '#minimalist', '#dogal_isik', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-29 23:52:57,723 - INFO - Mood board progress updated for 5339edf9-6f54-40d7-85cd-461139f3a2b4: preparing_prompt
+\n2025-07-29 23:52:57,839 - ERROR - Error creating enhanced prompt: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+\n2025-07-29 23:52:57,841 - INFO - Mood board progress updated for 5339edf9-6f54-40d7-85cd-461139f3a2b4: generating_image
+\n2025-07-29 23:52:57,860 - INFO - 🎨 Generating mood board with Vertex AI...
+\n2025-07-29 23:53:08,891 - INFO - ✅ Vertex AI mood board generated successfully
+\n2025-07-29 23:53:08,911 - INFO - Mood board image saved: data\mood_boards\mood_board_20250729_235308_b96712dc.png
+\n2025-07-29 23:53:08,912 - INFO - Mood board progress updated for 5339edf9-6f54-40d7-85cd-461139f3a2b4: processing_image
+\n2025-07-29 23:53:08,913 - INFO - Mood board progress updated for 5339edf9-6f54-40d7-85cd-461139f3a2b4: finalizing
+\n2025-07-29 23:53:08,913 - INFO - Mood board progress updated for 5339edf9-6f54-40d7-85cd-461139f3a2b4: completed
+\n2025-07-29 23:53:09,308 - INFO - Mood board completed and sent to 5339edf9-6f54-40d7-85cd-461139f3a2b4
+\n2025-07-29 23:53:09,310 - INFO - Mood board log saved: mbl_20250729_235309_b96712dc
+\n2025-07-29 23:53:09,677 - INFO - Mood board b96712dc-21a6-4255-9133-e650e3ed113d saved to database and linked to design 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-29 23:53:09,678 - INFO - Mood board saved to database: b96712dc-21a6-4255-9133-e650e3ed113d
+\n2025-07-29 23:53:09,678 - INFO - Mood board generated successfully: b96712dc-21a6-4255-9133-e650e3ed113d
+\n2025-07-29 23:53:21,899 - ERROR - General Error: 'DesignHashtag' object has no attribute 'display_order'
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 189, in get_my_favorites
+    for dh in sorted(fav.Design.hashtags, key=lambda x: x.display_order)
+              ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 189, in <lambda>
+    for dh in sorted(fav.Design.hashtags, key=lambda x: x.display_order)
+                                                        ^^^^^^^^^^^^^^^
+AttributeError: 'DesignHashtag' object has no attribute 'display_order'
+\n2025-07-29 23:53:23,649 - ERROR - General Error: 'DesignHashtag' object has no attribute 'display_order'
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 189, in get_my_favorites
+    for dh in sorted(fav.Design.hashtags, key=lambda x: x.display_order)
+              ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 189, in <lambda>
+    for dh in sorted(fav.Design.hashtags, key=lambda x: x.display_order)
+                                                        ^^^^^^^^^^^^^^^
+AttributeError: 'DesignHashtag' object has no attribute 'display_order'
+\n2025-07-29 23:53:24,052 - ERROR - General Error: 'DesignHashtag' object has no attribute 'display_order'
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 189, in get_my_favorites
+    for dh in sorted(fav.Design.hashtags, key=lambda x: x.display_order)
+              ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 189, in <lambda>
+    for dh in sorted(fav.Design.hashtags, key=lambda x: x.display_order)
+                                                        ^^^^^^^^^^^^^^^
+AttributeError: 'DesignHashtag' object has no attribute 'display_order'
+\n2025-07-29 23:53:31,128 - ERROR - General Error: 'DesignHashtag' object has no attribute 'display_order'
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 189, in get_my_favorites
+    for dh in sorted(fav.Design.hashtags, key=lambda x: x.display_order)
+              ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 189, in <lambda>
+    for dh in sorted(fav.Design.hashtags, key=lambda x: x.display_order)
+                                                        ^^^^^^^^^^^^^^^
+AttributeError: 'DesignHashtag' object has no attribute 'display_order'
+\n2025-07-29 23:53:31,477 - ERROR - General Error: 'DesignHashtag' object has no attribute 'display_order'
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 189, in get_my_favorites
+    for dh in sorted(fav.Design.hashtags, key=lambda x: x.display_order)
+              ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 189, in <lambda>
+    for dh in sorted(fav.Design.hashtags, key=lambda x: x.display_order)
+                                                        ^^^^^^^^^^^^^^^
+AttributeError: 'DesignHashtag' object has no attribute 'display_order'
+\n2025-07-29 23:54:01,167 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 23:55:39,163 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:55:39,166 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:55:39,177 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:55:39,229 - INFO - Gemini Service initialized
+\n2025-07-29 23:55:45,393 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:55:45,395 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:55:45,403 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:55:45,456 - INFO - Gemini Service initialized
+\n2025-07-29 23:55:45,682 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 23:56:37,468 - ERROR - General Error: greenlet_spawn has not been called; can't call await_only() here. Was IO attempted in an unexpected place? (Background on this error at: https://sqlalche.me/e/20/xd2s)
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 181, in get_my_favorites
+    "id": dh.hashtag.id,
+          ^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 566, in __get__
+    return self.impl.get(state, dict_)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1086, in get
+    value = self._fire_loader_callables(state, key, passive)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1121, in _fire_loader_callables
+    return self.callable_(state, passive)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\strategies.py", line 978, in _load_for_state
+    return self._emit_lazyload(
+           ~~~~~~~~~~~~~~~~~~~^
+        session,
+        ^^^^^^^^
+    ...<7 lines>...
+        execution_options,
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\strategies.py", line 1079, in _emit_lazyload
+    return loading.load_on_pk_identity(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        session,
+        ^^^^^^^^
+    ...<3 lines>...
+        execution_options=execution_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\loading.py", line 694, in load_on_pk_identity
+    session.execute(
+    ~~~~~~~~~~~~~~~^
+        q,
+        ^^
+    ...<2 lines>...
+        bind_arguments=bind_arguments,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1415, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1637, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1842, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1982, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2354, in _handle_dbapi_exception
+    raise exc_info[1].with_traceback(exc_info[2])
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 123, in await_only
+    raise exc.MissingGreenlet(
+    ...<2 lines>...
+    )
+sqlalchemy.exc.MissingGreenlet: greenlet_spawn has not been called; can't call await_only() here. Was IO attempted in an unexpected place? (Background on this error at: https://sqlalche.me/e/20/xd2s)
+\n2025-07-29 23:56:38,056 - ERROR - General Error: greenlet_spawn has not been called; can't call await_only() here. Was IO attempted in an unexpected place? (Background on this error at: https://sqlalche.me/e/20/xd2s)
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 181, in get_my_favorites
+    "id": dh.hashtag.id,
+          ^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 566, in __get__
+    return self.impl.get(state, dict_)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1086, in get
+    value = self._fire_loader_callables(state, key, passive)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1121, in _fire_loader_callables
+    return self.callable_(state, passive)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\strategies.py", line 978, in _load_for_state
+    return self._emit_lazyload(
+           ~~~~~~~~~~~~~~~~~~~^
+        session,
+        ^^^^^^^^
+    ...<7 lines>...
+        execution_options,
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\strategies.py", line 1079, in _emit_lazyload
+    return loading.load_on_pk_identity(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        session,
+        ^^^^^^^^
+    ...<3 lines>...
+        execution_options=execution_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\loading.py", line 694, in load_on_pk_identity
+    session.execute(
+    ~~~~~~~~~~~~~~~^
+        q,
+        ^^
+    ...<2 lines>...
+        bind_arguments=bind_arguments,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1415, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1637, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1842, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1982, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2354, in _handle_dbapi_exception
+    raise exc_info[1].with_traceback(exc_info[2])
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 123, in await_only
+    raise exc.MissingGreenlet(
+    ...<2 lines>...
+    )
+sqlalchemy.exc.MissingGreenlet: greenlet_spawn has not been called; can't call await_only() here. Was IO attempted in an unexpected place? (Background on this error at: https://sqlalche.me/e/20/xd2s)
+\n2025-07-29 23:56:55,932 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 23:57:02,562 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:57:02,564 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:57:02,579 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:57:02,631 - INFO - Gemini Service initialized
+\n2025-07-29 23:57:02,881 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 23:57:07,757 - ERROR - General Error: greenlet_spawn has not been called; can't call await_only() here. Was IO attempted in an unexpected place? (Background on this error at: https://sqlalche.me/e/20/xd2s)
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 181, in get_my_favorites
+    "id": dh.hashtag.id,
+          ^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 566, in __get__
+    return self.impl.get(state, dict_)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1086, in get
+    value = self._fire_loader_callables(state, key, passive)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1121, in _fire_loader_callables
+    return self.callable_(state, passive)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\strategies.py", line 978, in _load_for_state
+    return self._emit_lazyload(
+           ~~~~~~~~~~~~~~~~~~~^
+        session,
+        ^^^^^^^^
+    ...<7 lines>...
+        execution_options,
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\strategies.py", line 1079, in _emit_lazyload
+    return loading.load_on_pk_identity(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        session,
+        ^^^^^^^^
+    ...<3 lines>...
+        execution_options=execution_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\loading.py", line 694, in load_on_pk_identity
+    session.execute(
+    ~~~~~~~~~~~~~~~^
+        q,
+        ^^
+    ...<2 lines>...
+        bind_arguments=bind_arguments,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1415, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1637, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1842, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1982, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2354, in _handle_dbapi_exception
+    raise exc_info[1].with_traceback(exc_info[2])
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 123, in await_only
+    raise exc.MissingGreenlet(
+    ...<2 lines>...
+    )
+sqlalchemy.exc.MissingGreenlet: greenlet_spawn has not been called; can't call await_only() here. Was IO attempted in an unexpected place? (Background on this error at: https://sqlalche.me/e/20/xd2s)
+\n2025-07-29 23:57:08,291 - ERROR - General Error: greenlet_spawn has not been called; can't call await_only() here. Was IO attempted in an unexpected place? (Background on this error at: https://sqlalche.me/e/20/xd2s)
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 181, in get_my_favorites
+    "id": dh.hashtag.id,
+          ^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 566, in __get__
+    return self.impl.get(state, dict_)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1086, in get
+    value = self._fire_loader_callables(state, key, passive)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1121, in _fire_loader_callables
+    return self.callable_(state, passive)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\strategies.py", line 978, in _load_for_state
+    return self._emit_lazyload(
+           ~~~~~~~~~~~~~~~~~~~^
+        session,
+        ^^^^^^^^
+    ...<7 lines>...
+        execution_options,
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\strategies.py", line 1079, in _emit_lazyload
+    return loading.load_on_pk_identity(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        session,
+        ^^^^^^^^
+    ...<3 lines>...
+        execution_options=execution_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\loading.py", line 694, in load_on_pk_identity
+    session.execute(
+    ~~~~~~~~~~~~~~~^
+        q,
+        ^^
+    ...<2 lines>...
+        bind_arguments=bind_arguments,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1415, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1637, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1842, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1982, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2354, in _handle_dbapi_exception
+    raise exc_info[1].with_traceback(exc_info[2])
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 123, in await_only
+    raise exc.MissingGreenlet(
+    ...<2 lines>...
+    )
+sqlalchemy.exc.MissingGreenlet: greenlet_spawn has not been called; can't call await_only() here. Was IO attempted in an unexpected place? (Background on this error at: https://sqlalche.me/e/20/xd2s)
+\n2025-07-29 23:57:08,952 - ERROR - General Error: greenlet_spawn has not been called; can't call await_only() here. Was IO attempted in an unexpected place? (Background on this error at: https://sqlalche.me/e/20/xd2s)
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 181, in get_my_favorites
+    "id": dh.hashtag.id,
+          ^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 566, in __get__
+    return self.impl.get(state, dict_)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1086, in get
+    value = self._fire_loader_callables(state, key, passive)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\attributes.py", line 1121, in _fire_loader_callables
+    return self.callable_(state, passive)
+           ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\strategies.py", line 978, in _load_for_state
+    return self._emit_lazyload(
+           ~~~~~~~~~~~~~~~~~~~^
+        session,
+        ^^^^^^^^
+    ...<7 lines>...
+        execution_options,
+        ^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\strategies.py", line 1079, in _emit_lazyload
+    return loading.load_on_pk_identity(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        session,
+        ^^^^^^^^
+    ...<3 lines>...
+        execution_options=execution_options,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\loading.py", line 694, in load_on_pk_identity
+    session.execute(
+    ~~~~~~~~~~~~~~~^
+        q,
+        ^^
+    ...<2 lines>...
+        bind_arguments=bind_arguments,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1415, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1637, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1842, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1982, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2354, in _handle_dbapi_exception
+    raise exc_info[1].with_traceback(exc_info[2])
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 123, in await_only
+    raise exc.MissingGreenlet(
+    ...<2 lines>...
+    )
+sqlalchemy.exc.MissingGreenlet: greenlet_spawn has not been called; can't call await_only() here. Was IO attempted in an unexpected place? (Background on this error at: https://sqlalche.me/e/20/xd2s)
+\n2025-07-29 23:57:23,702 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 23:58:41,399 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:58:41,401 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:58:41,409 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:58:41,467 - INFO - Gemini Service initialized
+\n2025-07-29 23:58:47,543 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:58:47,545 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:58:47,553 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:58:47,611 - INFO - Gemini Service initialized
+\n2025-07-29 23:58:47,849 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 23:58:52,767 - ERROR - General Error: 'Hashtag' object has no attribute 'turkish_translation'
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 183, in get_my_favorites
+    "turkish_translation": dh.hashtag.turkish_translation,
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Hashtag' object has no attribute 'turkish_translation'
+\n2025-07-29 23:58:53,106 - ERROR - General Error: 'Hashtag' object has no attribute 'turkish_translation'
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 183, in get_my_favorites
+    "turkish_translation": dh.hashtag.turkish_translation,
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Hashtag' object has no attribute 'turkish_translation'
+\n2025-07-29 23:59:12,185 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-29 23:59:18,823 - INFO - WebSocket Manager initialized
+\n2025-07-29 23:59:18,825 - INFO - Mood Board Log Service initialized
+\n2025-07-29 23:59:18,833 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-29 23:59:18,883 - INFO - Gemini Service initialized
+\n2025-07-29 23:59:19,132 - INFO - Starting Deko Assistant AI API...
+\n2025-07-29 23:59:23,184 - ERROR - General Error: 'Hashtag' object has no attribute 'turkish_translation'
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 183, in get_my_favorites
+    "turkish_translation": dh.hashtag.turkish_translation,
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Hashtag' object has no attribute 'turkish_translation'
+\n2025-07-29 23:59:23,755 - ERROR - General Error: 'Hashtag' object has no attribute 'turkish_translation'
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 183, in get_my_favorites
+    "turkish_translation": dh.hashtag.turkish_translation,
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Hashtag' object has no attribute 'turkish_translation'
+\n2025-07-29 23:59:24,469 - ERROR - General Error: 'Hashtag' object has no attribute 'turkish_translation'
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\routers\favorites_router.py", line 183, in get_my_favorites
+    "turkish_translation": dh.hashtag.turkish_translation,
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Hashtag' object has no attribute 'turkish_translation'
+\n2025-07-29 23:59:36,040 - INFO - Shutting down Deko Assistant AI API...

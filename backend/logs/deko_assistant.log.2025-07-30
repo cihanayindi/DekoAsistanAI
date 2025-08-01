@@ -1,0 +1,1362 @@
+\n2025-07-30 00:00:44,694 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:00:44,698 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:00:44,706 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:00:44,758 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:10,581 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:01:10,582 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:01:10,591 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:01:10,643 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:16,720 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:01:16,722 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:01:16,730 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:01:16,783 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:17,016 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:01:20,430 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:20,431 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:20,431 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:20,788 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:20,789 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:20,789 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:26,794 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:26,795 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:26,795 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:01:27,435 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:27,436 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:27,436 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:27,844 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:27,845 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:27,845 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:28,050 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:28,050 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:28,051 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:01:30,540 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:30,540 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:30,540 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:30,965 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:30,966 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:30,966 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:35,157 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:01:41,810 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:01:41,812 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:01:41,821 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:01:41,874 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:42,112 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:01:44,641 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:44,642 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:44,642 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:45,222 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:45,223 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:45,223 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:45,599 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:45,600 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:45,600 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:45,986 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:45,986 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:45,987 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:01:46,316 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:46,316 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:46,317 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:46,741 - INFO - Gemini Service initialized
+\n2025-07-30 00:01:46,741 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:46,742 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:47,072 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:01:47,073 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:01:47,073 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:12:41,646 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:25:47,740 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:25:47,742 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:25:47,751 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:25:47,807 - INFO - Gemini Service initialized
+\n2025-07-30 00:26:44,864 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:26:44,866 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:26:44,875 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:26:44,927 - INFO - Gemini Service initialized
+\n2025-07-30 00:26:44,975 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:28:31,580 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:28:31,582 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:28:31,590 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:28:31,640 - INFO - Gemini Service initialized
+\n2025-07-30 00:28:31,689 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:28:37,656 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:28:37,658 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:28:37,666 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:28:37,718 - INFO - Gemini Service initialized
+\n2025-07-30 00:28:37,766 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:28:37,921 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:28:37,943 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:28:40,651 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:28:48,367 - WARNING - HTTP Exception: 403 - Not authenticated
+\n2025-07-30 00:28:48,399 - WARNING - HTTP Exception: 403 - Not authenticated
+\n2025-07-30 00:29:20,318 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-30 00:29:20,321 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-30 00:29:33,953 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+\n2025-07-30 00:29:36,158 - WARNING - HTTP Exception: 403 - Not authenticated
+\n2025-07-30 00:29:37,896 - WARNING - HTTP Exception: 403 - Not authenticated
+\n2025-07-30 00:29:38,526 - WARNING - HTTP Exception: 403 - Not authenticated
+\n2025-07-30 00:29:42,422 - INFO - Gemini Service initialized
+\n2025-07-30 00:29:42,423 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:29:42,423 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:29:42,744 - INFO - Gemini Service initialized
+\n2025-07-30 00:29:42,744 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:29:42,745 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:29:45,150 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:29:45,151 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:29:45,151 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:29:45,772 - INFO - Gemini Service initialized
+\n2025-07-30 00:29:45,773 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:29:45,773 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:29:46,136 - INFO - Gemini Service initialized
+\n2025-07-30 00:29:46,137 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:29:46,138 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:29:46,315 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:29:46,316 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:29:46,317 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:29:48,261 - INFO - Gemini Service initialized
+\n2025-07-30 00:29:48,262 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:29:48,262 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:29:48,624 - INFO - Gemini Service initialized
+\n2025-07-30 00:29:48,625 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:29:48,625 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:30:07,322 - WARNING - HTTP Exception: 403 - Not authenticated
+\n2025-07-30 00:30:19,234 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:30:23,467 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:30:23,467 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:30:23,467 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:30:23,786 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:30:23,787 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:30:23,787 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:30:24,041 - INFO - Gemini Service initialized
+\n2025-07-30 00:30:24,041 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:30:24,042 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:30:24,408 - INFO - Gemini Service initialized
+\n2025-07-30 00:30:24,408 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:30:24,408 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:30:38,203 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:31:11,776 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:31:18,521 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:31:18,523 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:31:18,531 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:31:18,585 - INFO - Gemini Service initialized
+\n2025-07-30 00:31:18,656 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:31:18,801 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:31:18,824 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:31:23,817 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:31:25,380 - WARNING - HTTP Exception: 403 - Not authenticated
+\n2025-07-30 00:31:26,573 - WARNING - HTTP Exception: 403 - Not authenticated
+\n2025-07-30 00:34:36,192 - INFO - Gemini Service initialized
+\n2025-07-30 00:34:36,193 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:34:36,193 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:34:36,625 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:34:42,086 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:34:42,439 - INFO - Gemini Service initialized
+\n2025-07-30 00:34:42,440 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:34:42,440 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:34:42,826 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:35:42,103 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:45:13,671 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:45:31,894 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:45:31,897 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:45:31,905 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:45:31,965 - INFO - Gemini Service initialized
+\n2025-07-30 00:45:32,016 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:45:38,310 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:45:38,311 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:45:38,320 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:45:38,375 - INFO - Gemini Service initialized
+\n2025-07-30 00:45:38,423 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:45:38,570 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:45:38,593 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:46:23,006 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+\n2025-07-30 00:46:25,499 - INFO - Gemini Service initialized
+\n2025-07-30 00:46:25,499 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:46:25,500 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:46:25,887 - INFO - Gemini Service initialized
+\n2025-07-30 00:46:25,888 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:46:25,888 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:46:25,893 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:46:26,138 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:47:02,092 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:47:02,092 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:47:02,092 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:47:02,155 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:47:02,666 - INFO - Gemini Service initialized
+\n2025-07-30 00:47:02,666 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:47:02,667 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:47:03,050 - INFO - Gemini Service initialized
+\n2025-07-30 00:47:03,051 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:47:03,051 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:47:03,212 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:47:03,213 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:47:03,213 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:47:04,270 - INFO - Gemini Service initialized
+\n2025-07-30 00:47:04,271 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:47:04,271 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:47:04,638 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:47:04,657 - INFO - Gemini Service initialized
+\n2025-07-30 00:47:04,658 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:47:04,658 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:47:04,897 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-07-30 00:48:22,956 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:48:29,780 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:48:29,781 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:48:29,789 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:48:29,844 - INFO - Gemini Service initialized
+\n2025-07-30 00:48:29,917 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:48:30,069 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:48:30,092 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:48:34,685 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:48:41,528 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:48:41,530 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:48:41,538 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:48:41,590 - INFO - Gemini Service initialized
+\n2025-07-30 00:48:41,638 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:48:41,786 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:48:41,809 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:48:46,151 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:48:52,659 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:48:52,661 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:48:52,669 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:48:52,724 - INFO - Gemini Service initialized
+\n2025-07-30 00:48:52,795 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:48:52,941 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:48:52,963 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:48:55,414 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:49:02,008 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:49:02,010 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:49:02,018 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:49:02,073 - INFO - Gemini Service initialized
+\n2025-07-30 00:49:02,144 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:49:02,306 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:49:02,329 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:49:06,755 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:49:13,417 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:49:13,419 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:49:13,427 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:49:13,478 - INFO - Gemini Service initialized
+\n2025-07-30 00:49:13,561 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:49:13,714 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:49:13,737 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:49:39,122 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:49:45,818 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:49:45,820 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:49:45,828 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:49:45,886 - INFO - Gemini Service initialized
+\n2025-07-30 00:49:45,934 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:49:46,090 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:49:46,113 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:49:48,539 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:49:55,347 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:49:55,348 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:49:55,357 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:49:55,409 - INFO - Gemini Service initialized
+\n2025-07-30 00:49:55,460 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:49:55,608 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:49:55,632 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:50:03,879 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 00:50:10,643 - INFO - WebSocket Manager initialized
+\n2025-07-30 00:50:10,645 - INFO - Mood Board Log Service initialized
+\n2025-07-30 00:50:10,653 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 00:50:10,706 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:10,778 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:50:10,938 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 00:50:10,961 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 00:50:17,895 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:17,896 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:17,896 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:18,480 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:18,481 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:18,482 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:18,868 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:18,869 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:18,869 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:22,604 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:22,605 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:22,605 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:50:22,999 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:23,000 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:23,000 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:23,428 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:23,428 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:23,429 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:23,743 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:23,743 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:23,744 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:50:28,911 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:28,912 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:28,912 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:29,302 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:29,302 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:29,303 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:33,604 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:33,604 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:33,605 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:33,992 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:33,993 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:33,993 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:57,039 - INFO - Design request from cihanayindi00@gmail.com: salon - modern
+\n2025-07-30 00:50:57,039 - INFO - Requesting design suggestion from Gemini: salon - modern
+\n2025-07-30 00:50:57,507 - ERROR - Gemini service error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+\n2025-07-30 00:50:57,509 - INFO - Design suggestion created successfully for cihanayindi00@gmail.com: Özel modern salon Tasarımı
+\n2025-07-30 00:50:57,509 - INFO - Starting background mood board generation for connection: 573adfe1-3978-4342-912c-ddbf7a939d0b
+\n2025-07-30 00:50:57,842 - INFO - Design saved to database for cihanayindi00@gmail.com with ID: 99da5f81-2432-4068-8319-f86049a5f2b3
+\n2025-07-30 00:50:57,891 - INFO - Mood board progress updated for 573adfe1-3978-4342-912c-ddbf7a939d0b: preparing_prompt
+\n2025-07-30 00:50:57,994 - ERROR - Error creating enhanced prompt: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+\n2025-07-30 00:50:57,995 - INFO - Mood board progress updated for 573adfe1-3978-4342-912c-ddbf7a939d0b: generating_image
+\n2025-07-30 00:50:58,015 - INFO - 🎨 Generating mood board with Vertex AI...
+\n2025-07-30 00:50:59,383 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:59,384 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:59,384 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:50:59,772 - INFO - Gemini Service initialized
+\n2025-07-30 00:50:59,772 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:50:59,773 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:51:09,001 - INFO - ✅ Vertex AI mood board generated successfully
+\n2025-07-30 00:51:09,023 - INFO - Mood board image saved: data\mood_boards\mood_board_20250730_005109_ee9e579d.png
+\n2025-07-30 00:51:09,024 - INFO - Mood board progress updated for 573adfe1-3978-4342-912c-ddbf7a939d0b: processing_image
+\n2025-07-30 00:51:09,024 - INFO - Mood board progress updated for 573adfe1-3978-4342-912c-ddbf7a939d0b: finalizing
+\n2025-07-30 00:51:09,025 - INFO - Mood board progress updated for 573adfe1-3978-4342-912c-ddbf7a939d0b: completed
+\n2025-07-30 00:51:09,447 - INFO - Mood board completed and sent to 573adfe1-3978-4342-912c-ddbf7a939d0b
+\n2025-07-30 00:51:09,449 - INFO - Mood board log saved: mbl_20250730_005109_ee9e579d
+\n2025-07-30 00:51:09,735 - INFO - Mood board ee9e579d-fdbd-42b4-9e9f-2fb63ef56e67 saved to database and linked to design 99da5f81-2432-4068-8319-f86049a5f2b3
+\n2025-07-30 00:51:09,735 - INFO - Mood board saved to database: ee9e579d-fdbd-42b4-9e9f-2fb63ef56e67
+\n2025-07-30 00:51:09,736 - INFO - Mood board generated successfully: ee9e579d-fdbd-42b4-9e9f-2fb63ef56e67
+\n2025-07-30 00:51:50,775 - INFO - Gemini Service initialized
+\n2025-07-30 00:51:50,776 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:51:50,776 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:51:51,171 - INFO - Gemini Service initialized
+\n2025-07-30 00:51:51,171 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:51:51,172 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:18,064 - INFO - Design request from cihanayindi00@gmail.com: salon - modern
+\n2025-07-30 00:52:18,064 - INFO - Requesting design suggestion from Gemini: salon - modern
+\n2025-07-30 00:52:18,333 - ERROR - Gemini service error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+]
+\n2025-07-30 00:52:18,335 - INFO - Design suggestion created successfully for cihanayindi00@gmail.com: Özel modern salon Tasarımı
+\n2025-07-30 00:52:18,335 - INFO - Starting background mood board generation for connection: 04e8687d-4748-4ecc-9f61-94614b916732
+\n2025-07-30 00:52:18,670 - INFO - Design saved to database for cihanayindi00@gmail.com with ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 00:52:18,719 - INFO - Mood board progress updated for 04e8687d-4748-4ecc-9f61-94614b916732: preparing_prompt
+\n2025-07-30 00:52:18,833 - ERROR - Error creating enhanced prompt: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-exp"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+\n2025-07-30 00:52:18,834 - INFO - Mood board progress updated for 04e8687d-4748-4ecc-9f61-94614b916732: generating_image
+\n2025-07-30 00:52:18,835 - INFO - 🎨 Generating mood board with Vertex AI...
+\n2025-07-30 00:52:20,040 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:20,040 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:20,040 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:20,443 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:20,443 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:20,443 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:28,773 - INFO - ✅ Vertex AI mood board generated successfully
+\n2025-07-30 00:52:28,790 - INFO - Mood board image saved: data\mood_boards\mood_board_20250730_005228_1b5198ff.png
+\n2025-07-30 00:52:28,791 - INFO - Mood board progress updated for 04e8687d-4748-4ecc-9f61-94614b916732: processing_image
+\n2025-07-30 00:52:28,791 - INFO - Mood board progress updated for 04e8687d-4748-4ecc-9f61-94614b916732: finalizing
+\n2025-07-30 00:52:28,792 - INFO - Mood board progress updated for 04e8687d-4748-4ecc-9f61-94614b916732: completed
+\n2025-07-30 00:52:29,155 - INFO - Mood board completed and sent to 04e8687d-4748-4ecc-9f61-94614b916732
+\n2025-07-30 00:52:29,171 - INFO - Mood board log saved: mbl_20250730_005229_1b5198ff
+\n2025-07-30 00:52:29,453 - INFO - Mood board 1b5198ff-b5c1-4e5a-a6eb-c079e734f4ad saved to database and linked to design 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 00:52:29,454 - INFO - Mood board saved to database: 1b5198ff-b5c1-4e5a-a6eb-c079e734f4ad
+\n2025-07-30 00:52:29,454 - INFO - Mood board generated successfully: 1b5198ff-b5c1-4e5a-a6eb-c079e734f4ad
+\n2025-07-30 00:52:36,694 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:36,695 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:36,695 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:38,309 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:38,309 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:38,310 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:38,743 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:38,744 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:38,744 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:44,084 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:44,084 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:44,085 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:44,473 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:44,474 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:44,474 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:44,863 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:44,864 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:44,864 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:50,912 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 00:52:51,197 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 00:52:51,306 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:51,306 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:51,307 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:51,704 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:51,705 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:51,705 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:57,516 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:57,516 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:57,517 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:57,904 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:57,904 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:57,905 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:58,997 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:58,998 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:58,998 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:52:59,387 - INFO - Gemini Service initialized
+\n2025-07-30 00:52:59,388 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:52:59,388 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:00,167 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:00,167 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:00,167 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:53:00,499 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:00,500 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:00,500 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 00:53:00,581 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:00,582 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:00,582 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:00,971 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:00,971 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:00,972 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:02,367 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:02,367 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:02,368 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:02,761 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:02,762 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:02,762 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:03,180 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 00:53:03,465 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 00:53:03,578 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:03,578 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:03,579 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:03,964 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:03,965 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:03,966 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:04,701 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:04,702 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:04,702 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:05,092 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:05,093 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:05,093 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:05,552 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-30 00:53:05,836 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-30 00:53:05,949 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:05,949 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:05,950 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:06,387 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:06,387 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:06,388 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:08,050 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:08,050 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:08,051 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:08,439 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:08,439 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:08,440 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:08,843 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 00:53:09,125 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 00:53:09,242 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:09,243 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:09,243 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 00:53:09,630 - INFO - Gemini Service initialized
+\n2025-07-30 00:53:09,631 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 00:53:09,631 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 08:22:51,192 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-30 08:22:51,194 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-30 08:22:52,159 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 08:22:58,987 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+\n2025-07-30 08:22:59,497 - WARNING - HTTP Exception: 401 - Incorrect email or password
+\n2025-07-30 08:23:06,208 - INFO - Gemini Service initialized
+\n2025-07-30 08:23:06,209 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 08:23:06,210 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 08:23:06,874 - INFO - Gemini Service initialized
+\n2025-07-30 08:23:06,875 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 08:23:06,875 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 08:23:15,196 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 08:23:15,513 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 08:23:15,932 - INFO - Gemini Service initialized
+\n2025-07-30 08:23:15,933 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 08:23:15,933 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 08:23:16,371 - INFO - Gemini Service initialized
+\n2025-07-30 08:23:16,371 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 08:23:16,372 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 08:23:18,096 - INFO - Gemini Service initialized
+\n2025-07-30 08:23:18,097 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 08:23:18,097 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 08:23:18,492 - INFO - Gemini Service initialized
+\n2025-07-30 08:23:18,492 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 08:23:18,493 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:16:34,014 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-30 15:16:34,016 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-30 15:16:44,713 - INFO - Gemini Service initialized
+\n2025-07-30 15:16:44,714 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:16:44,714 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:16:45,364 - INFO - Gemini Service initialized
+\n2025-07-30 15:16:45,365 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:16:45,365 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:16:52,488 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 15:16:52,776 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 15:16:53,182 - INFO - Gemini Service initialized
+\n2025-07-30 15:16:53,183 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:16:53,183 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:16:53,585 - INFO - Gemini Service initialized
+\n2025-07-30 15:16:53,586 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:16:53,586 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:16:54,017 - INFO - Gemini Service initialized
+\n2025-07-30 15:16:54,018 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:16:54,018 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:16:54,449 - INFO - Gemini Service initialized
+\n2025-07-30 15:16:54,450 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:16:54,450 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:16:55,133 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 15:16:55,430 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 15:16:55,531 - INFO - Gemini Service initialized
+\n2025-07-30 15:16:55,531 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:16:55,532 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:16:55,944 - INFO - Gemini Service initialized
+\n2025-07-30 15:16:55,945 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:16:55,945 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:17:01,236 - INFO - Gemini Service initialized
+\n2025-07-30 15:17:01,237 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:17:01,237 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:17:01,639 - INFO - Gemini Service initialized
+\n2025-07-30 15:17:01,639 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:17:01,640 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:17:20,299 - WARNING - HTTP Exception: 401 - Incorrect email or password
+\n2025-07-30 15:17:26,135 - INFO - Gemini Service initialized
+\n2025-07-30 15:17:26,135 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:17:26,136 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:17:26,556 - INFO - Gemini Service initialized
+\n2025-07-30 15:17:26,557 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:17:26,557 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:17:30,246 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-30 15:17:30,549 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-30 15:17:30,650 - INFO - Gemini Service initialized
+\n2025-07-30 15:17:30,651 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:17:30,652 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:17:31,046 - INFO - Gemini Service initialized
+\n2025-07-30 15:17:31,047 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:17:31,047 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:17:33,055 - INFO - Gemini Service initialized
+\n2025-07-30 15:17:33,056 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:17:33,056 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:17:33,458 - INFO - Gemini Service initialized
+\n2025-07-30 15:17:33,458 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:17:33,459 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:18:04,831 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:18:56,161 - INFO - WebSocket Manager initialized
+\n2025-07-30 15:18:56,163 - INFO - Mood Board Log Service initialized
+\n2025-07-30 15:18:56,172 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 15:18:56,227 - INFO - Gemini Service initialized
+\n2025-07-30 15:18:56,279 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:19:02,360 - INFO - WebSocket Manager initialized
+\n2025-07-30 15:19:02,362 - INFO - Mood Board Log Service initialized
+\n2025-07-30 15:19:02,372 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 15:19:02,427 - INFO - Gemini Service initialized
+\n2025-07-30 15:19:02,476 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:19:02,678 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:19:02,703 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:19:18,342 - INFO - Gemini Service initialized
+\n2025-07-30 15:19:18,342 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:19:18,343 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:19:18,703 - INFO - Gemini Service initialized
+\n2025-07-30 15:19:18,703 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:19:18,704 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:21:43,887 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:25:53,382 - INFO - WebSocket Manager initialized
+\n2025-07-30 15:25:53,384 - INFO - Mood Board Log Service initialized
+\n2025-07-30 15:25:53,393 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 15:25:53,444 - INFO - Gemini Service initialized
+\n2025-07-30 15:25:53,494 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:25:59,515 - INFO - WebSocket Manager initialized
+\n2025-07-30 15:25:59,517 - INFO - Mood Board Log Service initialized
+\n2025-07-30 15:25:59,525 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 15:25:59,580 - INFO - Gemini Service initialized
+\n2025-07-30 15:25:59,629 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:25:59,786 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:25:59,809 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:27:31,114 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+\n2025-07-30 15:27:34,582 - INFO - Gemini Service initialized
+\n2025-07-30 15:27:34,582 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:34,583 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:34,936 - INFO - Gemini Service initialized
+\n2025-07-30 15:27:34,936 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:34,937 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:39,032 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:39,032 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:39,032 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 15:27:39,676 - INFO - Gemini Service initialized
+\n2025-07-30 15:27:39,677 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:39,678 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:40,072 - INFO - Gemini Service initialized
+\n2025-07-30 15:27:40,073 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:40,073 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:40,230 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:40,230 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:40,230 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 15:27:40,748 - INFO - Gemini Service initialized
+\n2025-07-30 15:27:40,748 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:40,749 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:41,145 - INFO - Gemini Service initialized
+\n2025-07-30 15:27:41,146 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:41,146 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:42,065 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 15:27:42,353 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 15:27:42,630 - INFO - Gemini Service initialized
+\n2025-07-30 15:27:42,631 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:42,631 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:43,027 - INFO - Gemini Service initialized
+\n2025-07-30 15:27:43,028 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:43,029 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:45,659 - INFO - Gemini Service initialized
+\n2025-07-30 15:27:45,660 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:45,660 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:27:46,071 - INFO - Gemini Service initialized
+\n2025-07-30 15:27:46,071 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:27:46,072 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:02,892 - INFO - Design request from cihanayindi00@gmail.com: salon - modern
+\n2025-07-30 15:28:02,893 - INFO - Requesting design suggestion from Gemini: salon - modern
+\n2025-07-30 15:28:08,770 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:08,770 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:08,771 - INFO - Design suggestion successfully received from Gemini
+\n2025-07-30 15:28:08,771 - INFO - Design suggestion created successfully for cihanayindi00@gmail.com: Modern Kırmızı Salon Tasarımı
+\n2025-07-30 15:28:08,771 - INFO - Starting background mood board generation for connection: 646b3500-1c20-4595-9b66-957e7ca39298
+\n2025-07-30 15:28:09,142 - INFO - Design saved to database for cihanayindi00@gmail.com with ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:28:10,904 - INFO - Successfully saved 10 hashtags for design 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:28:10,904 - INFO - Hashtags saved for design 01c38f39-4316-4b6e-87ec-8d5433b69913: EN=['#interior_design', '#modern', '#living_room', '#red_tones', '#warm_colors', '#minimalist', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall'] TR=['#ic_tasarim', '#modern', '#oturma_odasi', '#red_tones', '#sicak_renkler', '#minimalist', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:10,907 - INFO - Mood board progress updated for 646b3500-1c20-4595-9b66-957e7ca39298: preparing_prompt
+\n2025-07-30 15:28:11,823 - INFO - Enhanced Imagen prompt created: Modern interior design mood board, red salon: minimalist furniture, warm red tones, natural textures...
+\n2025-07-30 15:28:11,824 - INFO - Mood board progress updated for 646b3500-1c20-4595-9b66-957e7ca39298: generating_image
+\n2025-07-30 15:28:11,843 - INFO - 🎨 Generating mood board with Vertex AI...
+\n2025-07-30 15:28:13,304 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:13,305 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:13,305 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:13,703 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:13,704 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:13,704 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:21,346 - INFO - ✅ Vertex AI mood board generated successfully
+\n2025-07-30 15:28:21,356 - INFO - Mood board image saved: data\mood_boards\mood_board_20250730_152821_8e3b2db4.png
+\n2025-07-30 15:28:21,357 - INFO - Mood board progress updated for 646b3500-1c20-4595-9b66-957e7ca39298: processing_image
+\n2025-07-30 15:28:21,357 - INFO - Mood board progress updated for 646b3500-1c20-4595-9b66-957e7ca39298: finalizing
+\n2025-07-30 15:28:21,357 - INFO - Mood board progress updated for 646b3500-1c20-4595-9b66-957e7ca39298: completed
+\n2025-07-30 15:28:21,538 - INFO - Mood board completed and sent to 646b3500-1c20-4595-9b66-957e7ca39298
+\n2025-07-30 15:28:21,540 - INFO - Mood board log saved: mbl_20250730_152821_8e3b2db4
+\n2025-07-30 15:28:21,842 - INFO - Mood board 8e3b2db4-ec1b-43ca-93d5-b2670cb9531c saved to database and linked to design 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:28:21,843 - INFO - Mood board saved to database: 8e3b2db4-ec1b-43ca-93d5-b2670cb9531c
+\n2025-07-30 15:28:21,843 - INFO - Mood board generated successfully: 8e3b2db4-ec1b-43ca-93d5-b2670cb9531c
+\n2025-07-30 15:28:39,277 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:39,277 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:39,278 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:39,278 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:39,279 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:40,750 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:40,750 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:40,751 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:40,751 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:40,751 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:41,293 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:41,293 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:41,294 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:41,294 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:41,295 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:45,005 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:45,005 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:45,006 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:45,006 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:45,006 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:45,466 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:45,467 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:45,467 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:45,468 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:45,468 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:45,932 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:45,933 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:45,933 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:45,933 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:45,934 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:45,989 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:45,990 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:45,990 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:28:46,342 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:46,343 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:46,343 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:28:46,364 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:46,365 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:46,365 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:46,366 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:46,366 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:46,807 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:46,808 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:46,808 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:46,808 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:46,809 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:48,796 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:48,796 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:48,796 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:48,797 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:48,797 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:49,278 - INFO - Gemini Service initialized
+\n2025-07-30 15:28:49,279 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:28:49,279 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:28:49,280 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:28:49,280 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:00,717 - INFO - Gemini Service initialized
+\n2025-07-30 15:29:00,718 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:29:00,718 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:00,719 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:29:00,719 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:01,162 - INFO - Gemini Service initialized
+\n2025-07-30 15:29:01,163 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:29:01,163 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:01,164 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:29:01,164 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:01,622 - INFO - Gemini Service initialized
+\n2025-07-30 15:29:01,623 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:29:01,624 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:01,624 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:29:01,625 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:08,157 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:29:08,157 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:08,158 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:29:08,512 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:29:08,513 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:08,513 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:29:08,906 - INFO - Gemini Service initialized
+\n2025-07-30 15:29:08,907 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:29:08,907 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:08,908 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:29:08,908 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:09,362 - INFO - Gemini Service initialized
+\n2025-07-30 15:29:09,362 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:29:09,362 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:09,363 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:29:09,363 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:25,972 - INFO - Gemini Service initialized
+\n2025-07-30 15:29:25,973 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:29:25,973 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:25,974 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:29:25,974 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:26,418 - INFO - Gemini Service initialized
+\n2025-07-30 15:29:26,418 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:29:26,419 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:29:26,419 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:29:26,419 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:30:53,725 - INFO - Gemini Service initialized
+\n2025-07-30 15:30:53,726 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:30:53,727 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:30:53,727 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:30:53,727 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:16,610 - INFO - Gemini Service initialized
+\n2025-07-30 15:31:16,610 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:31:16,611 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:16,611 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:31:16,612 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:17,081 - INFO - Gemini Service initialized
+\n2025-07-30 15:31:17,081 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:31:17,082 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:17,082 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:31:17,083 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:17,524 - INFO - Gemini Service initialized
+\n2025-07-30 15:31:17,525 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:31:17,525 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:17,525 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:31:17,525 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:20,186 - INFO - Gemini Service initialized
+\n2025-07-30 15:31:20,186 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:31:20,187 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:20,187 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:31:20,187 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:20,629 - INFO - Gemini Service initialized
+\n2025-07-30 15:31:20,630 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:31:20,630 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:20,630 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:31:20,631 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:21,093 - INFO - Gemini Service initialized
+\n2025-07-30 15:31:21,093 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:31:21,093 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:21,094 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:31:21,094 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:21,496 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:31:21,497 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:21,497 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:31:21,847 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:31:21,847 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:21,848 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:31:21,970 - INFO - Gemini Service initialized
+\n2025-07-30 15:31:21,970 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:31:21,971 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:21,971 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:31:21,972 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:22,431 - INFO - Gemini Service initialized
+\n2025-07-30 15:31:22,431 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:31:22,432 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:31:22,432 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:31:22,433 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:10,434 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-07-30 15:37:11,464 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:37:11,465 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:11,465 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:37:20,842 - INFO - Gemini Service initialized
+\n2025-07-30 15:37:20,842 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:37:20,842 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:20,843 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:37:20,843 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:21,541 - INFO - Gemini Service initialized
+\n2025-07-30 15:37:21,542 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:37:21,542 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:21,543 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:37:21,544 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:31,505 - INFO - Gemini Service initialized
+\n2025-07-30 15:37:31,506 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:37:31,506 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:31,507 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:37:31,507 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:32,167 - INFO - Gemini Service initialized
+\n2025-07-30 15:37:32,167 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:37:32,168 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:32,168 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:37:32,169 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:32,611 - INFO - Gemini Service initialized
+\n2025-07-30 15:37:32,611 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:37:32,612 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:32,612 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:37:32,612 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:56,030 - INFO - Gemini Service initialized
+\n2025-07-30 15:37:56,031 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:37:56,031 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:56,031 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:37:56,031 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:56,480 - INFO - Gemini Service initialized
+\n2025-07-30 15:37:56,480 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:37:56,481 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:56,481 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:37:56,482 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:56,943 - INFO - Gemini Service initialized
+\n2025-07-30 15:37:56,944 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:37:56,944 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:37:56,945 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:37:56,945 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:38:23,893 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:38:23,894 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:38:23,894 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 15:38:24,242 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:38:24,242 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:38:24,243 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 15:38:24,374 - INFO - Gemini Service initialized
+\n2025-07-30 15:38:24,374 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:38:24,375 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:38:24,375 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:38:24,376 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:38:24,883 - INFO - Gemini Service initialized
+\n2025-07-30 15:38:24,884 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:38:24,884 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:38:24,885 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:38:24,885 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:38:41,637 - INFO - Gemini Service initialized
+\n2025-07-30 15:38:41,638 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:38:41,638 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:38:41,639 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:38:41,639 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:38:42,080 - INFO - Gemini Service initialized
+\n2025-07-30 15:38:42,081 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:38:42,081 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:38:42,082 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:38:42,082 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:39:32,003 - INFO - Gemini Service initialized
+\n2025-07-30 15:39:32,003 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:39:32,004 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:39:32,004 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:39:32,004 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:40:59,159 - INFO - Gemini Service initialized
+\n2025-07-30 15:40:59,160 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:40:59,160 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:40:59,160 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:40:59,160 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:40:59,603 - INFO - Gemini Service initialized
+\n2025-07-30 15:40:59,604 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:40:59,604 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:40:59,605 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:40:59,605 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:00,051 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:00,051 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:00,051 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:00,052 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:00,052 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:03,327 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:03,328 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:03,328 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:41:03,665 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:03,666 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:03,666 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:41:03,806 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:03,806 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:03,807 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:03,807 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:03,807 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:04,254 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:04,254 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:04,255 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:04,255 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:04,256 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:04,736 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:04,736 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:04,736 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:04,737 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:04,737 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:05,196 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:05,197 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:05,197 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:05,197 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:05,198 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:06,182 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 15:41:06,476 - INFO - Design details retrieved for ID: 8c15cd5f-3c41-4704-8bc9-2bf07ab65f84
+\n2025-07-30 15:41:06,654 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:06,655 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:06,656 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:06,656 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:06,657 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:07,120 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:07,120 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:07,121 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:07,121 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:07,121 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:07,569 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:07,570 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:07,570 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:07,571 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:07,571 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:08,011 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:08,011 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:08,011 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:08,012 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:08,012 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:08,496 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:08,496 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:08,497 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 15:41:08,840 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:08,841 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:08,841 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 15:41:08,971 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:08,971 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:08,972 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:08,972 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:08,973 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:09,415 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:09,415 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:09,415 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:09,416 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:09,416 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:09,859 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:09,859 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:09,860 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:09,860 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:09,860 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:10,331 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:10,332 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:10,332 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:10,333 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:10,333 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:11,754 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-30 15:41:12,048 - INFO - Design details retrieved for ID: 34363c33-d088-4c7c-bd28-cbb8587f4fd6
+\n2025-07-30 15:41:12,202 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:12,203 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:12,203 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:12,204 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:12,204 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:12,678 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:12,678 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:12,679 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:12,679 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:12,680 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:14,355 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:14,355 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:14,355 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:14,356 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:14,356 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:14,799 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:14,799 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:14,800 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:14,800 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:14,801 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:19,753 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:19,753 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:19,754 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:19,754 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:19,755 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:21,259 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:21,260 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:21,260 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:21,260 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:21,261 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:23,370 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:23,371 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:23,371 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:23,371 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:23,372 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:23,814 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:23,815 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:23,815 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:23,816 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:23,816 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:24,265 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:24,265 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:24,265 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:24,266 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:24,266 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:25,087 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:25,087 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:25,088 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:41:25,424 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:25,425 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:25,425 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:41:25,511 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:25,512 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:25,512 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:25,512 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:25,513 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:25,907 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:25,907 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:25,908 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:25,908 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:25,909 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:26,301 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:26,301 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:26,302 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:26,302 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:26,303 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:26,711 - INFO - Gemini Service initialized
+\n2025-07-30 15:41:26,712 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:41:26,712 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:41:26,713 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:41:26,713 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:14,477 - INFO - Gemini Service initialized
+\n2025-07-30 15:42:14,478 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:42:14,478 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:14,479 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:42:14,479 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:46,253 - INFO - Gemini Service initialized
+\n2025-07-30 15:42:46,254 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:42:46,254 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:46,255 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:42:46,255 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:46,658 - INFO - Gemini Service initialized
+\n2025-07-30 15:42:46,659 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:42:46,659 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:46,660 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:42:46,660 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:47,069 - INFO - Gemini Service initialized
+\n2025-07-30 15:42:47,069 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:42:47,070 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:47,070 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:42:47,071 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:50,570 - INFO - Gemini Service initialized
+\n2025-07-30 15:42:50,571 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:42:50,571 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:50,572 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:42:50,572 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:50,975 - INFO - Gemini Service initialized
+\n2025-07-30 15:42:50,976 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:42:50,976 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:50,976 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:42:50,977 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:51,405 - INFO - Gemini Service initialized
+\n2025-07-30 15:42:51,406 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:42:51,406 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:42:51,407 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:42:51,407 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:43:47,354 - INFO - Gemini Service initialized
+\n2025-07-30 15:43:47,355 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:43:47,355 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:43:47,356 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:43:47,356 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:43:59,563 - INFO - Gemini Service initialized
+\n2025-07-30 15:43:59,563 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:43:59,564 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:43:59,565 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:43:59,565 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:43:59,968 - INFO - Gemini Service initialized
+\n2025-07-30 15:43:59,969 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:43:59,969 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:43:59,970 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:43:59,970 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:00,363 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:00,364 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:00,364 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:00,365 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:00,365 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:03,178 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:03,178 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:03,179 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:44:03,521 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:03,522 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:03,522 - INFO - Design details retrieved for ID: 01c38f39-4316-4b6e-87ec-8d5433b69913
+\n2025-07-30 15:44:03,598 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:03,599 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:03,599 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:03,599 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:03,600 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:03,994 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:03,995 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:03,995 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:03,996 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:03,997 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:04,477 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:04,478 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:04,478 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:04,479 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:04,479 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:04,890 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:04,890 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:04,891 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:04,891 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:04,892 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:48,626 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:48,627 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:48,627 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:48,627 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:48,628 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:49,059 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:49,060 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:49,060 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:49,060 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:49,061 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:49,475 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:49,475 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:49,476 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:49,476 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:49,476 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:50,607 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:50,607 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:50,607 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:50,608 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:50,608 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:51,017 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:51,018 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:51,018 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:51,019 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:51,020 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:51,434 - INFO - Gemini Service initialized
+\n2025-07-30 15:44:51,434 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:44:51,434 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:44:51,435 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:44:51,435 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:46:58,933 - INFO - Gemini Service initialized
+\n2025-07-30 15:46:58,934 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:46:58,934 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:46:58,934 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:46:58,935 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:47:31,410 - INFO - Gemini Service initialized
+\n2025-07-30 15:47:31,410 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:47:31,410 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:47:31,411 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:47:31,411 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:48:08,205 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:50:29,171 - INFO - WebSocket Manager initialized
+\n2025-07-30 15:50:29,173 - INFO - Mood Board Log Service initialized
+\n2025-07-30 15:50:29,182 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 15:50:29,235 - INFO - Gemini Service initialized
+\n2025-07-30 15:50:29,284 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:50:35,218 - INFO - WebSocket Manager initialized
+\n2025-07-30 15:50:35,220 - INFO - Mood Board Log Service initialized
+\n2025-07-30 15:50:35,228 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 15:50:35,283 - INFO - Gemini Service initialized
+\n2025-07-30 15:50:35,331 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:50:35,477 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:50:35,500 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:50:36,998 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\cihan\Desktop\DekoAsistanAI\backend\venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+\n2025-07-30 15:50:44,894 - INFO - Gemini Service initialized
+\n2025-07-30 15:50:44,895 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:50:44,896 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:50:44,896 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:50:44,896 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:50:45,253 - INFO - Gemini Service initialized
+\n2025-07-30 15:50:45,254 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:50:45,254 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:50:45,255 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:50:45,255 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:50:47,541 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:50:47,542 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:50:47,542 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 15:50:48,244 - INFO - Gemini Service initialized
+\n2025-07-30 15:50:48,245 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:50:48,245 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:50:48,245 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:50:48,245 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:50:48,643 - INFO - Gemini Service initialized
+\n2025-07-30 15:50:48,643 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:50:48,644 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:50:48,644 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:50:48,644 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:50:48,701 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:50:48,701 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:50:48,702 - INFO - Design details retrieved for ID: 12580159-b778-4993-ba0e-e563310f8e76
+\n2025-07-30 15:51:12,564 - INFO - Gemini Service initialized
+\n2025-07-30 15:51:12,564 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:51:12,565 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:51:12,565 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:51:12,565 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:51:12,973 - INFO - Gemini Service initialized
+\n2025-07-30 15:51:12,974 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:51:12,975 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:51:12,975 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:51:12,976 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:23,249 - INFO - Gemini Service initialized
+\n2025-07-30 15:52:23,250 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:52:23,250 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:23,250 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:52:23,251 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:39,930 - INFO - Gemini Service initialized
+\n2025-07-30 15:52:39,930 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:52:39,931 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:39,931 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:52:39,932 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:40,372 - INFO - Gemini Service initialized
+\n2025-07-30 15:52:40,373 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:52:40,373 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:40,374 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:52:40,374 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:40,771 - INFO - Gemini Service initialized
+\n2025-07-30 15:52:40,771 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:52:40,772 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:40,772 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:52:40,773 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:48,629 - INFO - Gemini Service initialized
+\n2025-07-30 15:52:48,630 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:52:48,630 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:48,630 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:52:48,630 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:49,044 - INFO - Gemini Service initialized
+\n2025-07-30 15:52:49,044 - INFO - Unknown hashtags found (kept as English): ['#red_tones', '#geometric_patterns', '#textural', '#statement_piece', '#accent_wall']
+\n2025-07-30 15:52:49,045 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:52:49,045 - INFO - Unknown hashtags found (kept as English): ['#neutral_colors', '#green_accents', '#urban_jungle', '#metal_details', '#airy_space']
+\n2025-07-30 15:52:49,046 - INFO - Consider adding these to HASHTAG_TRANSLATIONS mapping
+\n2025-07-30 15:56:02,232 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:56:09,108 - INFO - WebSocket Manager initialized
+\n2025-07-30 15:56:09,111 - INFO - Mood Board Log Service initialized
+\n2025-07-30 15:56:09,124 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 15:56:09,182 - INFO - Gemini Service initialized
+\n2025-07-30 15:56:09,234 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:56:09,393 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:56:09,415 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:56:09,731 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:56:16,476 - INFO - WebSocket Manager initialized
+\n2025-07-30 15:56:16,478 - INFO - Mood Board Log Service initialized
+\n2025-07-30 15:56:16,487 - INFO - Mood Board Service initialized with Imagen 4
+\n2025-07-30 15:56:16,614 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:56:16,784 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:56:16,807 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:56:32,879 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:56:39,504 - INFO - WebSocket Manager initialized
+\n2025-07-30 15:56:39,505 - INFO - Mood Board Log Service initialized
+\n2025-07-30 15:56:39,628 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:56:39,777 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:56:39,800 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:56:46,114 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:56:52,746 - INFO - WebSocket Manager initialized
+\n2025-07-30 15:56:52,880 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:56:53,039 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:56:53,062 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:56:57,544 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:57:04,242 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:57:04,396 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:57:04,418 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:57:14,745 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:57:21,491 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:57:21,639 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:57:21,665 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:57:55,199 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:58:02,418 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:58:02,579 - INFO - Static files mounted: /static/mood_boards -> C:\Users\cihan\Desktop\DekoAsistanAI\backend\data\mood_boards
+\n2025-07-30 15:58:02,602 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:58:18,378 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:58:25,417 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 15:59:06,465 - INFO - Shutting down Deko Assistant AI API...
+\n2025-07-30 15:59:13,649 - INFO - Starting Deko Assistant AI API...
+\n2025-07-30 16:01:21,100 - INFO - Shutting down Deko Assistant AI API...
