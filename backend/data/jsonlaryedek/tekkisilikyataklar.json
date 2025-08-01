@@ -1,0 +1,77 @@
+[
+  {
+    "product_name": "MALM tek kişilik karyola, LURÖY, beyaz, 120x200 cm",
+    "category": "Mobilyalar",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 135,
+      "depth_cm": 209,
+      "height_cm": 100
+    },
+    "description": "MALM karyola, sade tasarımıyla yatak odanızda şık bir görünüm sunar. Yüksek yatak başlığı, kitap okurken veya TV izlerken rahatça yaslanmanızı sağlar. Yatağın altında bolca depolama alanı bulunur ve temizliği kolaydır. LURÖY lata somya fiyata dahildir.",
+    "price": 7999,
+    "image_path": "/data/products/tekkisilikyataklar/malm-luroy-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/malm-luroy-beyaz-120x200-cm-tek-kisilik-karyola-99009558"
+  },
+  {
+    "product_name": "TARVA tek kişilik karyola, LURÖY, çam, 90x200 cm",
+    "category": "Mobilyalar",
+    "style": "İskandinav",
+    "color": "Çam",
+    "dimensions": {
+      "width_cm": 98,
+      "depth_cm": 207,
+      "height_cm": 95
+    },
+    "description": "TARVA karyola, işlenmemiş masif çam ağacından yapılmıştır. Bu dayanıklı ve sıcak doğal malzemeyi olduğu gibi kullanabilir veya favori renginize boyayarak kişiselleştirebilirsiniz. Yüksek yatak başlığı sayesinde yatakta oturmak rahattır. LURÖY lata somya fiyata dahildir.",
+    "price": 3849,
+    "image_path": "/data/products/tekkisilikyataklar/tarva-luroy-cam.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tarva-luroy-cam-90x200-cm-tek-kisilik-karyola-89009568"
+  },
+  {
+    "product_name": "TARVA tek kişilik karyola, LÖNSET, beyaz vernikli, 90x200 cm",
+    "category": "Mobilyalar",
+    "style": "İskandinav",
+    "color": "Beyaz Vernikli",
+    "dimensions": {
+      "width_cm": 98,
+      "depth_cm": 207,
+      "height_cm": 95
+    },
+    "description": "TARVA karyola, masif çamın güzelliğini sergileyen geleneksel bir İskandinav tasarımıdır. Zamanla güzelleşen bu karyolayı kişisel tarzınıza uyacak şekilde vernikleyebilir, boyayabilir veya cilalayabilirsiniz. LÖNSET lata somya, ayarlanabilir konfor bölgeleriyle ekstra destek sağlar.",
+    "price": 5449,
+    "image_path": "/data/products/tekkisilikyataklar/tarva-lonset-beyaz-vernikli.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tarva-lonset-beyaz-vernikli-90x200-cm-tek-kisilik-karyola-69553932"
+  },
+  {
+    "product_name": "MALM tek kişilik karyola, LURÖY, ağartılmış meşe kaplama, 90x200 cm",
+    "category": "Mobilyalar",
+    "style": "Modern",
+    "color": "Ağartılmış Meşe Kaplama",
+    "dimensions": {
+      "width_cm": 105,
+      "depth_cm": 209,
+      "height_cm": 100
+    },
+    "description": "Temiz bir tasarıma sahip olan MALM karyola, her yatak odasına uyum sağlar. Ağartılmış meşe kaplaması doğal ve aydınlık bir atmosfer yaratır. Yüksek yatak başlığı, yatakta rahatça oturmanıza olanak tanır. LURÖY lata somya fiyata dahildir.",
+    "price": 6699,
+    "image_path": "/data/products/tekkisilikyataklar/malm-luroy-agartilmis-mese.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/malm-luroy-agartilmis-mese-kaplama-90x200-cm-tek-kisilik-karyola-19132289"
+  },
+  {
+    "product_name": "MALM tek kişilik karyola, LURÖY, venge, 90x200 cm",
+    "category": "Mobilyalar",
+    "style": "Modern",
+    "color": "Venge",
+    "dimensions": {
+      "width_cm": 105,
+      "depth_cm": 209,
+      "height_cm": 100
+    },
+    "description": "MALM karyolanın sade ve şık tasarımı, yatak odanıza modern bir dokunuş katar. Venge rengi, sofistike ve sıcak bir atmosfer oluşturur. Yüksek başlığı sayesinde yatakta oturup kitap okumak veya dinlenmek çok konforludur. LURÖY lata somya fiyata dahildir.",
+    "price": 6699,
+    "image_path": "/data/products/tekkisilikyataklar/malm-luroy-venge.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/malm-luroy-venge-90x200-cm-tek-kisilik-karyola-39009561"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "product_name": "ÄPPLARYD 2'li kanepe, Lejde gri/siyah",
+    "category": "koltuk",
+    "style": "Modern",
+    "color": "Lejde Gri/Siyah",
+    "dimensions": {
+      "width_cm": 174,
+      "depth_cm": 93,
+      "height_cm": 79
+    },
+    "description": "ÄPPLARYD kanepe, şık ve modern tasarımı, zarif silüeti ve yumuşak kılıfıyla konforu bir araya getirir. Havalı görünümü ve konforuyla odanızın odak noktası olurken, ince metal ayakları tasarıma hafiflik katar. Koltuğun altındaki geniş alan sayesinde temizlik kolaylaşır.",
+    "price": 27499,
+    "image_path": "/data/products/koltuk/applaryd-lejde-gri-siyah.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/applaryd-lejde-gri-siyah-2-li-kanepe-20506225"
+  },
+  {
+    "product_name": "KIVIK uzanma koltuklu 4'lü kanepe, Tresund antrasit",
+    "category": "koltuk",
+    "style": "Modern",
+    "color": "Tresund Antrasit",
+    "dimensions": {
+      "width_cm": 318,
+      "depth_cm": 163,
+      "height_cm": 83
+    },
+    "description": "Konforlu KIVIK kanepe, geniş boyutu, alçak kolçakları ve vücuda uyum sağlayan süngerli paket yayları ile saatlerce sosyalleşmeye ve rahatlamaya davet ediyor. Uzanma koltuğu ile ekstra konfor alanı sunar. Kılıfı çıkarılıp makinede yıkanabilir, bu da temizliği kolaylaştırır.",
+    "price": 54000,
+    "image_path": "/data/products/koltuk/kivik-tresund-antrasit-uzanmali.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/kivik-tresund-antrasit-uzanma-koltuklu-4-lu-kanepe-79494386"
+  },
+  {
+    "product_name": "LANDSKRONA 3'lü kanepe, Gunnared açık yeşil",
+    "category": "koltuk",
+    "style": "Modern",
+    "color": "Gunnared Açık Yeşil",
+    "dimensions": {
+      "width_cm": 204,
+      "depth_cm": 89,
+      "height_cm": 78
+    },
+    "description": "LANDSKRONA kanepe, sade ve şık tasarımıyla dikkat çeker. Yüksek esnekliğe sahip sünger dolgulu oturma minderleri ve sırt minderleri, uzun süreli konfor sağlar. Metal ayakları tasarıma modern bir dokunuş katar ve temizliği kolaylaştırır. Kılıfı dayanıklı Gunnared kumaştan üretilmiştir.",
+    "price": 27000,
+    "image_path": "/data/products/koltuk/landskrona-gunnared-acik-yesil.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/landskrona-gunnared-acik-yesil-3-lu-kanepe-39270326"
+  },
+  {
+    "product_name": "KIVIK 5'li köşe kanepe, Tresund açık bej",
+    "category": "koltuk",
+    "style": "Modern",
+    "color": "Tresund Açık Bej",
+    "dimensions": {
+      "width_cm": 297,
+      "depth_cm": 257,
+      "height_cm": 83
+    },
+    "description": "Geniş ve konforlu KIVIK köşe kanepe, yumuşak ve derin oturma alanı sunar. Alçak kolçakları ve paket yaylı süngerleri ile rahat bir dinlenme ve sosyalleşme alanı yaratır. Modüler yapısı sayesinde kolçakları çıkarılabilir ve uzanma koltuğu eklenebilir. Çıkarılabilir kılıfı makinede yıkanabilir.",
+    "price": 56000,
+    "image_path": "/data/products/koltuk/kivik-tresund-acik-bej.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/kivik-tresund-acik-bej-5-li-kose-kanepe-19482862"
+  },
+  {
+    "product_name": "STOCKHOLM 2025 2'li kanepe, Djurmo gri/beyaz",
+    "category": "koltuk",
+    "style": "İskandinav",
+    "color": "Djurmo Gri/Beyaz",
+    "dimensions": {
+      "width_cm": 158,
+      "depth_cm": 88,
+      "height_cm": 79
+    },
+    "description": "STOCKHOLM 2025 koleksiyonunun bir parçası olan bu kanepe, modern İskandinav tasarımını yansıtır. Zarif çizgileri, masif ahşap ayakları ve rahat minderleri ile hem şık hem de konforludur. Djurmo desenli kılıfı, odanıza canlılık ve karakter katar. Kaliteli malzemeleri sayesinde uzun ömürlü bir kullanım sunar.",
+    "price": 22000,
+    "image_path": "/data/products/koltuk/stockholm-2025-djurmo-gri-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/stockholm-2025-djurmo-gri-beyaz-2-li-kanepe-90586110"
+  }
+]

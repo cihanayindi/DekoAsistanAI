@@ -1,0 +1,77 @@
+[
+  {
+    "product_name": "SLATTUM/VISSLE koyu gri 160x200 cm çift kişilik karyola",
+    "category": "Çift kişilik yataklar",
+    "style": "Modern",
+    "color": "Koyu Gri",
+    "dimensions": {
+      "width_cm": 164,
+      "depth_cm": 206,
+      "height_cm": 85
+    },
+    "description": "SLATTUM karyola, şık ve sade çizgileri tamamlayan yumuşak bir döşemeye ve dolgulu bir yatak başlığına sahiptir. Beğenmesi kolay - ve tek bir pakette gelen tüm iskelet sayesinde eve getirmek için pratik. Karyolanın altını temiz ve tozsuz tutmak için kolayca süpürebilirsiniz. Saklama kutuları için yatağın altında bol miktarda yer vardır - ekstra yorgan ve yastıkları saklamak için mükemmeldir.",
+    "price": 7499,
+    "image_path": "/data/products/ciftkisilikyataklar/slattum-vissle-koyu-gri.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/slattum-vissle-koyu-gri-160x200-cm-cift-kisilik-karyola-40571248"
+  },
+  {
+    "product_name": "STJARNÖ/LURÖY antrasit 160x200 cm çift kişilik karyola",
+    "category": "Çift kişilik yataklar",
+    "style": "Modern",
+    "color": "Antrasit",
+    "dimensions": {
+      "width_cm": 166,
+      "depth_cm": 208,
+      "height_cm": 100
+    },
+    "description": "STJARNÖ karyola, modern ve minimalist bir tasarıma sahiptir. Metal iskeleti ve başlığı ile odanıza ferah bir hava katar. LURÖY latalı taban, vücut ağırlığınıza göre ayarlanarak konforlu bir uyku sağlar. Yatağın altındaki boşluk, temizlik için kolaylık sağlar ve ek depolama alanı olarak kullanılabilir.",
+    "price": 14099,
+    "image_path": "/data/products/ciftkisilikyataklar/stjarno-luroy-antrasit.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/stjarno-luroy-antrasit-160x200-cm-cift-kisilik-karyola-39563329"
+  },
+  {
+    "product_name": "TARVA/LURÖY beyaz vernikli 160x200 cm çift kişilik karyola",
+    "category": "Çift kişilik yataklar",
+    "style": "İskandinav",
+    "color": "Beyaz Vernikli",
+    "dimensions": {
+      "width_cm": 168,
+      "depth_cm": 209,
+      "height_cm": 92
+    },
+    "description": "TARVA karyola, işlenmemiş masif çam ağacından yapılmıştır, böylece doğal ahşabın güzelliğini yatak odanıza taşıyabilirsiniz. Zamanla daha da güzelleşen bu doğal materyali, favori renginize boyayarak veya vernikleyerek kişiselleştirebilirsiniz. Yüksek yatak başlığı sayesinde yatakta kitap okurken veya dinlenirken rahatça arkanıza yaslanabilirsiniz.",
+    "price": 8299,
+    "image_path": "/data/products/ciftkisilikyataklar/tarva-luroy-beyaz-vernikli.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tarva-luroy-beyaz-vernikli-160x200-cm-cift-kisilik-karyola-59553942"
+  },
+  {
+    "product_name": "MANDAL/HUŞ 140x200 cm çift kişilik baza",
+    "category": "Çift kişilik yataklar",
+    "style": "İskandinav",
+    "color": "Huş",
+    "dimensions": {
+      "width_cm": 140,
+      "depth_cm": 202,
+      "height_cm": 27
+    },
+    "description": "MANDAL karyola, masif ahşabın sıcaklığını modern bir tasarımla birleştirir. Yatağın altındaki 4 geniş çekmece, yorgan, yastık ve nevresimler için geniş bir depolama alanı sunar. Huş ağacının doğal dokusu, yatak odanıza ferah ve aydınlık bir atmosfer katar.",
+    "price": 15499,
+    "image_path": "/data/products/ciftkisilikyataklar/mandal-hus.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/mandal-hus-140x200-cm-cift-kisilik-baza-30280481"
+  },
+  {
+    "product_name": "IDANÄS bej 160x200 cm çift kişilik baza",
+    "category": "Çift kişilik yataklar",
+    "style": "Klasik",
+    "color": "Bej",
+    "dimensions": {
+      "width_cm": 170,
+      "depth_cm": 224,
+      "height_cm": 120
+    },
+    "description": "IDANÄS döşemeli karyola, sırtınız için rahat destek sağlayan kalın, eğimli bir başlığa sahiptir - yatakta gazete veya kitap okurken rahat sabahlar ve uzun akşamlar için mükemmeldir. Döşeme yumuşaktır ve uyku saatini daha da keyifli hale getirir. Bej renkli keten benzeri Naggen kumaş dayanıklıdır ve yatak odasına rahat ve doğal bir tarz kazandırır. Bu karyola çerçevesini IDANÄS serisindeki diğer mobilyalar ile birleştirerek uyumlu bir yatak odası oluşturun.",
+    "price": 31999,
+    "image_path": "/data/products/ciftkisilikyataklar/idanas-bej.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-bej-160x200-cm-cift-kisilik-baza-70588087"
+  }
+]

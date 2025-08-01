@@ -1,0 +1,77 @@
+[
+  {
+    "product_name": "SNIGLAR bebek karyolası, kayın görünümlü, 60x120 cm",
+    "category": "cocuk_yatagi",
+    "style": "Modern",
+    "color": "Kayın",
+    "dimensions": {
+      "width_cm": 66,
+      "depth_cm": 124,
+      "height_cm": 80
+    },
+    "description": "Bebeğiniz bu karyolada güvenli ve konforlu bir şekilde uyur. Kayın ağacından yapılmıştır - gezegenimiz için iyi olan dayanıklı, sağlam ve yenilenebilir doğal bir malzeme. Çocuk karyolası bazası iki farklı yükseklikte konumlandırılabilir.",
+    "price": 3299,
+    "image_path": "/data/products/cocuk_yatagi/sniglar-kayin.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sniglar-kayin-gorunumlu-60x120-cm-bebek-karyolasi-30248537"
+  },
+  {
+    "product_name": "GONATT bebek karyolası, beyaz, 60x120 cm",
+    "category": "cocuk_yatagi",
+    "style": "Klasik",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 68,
+      "depth_cm": 123,
+      "height_cm": 107
+    },
+    "description": "Bu bebek karyolasının her detayının özenle yapıldığını hem görebilir, hem de hissedebilirsiniz. Yumuşak şekillere, dayanıklı malzemelere ve pratik özelliklere sahip sağlam bir yapı ve altta geniş bir çekmece. Çocuk karyolası bazası iki farklı yükseklikte konumlandırılabilir.",
+    "price": 10999,
+    "image_path": "/data/products/cocuk_yatagi/gonatt-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gonatt-beyaz-60x120-cm-bebek-karyolasi-30467092"
+  },
+  {
+    "product_name": "GULLIVER bebek karyolası, yeşil, 60x120 cm",
+    "category": "cocuk_yatagi",
+    "style": "Modern",
+    "color": "Yeşil",
+    "dimensions": {
+      "width_cm": 66,
+      "depth_cm": 123,
+      "height_cm": 80
+    },
+    "description": "Sevilen klasik GULLIVER bebek karyolası artık yeşil renkte de mevcut. Bebeğiniz 1. günden itibaren 'gerçek' bir yatak zamanı gelene kadar güvenle uyur, alt kısmı aşağı indirebilir ve uzun bir kenarı çıkarabilirsiniz. Çocuk karyolası bazası iki farklı yükseklikte konumlandırılabilir.",
+    "price": 6499,
+    "image_path": "/data/products/cocuk_yatagi/gulliver-yesil.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gulliver-yesil-60x120-cm-bebek-karyolasi-20589503"
+  },
+  {
+    "product_name": "ÄLSKVÄRD bebek karyolası, huş-beyaz, 60x120 cm",
+    "category": "cocuk_yatagi",
+    "style": "İskandinav",
+    "color": "Huş-Beyaz",
+    "dimensions": {
+      "width_cm": 67,
+      "depth_cm": 124,
+      "height_cm": 93
+    },
+    "description": "ÄLSKVÄRD serisi ile bebeğiniz için eksiksiz bir İskandinav tarzı oda yaratın. Alt kısmını indirip bir uzun kenarını korkulukla değiştirebildiğiniz için çocuğunuz bu karyolada daha uzun yıllar uyur. Çocuğunuz kendi kendine oturmaya başladığında karyolasının bazası alçaltılabilir.",
+    "price": 13999,
+    "image_path": "/data/products/cocuk_yatagi/alskvard-hus-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/alskvard-hus-beyaz-60x120-cm-bebek-karyolasi-50314809"
+  },
+  {
+    "product_name": "MYLLRA bebek karyolası, bej, 60x120 cm",
+    "category": "cocuk_yatagi",
+    "style": "Modern",
+    "color": "Bej",
+    "dimensions": {
+      "width_cm": 67,
+      "depth_cm": 124,
+      "height_cm": 97
+    },
+    "description": "Uzanmak, oturmak, tırmanmak, ayakta durmak. MYLLRA bebek karyolası, ayarlanabilir bir tabana sahiptir. Tüm gelişim aşamalarında, güvenli bir uyku alanı yaratır - çocuğunuz karyolaya kendi başına girip çıkabiliyorsa, sadece bir tarafını çıkarın. Bebek karyolasının altında yorgan, oyuncak veya nevresimlerinizi saklayabileceğiniz, geniş bir çekmece bulunmaktadır.",
+    "price": 16999,
+    "image_path": "/data/products/cocuk_yatagi/myllra-bej.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/myllra-bej-60x120-cm-bebek-karyolasi-40597045"
+  }
+]
