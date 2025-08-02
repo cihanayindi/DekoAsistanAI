@@ -1,0 +1,746 @@
+[
+  {
+    "log_id": "mbl_20250729_210236_0270eedc",
+    "mood_board_id": "0270eedc-2614-465a-838b-07ac4ac7d2de",
+    "connection_id": "48655034-228c-4d4e-be51-03522f2e0513",
+    "timestamp": "2025-07-29T21:02:36.015383",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "minimal",
+      "notes": "Oda Boyutları: 400cm x 400cm x 280cm (G x U x Y)\r\nKullanıcı Notları: Country mobilya tarzında olsun, duvarda türk bayrağı da bulunsun"
+    },
+    "design_content": {
+      "title": "Minimal Country Esintili Salon",
+      "description": "Minimalizm ve country stilini harmanlayan, sıcak ve davetkar bir salon tasarımı. Doğal renkler, ahşap detaylar ve Türk bayrağı vurgusu ile modern ve gelenekseli bir araya getiriyor. Sade ve işlevsel mobilyalarla ferah bir yaşam alanı hedefleniyor."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-29T21:02:36.015336",
+      "prompt_used": "Modern mood board layout. Minimalist salon: country furniture, natural colors, wood details, Turkish flag. 400x400x280cm. Medium res, clean, professional interior design.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250729_210859_cf888aa5",
+    "mood_board_id": "cf888aa5-ccee-4cc6-8e1a-5fde58d8285f",
+    "connection_id": "70828fd3-b2cc-43b4-a416-3e05356afb94",
+    "timestamp": "2025-07-29T21:08:59.224595",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "klasik",
+      "notes": "Oda Boyutları: 400cm x 400cm x 280cm (G x U x Y)\r\nKullanıcı Notları: Retro bir tasarım olsun, mobilyalar filan retro olsun"
+    },
+    "design_content": {
+      "title": "Retro Şıklıkta Klasik Salon Tasarımı",
+      "description": "Bu tasarım, klasik salonun zarafetini retro detaylarla birleştirerek sıcak ve davetkar bir atmosfer yaratır. Ahşap tonları, pastel renkler ve geometrik desenler, retro tarzın karakteristik özelliklerini yansıtırken, klasik mobilyalar mekana sofistike bir hava katmaktadır. Amaç, nostaljik bir şıklık sunmaktır."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-29T21:08:59.224545",
+      "prompt_used": "Mood board, classic living room, retro details, wood tones, pastel colors, geometric patterns, vintage furniture, clean layout, medium resolution, organized.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250729_222650_2c879775",
+    "mood_board_id": "2c879775-3ec3-49aa-9bd9-b6e6183b5f84",
+    "connection_id": "e0441019-f68f-47ad-af48-7468dc2355f1",
+    "timestamp": "2025-07-29T22:26:50.332416",
+    "user_input": {
+      "room_type": "yatak",
+      "design_style": "klasik",
+      "notes": "Oda Boyutları: 400cm x 400cm x 280cm (G x U x Y)\r\nKullanıcı Notları: Eski yunan mitolojisine göndermeli ürünler olan bir yatak odası olsun"
+    },
+    "design_content": {
+      "title": "Yunan Esintili Klasik Yatak Odası",
+      "description": "Bu tasarım, klasik stilin zarafetini Antik Yunan mitolojisinin büyüsüyle birleştiriyor. Krem, altın ve lacivert tonları kullanılarak sakin ve lüks bir atmosfer yaratılmıştır. Heykeller, sütun detayları ve mitolojik figürlerle oda, zamansız bir güzelliğe sahip."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-29T22:26:50.332364",
+      "prompt_used": "Mood board. Classic bedroom interior. Greek mythology theme. Cream, gold, navy colors. Sculptures, columns, details. Medium resolution. Professional, clean layout.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250729_231329_4026ff8b",
+    "mood_board_id": "4026ff8b-2589-448f-86e1-3dffed924b63",
+    "connection_id": "331a44af-344e-4a80-8104-37ff2e63041e",
+    "timestamp": "2025-07-29T23:13:29.912405",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 300cm x 300cm x 280cm (G x U x Y)\r\nKullanıcı Notları: yeşil tonlarda ve büyük bir çalışma masası olsun \r\n\r\ntv de olsun"
+    },
+    "design_content": {
+      "title": "Modern Yeşil Salon Tasarımı",
+      "description": "Bu tasarım, modern stili yeşilin rahatlatıcı tonlarıyla birleştiriyor. Küçük salon için fonksiyonel bir çalışma alanı ve TV alanı sunarak, hem dinlenme hem de çalışma ihtiyaçlarını karşılıyor. Doğal ışık ve bitkilerle ferah bir atmosfer yaratılıyor."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-29T23:13:29.912365",
+      "prompt_used": "Modern mood board layout: Green tones salon, large desk, TV, 300x300cm, plants, natural light. Medium resolution, clean composition, professional interior design presentation.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250729_234345_ea27b74b",
+    "mood_board_id": "ea27b74b-cd7d-4c46-8d8f-c70b9bfab2f5",
+    "connection_id": "aee62112-dc08-454f-a665-ab41899d2969",
+    "timestamp": "2025-07-29T23:43:45.481661",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "minimal",
+      "notes": "Oda Boyutları: 300cm x 300cm x 280cm (G x U x Y)\r\nKullanıcı Notları: koyu tonlarda bir salon tasarımı istiyorum"
+    },
+    "design_content": {
+      "title": "Koyu Minimalizm: Şık Salon Tasarımı",
+      "description": "Koyu tonların hakim olduğu bu minimal salon tasarımı, modern ve sofistike bir atmosfer yaratır. Fonksiyonellik ve estetik dengesi ön plandadır. Rahat ve davetkar bir alan sunar."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-29T23:43:45.481626",
+      "prompt_used": "Modern mood board: Minimal dark salon. 300x300cm room, dark tones, clean lines. Furniture, lighting, textures. Medium resolution, interior design presentation.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250729_234429_b52ab82d",
+    "mood_board_id": "b52ab82d-bebe-4355-a5ad-d2f1d865d317",
+    "connection_id": "60a835c8-d10d-4634-8a2a-df001d1e0a40",
+    "timestamp": "2025-07-29T23:44:29.629950",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 400cm x 400cm x 300cm (G x U x Y)\r\nKullanıcı Notları: bol yeşillikli ferah bir tasarım istiyorum\r\n"
+    },
+    "design_content": {
+      "title": "Yeşilin Ferahlığı: Modern Salon Tasarımı",
+      "description": "Modern ve ferah bir salon tasarımı için bol yeşillikli, doğal ışığı ön plana çıkaran bir konsept uygulandı. Nötr renkler ve ahşap tonları, bitkilerin canlılığıyla dengelenerek sakinleştirici bir atmosfer yaratıldı."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-29T23:44:29.629894",
+      "prompt_used": "Modern mood board: Interior design for a bright, modern living room filled with greenery. Neutral colors, wood accents, lots of plants. Room size: 400x400x300cm. Medium resolution.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250729_235309_b96712dc",
+    "mood_board_id": "b96712dc-21a6-4255-9133-e650e3ed113d",
+    "connection_id": "5339edf9-6f54-40d7-85cd-461139f3a2b4",
+    "timestamp": "2025-07-29T23:53:09.308745",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 400cm x 400cm x 300cm (G x U x Y)\r\nKullanıcı Notları: bol yeşillikli ferah bir salon olmasını istiyorum beyaz bir metal ayaklı lambada olsun\r\n"
+    },
+    "design_content": {
+      "title": "Modern Yeşil Vaha Salon Tasarımı",
+      "description": "Bu tasarım, modern estetiği bol yeşillik ve ferah bir atmosferle birleştiriyor. Nötr renkler, doğal ışık ve bitkilerle huzurlu bir ortam yaratılıyor. Metal detaylar modern bir dokunuş katıyor."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-29T23:53:09.308713",
+      "prompt_used": "Interior design mood board, modern style salon, professional presentation, modern layout",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250730_005109_ee9e579d",
+    "mood_board_id": "ee9e579d-fdbd-42b4-9e9f-2fb63ef56e67",
+    "connection_id": "573adfe1-3978-4342-912c-ddbf7a939d0b",
+    "timestamp": "2025-07-30T00:51:09.448284",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 400cm x 800cm x 300cm (G x U x Y)\r\nKullanıcı Notları: salonumda kısa köşede bir tv ünitesi olsun"
+    },
+    "design_content": {
+      "title": "Özel modern salon Tasarımı",
+      "description": "Bu salon için modern tarzında özel tasarım konsepti hazırlanıyor. Renk uyumu ve fonksiyonel çözümler öncelikli olacak."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-30T00:51:09.448243",
+      "prompt_used": "Interior design mood board, modern style salon, professional presentation, modern layout",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250730_005229_1b5198ff",
+    "mood_board_id": "1b5198ff-b5c1-4e5a-a6eb-c079e734f4ad",
+    "connection_id": "04e8687d-4748-4ecc-9f61-94614b916732",
+    "timestamp": "2025-07-30T00:52:29.156458",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 400cm x 400cm x 300cm (G x U x Y)\r\nKullanıcı Notları: yeşillikler bulunan güzel bir oda tasarımı istiyorum ona göre de bir oda görseli ver"
+    },
+    "design_content": {
+      "title": "Özel modern salon Tasarımı",
+      "description": "Bu salon için modern tarzında özel tasarım konsepti hazırlanıyor. Renk uyumu ve fonksiyonel çözümler öncelikli olacak."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-30T00:52:29.156411",
+      "prompt_used": "Interior design mood board, modern style salon, professional presentation, modern layout",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250730_152821_8e3b2db4",
+    "mood_board_id": "8e3b2db4-ec1b-43ca-93d5-b2670cb9531c",
+    "connection_id": "646b3500-1c20-4595-9b66-957e7ca39298",
+    "timestamp": "2025-07-30T15:28:21.538641",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 400cm x 400cm x 300cm (G x U x Y)\r\nKullanıcı Notları: kırmızı tonlarda bir salon görüntüsü oluşturur musun "
+    },
+    "design_content": {
+      "title": "Modern Kırmızı Salon Tasarımı",
+      "description": "Bu modern salon tasarımı, sıcak ve davetkar bir atmosfer yaratmak için kırmızı tonlarını kullanır. Minimalist mobilyalar ve doğal dokularla modern bir görünüm sağlanır. Aydınlatma, ambiyansı güçlendirir."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-30T15:28:21.538600",
+      "prompt_used": "Modern interior design mood board, red salon: minimalist furniture, warm red tones, natural textures, ambient lighting, 400x400x300cm room. Clean, professional.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250731_015433_b0fff11d",
+    "mood_board_id": "b0fff11d-3d4d-4606-be3c-04831e0a81a6",
+    "connection_id": "073bdf96-7fed-4385-9d43-f4a188759023",
+    "timestamp": "2025-07-31T01:54:33.988030",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "minimal",
+      "notes": "Oda Boyutları: 400cm x 400cm x 280cm (G x U x Y)\r\nKullanıcı Notları: 4 duvarı anime posterleriyle sarılı tavanı pembe renk, iki kenarı camlı duvar olsun, zeminde de tek kare fayans olsun\r\n\r\nkoltuk olarak da sadece 1 tane tekli koltuk odanın ortasında olsun"
+    },
+    "design_content": {
+      "title": "Anime Minimalizm Salon",
+      "description": "Anime posterleriyle çevrili, pembe tavanlı, cam duvarlı ve tekli koltuklu minimalist salon tasarımı. Tek kare fayans zemin, odanın ortasında konumlanan tekli koltuk ve anime temalı duvarlar ile benzersiz bir atmosfer yaratır. Minimalist yaklaşım, anime sanatının öne çıkmasını sağlar."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-31T01:54:33.987987",
+      "prompt_used": "Photo-realistic interior of a minimal style salon. Anime posters cover walls, pink ceiling, glass walls, single tile floor. Central armchair, recessed spotlights, LED strips, minimalist rug. High-quality, professional interior photography.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250731_015739_9aa6f80f",
+    "mood_board_id": "9aa6f80f-bfde-46c8-b702-a6f19b084cc8",
+    "connection_id": "db5a75c4-c86b-42f7-ba2b-f142a2604c3a",
+    "timestamp": "2025-07-31T01:57:39.915590",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "klasik",
+      "notes": "Oda Boyutları: 700cm x 350cm x 280cm (G x U x Y)\r\nKullanıcı Notları: Sol alt köşede L mutfak olacak, mutfağın tezgah bitişinde yemek masası ve onun yanında da cam var. Odanın diğer tarafında iki tane tekli bir tane üçlü koltuk var. Ortalarında sehpa ve karşılarında bir televizyon var. \r\n\r\nLütfen koltukta yatan bir kadın da ekle"
+    },
+    "design_content": {
+      "title": "Klasik Salon Tasarımı: Lüks ve Konfor Bir Arada",
+      "description": "Bu tasarım, klasik stilin zarafetini ve lüksünü yansıtırken, konforlu bir yaşam alanı sunmayı amaçlar. Krem, bej ve altın tonları kullanılarak sıcak ve davetkar bir atmosfer yaratılmıştır. Mobilyalar, klasik detaylarla zenginleştirilmiş, kaliteli malzemelerden seçilmiştir."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-31T01:57:39.915539",
+      "prompt_used": "Photo-realistic interior room visualization of a complete classic style salon. Chesterfield sofa, dining table near L kitchen, TV unit. Cream, beige, gold tones. Silk rug, chandelier, wood coffee table, decorative pillows. Woman lying on sofa. High-quality, professional interior photography.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250731_015844_b29c0b78",
+    "mood_board_id": "b29c0b78-b153-4b08-960a-7471f9b8be06",
+    "connection_id": "db5a75c4-c86b-42f7-ba2b-f142a2604c3a",
+    "timestamp": "2025-07-31T01:58:44.627461",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 700cm x 350cm x 280cm (G x U x Y)\r\nKullanıcı Notları: Sol alt köşede L mutfak olacak, mutfağın tezgah bitişinde yemek masası ve onun yanında da cam var. Odanın diğer tarafında iki tane tekli bir tane üçlü koltuk var. Ortalarında sehpa ve karşılarında bir televizyon var. \r\n\r\nLütfen koltukta yatan bir kadın da ekle"
+    },
+    "design_content": {
+      "title": "Modern Salon Tasarımı: Fonksiyonel ve Şık",
+      "description": "Bu tasarım, modern yaşamın gereksinimlerini karşılayan, fonksiyonel ve şık bir salon yaratmayı amaçlar. Nötr renk paleti, doğal malzemeler ve minimalist detaylarla sakin ve davetkar bir atmosfer oluşturulmuştur. L mutfak ile entegre yemek alanı ve rahat oturma düzeni ile uyum sağlanmıştır."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-31T01:58:44.627409",
+      "prompt_used": "Photo-realistic interior: Modern salon, 700x350x280cm, L-kitchen w/dining table near window, sofa, armchairs, coffee table, TV. Woman on sofa. Neutral palette, natural materials, minimal details. Incl. lighting, decor, high-quality, realistic lighting.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250731_015933_99fae506",
+    "mood_board_id": "99fae506-f14a-4ba9-9823-04a495621314",
+    "connection_id": "db5a75c4-c86b-42f7-ba2b-f142a2604c3a",
+    "timestamp": "2025-07-31T01:59:33.195051",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 700cm x 350cm x 280cm (G x U x Y)\r\nKullanıcı Notları: Sol alt köşede L mutfak olacak, mutfağın tezgah bitişinde yemek masası ve onun yanında da cam var. Odanın diğer tarafında iki tane tekli bir tane üçlü koltuk var. Ortalarında sehpa ve karşılarında bir televizyon var. "
+    },
+    "design_content": {
+      "title": "Modern Salon Tasarımı: Fonksiyonel ve Şık",
+      "description": "Bu modern salon tasarımı, L mutfak ve yemek masası alanını göz önünde bulundurarak fonksiyonelliği ve şıklığı bir araya getirir. Nötr renk paleti ve doğal malzemelerle sıcak bir atmosfer yaratılır. Aydınlatma ve dekoratif objelerle kişisel dokunuşlar eklenir."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-31T01:59:33.194993",
+      "prompt_used": "Photo-realistic modern living room. L-shaped kitchen (left), dining table by window. Sofa set, coffee table, TV unit. Floor lamp, pendant light. Pillows, rug, art, plants, bar stools. Neutral palette, natural materials, high-quality interior photo.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250731_020017_c29db50a",
+    "mood_board_id": "c29db50a-c0ec-470d-b3b0-834776221c03",
+    "connection_id": "db5a75c4-c86b-42f7-ba2b-f142a2604c3a",
+    "timestamp": "2025-07-31T02:00:17.502639",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 700cm x 350cm x 280cm (G x U x Y)\r\nKullanıcı Notları: Sol alt köşede L mutfak tezgahı olacak, mutfağın tezgah bitişinde yemek masası ve onun yanında da cam var. Odanın diğer tarafında iki tane tekli bir tane üçlü koltuk var. Ortalarında sehpa ve karşılarında bir televizyon var. "
+    },
+    "design_content": {
+      "title": "Modern Salon Tasarımı: Işık ve Fonksiyonellik",
+      "description": "Bu modern salon tasarımı, doğal ışığı ve işlevselliği ön planda tutar. Nötr renk paleti ve minimalist detaylarla ferah bir atmosfer yaratılmıştır. Mutfak tezgahı ve yemek masası entegrasyonu ile sosyal bir yaşam alanı hedeflenmiştir."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-31T02:00:17.502591",
+      "prompt_used": "Photo-realistic modern living room: L-shaped kitchen counter merges with wood dining table near window. 1 sofa, 2 armchairs, coffee table, TV unit. Floor lamp, ceiling light, neutral tones, plants, art. High-quality, realistic lighting.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250731_020058_1a1abd0b",
+    "mood_board_id": "1a1abd0b-9ee9-41f0-aafe-59c6c292a38d",
+    "connection_id": "db5a75c4-c86b-42f7-ba2b-f142a2604c3a",
+    "timestamp": "2025-07-31T02:00:58.534512",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "minimal",
+      "notes": "Oda Boyutları: 700cm x 350cm x 280cm (G x U x Y)\r\nKullanıcı Notları: Sol alt köşede L mutfak tezgahı olacak, mutfağın tezgah bitişinde yemek masası ve onun yanında da cam var. Odanın diğer tarafında iki tane tekli bir tane üçlü koltuk var. Ortalarında sehpa ve karşılarında bir televizyon var. "
+    },
+    "design_content": {
+      "title": "Minimal Salon Tasarımı: İşlevsel ve Aydınlık",
+      "description": "Minimalist bir yaklaşımla tasarlanan bu salon, işlevselliği ve ferahlığı ön planda tutar. Nötr renk paleti, doğal ışık ve sade mobilyalarla dingin bir atmosfer yaratılmıştır. L mutfak tezgahı ve yemek masası entegre edilerek alan verimli kullanılmıştır."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-31T02:00:58.534461",
+      "prompt_used": "Photo-realistic interior: minimal salon, 700x350x280cm. L kitchen, wood table, glass window. Light grey sectional, two armchairs, sofa, round coffee tables, wall-mounted TV. Beige rug, ceramic vase, abstract art. Neutral colors, spot & floor lamps, high-quality, realistic lighting.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250731_021815_6e28fb1f",
+    "mood_board_id": "6e28fb1f-d1fa-424d-a757-9dbe4d334815",
+    "connection_id": "ac9eaf8b-0193-4e6c-af12-429955647b18",
+    "timestamp": "2025-07-31T02:18:15.721078",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 400cm x 400cm x 280cm (G x U x Y)\r\nKullanıcı Notları: Ferah ve yeşillikli bir salon istiyorum ayrıca beyaz bir çalışma masası da olsun"
+    },
+    "design_content": {
+      "title": "Modern Yeşil Vaha Salon Tasarımı",
+      "description": "Bu modern salon tasarımı, ferahlık ve doğallığı ön planda tutar. Yeşil tonları, bitki öğeleri ve doğal malzemelerle sakin bir atmosfer yaratırken, beyaz çalışma masası ile fonksiyonellik sağlar. Minimalist detaylar, şıklığı tamamlar."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-31T02:18:15.721042",
+      "prompt_used": "Photo-realistic interior: Modern living room, 400cm x 400cm. Light grey sectional sofa, wooden TV unit, white desk. Jute rug, large plant, green pillows, abstract art. Metal floor lamp, LED ceiling light. Spacious, airy, green tones, natural materials. High-quality, professional interior photography, realistic lighting.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250731_022857_bfaffc2c",
+    "mood_board_id": "bfaffc2c-8f09-478d-af2e-f8491b53ded8",
+    "connection_id": "2777e494-18ca-433e-865b-72b4c40e1093",
+    "timestamp": "2025-07-31T02:28:57.237662",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Oda Boyutları: 400cm x 400cm x 280cm (G x U x Y)\r\nKullanıcı Notları: Modern ama bol yeşillikli bir tasarım istiyorum"
+    },
+    "design_content": {
+      "title": "Modern Yeşillikli Salon Tasarımı",
+      "description": "Bu tasarım, modern estetiği bol yeşillikle birleştirerek ferah ve davetkar bir atmosfer yaratır. Nötr renk paleti, doğal malzemeler ve bitki öğeleriyle sakinleştirici bir ortam sunar. Minimalist yaklaşım, işlevselliği ön planda tutar."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-31T02:28:57.237608",
+      "prompt_used": "Photo-realistic modern living room. Neutral palette, jute rug, corner sofa, coffee table, TV unit. Large potted plant, wall art, ceramic vase, floor lamp, ceiling light. High-quality, professional interior photography, realistic lighting. Greenery accents.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250731_023941_5d38526c",
+    "mood_board_id": "5d38526c-c847-42e8-93f4-a7384ac7e025",
+    "connection_id": "299c0698-6a5b-4b86-9b48-0bd71baf6325",
+    "timestamp": "2025-07-31T02:39:41.960163",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "minimal",
+      "notes": "Oda Boyutları: 500cm x 500cm x 300cm (G x U x Y)\r\nKullanıcı Notları: kırmızı tonlarda bir oda olsun"
+    },
+    "design_content": {
+      "title": "Minimalist Kırmızı Salon",
+      "description": "Minimalizm ve kırmızı tonlarının uyumuyla sıcak ve davetkar bir salon tasarımı. Fonksiyonellik ve estetik ön planda tutularak, sade ve şık bir atmosfer yaratılmıştır. Kırmızı renk, dengeli bir şekilde kullanılarak mekana enerji katmaktadır."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-31T02:39:41.960123",
+      "prompt_used": "Photo-realistic interior: Minimalist living room (500x500x300cm). Red tones, corner sofa (red), wood coffee table, wood/white TV unit, metal floor lamp, modern ceiling light, white curtains/pillows, abstract art, ceramic vase, grey rug. High-quality, realistic lighting.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250731_025126_595e2ed8",
+    "mood_board_id": "595e2ed8-8196-4b95-8115-bb07b4342268",
+    "connection_id": "350850e1-fa65-4a49-8709-167003e8a772",
+    "timestamp": "2025-07-31T02:51:26.979145",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "klasik",
+      "notes": "Oda Boyutları: 400cm x 400cm x 300cm (G x U x Y)\r\nKullanıcı Notları: klasik ama yeşillikli bir tasarım olsun"
+    },
+    "design_content": {
+      "title": "Yeşil Dokunuşlu Klasik Salon",
+      "description": "Bu tasarım, klasik stilin zarafetini yeşilin huzur veren tonlarıyla birleştiriyor. Ahşap detaylar, zarif mobilyalar ve doğal ışıkla aydınlık bir atmosfer yaratılıyor. Bitki ögeleriyle doğallık ön plana çıkarılıyor."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-07-31T02:51:26.979100",
+      "prompt_used": "Photo-realistic interior: Klasik salon. Chesterfield sofa, wood coffee table, crystal chandelier, patterned rug, velvet curtains, ceramic vase, gold mirror, decorative pillows. Greens & plants. H:3m, W:4m, L:4m. High-quality, realistic lighting.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250801_014103_2446818e",
+    "mood_board_id": "2446818e-939b-4e34-ac08-303a82ffaaf4",
+    "connection_id": "d4391941-170f-4a65-ae76-a0f83b9ce4f0",
+    "timestamp": "2025-08-01T01:41:03.695479",
+    "user_input": {
+      "room_type": "calisma",
+      "design_style": "iskandinav",
+      "notes": "Kullanıcı Notları: Bitki de olsun"
+    },
+    "design_content": {
+      "title": "İskandinav Tarzı Çalışma Odası",
+      "description": "Bu tasarım, İskandinav stilinin sadeliğini ve işlevselliğini vurgular. Doğal ahşap tonları, beyaz ve gri renk paletiyle ferah bir atmosfer yaratılır. Bitki kullanımıyla ortama canlılık katılır ve çalışma motivasyonunu artırır."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-01T01:41:03.695439",
+      "prompt_used": "Photo-realistic interior: iskandinav style calisma. Natural wood, white, grey palette. Wood desk, ergonomic chair, metal lamp, paper shade. Plant, framed art, cotton rug, wood shelf. High-quality, realistic lighting, well-furnished.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250801_024605_82743913",
+    "mood_board_id": "82743913-df04-45c9-837f-43a002e42705",
+    "connection_id": "356b3686-4286-4fb5-8f76-c7e11ede743a",
+    "timestamp": "2025-08-01T02:46:05.645327",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Kullanıcı Notları: güzel bir oda yap"
+    },
+    "design_content": {
+      "title": "Modern Şıklıkta Salon Tasarımı",
+      "description": "Bu modern salon tasarımı, ferah ve şık bir atmosfer yaratmayı amaçlar. Nötr renk tonları ve doğal malzemelerle sıcaklık katılırken, modern mobilyalar ve minimalist dekoratif objelerle güncel bir görünüm elde edilir. Aydınlatma unsurlarıyla odak noktaları vurgulanarak, konforlu ve estetik bir yaşam alanı sunulur. Kullanıcının isteği doğrultusunda güzel bir oda oluşturulmuştur."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-01T02:46:05.645287",
+      "prompt_used": "Photo-realistic interior room visualization of a complete modern style salon. Neutral color palette, natural materials. Includes sectional sofa, coffee table, TV unit, floor lamp, chandelier, decorative pillows, rug, wall art, vases, candles. High-quality, professional interior photography, realistic lighting, well-furnished room, proper perspective.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250801_025125_85c87515",
+    "mood_board_id": "85c87515-f53e-43bb-86a0-951e6fe05605",
+    "connection_id": "1b317a0a-e56b-42e3-aef2-9e2f999a1e5a",
+    "timestamp": "2025-08-01T02:51:25.076737",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Kullanıcı Notları: güzel ve bol yeşillikli olsun"
+    },
+    "design_content": {
+      "title": "Modern Yeşillikli Salon Tasarımı",
+      "description": "Modern stilin minimalizmi ve doğanın canlılığını bir araya getiren bu salon tasarımı, huzurlu bir atmosfer sunuyor. Nötr renk tonları, ahşap detaylar ve bol miktarda yeşillik ile ferah bir yaşam alanı yaratılıyor. Bitkiler, mekana doğal bir dokunuş katarken, modern mobilyalar şıklığı tamamlıyor."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-01T02:51:25.076693",
+      "prompt_used": "Photo-realistic modern living room. 4x4m, high ceilings. Neutral tones, wood accents, lush greenery. Corner sofa, coffee table, large potted plants, wall shelves, ceramic vase, decorative pillows, rug, floor lamp. High-quality, realistic lighting, professional interior photography.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250801_031252_c9a09324",
+    "mood_board_id": "c9a09324-1ce5-48ae-b4d2-1075a048fd2d",
+    "connection_id": "962c1d17-0798-40f4-b729-19c8a281e94e",
+    "timestamp": "2025-08-01T03:12:52.516317",
+    "user_input": {
+      "room_type": "calisma",
+      "design_style": "minimal",
+      "notes": "Kullanıcı Notları: Minimal ve yeşil olsun"
+    },
+    "design_content": {
+      "title": "Minimal Yeşil Çalışma Alanı",
+      "description": "Bu tasarım, minimalizmi ve doğayı bir araya getirerek sakin ve odaklanmış bir çalışma ortamı yaratmayı amaçlar. Yeşil tonları, ahşap detaylar ve doğal ışık kullanımı ile ferah bir atmosfer oluşturulur. Fonksiyonellik ön planda tutularak, sade ve düzenli bir alan tasarlanır."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-01T03:12:52.516274",
+      "prompt_used": "Photo-realistic minimal calisma. Wood desk, ergonomic chair, adjustable lamp, LED strip. Succulent, green art, natural curtains, wall shelf. Green accents, natural light. High-quality interior, realistic lighting. Well-furnished, proper perspective.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250801_032659_fd34a8a7",
+    "mood_board_id": "fd34a8a7-6395-4a54-aeaa-046c03485744",
+    "connection_id": "7344c46c-23a1-490e-aaf3-1ee7460fa53a",
+    "timestamp": "2025-08-01T03:26:59.539205",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "klasik",
+      "notes": "Kullanıcı Notları: klasik tarzda olsun"
+    },
+    "design_content": {
+      "title": "Zamansız Klasik Salon Tasarımı",
+      "description": "Bu klasik salon tasarımı, zarafeti ve konforu bir araya getiriyor. Krem, bej ve altın tonlarının hakim olduğu renk paleti, mekana sıcaklık ve lüks bir hava katıyor. Detaylı ahşap işçiliği ve kaliteli kumaşlar, klasik stilin vazgeçilmez unsurları."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-01T03:26:59.539166",
+      "prompt_used": "Photo-realistic interior of a classic salon. Cream Chester sofa, carved wood coffee table on patterned silk rug. Velvet pillows, crystal chandelier, antique mirror, ceramic vase. Beige, gold accents. High-quality, professional interior photography, realistic lighting. Well-furnished, proper perspective.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250801_032809_02c5c252",
+    "mood_board_id": "02c5c252-f952-41b3-ac87-2750317daa1e",
+    "connection_id": "cd71dbaf-37ad-4f7b-8a1e-123bc92a2e26",
+    "timestamp": "2025-08-01T03:28:09.904128",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "minimal",
+      "notes": "Kullanıcı Notları: Hurdacıyım ben bana çer çöp bir oda oluşturur musun \r\n"
+    },
+    "design_content": {
+      "title": "Hurdacı Minimal Salon",
+      "description": "Bu tasarım, minimalizmi \"çer çöp\" estetiğiyle birleştiriyor. Geri dönüştürülmüş malzemeler ve ham dokularla sıcak, davetkar bir atmosfer yaratılıyor. Doğal renk paleti ve işlevsel düzenlemeler ön planda."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-01T03:28:09.904090",
+      "prompt_used": "Photo-realistic minimal salon interior. Pallet coffee table, metal barrel chair, jute rug. Upcycled decor: glass bottle vase, old chest, gear wall art. Pipe lamp & bulb pendant. Natural color palette. High-quality, realistic lighting.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250801_131521_0f77e2cb",
+    "mood_board_id": "0f77e2cb-01d2-4209-b342-9f452e7a2953",
+    "connection_id": "893a65e5-c3ff-4c06-8aba-94e069fb22f5",
+    "timestamp": "2025-08-01T13:15:21.311430",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "endüstriyel",
+      "notes": "Kullanıcı Notları: güzel bir salon olsun"
+    },
+    "design_content": {
+      "title": "Endüstriyel Şıklıkta Salon Tasarımı",
+      "description": "Bu endüstriyel salon tasarımı, metalik detaylar, ham ahşap ve tuğla dokularını bir araya getirerek şehirli ve sıcak bir atmosfer yaratır. Gri, siyah ve kahverengi tonları hakimdir. Açık plan ve fonksiyonel mobilyalar ile yaşam alanı optimize edilmiştir. Kullanıcının isteği doğrultusunda güzel ve davetkar bir salon hedeflenmiştir."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-01T13:15:21.311378",
+      "prompt_used": "Photo-realistic industrial salon interior. Metal framed leather sofa, raw wood coffee table, metal bookshelf. Gray, black, brown tones. Metal pendant lamp, tripod floor lamp. Patterned rug, decorative pillows. Metal clock, concrete plants, metal sculpture. High-quality, realistic lighting, professional interior photography style.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250801_133023_18bdc513",
+    "mood_board_id": "18bdc513-c07f-41f8-a06a-57008d253396",
+    "connection_id": "982f2595-540a-4f04-8255-22ee87ebe752",
+    "timestamp": "2025-08-01T13:30:23.000157",
+    "user_input": {
+      "room_type": "çocuk",
+      "design_style": "klasik",
+      "notes": "Kullanıcı Notları: çocuk güvenliği önemli"
+    },
+    "design_content": {
+      "title": "Zamansız Elegans: Klasik Çocuk Odası Tasarımı",
+      "description": "Bu klasik çocuk odası tasarımı, güvenliği ön planda tutarak sıcak ve davetkar bir atmosfer yaratır. Pastel tonlar ve ahşap detaylar, odanın sakinleştirici etkisini artırır. Fonksiyonel mobilyalar ve yumuşak tekstiller konforu desteklerken, çocukların hayal gücünü geliştiren zarif dekoratif objeler kullanılır."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-01T13:30:23.000114",
+      "prompt_used": "Photo-realistic interior: classic style children's room. Pastel tones, wooden details. Includes: wooden crib, dresser, armchair, lamp, cotton rug, organic bedding, wooden toys, wall frames. High-quality, realistic lighting.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250801_135026_e4f2abd6",
+    "mood_board_id": "e4f2abd6-5218-4aa4-a2de-955768a9cf84",
+    "connection_id": "984e8925-5b8f-48e3-83f5-d5d81e4d5279",
+    "timestamp": "2025-08-01T13:50:26.894600",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Ekstra Alanlar:\r\n  1. 100cm x 100cm (Konum: x:0cm, y:0cm)\r\n  2. 100cm x 100cm (Konum: x:300cm, y:300cm)\r\nKullanıcı Notları: Salonda bazı çıkıntılar var onları da dikkate alarak bir tasarım oluştur"
+    },
+    "design_content": {
+      "title": "Modern Salon Tasarımı: Çıkıntılara Uyumlu",
+      "description": "Bu modern salon tasarımı, nötr tonları ve doğal ahşap detaylarını bir araya getirerek sıcak ve davetkar bir atmosfer yaratır. Salondaki çıkıntılar, özel tasarım mobilyalar ve depolama çözümleri ile değerlendirilerek mekana işlevsellik katılmıştır. Minimalist yaklaşım, ferah ve düzenli bir görünüm sağlar."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-01T13:50:26.894550",
+      "prompt_used": "Photo-realistic modern living room. Neutral tones, natural wood accents, L-shaped sofa, TV unit, coffee table, bookcase, console. Floor lamp, ceiling light, pillows, rug, art, plants. 4x4m, 2.8m height, niches at (0,0) & (3,3)m. High-quality interior photography, realistic lighting.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250802_000754_401919d7",
+    "mood_board_id": "401919d7-90ee-448a-9b69-5e14771f37ab",
+    "connection_id": "442c3744-838b-4a0a-85ce-d106318603db",
+    "timestamp": "2025-08-02T00:07:54.085141",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "klasik",
+      "notes": "Kullanıcı Notları: yap bakalım\r\n"
+    },
+    "design_content": {
+      "title": "Klasik Salon Tasarımı: Zamansız Elegans",
+      "description": "Bu klasik salon tasarımı, zarafeti ve konforu bir araya getiriyor. Krem, bej ve altın tonlarının hakim olduğu renk paleti, sıcak ve davetkar bir atmosfer yaratır. Ahşap detaylar, odaya sıcaklık ve zenginlik katarken, klasik mobilyalar ise zamansız bir şıklık sunar."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-02T00:07:54.085098",
+      "prompt_used": "Photo-realistic interior: Classic salon (400x400x300cm). Cream, beige, gold color palette. Chesterfield sofa, wood coffee table, crystal chandelier, patterned rug, antique mirror, velvet pillows, ceramic vases. High-quality, realistic lighting.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  },
+  {
+    "log_id": "mbl_20250802_002040_370ca6ef",
+    "mood_board_id": "370ca6ef-b91e-4df1-816c-e1debe3c3d7c",
+    "connection_id": "55ec6ca9-19be-4081-be2d-04d7b30dcaf5",
+    "timestamp": "2025-08-02T00:20:40.746490",
+    "user_input": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Kullanıcı Notları: Yap bakalım"
+    },
+    "design_content": {
+      "title": "Modern Salon Tasarımı",
+      "description": "Bu modern salon tasarımı, minimalist detayları ve nötr renk paletiyle sakin ve ferah bir atmosfer yaratmayı amaçlar. Doğal ışık kullanımı ve fonksiyonel mobilyalar ön plandadır. Ahşap ve metal detaylar modern bir dokunuş katar."
+    },
+    "generation_result": {
+      "success": true,
+      "model_used": "imagen-3.0-generate-001",
+      "generation_time": "2025-08-02T00:20:40.746441",
+      "prompt_used": "Photo-realistic modern salon. Neutral palette, minimalist details, natural light. Corner sofa, coffee table, floor lamp, ceiling light, decorative pillows, rug, wall art, vase. Wood & metal accents. High-quality interior photography, realistic lighting, well-furnished.",
+      "image_generated": true
+    },
+    "success": true,
+    "error_message": null
+  }
+]
