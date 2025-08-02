@@ -1,0 +1,2244 @@
+\n2025-08-02 16:57:14,831 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 16:57:14,877 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 16:57:14,877 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 16:57:18,008 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 16:57:18,040 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 16:57:18,040 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 16:57:18,235 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 16:57:42,362 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 16:57:42,362 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 16:57:43,335 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 16:57:43,335 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 17:01:09,583 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 17:01:09,584 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 17:01:10,266 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 17:01:10,266 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 17:03:35,382 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 17:03:35,383 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 17:03:36,030 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 17:03:36,031 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 17:09:46,625 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 17:09:46,625 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 17:09:48,709 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 17:09:48,709 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 17:10:12,663 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 17:10:12,663 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 17:10:13,299 - INFO - GeminiClient: Gemini client initialized
+\n2025-08-02 17:10:13,299 - INFO - GeminiService: GeminiService initialized with specialized components
+\n2025-08-02 17:15:04,492 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:15:13,971 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:15:14,025 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:15:14,033 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:15:14,033 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:15:14,211 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:15:52,426 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:15:55,276 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:15:56,048 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:15:56,052 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:15:56,052 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:15:56,943 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:15:56,947 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:15:56,948 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:22:32,378 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-08-02 17:22:36,422 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:22:36,432 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:22:36,432 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:23:50,216 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:23:51,883 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:23:51,887 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:23:51,887 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:23:51,896 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:23:51,900 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:23:51,901 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:23:52,766 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:23:52,770 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:23:52,770 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:23:53,816 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:23:53,820 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:23:53,820 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:08,192 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:08,197 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:08,197 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:08,848 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:08,852 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:08,852 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:12,339 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:24:13,146 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:24:13,736 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:13,741 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:13,742 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:14,384 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:14,389 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:14,389 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:14,997 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:15,002 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:15,002 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:15,721 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:15,725 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:15,726 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:19,500 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:19,504 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:19,505 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:20,192 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:20,196 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:20,197 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:29,796 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:24:30,429 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:24:31,008 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:31,012 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:31,013 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:31,721 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:31,726 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:31,726 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:32,358 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:32,362 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:32,362 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:24:33,072 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:24:33,077 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:24:33,078 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:25:36,972 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:25:36,975 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:25:38,211 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:25:38,217 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:25:38,218 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:25:38,229 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:25:38,234 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:25:38,235 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:25:38,245 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:25:38,253 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:25:38,253 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:25:38,508 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:25:38,512 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:25:38,513 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:25:55,778 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:25:55,783 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:25:55,783 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:25:57,081 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:25:57,085 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:25:57,085 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:26:05,679 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:26:05,687 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:26:05,688 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:26:06,366 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:26:06,372 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:26:06,373 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:26:33,496 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:26:33,504 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:26:33,504 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:26:34,139 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:26:34,145 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:26:34,146 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:29:29,889 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:29:29,893 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:29:29,894 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:29:30,601 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:29:30,607 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:29:30,607 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:30:07,881 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:30:07,886 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:30:07,886 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:30:08,672 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:30:08,677 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:30:08,677 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:30:30,627 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:30:30,631 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:30:30,631 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:30:31,309 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:30:31,313 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:30:31,314 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:30:35,631 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:30:35,636 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:30:35,636 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:30:36,246 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:30:36,251 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:30:36,251 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:30:51,840 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:30:51,845 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:30:51,845 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:30:52,507 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:30:52,513 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:30:52,513 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:31:00,639 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:31:00,645 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:31:00,645 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:31:01,436 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:31:01,440 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:31:01,440 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:32:04,208 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:32:08,362 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:32:08,399 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:32:08,404 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:32:08,405 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:32:08,552 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:33:01,724 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:33:06,529 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:33:06,564 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:06,568 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:06,569 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:33:06,704 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:33:08,860 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:33:12,631 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:33:13,462 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:13,466 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:13,467 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:33:14,355 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:14,360 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:14,360 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:33:14,963 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:14,968 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:14,969 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:33:15,989 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:15,993 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:15,994 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:33:27,658 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:27,663 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:27,663 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:33:28,279 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:28,284 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:28,284 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:33:30,609 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:30,613 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:30,614 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:33:31,310 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:31,314 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:31,315 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:33:43,530 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:43,538 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:43,539 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:33:44,202 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:33:44,207 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:33:44,208 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:34:12,502 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:34:12,508 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:34:12,508 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:34:13,179 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:34:13,186 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:34:13,186 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:34:22,083 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:34:22,744 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:34:23,235 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:34:23,240 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:34:23,240 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:34:23,921 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:34:23,926 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:34:23,926 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:34:24,507 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:34:24,511 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:34:24,511 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:34:25,140 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:34:25,144 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:34:25,144 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:34:30,398 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:34:30,402 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:34:30,403 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:34:31,482 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:34:31,490 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:34:31,491 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:35:29,177 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:35:33,226 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:35:33,263 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:35:33,268 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:35:33,268 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:35:33,424 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:36:03,947 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:36:08,342 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:36:08,378 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:36:08,383 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:36:08,383 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:36:08,550 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:36:14,149 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:36:18,273 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:36:18,311 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:36:18,316 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:36:18,316 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:36:18,462 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:36:35,434 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:36:39,008 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:36:39,040 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:36:39,045 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:36:39,045 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:36:39,177 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:37:09,510 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:37:13,123 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:37:13,156 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:37:13,161 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:37:13,162 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:37:13,296 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:39:08,011 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:39:11,886 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:39:11,920 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:39:11,925 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:39:11,925 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:39:12,067 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:39:18,228 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:39:22,112 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:39:22,148 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:39:22,153 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:39:22,153 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:39:22,290 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:39:31,843 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:39:35,668 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:39:35,702 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:39:35,707 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:39:35,708 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:39:35,851 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:39:51,830 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:39:55,863 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:39:55,899 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:39:55,904 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:39:55,905 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:39:56,045 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:40:08,736 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:40:12,791 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:40:12,826 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:40:12,831 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:40:12,831 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:40:12,981 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:40:21,977 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:40:26,005 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:40:26,041 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:40:26,046 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:40:26,046 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:40:26,185 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:41:20,295 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 17:41:23,956 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 17:41:23,992 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:41:24,001 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:41:24,002 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:41:24,151 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 17:42:31,529 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 17:42:36,288 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:42:36,293 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:42:36,293 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:42:37,598 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:42:37,602 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:42:37,602 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:42:38,334 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:42:38,339 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:42:38,339 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 17:42:39,263 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 17:42:39,267 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 17:42:39,267 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:03:54,251 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:03:54,299 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:03:54,304 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:03:54,304 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:03:57,588 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:03:57,621 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:03:57,626 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:03:57,626 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:03:57,793 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:11:54,950 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:11:59,902 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:11:59,949 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:11:59,954 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:11:59,954 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:12:00,120 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:13:43,002 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:13:46,661 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:13:46,693 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:13:46,698 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:13:46,698 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:13:46,831 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:14:18,649 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:14:22,406 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:14:22,438 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:14:22,443 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:14:22,443 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:14:22,576 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:14:30,862 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:14:34,569 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:14:34,601 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:14:34,606 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:14:34,606 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:14:34,739 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:14:46,469 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:14:50,136 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:14:50,168 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:14:50,173 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:14:50,173 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:14:50,309 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:14:58,711 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:15:02,425 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:15:02,457 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:15:02,461 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:15:02,462 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:15:02,595 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:15:10,013 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:15:13,638 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:15:13,669 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:15:13,674 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:15:13,674 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:15:13,807 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:17:30,239 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:17:34,213 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:17:34,246 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:17:34,251 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:17:34,251 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:17:34,382 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:18:43,317 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 18:21:10,154 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:21:13,976 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:21:14,010 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:21:14,016 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:21:14,016 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:21:14,155 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:23:08,604 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:23:12,276 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:23:12,309 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:23:12,314 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:23:12,314 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:23:23,790 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:23:23,822 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:23:23,827 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:23:23,827 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:23:23,968 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:23:28,172 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:23:31,832 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:23:31,864 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:23:31,869 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:23:31,869 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:23:32,038 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:23:36,129 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:23:40,023 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:23:40,056 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:23:40,060 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:23:40,061 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:23:40,199 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:23:57,315 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:24:04,628 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:24:04,664 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:24:04,669 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:24:04,669 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:24:04,822 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:25:16,188 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:25:19,883 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:25:19,916 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:25:19,921 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:25:19,921 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:25:20,059 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:25:36,079 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:25:39,678 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:25:39,709 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:25:39,714 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:25:39,714 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:25:39,849 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:28:51,425 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:28:55,090 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:28:55,123 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:28:55,129 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:28:55,130 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:28:55,274 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:29:01,769 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:29:06,190 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:29:06,226 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:29:06,231 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:29:06,232 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:29:06,408 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 18:38:39,755 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 18:38:43,585 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 18:38:43,616 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 18:38:43,620 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 18:38:43,620 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 18:38:43,755 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 20:46:39,956 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-08-02 20:46:39,959 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-08-02 20:49:09,584 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:49:09,588 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:49:09,899 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:49:09,901 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:49:20,262 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 20:49:27,912 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 20:49:27,964 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 20:49:27,969 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 20:49:27,970 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 20:49:31,157 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 20:49:31,193 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 20:49:31,199 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 20:49:31,199 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 20:49:31,364 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 20:50:23,133 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:50:23,135 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:50:23,138 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:50:23,148 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:50:29,058 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:50:29,060 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:50:29,063 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:50:29,064 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 20:51:35,610 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 20:51:39,506 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 20:51:39,542 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 20:51:39,547 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 20:51:39,547 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 20:51:39,693 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 20:51:50,181 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 20:51:54,010 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 20:51:54,044 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 20:51:54,049 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 20:51:54,049 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 20:51:54,197 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 20:52:01,100 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 20:52:05,020 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 20:52:05,055 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 20:52:05,060 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 20:52:05,060 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 20:52:05,213 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 20:52:09,769 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 20:52:14,038 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 20:52:14,074 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 20:52:14,080 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 20:52:14,080 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 20:52:14,234 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 20:52:18,711 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 20:52:22,514 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 20:52:22,549 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 20:52:22,554 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 20:52:22,554 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 20:52:22,699 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 20:52:42,490 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 20:52:42,543 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 20:52:42,547 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 20:52:42,548 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 20:52:45,854 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 20:52:45,892 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 20:52:45,898 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 20:52:45,898 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 20:52:46,079 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 21:07:02,569 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:07:02,573 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:16:00,052 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:16:00,056 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:16:00,059 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:16:00,062 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:16:37,266 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:16:37,268 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:17:15,252 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:17:15,253 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:17:55,097 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:17:55,835 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:18:53,583 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 21:18:53,690 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:18:53,699 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:18:53,699 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:18:57,619 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 21:18:57,654 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:18:57,659 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:18:57,659 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:18:57,822 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 21:19:07,199 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 21:19:07,230 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:19:07,235 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:19:07,235 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:19:16,059 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:20:07,953 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:20:07,964 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:20:07,966 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:20:07,970 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:20:07,971 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-08-02 21:20:07,973 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-08-02 21:20:15,870 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:20:15,872 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:20:16,162 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:20:16,164 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:20:20,092 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:23:48,586 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:25:00,540 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:27:45,811 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 21:27:46,526 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 21:27:47,359 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:27:47,364 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:27:47,364 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:27:49,083 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:27:49,090 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:27:49,090 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:27:49,888 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:27:49,892 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:27:49,892 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:27:50,615 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:27:50,622 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:27:50,622 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:30:25,568 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 21:30:26,562 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:30:26,569 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:30:26,569 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:30:27,117 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:30:27,122 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:30:27,122 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:30:27,731 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:30:27,738 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:30:27,738 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:30:28,954 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:30:28,959 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:30:28,959 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:33:41,624 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:33:41,628 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:33:41,628 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:33:42,155 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:33:42,159 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:33:42,160 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:37:06,117 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:37:06,122 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:37:06,122 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:37:06,647 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:37:06,652 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:37:06,652 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:43:04,785 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 21:48:19,660 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:48:19,666 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:48:19,666 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:48:20,394 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:48:20,398 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:48:20,399 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:49:32,176 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:49:32,182 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:49:32,182 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:59:30,306 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 21:59:35,965 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 21:59:36,011 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:59:36,016 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:59:36,016 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 21:59:57,902 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 21:59:57,935 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 21:59:57,939 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 21:59:57,940 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:00:10,619 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:00:10,660 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:00:10,666 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:00:10,666 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:00:19,873 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:00:19,910 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:00:19,915 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:00:19,915 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:00:30,776 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:00:30,809 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:00:30,814 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:00:30,814 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:00:38,009 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:00:38,043 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:00:38,048 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:00:38,048 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:00:38,233 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:00:49,191 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:00:52,987 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:00:53,022 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:00:53,026 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:00:53,026 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:00:53,169 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:02:20,331 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:02:24,517 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:02:24,552 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:02:24,557 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:02:24,558 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:02:24,710 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:02:35,234 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:02:39,167 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:02:39,200 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:02:39,204 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:02:39,205 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:02:39,344 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:02:42,952 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:02:46,956 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:02:46,989 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:02:46,994 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:02:46,995 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:02:47,136 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:02:52,937 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:02:56,793 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:02:56,828 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:02:56,833 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:02:56,833 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:02:56,979 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:03:44,672 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:03:48,527 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:03:48,558 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:03:48,563 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:03:48,563 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:03:48,697 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:08:23,115 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-08-02 22:08:33,865 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:08:33,870 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:08:33,870 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:08:34,983 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:08:34,991 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:08:34,991 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:08:48,448 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:08:52,310 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:08:52,341 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:08:52,346 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:08:52,346 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:08:52,488 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:09:03,097 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:09:07,112 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:09:07,147 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:09:07,152 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:09:07,152 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:09:07,293 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:09:13,094 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:09:17,338 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:09:17,375 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:09:17,380 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:09:17,380 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:09:17,698 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:09:27,171 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:09:27,175 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:09:27,175 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:09:27,332 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:09:31,194 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:09:31,231 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:09:31,236 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:09:31,236 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:09:31,372 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:09:31,385 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 22:09:31,385 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 22:09:33,729 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:09:33,733 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:09:33,733 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:09:33,826 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 22:09:34,133 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 22:09:36,567 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:09:36,571 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:09:36,572 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:09:37,831 - ERROR - General Error: name 'like_count' is not defined
+Traceback (most recent call last):
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\middleware\errors.py", line 165, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\middleware\exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\routing.py", line 714, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\routing.py", line 734, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\routing.py", line 288, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\routing.py", line 76, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\starlette\routing.py", line 73, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\fastapi\routing.py", line 301, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\suakb\AppData\Roaming\Python\Python313\site-packages\fastapi\routing.py", line 212, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\routers\blog_router.py", line 161, in get_public_designs
+    image=image_data
+               ^^^^^
+NameError: name 'like_count' is not defined
+\n2025-08-02 22:09:38,021 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:09:41,868 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:09:41,901 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:09:41,906 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:09:41,907 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:09:42,068 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:09:45,900 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:09:45,904 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:09:45,904 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:09:47,219 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:09:51,013 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:09:51,044 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:09:51,048 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:09:51,049 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:09:51,179 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:10:03,934 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:10:07,616 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:10:07,647 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:10:07,652 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:10:07,652 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:10:07,783 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:10:39,826 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:10:44,002 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:10:44,038 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:10:44,045 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:10:44,046 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:10:44,214 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:10:46,079 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:10:49,898 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:10:49,931 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:10:49,936 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:10:49,936 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:10:50,071 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:11:02,772 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:11:06,588 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:11:06,626 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:11:06,631 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:11:06,631 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:11:06,783 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:11:11,390 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:11:15,445 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:11:15,481 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:11:15,485 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:11:15,486 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:11:15,619 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:11:16,571 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 22:11:19,748 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:11:23,583 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:11:23,615 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:11:23,620 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:11:23,620 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:11:23,802 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:11:23,805 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 22:11:26,266 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 22:11:28,151 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:11:31,898 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:11:31,934 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:11:31,938 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:11:31,939 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:11:32,079 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:11:32,712 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 22:11:36,327 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:11:36,332 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:11:36,332 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:11:37,128 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:11:37,133 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:11:37,133 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:12:40,506 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:12:44,525 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:12:44,559 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:12:44,564 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:12:44,564 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:12:44,707 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:12:44,711 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 22:12:47,787 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 22:13:52,565 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 22:13:53,033 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 22:13:53,773 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:13:53,780 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:13:53,780 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:13:53,795 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:13:53,802 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:13:53,802 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:13:55,048 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:13:55,052 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:13:55,053 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:13:55,233 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:13:55,237 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:13:55,237 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:15:08,475 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:15:08,480 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:15:08,480 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:15:09,026 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:15:09,032 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:15:09,032 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:18:48,545 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:18:48,550 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:18:48,550 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:18:48,949 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:18:48,954 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:18:48,954 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:19:36,810 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:19:36,814 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:19:36,814 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:19:37,199 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 22:19:37,200 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 22:19:37,504 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:19:37,509 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:19:37,509 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:19:37,589 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 22:19:37,892 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 22:19:40,644 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:19:40,649 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:19:40,649 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:19:41,067 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:19:41,074 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:19:41,074 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:41:27,546 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:41:27,591 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:41:27,598 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:41:27,598 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:41:30,820 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:41:30,852 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:41:30,857 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:41:30,857 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:41:31,006 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:41:43,481 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-08-02 22:41:43,484 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-08-02 22:43:47,031 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 22:43:51,352 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:43:51,391 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:43:51,399 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:43:51,399 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:43:51,527 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 22:59:26,567 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:59:26,607 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:59:26,612 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:59:26,613 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:59:29,569 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 22:59:29,597 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 22:59:29,604 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 22:59:29,604 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 22:59:29,746 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:12:02,909 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 23:12:03,054 - INFO - User ID: 3 (type: <class 'int'>)
+\n2025-08-02 23:12:03,055 - INFO - HYBRID design request from a@gmail.com: çocuk - modern
+\n2025-08-02 23:12:03,055 - INFO - Generating HYBRID design suggestion: çocuk - modern
+\n2025-08-02 23:12:03,055 - INFO - Starting Function Calling session with Gemini
+\n2025-08-02 23:12:03,055 - INFO - FunctionCallHandler initialized with price limit: None
+\n2025-08-02 23:12:09,568 - WARNING - Unknown function call: 
+\n2025-08-02 23:12:09,569 - INFO - Successfully completed Function Calling session in 1 iterations
+\n2025-08-02 23:12:09,569 - INFO - Searching products: category=yatak, style=modern, color=beyaz
+\n2025-08-02 23:12:10,598 - INFO - Product SLATTUM/VISSLE koyu gri 160x200 cm çift kişilik karyola: original_path=/data/products/yatak/slattum-vissle-koyu-gri.jpg -> relative_path=yatak/slattum-vissle-koyu-gri.jpg -> image_url=http://localhost:8000/static/products/yatak/slattum-vissle-koyu-gri.jpg
+\n2025-08-02 23:12:10,599 - INFO - Found 1 products for category=yatak
+\n2025-08-02 23:12:10,599 - INFO - Enhanced product with real data: SLATTUM/VISSLE koyu gri 160x200 cm çift kişilik karyola
+\n2025-08-02 23:12:10,599 - INFO - Searching products: category=kitaplik, style=modern, color=beyaz
+\n2025-08-02 23:12:10,661 - INFO - Product LOMMARP açık bej 65x199 cm kitaplık: original_path=/data/products/kitaplik/lommarp-acik-bej.jpg -> relative_path=kitaplik/lommarp-acik-bej.jpg -> image_url=http://localhost:8000/static/products/kitaplik/lommarp-acik-bej.jpg
+\n2025-08-02 23:12:10,664 - INFO - Found 1 products for category=kitaplik
+\n2025-08-02 23:12:10,664 - INFO - Enhanced product with real data: LOMMARP açık bej 65x199 cm kitaplık
+\n2025-08-02 23:12:10,665 - INFO - Searching products: category=aydinlatma, style=modern, color=beyaz
+\n2025-08-02 23:12:10,729 - INFO - Found 0 products for category=aydinlatma
+\n2025-08-02 23:12:10,729 - INFO - Product marked as fake: Bulut Tasarımlı Abajur
+\n2025-08-02 23:12:10,729 - INFO - Searching products: category=sehpa, style=modern, color=doğal
+\n2025-08-02 23:12:10,793 - INFO - Found 0 products for category=sehpa
+\n2025-08-02 23:12:10,793 - INFO - Product marked as fake: Ahşap Oyuncak Sandığı
+\n2025-08-02 23:12:10,793 - INFO - Searching products: category=koltuk, style=modern, color=gri
+\n2025-08-02 23:12:10,859 - INFO - Product ÄPPLARYD 2'li kanepe, Lejde gri/siyah: original_path=/data/products/koltuk/applaryd-lejde-gri-siyah.jpg -> relative_path=koltuk/applaryd-lejde-gri-siyah.jpg -> image_url=http://localhost:8000/static/products/koltuk/applaryd-lejde-gri-siyah.jpg
+\n2025-08-02 23:12:10,859 - INFO - Found 1 products for category=koltuk
+\n2025-08-02 23:12:10,859 - INFO - Enhanced product with real data: ÄPPLARYD 2'li kanepe, Lejde gri/siyah
+\n2025-08-02 23:12:10,859 - INFO - Searching products: category=halı, style=modern, color=çok renkli
+\n2025-08-02 23:12:10,922 - INFO - Found 0 products for category=halı
+\n2025-08-02 23:12:10,923 - INFO - Product marked as fake: Geometrik Desenli Halı
+\n2025-08-02 23:12:10,923 - INFO - Product enhancement complete: 3 real, 3 fake products
+\n2025-08-02 23:12:10,923 - INFO - Hybrid design suggestion generated successfully
+\n2025-08-02 23:12:10,923 - INFO - HYBRID design suggestion created successfully for a@gmail.com: Modern Çocuk Odası Tasarımı
+\n2025-08-02 23:12:10,923 - INFO - Product mix: 3 real + 3 fake = 6 total (50% real)
+\n2025-08-02 23:12:10,924 - INFO - Starting HYBRID background room visualization generation for connection: 9b62e6a3-24b3-4c20-b086-698a7b73e274
+\n2025-08-02 23:12:10,924 - INFO - Mood board will use 3 real product images for visual reference
+\n2025-08-02 23:12:11,119 - ERROR - Error saving design to database: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column "price" of relation "designs" does not exist
+[SQL: INSERT INTO designs (id, user_id, room_type, design_style, notes, width, length, height, color_info, product_categories, price, title, description, product_suggestion, products, gemini_response, is_favorite, mood_board_id, updated_at) VALUES ($1::VARCHAR, $2::INTEGER, $3::VARCHAR, $4::VARCHAR, $5::VARCHAR, $6::INTEGER, $7::INTEGER, $8::INTEGER, $9::VARCHAR, $10::JSON, $11::FLOAT, $12::VARCHAR, $13::VARCHAR, $14::VARCHAR, $15::JSON, $16::JSON, $17::BOOLEAN, $18::VARCHAR, $19::TIMESTAMP WITH TIME ZONE) RETURNING designs.created_at]
+[parameters: ('d30b69a0-a850-434c-80a3-a8c1b261df2d', 3, 'çocuk', 'modern', 'Kullanıcı Notları: çocuğum için odayı oluştur', 540, 400, 250, '', 'null', None, 'Modern Çocuk Odası Tasarımı', 'Bu modern çocuk odası tasarımı, fonksiyonellik ve estetiği bir araya getiriyor. Odayı aydınlık ve ferah tutmak için beyaz ve doğal ahşap tonları ağırlıklı olarak kullanıldı. Minimalist çizgiler ve eğlenceli detaylar, çocuğunuzun hem rahat edeceği hem de keyif alacağı bir ortam yaratıyor.', '- yatak\n  • Montessori Yatak - Çocuğun gelişimini destekleyen, yere yakın, modern tasarım. Güvenli ve özgür bir uyku alanı sunar.\n\n- kitaplik\n  • ... (590 characters truncated) ... metrik Desenli Halı - Odaya hareket ve enerji katan geometrik desenli halı. Yumuşak dokusuyla çocukların rahatça oyun oynayabileceği bir zemin sunar.', '[{"category": "yatak", "name": "SLATTUM/VISSLE koyu gri 160x200 cm \\u00e7ift ki\\u015filik karyola", "description": "\\u00c7ocu\\u011fun geli\\u015f ... (3111 characters truncated) ... \\u00e7ok renkli", "type": "product", "is_real": false, "image_available": false, "image_path": null, "product_link": null, "real_product_id": null}]', '{"title": "Modern \\u00c7ocuk Odas\\u0131 Tasar\\u0131m\\u0131", "description": "Bu modern \\u00e7ocuk odas\\u0131 tasar\\u0131m\\u0131, fonksiyonell ... (8803 characters truncated) ... \",\\n      \\"color\\": \\"\\u00e7ok renkli\\"\\n    }\\n  ]\\n}\\n```", "product_stats": {"total": 6, "real": 3, "fake": 3, "real_percentage": 50}}', False, None, None)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+\n2025-08-02 23:12:11,122 - INFO - Hybrid mood board generation - User ID: 3 (type: <class 'int'>)
+\n2025-08-02 23:12:11,122 - INFO - Hybrid mood board generation - Design ID: d30b69a0-a850-434c-80a3-a8c1b261df2d (type: <class 'str'>)
+\n2025-08-02 23:12:11,122 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: preparing_prompt
+\n2025-08-02 23:12:11,123 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: preparing_prompt
+\n2025-08-02 23:12:11,123 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: optimizing_prompt
+\n2025-08-02 23:12:11,123 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:11,138 - INFO - 🎨 Generating room visualization with Vertex AI...
+\n2025-08-02 23:12:11,139 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:11,139 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:12,475 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:12,475 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:12,821 - ERROR - General Error: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+[SQL: SELECT user_favorite_designs.id, user_favorite_designs.user_id, user_favorite_designs.design_id, user_favorite_designs.created_at, designs.id AS id_1, designs.user_id AS user_id_1, designs.room_type, designs.design_style, designs.notes, designs.width, designs.length, designs.height, designs.color_info, designs.product_categories, designs.price, designs.title, designs.description, designs.product_suggestion, designs.products, designs.gemini_response, designs.is_favorite, designs.mood_board_id, designs.created_at AS created_at_1, designs.updated_at, mood_boards.id AS id_2, mood_boards.user_id AS user_id_2, mood_boards.design_id AS design_id_1, mood_boards.mood_board_id AS mood_board_id_1, mood_boards.image_path, mood_boards.prompt_used, mood_boards.generation_time_seconds, mood_boards.image_size, mood_boards.created_at AS created_at_2 
+FROM user_favorite_designs JOIN designs ON user_favorite_designs.design_id = designs.id LEFT OUTER JOIN mood_boards ON designs.id = mood_boards.design_id 
+WHERE user_favorite_designs.user_id = $1::INTEGER ORDER BY user_favorite_designs.created_at DESC]
+[parameters: (3,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 521, in _prepare_and_execute
+    prepared_stmt, attributes = await adapt_connection._prepare(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        operation, self._invalidate_schema_cache_asof
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 768, in _prepare
+    prepared_stmt = await self._connection.prepare(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        operation, name=self._prepared_statement_name_func()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 635, in prepare
+    return await self._prepare(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 653, in _prepare
+    stmt = await self._get_statement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 432, in _get_statement
+    statement = await self._protocol.prepare(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "asyncpg\\protocol\\protocol.pyx", line 165, in prepare
+asyncpg.exceptions.UndefinedColumnError: column designs.price does not exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.dialects.postgresql.asyncpg.AsyncAdapt_asyncpg_dbapi.ProgrammingError: <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\routers\favorites_router.py", line 158, in get_my_favorites
+    designs_result = await db.execute(
+                     ^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 463, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1415, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1637, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1842, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1982, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2351, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.exc.ProgrammingError: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+[SQL: SELECT user_favorite_designs.id, user_favorite_designs.user_id, user_favorite_designs.design_id, user_favorite_designs.created_at, designs.id AS id_1, designs.user_id AS user_id_1, designs.room_type, designs.design_style, designs.notes, designs.width, designs.length, designs.height, designs.color_info, designs.product_categories, designs.price, designs.title, designs.description, designs.product_suggestion, designs.products, designs.gemini_response, designs.is_favorite, designs.mood_board_id, designs.created_at AS created_at_1, designs.updated_at, mood_boards.id AS id_2, mood_boards.user_id AS user_id_2, mood_boards.design_id AS design_id_1, mood_boards.mood_board_id AS mood_board_id_1, mood_boards.image_path, mood_boards.prompt_used, mood_boards.generation_time_seconds, mood_boards.image_size, mood_boards.created_at AS created_at_2 
+FROM user_favorite_designs JOIN designs ON user_favorite_designs.design_id = designs.id LEFT OUTER JOIN mood_boards ON designs.id = mood_boards.design_id 
+WHERE user_favorite_designs.user_id = $1::INTEGER ORDER BY user_favorite_designs.created_at DESC]
+[parameters: (3,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+\n2025-08-02 23:12:13,258 - ERROR - General Error: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+[SQL: SELECT user_favorite_designs.id, user_favorite_designs.user_id, user_favorite_designs.design_id, user_favorite_designs.created_at, designs.id AS id_1, designs.user_id AS user_id_1, designs.room_type, designs.design_style, designs.notes, designs.width, designs.length, designs.height, designs.color_info, designs.product_categories, designs.price, designs.title, designs.description, designs.product_suggestion, designs.products, designs.gemini_response, designs.is_favorite, designs.mood_board_id, designs.created_at AS created_at_1, designs.updated_at, mood_boards.id AS id_2, mood_boards.user_id AS user_id_2, mood_boards.design_id AS design_id_1, mood_boards.mood_board_id AS mood_board_id_1, mood_boards.image_path, mood_boards.prompt_used, mood_boards.generation_time_seconds, mood_boards.image_size, mood_boards.created_at AS created_at_2 
+FROM user_favorite_designs JOIN designs ON user_favorite_designs.design_id = designs.id LEFT OUTER JOIN mood_boards ON designs.id = mood_boards.design_id 
+WHERE user_favorite_designs.user_id = $1::INTEGER ORDER BY user_favorite_designs.created_at DESC]
+[parameters: (3,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 521, in _prepare_and_execute
+    prepared_stmt, attributes = await adapt_connection._prepare(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        operation, self._invalidate_schema_cache_asof
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 768, in _prepare
+    prepared_stmt = await self._connection.prepare(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        operation, name=self._prepared_statement_name_func()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 635, in prepare
+    return await self._prepare(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 653, in _prepare
+    stmt = await self._get_statement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 432, in _get_statement
+    statement = await self._protocol.prepare(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "asyncpg\\protocol\\protocol.pyx", line 165, in prepare
+asyncpg.exceptions.UndefinedColumnError: column designs.price does not exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.dialects.postgresql.asyncpg.AsyncAdapt_asyncpg_dbapi.ProgrammingError: <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\routers\favorites_router.py", line 158, in get_my_favorites
+    designs_result = await db.execute(
+                     ^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 463, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1415, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1637, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1842, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1982, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2351, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.exc.ProgrammingError: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+[SQL: SELECT user_favorite_designs.id, user_favorite_designs.user_id, user_favorite_designs.design_id, user_favorite_designs.created_at, designs.id AS id_1, designs.user_id AS user_id_1, designs.room_type, designs.design_style, designs.notes, designs.width, designs.length, designs.height, designs.color_info, designs.product_categories, designs.price, designs.title, designs.description, designs.product_suggestion, designs.products, designs.gemini_response, designs.is_favorite, designs.mood_board_id, designs.created_at AS created_at_1, designs.updated_at, mood_boards.id AS id_2, mood_boards.user_id AS user_id_2, mood_boards.design_id AS design_id_1, mood_boards.mood_board_id AS mood_board_id_1, mood_boards.image_path, mood_boards.prompt_used, mood_boards.generation_time_seconds, mood_boards.image_size, mood_boards.created_at AS created_at_2 
+FROM user_favorite_designs JOIN designs ON user_favorite_designs.design_id = designs.id LEFT OUTER JOIN mood_boards ON designs.id = mood_boards.design_id 
+WHERE user_favorite_designs.user_id = $1::INTEGER ORDER BY user_favorite_designs.created_at DESC]
+[parameters: (3,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+\n2025-08-02 23:12:13,983 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:15,498 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:17,010 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:18,521 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:20,025 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:21,539 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:21,819 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:21,819 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: generating_image
+\n2025-08-02 23:12:22,153 - INFO - ✅ Vertex AI room visualization generated successfully
+\n2025-08-02 23:12:22,154 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: processing_image
+\n2025-08-02 23:12:22,155 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: processing_image
+\n2025-08-02 23:12:22,168 - INFO - Room visualization image saved: data\mood_boards\room_visual_20250802_231222_915d282d.png
+\n2025-08-02 23:12:22,169 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: finalizing
+\n2025-08-02 23:12:22,169 - INFO - Sending completed message - status: success, has_base64: True, file_path: data\mood_boards\room_visual_20250802_231222_915d282d.png
+\n2025-08-02 23:12:22,593 - INFO - Mood board progress updated for 9b62e6a3-24b3-4c20-b086-698a7b73e274: completed
+\n2025-08-02 23:12:22,593 - INFO - Saving mood board to database - user_id: 3 (type: <class 'int'>), design_id: d30b69a0-a850-434c-80a3-a8c1b261df2d (type: <class 'str'>)
+\n2025-08-02 23:12:22,593 - INFO - Creating MoodBoard with:
+\n2025-08-02 23:12:22,593 - INFO -   user_id: 3 (type: <class 'int'>)
+\n2025-08-02 23:12:22,594 - INFO -   design_id: d30b69a0-a850-434c-80a3-a8c1b261df2d (type: <class 'str'>)
+\n2025-08-02 23:12:22,594 - INFO -   mood_board_id: 915d282d-2105-4443-af3b-a79a7212dc36 (type: <class 'str'>)
+\n2025-08-02 23:12:22,594 - INFO -   image_file_path: data\mood_boards\room_visual_20250802_231222_915d282d.png... (type: <class 'str'>)
+\n2025-08-02 23:12:22,594 - INFO -   prompt_used: 
+Create a photorealistic interior design image of a çocuk in modern style.
+
+Design Concept: Modern Ç... (type: <class 'str'>)
+\n2025-08-02 23:12:22,792 - WARNING - design_id 'd30b69a0-a850-434c-80a3-a8c1b261df2d' does not exist in designs table. Setting to None.
+\n2025-08-02 23:12:22,985 - INFO - Mood board 915d282d-2105-4443-af3b-a79a7212dc36 saved to database and linked to design None
+\n2025-08-02 23:12:22,986 - INFO - Hybrid mood board generated successfully: 915d282d-2105-4443-af3b-a79a7212dc36 with 3 real + 3 fake products
+\n2025-08-02 23:13:05,383 - ERROR - General Error: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+[SQL: SELECT user_favorite_designs.id, user_favorite_designs.user_id, user_favorite_designs.design_id, user_favorite_designs.created_at, designs.id AS id_1, designs.user_id AS user_id_1, designs.room_type, designs.design_style, designs.notes, designs.width, designs.length, designs.height, designs.color_info, designs.product_categories, designs.price, designs.title, designs.description, designs.product_suggestion, designs.products, designs.gemini_response, designs.is_favorite, designs.mood_board_id, designs.created_at AS created_at_1, designs.updated_at, mood_boards.id AS id_2, mood_boards.user_id AS user_id_2, mood_boards.design_id AS design_id_1, mood_boards.mood_board_id AS mood_board_id_1, mood_boards.image_path, mood_boards.prompt_used, mood_boards.generation_time_seconds, mood_boards.image_size, mood_boards.created_at AS created_at_2 
+FROM user_favorite_designs JOIN designs ON user_favorite_designs.design_id = designs.id LEFT OUTER JOIN mood_boards ON designs.id = mood_boards.design_id 
+WHERE user_favorite_designs.user_id = $1::INTEGER ORDER BY user_favorite_designs.created_at DESC]
+[parameters: (3,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 521, in _prepare_and_execute
+    prepared_stmt, attributes = await adapt_connection._prepare(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        operation, self._invalidate_schema_cache_asof
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 768, in _prepare
+    prepared_stmt = await self._connection.prepare(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        operation, name=self._prepared_statement_name_func()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 635, in prepare
+    return await self._prepare(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 653, in _prepare
+    stmt = await self._get_statement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 432, in _get_statement
+    statement = await self._protocol.prepare(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "asyncpg\\protocol\\protocol.pyx", line 165, in prepare
+asyncpg.exceptions.UndefinedColumnError: column designs.price does not exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.dialects.postgresql.asyncpg.AsyncAdapt_asyncpg_dbapi.ProgrammingError: <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\routers\favorites_router.py", line 158, in get_my_favorites
+    designs_result = await db.execute(
+                     ^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 463, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1415, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1637, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1842, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1982, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2351, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.exc.ProgrammingError: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+[SQL: SELECT user_favorite_designs.id, user_favorite_designs.user_id, user_favorite_designs.design_id, user_favorite_designs.created_at, designs.id AS id_1, designs.user_id AS user_id_1, designs.room_type, designs.design_style, designs.notes, designs.width, designs.length, designs.height, designs.color_info, designs.product_categories, designs.price, designs.title, designs.description, designs.product_suggestion, designs.products, designs.gemini_response, designs.is_favorite, designs.mood_board_id, designs.created_at AS created_at_1, designs.updated_at, mood_boards.id AS id_2, mood_boards.user_id AS user_id_2, mood_boards.design_id AS design_id_1, mood_boards.mood_board_id AS mood_board_id_1, mood_boards.image_path, mood_boards.prompt_used, mood_boards.generation_time_seconds, mood_boards.image_size, mood_boards.created_at AS created_at_2 
+FROM user_favorite_designs JOIN designs ON user_favorite_designs.design_id = designs.id LEFT OUTER JOIN mood_boards ON designs.id = mood_boards.design_id 
+WHERE user_favorite_designs.user_id = $1::INTEGER ORDER BY user_favorite_designs.created_at DESC]
+[parameters: (3,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+\n2025-08-02 23:13:05,733 - ERROR - General Error: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+[SQL: SELECT user_favorite_designs.id, user_favorite_designs.user_id, user_favorite_designs.design_id, user_favorite_designs.created_at, designs.id AS id_1, designs.user_id AS user_id_1, designs.room_type, designs.design_style, designs.notes, designs.width, designs.length, designs.height, designs.color_info, designs.product_categories, designs.price, designs.title, designs.description, designs.product_suggestion, designs.products, designs.gemini_response, designs.is_favorite, designs.mood_board_id, designs.created_at AS created_at_1, designs.updated_at, mood_boards.id AS id_2, mood_boards.user_id AS user_id_2, mood_boards.design_id AS design_id_1, mood_boards.mood_board_id AS mood_board_id_1, mood_boards.image_path, mood_boards.prompt_used, mood_boards.generation_time_seconds, mood_boards.image_size, mood_boards.created_at AS created_at_2 
+FROM user_favorite_designs JOIN designs ON user_favorite_designs.design_id = designs.id LEFT OUTER JOIN mood_boards ON designs.id = mood_boards.design_id 
+WHERE user_favorite_designs.user_id = $1::INTEGER ORDER BY user_favorite_designs.created_at DESC]
+[parameters: (3,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 521, in _prepare_and_execute
+    prepared_stmt, attributes = await adapt_connection._prepare(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        operation, self._invalidate_schema_cache_asof
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 768, in _prepare
+    prepared_stmt = await self._connection.prepare(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        operation, name=self._prepared_statement_name_func()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 635, in prepare
+    return await self._prepare(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 653, in _prepare
+    stmt = await self._get_statement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\asyncpg\connection.py", line 432, in _get_statement
+    statement = await self._protocol.prepare(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+    )
+    ^
+  File "asyncpg\\protocol\\protocol.pyx", line 165, in prepare
+asyncpg.exceptions.UndefinedColumnError: column designs.price does not exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.dialects.postgresql.asyncpg.AsyncAdapt_asyncpg_dbapi.ProgrammingError: <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\starlette\routing.py", line 75, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 302, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\fastapi\routing.py", line 213, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\routers\favorites_router.py", line 158, in get_my_favorites
+    designs_result = await db.execute(
+                     ^^^^^^^^^^^^^^^^^
+    ...<8 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\ext\asyncio\session.py", line 463, in execute
+    result = await greenlet_spawn(
+             ^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 201, in greenlet_spawn
+    result = context.throw(*sys.exc_info())
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2365, in execute
+    return self._execute_internal(
+           ~~~~~~~~~~~~~~~~~~~~~~^
+        statement,
+        ^^^^^^^^^^
+    ...<4 lines>...
+        _add_event=_add_event,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\session.py", line 2251, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self,
+        ^^^^^
+    ...<4 lines>...
+        conn,
+        ^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\orm\context.py", line 306, in orm_execute_statement
+    result = conn.execute(
+        statement, params or {}, execution_options=execution_options
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1415, in execute
+    return meth(
+        self,
+        distilled_parameters,
+        execution_options or NO_OPTIONS,
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\sql\elements.py", line 523, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self, distilled_params, execution_options
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1637, in _execute_clauseelement
+    ret = self._execute_context(
+        dialect,
+    ...<8 lines>...
+        cache_hit=cache_hit,
+    )
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1842, in _execute_context
+    return self._exec_single_context(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        dialect, context, statement, parameters
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1982, in _exec_single_context
+    self._handle_dbapi_exception(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        e, str_statement, effective_parameters, cursor, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 2351, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\base.py", line 1963, in _exec_single_context
+    self.dialect.do_execute(
+    ~~~~~~~~~~~~~~~~~~~~~~~^
+        cursor, str_statement, effective_parameters, context
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\engine\default.py", line 943, in do_execute
+    cursor.execute(statement, parameters)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 580, in execute
+    self._adapt_connection.await_(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        self._prepare_and_execute(operation, parameters)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\util\_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 558, in _prepare_and_execute
+    self._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 508, in _handle_exception
+    self._adapt_connection._handle_exception(error)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\suakb\supi\DekoAsistanAI\backend\venv\Lib\site-packages\sqlalchemy\dialects\postgresql\asyncpg.py", line 792, in _handle_exception
+    raise translated_error from error
+sqlalchemy.exc.ProgrammingError: (sqlalchemy.dialects.postgresql.asyncpg.ProgrammingError) <class 'asyncpg.exceptions.UndefinedColumnError'>: column designs.price does not exist
+[SQL: SELECT user_favorite_designs.id, user_favorite_designs.user_id, user_favorite_designs.design_id, user_favorite_designs.created_at, designs.id AS id_1, designs.user_id AS user_id_1, designs.room_type, designs.design_style, designs.notes, designs.width, designs.length, designs.height, designs.color_info, designs.product_categories, designs.price, designs.title, designs.description, designs.product_suggestion, designs.products, designs.gemini_response, designs.is_favorite, designs.mood_board_id, designs.created_at AS created_at_1, designs.updated_at, mood_boards.id AS id_2, mood_boards.user_id AS user_id_2, mood_boards.design_id AS design_id_1, mood_boards.mood_board_id AS mood_board_id_1, mood_boards.image_path, mood_boards.prompt_used, mood_boards.generation_time_seconds, mood_boards.image_size, mood_boards.created_at AS created_at_2 
+FROM user_favorite_designs JOIN designs ON user_favorite_designs.design_id = designs.id LEFT OUTER JOIN mood_boards ON designs.id = mood_boards.design_id 
+WHERE user_favorite_designs.user_id = $1::INTEGER ORDER BY user_favorite_designs.created_at DESC]
+[parameters: (3,)]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+\n2025-08-02 23:18:30,694 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:18:36,427 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:18:36,457 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:18:36,463 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:18:36,463 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:18:36,590 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:23:10,061 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:23:13,419 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:23:13,447 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:23:13,452 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:23:13,452 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:23:13,570 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:23:44,199 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:23:44,203 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:23:44,203 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:23:45,387 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:23:45,391 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:23:45,392 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:25:51,999 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:25:52,028 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:25:52,033 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:25:52,033 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:25:54,795 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:25:54,823 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:25:54,827 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:25:54,827 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:25:54,946 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:26:04,738 - WARNING - HTTP Exception: 404 - Not Found
+\n2025-08-02 23:28:14,199 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 23:28:14,637 - INFO - User ID: 3 (type: <class 'int'>)
+\n2025-08-02 23:28:14,637 - INFO - HYBRID design request from a@gmail.com: çocuk - modern
+\n2025-08-02 23:28:14,638 - INFO - Generating HYBRID design suggestion: çocuk - modern
+\n2025-08-02 23:28:14,638 - INFO - Starting Function Calling session with Gemini
+\n2025-08-02 23:28:14,638 - INFO - FunctionCallHandler initialized with price limit: None
+\n2025-08-02 23:28:23,638 - WARNING - Unknown function call: 
+\n2025-08-02 23:28:23,638 - INFO - Successfully completed Function Calling session in 1 iterations
+\n2025-08-02 23:28:23,639 - INFO - Searching products: category=yatak, style=modern, color=mavi
+\n2025-08-02 23:28:24,763 - INFO - Product SLATTUM/VISSLE koyu gri 160x200 cm çift kişilik karyola: original_path=/data/products/yatak/slattum-vissle-koyu-gri.jpg -> relative_path=yatak/slattum-vissle-koyu-gri.jpg -> image_url=http://localhost:8000/static/products/yatak/slattum-vissle-koyu-gri.jpg
+\n2025-08-02 23:28:24,764 - INFO - Found 1 products for category=yatak
+\n2025-08-02 23:28:24,764 - INFO - Enhanced product with real data: SLATTUM/VISSLE koyu gri 160x200 cm çift kişilik karyola
+\n2025-08-02 23:28:24,764 - INFO - Searching products: category=kitaplik, style=modern, color=beyaz
+\n2025-08-02 23:28:24,841 - INFO - Product LOMMARP açık bej 65x199 cm kitaplık: original_path=/data/products/kitaplik/lommarp-acik-bej.jpg -> relative_path=kitaplik/lommarp-acik-bej.jpg -> image_url=http://localhost:8000/static/products/kitaplik/lommarp-acik-bej.jpg
+\n2025-08-02 23:28:24,841 - INFO - Found 1 products for category=kitaplik
+\n2025-08-02 23:28:24,841 - INFO - Enhanced product with real data: LOMMARP açık bej 65x199 cm kitaplık
+\n2025-08-02 23:28:24,841 - INFO - Searching products: category=aydinlatma, style=modern, color=sarı
+\n2025-08-02 23:28:24,914 - INFO - Found 0 products for category=aydinlatma
+\n2025-08-02 23:28:24,915 - INFO - Product marked as fake: Yıldız Projektör Lamba
+\n2025-08-02 23:28:24,915 - INFO - Searching products: category=sehpa, style=modern, color=çok renkli
+\n2025-08-02 23:28:24,985 - INFO - Found 0 products for category=sehpa
+\n2025-08-02 23:28:24,985 - INFO - Product marked as fake: Renkli Blok Sehpa
+\n2025-08-02 23:28:24,985 - INFO - Searching products: category=koltuk, style=modern, color=bej
+\n2025-08-02 23:28:25,053 - INFO - Product ÄPPLARYD 2'li kanepe, Lejde gri/siyah: original_path=/data/products/koltuk/applaryd-lejde-gri-siyah.jpg -> relative_path=koltuk/applaryd-lejde-gri-siyah.jpg -> image_url=http://localhost:8000/static/products/koltuk/applaryd-lejde-gri-siyah.jpg
+\n2025-08-02 23:28:25,053 - INFO - Found 1 products for category=koltuk
+\n2025-08-02 23:28:25,053 - INFO - Enhanced product with real data: ÄPPLARYD 2'li kanepe, Lejde gri/siyah
+\n2025-08-02 23:28:25,053 - INFO - Searching products: category=halı, style=modern, color=gri
+\n2025-08-02 23:28:25,122 - INFO - Found 0 products for category=halı
+\n2025-08-02 23:28:25,122 - INFO - Product marked as fake: Oyun Alanı Halısı
+\n2025-08-02 23:28:25,122 - INFO - Product enhancement complete: 3 real, 3 fake products
+\n2025-08-02 23:28:25,122 - INFO - Hybrid design suggestion generated successfully
+\n2025-08-02 23:28:25,122 - INFO - HYBRID design suggestion created successfully for a@gmail.com: Modern Çocuk Odası Tasarımı
+\n2025-08-02 23:28:25,122 - INFO - Product mix: 3 real + 3 fake = 6 total (50% real)
+\n2025-08-02 23:28:25,123 - INFO - Starting HYBRID background room visualization generation for connection: 2fcc462b-201a-4810-8850-24281a42a1d4
+\n2025-08-02 23:28:25,123 - INFO - Mood board will use 3 real product images for visual reference
+\n2025-08-02 23:28:25,764 - INFO - Design saved to database for a@gmail.com with ID: b2a878ad-2622-49e1-9e9d-135982d84faa
+\n2025-08-02 23:28:25,980 - INFO - Saved 14 hashtags for design b2a878ad-2622-49e1-9e9d-135982d84faa
+\n2025-08-02 23:28:25,981 - INFO - Hashtags saved for design b2a878ad-2622-49e1-9e9d-135982d84faa
+\n2025-08-02 23:28:25,981 - INFO - Hashtags saved for design b2a878ad-2622-49e1-9e9d-135982d84faa: EN=['#kids_room', '#modern', '#childrens_room', '#pastel_colors', '#playful', '#wood', '#geometric_patterns', '#functional', '#organized', '#bright'] TR=['#cocuk_odasi', '#modern', '#childrens_room', '#pastel_colors', '#playful', '#ahsap', '#geometric_patterns', '#fonksiyonel', '#organized', '#aydinlik']
+\n2025-08-02 23:28:25,982 - INFO - Hybrid mood board generation - User ID: 3 (type: <class 'int'>)
+\n2025-08-02 23:28:25,982 - INFO - Hybrid mood board generation - Design ID: b2a878ad-2622-49e1-9e9d-135982d84faa (type: <class 'str'>)
+\n2025-08-02 23:28:25,982 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: preparing_prompt
+\n2025-08-02 23:28:25,983 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: preparing_prompt
+\n2025-08-02 23:28:25,983 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: optimizing_prompt
+\n2025-08-02 23:28:25,983 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:25,992 - INFO - 🎨 Generating room visualization with Vertex AI...
+\n2025-08-02 23:28:25,993 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:25,993 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:27,210 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:27,210 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:28,222 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:28:28,226 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:28:28,226 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:28:28,716 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:30,228 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:30,671 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:28:30,675 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:28:30,675 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:28:31,740 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:33,254 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:34,762 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:36,270 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:51,413 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:51,413 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: generating_image
+\n2025-08-02 23:28:51,665 - INFO - ✅ Vertex AI room visualization generated successfully
+\n2025-08-02 23:28:51,666 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: processing_image
+\n2025-08-02 23:28:51,666 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: processing_image
+\n2025-08-02 23:28:51,674 - INFO - Room visualization image saved: data\mood_boards\room_visual_20250802_232851_b659c746.png
+\n2025-08-02 23:28:51,675 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: finalizing
+\n2025-08-02 23:28:51,675 - INFO - Sending completed message - status: success, has_base64: True, file_path: data\mood_boards\room_visual_20250802_232851_b659c746.png
+\n2025-08-02 23:28:51,988 - INFO - Mood board progress updated for 2fcc462b-201a-4810-8850-24281a42a1d4: completed
+\n2025-08-02 23:28:51,988 - INFO - Saving mood board to database - user_id: 3 (type: <class 'int'>), design_id: b2a878ad-2622-49e1-9e9d-135982d84faa (type: <class 'str'>)
+\n2025-08-02 23:28:51,988 - INFO - Creating MoodBoard with:
+\n2025-08-02 23:28:51,988 - INFO -   user_id: 3 (type: <class 'int'>)
+\n2025-08-02 23:28:51,989 - INFO -   design_id: b2a878ad-2622-49e1-9e9d-135982d84faa (type: <class 'str'>)
+\n2025-08-02 23:28:51,989 - INFO -   mood_board_id: b659c746-08c7-4964-947c-13d27fcf9638 (type: <class 'str'>)
+\n2025-08-02 23:28:51,989 - INFO -   image_file_path: data\mood_boards\room_visual_20250802_232851_b659c746.png... (type: <class 'str'>)
+\n2025-08-02 23:28:51,989 - INFO -   prompt_used: 
+Create a photorealistic interior design image of a çocuk in modern style.
+
+Design Concept: Modern Ç... (type: <class 'str'>)
+\n2025-08-02 23:28:52,590 - INFO - Mood board b659c746-08c7-4964-947c-13d27fcf9638 saved to database and linked to design b2a878ad-2622-49e1-9e9d-135982d84faa
+\n2025-08-02 23:28:52,591 - INFO - Hybrid mood board generated successfully: b659c746-08c7-4964-947c-13d27fcf9638 with 3 real + 3 fake products
+\n2025-08-02 23:34:26,196 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-08-02 23:34:26,198 - WARNING - HTTP Exception: 401 - Could not validate credentials
+\n2025-08-02 23:39:13,442 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 23:39:13,900 - INFO - User ID: 3 (type: <class 'int'>)
+\n2025-08-02 23:39:13,900 - INFO - HYBRID design request from a@gmail.com: salon - iskandinav
+\n2025-08-02 23:39:13,901 - INFO - Generating HYBRID design suggestion: salon - iskandinav
+\n2025-08-02 23:39:13,901 - INFO - Starting Function Calling session with Gemini
+\n2025-08-02 23:39:13,901 - INFO - FunctionCallHandler initialized with price limit: None
+\n2025-08-02 23:39:21,806 - WARNING - Unknown function call: 
+\n2025-08-02 23:39:21,806 - INFO - Successfully completed Function Calling session in 1 iterations
+\n2025-08-02 23:39:21,807 - INFO - Searching products: category=koltuk, style=iskandinav, color=beyaz
+\n2025-08-02 23:39:21,998 - INFO - Product STOCKHOLM 2025 2'li kanepe, Djurmo gri/beyaz: original_path=/data/products/koltuk/stockholm-2025-djurmo-gri-beyaz.jpg -> relative_path=koltuk/stockholm-2025-djurmo-gri-beyaz.jpg -> image_url=http://localhost:8000/static/products/koltuk/stockholm-2025-djurmo-gri-beyaz.jpg
+\n2025-08-02 23:39:21,998 - INFO - Found 1 products for category=koltuk
+\n2025-08-02 23:39:21,998 - INFO - Enhanced product with real data: STOCKHOLM 2025 2'li kanepe, Djurmo gri/beyaz
+\n2025-08-02 23:39:21,999 - INFO - Searching products: category=sehpa, style=iskandinav, color=doğal
+\n2025-08-02 23:39:22,069 - INFO - Found 0 products for category=sehpa
+\n2025-08-02 23:39:22,069 - INFO - Product marked as fake: Lövbacken Sehpa
+\n2025-08-02 23:39:22,069 - INFO - Searching products: category=kitaplik, style=iskandinav, color=beyaz
+\n2025-08-02 23:39:22,202 - INFO - Product BILLY beyaz 160x30x202 cm cam kapaklı kitaplık: original_path=/data/products/kitaplik/billy-beyaz-cam-kapakli.jpg -> relative_path=kitaplik/billy-beyaz-cam-kapakli.jpg -> image_url=http://localhost:8000/static/products/kitaplik/billy-beyaz-cam-kapakli.jpg
+\n2025-08-02 23:39:22,203 - INFO - Found 1 products for category=kitaplik
+\n2025-08-02 23:39:22,203 - INFO - Enhanced product with real data: BILLY beyaz 160x30x202 cm cam kapaklı kitaplık
+\n2025-08-02 23:39:22,204 - INFO - Searching products: category=aydinlatma, style=iskandinav, color=siyah
+\n2025-08-02 23:39:22,275 - INFO - Found 0 products for category=aydinlatma
+\n2025-08-02 23:39:22,276 - INFO - Product marked as fake: Hektar Sarkıt Lamba
+\n2025-08-02 23:39:22,277 - INFO - Searching products: category=halı, style=iskandinav, color=gri
+\n2025-08-02 23:39:22,406 - INFO - Found 0 products for category=halı
+\n2025-08-02 23:39:22,406 - INFO - Product marked as fake: Hayali İskandinav Halı
+\n2025-08-02 23:39:22,407 - INFO - Searching products: category=dekorasyon, style=iskandinav, color=pastel
+\n2025-08-02 23:39:22,476 - INFO - Found 0 products for category=dekorasyon
+\n2025-08-02 23:39:22,477 - INFO - Product marked as fake: Hayali İskandinav Vazo
+\n2025-08-02 23:39:22,477 - INFO - Searching products: category=perde, style=iskandinav, color=beyaz
+\n2025-08-02 23:39:22,613 - INFO - Found 0 products for category=perde
+\n2025-08-02 23:39:22,613 - INFO - Product marked as fake: Hayali İskandinav Perde
+\n2025-08-02 23:39:22,613 - INFO - Searching products: category=dekorasyon, style=iskandinav, color=beyaz
+\n2025-08-02 23:39:22,688 - INFO - Found 0 products for category=dekorasyon
+\n2025-08-02 23:39:22,688 - INFO - Product marked as fake: Hayali İskandinav Mum
+\n2025-08-02 23:39:22,688 - INFO - Product enhancement complete: 2 real, 6 fake products
+\n2025-08-02 23:39:22,688 - INFO - Hybrid design suggestion generated successfully
+\n2025-08-02 23:39:22,688 - INFO - HYBRID design suggestion created successfully for a@gmail.com: İskandinav Salon Tasarımı
+\n2025-08-02 23:39:22,689 - INFO - Product mix: 2 real + 6 fake = 8 total (25% real)
+\n2025-08-02 23:39:22,689 - INFO - Starting HYBRID background room visualization generation for connection: cba91a98-46cb-4de0-9f21-f47642665f4d
+\n2025-08-02 23:39:22,689 - INFO - Mood board will use 2 real product images for visual reference
+\n2025-08-02 23:39:23,456 - INFO - Design saved to database for a@gmail.com with ID: ca67766e-7dcd-48b7-9e7e-82e4e1e8640c
+\n2025-08-02 23:39:23,968 - INFO - Saved 16 hashtags for design ca67766e-7dcd-48b7-9e7e-82e4e1e8640c
+\n2025-08-02 23:39:23,968 - INFO - Hashtags saved for design ca67766e-7dcd-48b7-9e7e-82e4e1e8640c
+\n2025-08-02 23:39:23,968 - INFO - Hashtags saved for design ca67766e-7dcd-48b7-9e7e-82e4e1e8640c: EN=['#living_room', '#scandinavian', '#salon', '#neutral_colors', '#cozy', '#wood', '#minimalist', '#functional', '#textiles', '#simplicity'] TR=['#oturma_odasi', '#iskandinavya', '#salon', '#neutral_colors', '#rahat', '#ahsap', '#minimalist', '#fonksiyonel', '#tekstil', '#simplicity']
+\n2025-08-02 23:39:23,970 - INFO - Hybrid mood board generation - User ID: 3 (type: <class 'int'>)
+\n2025-08-02 23:39:23,970 - INFO - Hybrid mood board generation - Design ID: ca67766e-7dcd-48b7-9e7e-82e4e1e8640c (type: <class 'str'>)
+\n2025-08-02 23:39:23,971 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: preparing_prompt
+\n2025-08-02 23:39:23,971 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: preparing_prompt
+\n2025-08-02 23:39:23,972 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: optimizing_prompt
+\n2025-08-02 23:39:23,978 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:39:23,980 - INFO - 🎨 Generating room visualization with Vertex AI...
+\n2025-08-02 23:39:23,981 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:39:23,981 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:39:26,692 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:39:26,693 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:39:28,206 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:39:28,390 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:39:28,394 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:39:28,395 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:39:29,720 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:39:31,224 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:39:32,186 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:39:32,191 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:39:32,191 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:39:32,726 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:39:34,240 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:39:35,745 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:40:04,721 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:40:04,722 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:40:04,984 - INFO - ✅ Vertex AI room visualization generated successfully
+\n2025-08-02 23:40:04,985 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: processing_image
+\n2025-08-02 23:40:04,985 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: processing_image
+\n2025-08-02 23:40:04,996 - INFO - Room visualization image saved: data\mood_boards\room_visual_20250802_234004_b7cc00f0.png
+\n2025-08-02 23:40:04,998 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: finalizing
+\n2025-08-02 23:40:04,998 - INFO - Sending completed message - status: success, has_base64: True, file_path: data\mood_boards\room_visual_20250802_234004_b7cc00f0.png
+\n2025-08-02 23:40:05,362 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: completed
+\n2025-08-02 23:40:05,362 - INFO - Saving mood board to database - user_id: 3 (type: <class 'int'>), design_id: ca67766e-7dcd-48b7-9e7e-82e4e1e8640c (type: <class 'str'>)
+\n2025-08-02 23:40:05,362 - INFO - Creating MoodBoard with:
+\n2025-08-02 23:40:05,363 - INFO -   user_id: 3 (type: <class 'int'>)
+\n2025-08-02 23:40:05,363 - INFO -   design_id: ca67766e-7dcd-48b7-9e7e-82e4e1e8640c (type: <class 'str'>)
+\n2025-08-02 23:40:05,363 - INFO -   mood_board_id: b7cc00f0-3ec3-4535-b49f-4ef40df0c9ce (type: <class 'str'>)
+\n2025-08-02 23:40:05,363 - INFO -   image_file_path: data\mood_boards\room_visual_20250802_234004_b7cc00f0.png... (type: <class 'str'>)
+\n2025-08-02 23:40:05,363 - INFO -   prompt_used: 
+Create a photorealistic interior design image of a salon in iskandinav style.
+
+Design Concept: İska... (type: <class 'str'>)
+\n2025-08-02 23:40:05,946 - INFO - Mood board b7cc00f0-3ec3-4535-b49f-4ef40df0c9ce saved to database and linked to design ca67766e-7dcd-48b7-9e7e-82e4e1e8640c
+\n2025-08-02 23:40:05,946 - INFO - Hybrid mood board generated successfully: b7cc00f0-3ec3-4535-b49f-4ef40df0c9ce with 2 real + 6 fake products
+\n2025-08-02 23:40:08,153 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:40:08,158 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:40:08,158 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:40:10,565 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:40:10,569 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:40:10,569 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:44:27,584 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:44:27,589 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:44:27,589 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:44:29,484 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:44:29,488 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:44:29,488 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:44:53,908 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:44:53,912 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:44:53,912 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:44:56,032 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:44:56,039 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:44:56,039 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:45:19,607 - INFO - Auth middleware - user_id from token: 3 (type: <class 'int'>)
+\n2025-08-02 23:45:19,774 - INFO - User ID: 3 (type: <class 'int'>)
+\n2025-08-02 23:45:19,774 - INFO - HYBRID design request from a@gmail.com: salon - modern
+\n2025-08-02 23:45:19,775 - INFO - Generating HYBRID design suggestion: salon - modern
+\n2025-08-02 23:45:19,775 - INFO - Starting Function Calling session with Gemini
+\n2025-08-02 23:45:19,775 - INFO - FunctionCallHandler initialized with price limit: None
+\n2025-08-02 23:45:25,483 - WARNING - Unknown function call: 
+\n2025-08-02 23:45:25,483 - INFO - Successfully completed Function Calling session in 1 iterations
+\n2025-08-02 23:45:25,483 - INFO - Searching products: category=koltuk, style=modern, color=gri
+\n2025-08-02 23:45:25,683 - INFO - Product ÄPPLARYD 2'li kanepe, Lejde gri/siyah: original_path=/data/products/koltuk/applaryd-lejde-gri-siyah.jpg -> relative_path=koltuk/applaryd-lejde-gri-siyah.jpg -> image_url=http://localhost:8000/static/products/koltuk/applaryd-lejde-gri-siyah.jpg
+\n2025-08-02 23:45:25,683 - INFO - Found 1 products for category=koltuk
+\n2025-08-02 23:45:25,683 - INFO - Enhanced product with real data: ÄPPLARYD 2'li kanepe, Lejde gri/siyah
+\n2025-08-02 23:45:25,684 - INFO - Searching products: category=sehpa, style=modern, color=şeffaf
+\n2025-08-02 23:45:25,749 - INFO - Found 0 products for category=sehpa
+\n2025-08-02 23:45:25,750 - INFO - Product marked as fake: Cam Sehpa
+\n2025-08-02 23:45:25,750 - INFO - Searching products: category=aydınlatma, style=modern, color=siyah
+\n2025-08-02 23:45:25,824 - INFO - Found 0 products for category=aydınlatma
+\n2025-08-02 23:45:25,824 - INFO - Product marked as fake: Ayaklı Lamba
+\n2025-08-02 23:45:25,824 - INFO - Searching products: category=kitaplik, style=modern, color=beyaz
+\n2025-08-02 23:45:26,190 - INFO - Product LOMMARP açık bej 65x199 cm kitaplık: original_path=/data/products/kitaplik/lommarp-acik-bej.jpg -> relative_path=kitaplik/lommarp-acik-bej.jpg -> image_url=http://localhost:8000/static/products/kitaplik/lommarp-acik-bej.jpg
+\n2025-08-02 23:45:26,191 - INFO - Found 1 products for category=kitaplik
+\n2025-08-02 23:45:26,191 - INFO - Enhanced product with real data: LOMMARP açık bej 65x199 cm kitaplık
+\n2025-08-02 23:45:26,192 - INFO - Searching products: category=halı, style=modern, color=bej
+\n2025-08-02 23:45:26,261 - INFO - Found 0 products for category=halı
+\n2025-08-02 23:45:26,262 - INFO - Product marked as fake: Geometrik Desenli Halı
+\n2025-08-02 23:45:26,262 - INFO - Searching products: category=perde, style=modern, color=beyaz
+\n2025-08-02 23:45:26,332 - INFO - Found 0 products for category=perde
+\n2025-08-02 23:45:26,332 - INFO - Product marked as fake: Tül Perde
+\n2025-08-02 23:45:26,333 - INFO - Product enhancement complete: 2 real, 4 fake products
+\n2025-08-02 23:45:26,333 - INFO - Hybrid design suggestion generated successfully
+\n2025-08-02 23:45:26,333 - INFO - HYBRID design suggestion created successfully for a@gmail.com: Modern Salon Tasarımı
+\n2025-08-02 23:45:26,333 - INFO - Product mix: 2 real + 4 fake = 6 total (33% real)
+\n2025-08-02 23:45:26,333 - INFO - Starting HYBRID background room visualization generation for connection: cba91a98-46cb-4de0-9f21-f47642665f4d
+\n2025-08-02 23:45:26,333 - INFO - Mood board will use 2 real product images for visual reference
+\n2025-08-02 23:45:26,970 - INFO - Design saved to database for a@gmail.com with ID: a1705f14-1529-44db-8118-dac0883132e4
+\n2025-08-02 23:45:27,475 - INFO - Saved 16 hashtags for design a1705f14-1529-44db-8118-dac0883132e4
+\n2025-08-02 23:45:27,475 - INFO - Hashtags saved for design a1705f14-1529-44db-8118-dac0883132e4
+\n2025-08-02 23:45:27,475 - INFO - Hashtags saved for design a1705f14-1529-44db-8118-dac0883132e4: EN=['#living_room', '#modern', '#salon', '#neutral_colors', '#cozy', '#geometric', '#wood', '#functional', '#lighting', '#minimalist'] TR=['#oturma_odasi', '#modern', '#salon', '#neutral_colors', '#rahat', '#geometrik', '#ahsap', '#fonksiyonel', '#aydinlatma', '#minimalist']
+\n2025-08-02 23:45:27,477 - INFO - Hybrid mood board generation - User ID: 3 (type: <class 'int'>)
+\n2025-08-02 23:45:27,477 - INFO - Hybrid mood board generation - Design ID: a1705f14-1529-44db-8118-dac0883132e4 (type: <class 'str'>)
+\n2025-08-02 23:45:27,477 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: preparing_prompt
+\n2025-08-02 23:45:27,478 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: preparing_prompt
+\n2025-08-02 23:45:27,478 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: optimizing_prompt
+\n2025-08-02 23:45:27,478 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:27,478 - INFO - 🎨 Generating room visualization with Vertex AI...
+\n2025-08-02 23:45:27,479 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:27,479 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:29,189 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:29,190 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:30,702 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:31,919 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:45:31,924 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:45:31,924 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:45:32,216 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:33,724 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:35,238 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:36,744 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:36,924 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:45:36,930 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:45:36,930 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:45:38,260 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:44,474 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:44,474 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: generating_image
+\n2025-08-02 23:45:44,784 - INFO - ✅ Vertex AI room visualization generated successfully
+\n2025-08-02 23:45:44,785 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: processing_image
+\n2025-08-02 23:45:44,785 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: processing_image
+\n2025-08-02 23:45:44,800 - INFO - Room visualization image saved: data\mood_boards\room_visual_20250802_234544_5000a07f.png
+\n2025-08-02 23:45:44,801 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: finalizing
+\n2025-08-02 23:45:44,801 - INFO - Sending completed message - status: success, has_base64: True, file_path: data\mood_boards\room_visual_20250802_234544_5000a07f.png
+\n2025-08-02 23:45:45,164 - INFO - Mood board progress updated for cba91a98-46cb-4de0-9f21-f47642665f4d: completed
+\n2025-08-02 23:45:45,165 - INFO - Saving mood board to database - user_id: 3 (type: <class 'int'>), design_id: a1705f14-1529-44db-8118-dac0883132e4 (type: <class 'str'>)
+\n2025-08-02 23:45:45,165 - INFO - Creating MoodBoard with:
+\n2025-08-02 23:45:45,165 - INFO -   user_id: 3 (type: <class 'int'>)
+\n2025-08-02 23:45:45,165 - INFO -   design_id: a1705f14-1529-44db-8118-dac0883132e4 (type: <class 'str'>)
+\n2025-08-02 23:45:45,166 - INFO -   mood_board_id: 5000a07f-f3ca-4aed-8e77-308ba6e0c12b (type: <class 'str'>)
+\n2025-08-02 23:45:45,166 - INFO -   image_file_path: data\mood_boards\room_visual_20250802_234544_5000a07f.png... (type: <class 'str'>)
+\n2025-08-02 23:45:45,166 - INFO -   prompt_used: 
+Create a photorealistic interior design image of a salon in modern style.
+
+Design Concept: Modern S... (type: <class 'str'>)
+\n2025-08-02 23:45:45,534 - INFO - Mood board 5000a07f-f3ca-4aed-8e77-308ba6e0c12b saved to database and linked to design a1705f14-1529-44db-8118-dac0883132e4
+\n2025-08-02 23:45:45,534 - INFO - Hybrid mood board generated successfully: 5000a07f-f3ca-4aed-8e77-308ba6e0c12b with 2 real + 4 fake products
+\n2025-08-02 23:48:34,969 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:48:41,749 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:48:41,790 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:48:41,795 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:48:41,795 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:48:41,956 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:48:49,570 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:48:52,829 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:48:52,857 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:48:52,862 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:48:52,862 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:48:52,982 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:51:21,450 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:51:24,825 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:51:24,857 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:51:24,862 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:51:24,862 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:51:24,982 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:52:03,246 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:52:06,559 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:52:06,587 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:52:06,593 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:52:06,593 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:52:06,713 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:52:18,759 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:52:22,132 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:52:22,160 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:52:22,166 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:52:22,166 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:52:22,294 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:52:47,054 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:52:50,364 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:52:50,392 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:52:50,397 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:52:50,397 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:52:50,517 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:53:37,877 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:53:41,161 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:53:41,189 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:53:41,194 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:53:41,194 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:53:41,319 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:53:55,567 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:53:58,919 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:53:58,947 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:53:58,952 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:53:58,952 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:53:59,073 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:54:08,581 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:54:11,938 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:54:11,967 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:54:11,972 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:54:11,972 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:54:12,096 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:54:29,669 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:54:32,985 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:54:33,013 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:54:33,018 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:54:33,018 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:54:33,142 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:54:47,507 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:54:50,907 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:54:50,937 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:54:50,942 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:54:50,942 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:54:51,066 - INFO - Starting Deko Assistant AI API...
+\n2025-08-02 23:57:24,627 - INFO - Shutting down Deko Assistant AI API...
+\n2025-08-02 23:57:27,995 - INFO - Room Visualization Service initialized with Imagen 4 - Enhanced 19+ step progress tracking enabled
+\n2025-08-02 23:57:28,023 - INFO - GeminiClient: Gemini client initialized with Function Calling support
+\n2025-08-02 23:57:28,028 - INFO - ProductService: ProductService initialized for Function Calling
+\n2025-08-02 23:57:28,028 - INFO - GeminiService: GeminiService initialized with Function Calling support
+\n2025-08-02 23:57:28,148 - INFO - Starting Deko Assistant AI API...
