@@ -13,9 +13,12 @@ def ikea_link_scraper():
     """
     IKEA üçlü kanepe kategorisindeki ürün linklerini toplar
     """
-    url = "https://www.ikea.com.tr/kategori/mutfak-dolaplari"
+    # url = "https://www.ikea.com.tr/kategori/mutfak-dolaplari"
+    url = "https://www.ikea.com.tr/kategori/dekoratif-aydinlatma"
+    
     
     # Chrome options
+    
     chrome_options = Options()
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
@@ -36,20 +39,17 @@ def ikea_link_scraper():
         wait = WebDriverWait(driver, 10)
         wait.until(EC.presence_of_element_located((By.ID, "productList")))
         
-        # Sayfayı scroll ederek daha fazla ürün yükle
+        # Sayfayı sınırlı scroll ederek ürün yükle
         print("Sayfa scroll ediliyor...")
-        last_height = driver.execute_script("return document.body.scrollHeight")
+        scroll_count = 0
+        max_scrolls = 5  # Maksimum 5 kez scroll
         
-        while True:
+        while scroll_count < max_scrolls:
             # Sayfanın sonuna scroll et
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(2)  # Yeni içeriğin yüklenmesi için bekle
-            
-            # Yeni scroll yüksekliğini kontrol et
-            new_height = driver.execute_script("return document.body.scrollHeight")
-            if new_height == last_height:
-                break
-            last_height = new_height
+            scroll_count += 1
+            print(f"Scroll {scroll_count}/{max_scrolls} tamamlandı")
         
         print("Ürün linkleri toplanıyor...")
         links = []

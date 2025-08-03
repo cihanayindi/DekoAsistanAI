@@ -230,22 +230,33 @@ class BatchIkeaImageDownloader:
             return 0, 0, 0
     
     def process_all_json_files(self):
-        """jsonlaryeni dizinindeki tüm JSON dosyalarını işler"""
+        """jsonlaryeni dizinindeki seçili JSON dosyalarını işler"""
         try:
-            # JSON dosyalarını bul
-            json_pattern = os.path.join(self.json_dir, "*.json")
-            json_files = glob.glob(json_pattern)
+            # Seçili JSON dosyaları listesi
+            selected_files = [
+                
+                "tezgah.json"
+            ]
+            
+            # Seçili dosyaların tam yollarını oluştur
+            json_files = []
+            for filename in selected_files:
+                file_path = os.path.join(self.json_dir, filename)
+                if os.path.exists(file_path):
+                    json_files.append(file_path)
+                else:
+                    print(f"Uyarı: {filename} dosyası bulunamadı, atlanıyor...")
             
             if not json_files:
-                print(f"Hata: {self.json_dir} dizininde JSON dosyası bulunamadı!")
+                print(f"Hata: Seçili JSON dosyalarından hiçbiri {self.json_dir} dizininde bulunamadı!")
                 return
             
-            print(f"Bulunan JSON dosyaları: {len(json_files)}")
+            print(f"İşlenecek seçili JSON dosyaları: {len(json_files)}")
             for json_file in json_files:
                 print(f"  - {os.path.basename(json_file)}")
             
             print(f"\n{'#'*80}")
-            print("TOPLU GÖRSEL İNDİRME İŞLEMİ BAŞLATILUYOR")
+            print("SEÇİLİ DOSYALAR İÇİN GÖRSEL İNDİRME İŞLEMİ BAŞLATILUYOR")
             print(f"{'#'*80}")
             
             # Her JSON dosyasını işle
@@ -257,9 +268,9 @@ class BatchIkeaImageDownloader:
             
             # Genel özet
             print(f"\n{'#'*80}")
-            print("GENEL ÖZET")
+            print("SEÇİLİ DOSYALAR İÇİN GENEL ÖZET")
             print(f"{'#'*80}")
-            print(f"İşlenen JSON dosyası: {len(json_files)}")
+            print(f"İşlenen seçili JSON dosyası: {len(json_files)}")
             print(f"Toplam başarılı indirme: {self.total_success}")
             print(f"Toplam başarısız indirme: {self.total_fail}")
             print(f"Toplam atlanan dosya: {self.total_skipped}")
@@ -270,7 +281,7 @@ class BatchIkeaImageDownloader:
             print(f"Toplu işlem sırasında hata: {e}")
 
 def main():
-    print("IKEA Toplu Görsel İndirici Başlatılıyor...")
+    print("IKEA Seçili Dosyalar İçin Görsel İndirici Başlatılıyor...")
     print("-" * 50)
     
     # Çalışma dizinini kontrol et
@@ -288,7 +299,7 @@ def main():
     downloader = BatchIkeaImageDownloader(json_dir, output_dir)
     downloader.process_all_json_files()
     
-    print("\nTüm işlemler tamamlandı!")
+    print("\nSeçili dosyalar için işlemler tamamlandı!")
 
 if __name__ == "__main__":
     main()
