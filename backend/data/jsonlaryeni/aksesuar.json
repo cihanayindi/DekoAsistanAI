@@ -1,0 +1,302 @@
+[
+  {
+    "product_name": "HULTET dekoratif tabak, bambu, 30 cm",
+    "category": "Aksesuar",
+    "style": "Doğal",
+    "color": "Bambu",
+    "dimensions": {
+      "width_cm": 30,
+      "depth_cm": 30,
+      "height_cm": null
+    },
+    "description": "Yetenekli bir zanaatkar tarafından bambudan el yapımı olarak üretilmiştir. Her ürün benzersizdir. Su geçirebilir. Bu sade tasarımlı tabak her türlü dekorla uyumludur ve evinize doğadan bir parça getirerek sakin ve sıcak bir his yayar.",
+    "price": 279,
+    "image_path": "/data/products/aksesuar/hultet-bambu-dekoratif-tabak.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hultet-bambu-30-cm-dekoratif-tabak-40065160"
+  },
+  {
+    "product_name": "GESTALTA dekoratif aksesuar, natürel, 33 cm",
+    "category": "Aksesuar",
+    "style": "İskandinav",
+    "color": "Naturel",
+    "dimensions": {
+      "width_cm": 8,
+      "depth_cm": 8,
+      "height_cm": 33
+    },
+    "description": "Dayanıklı, güzel ve yenilenebilir bir malzeme olan masif ahşaptan yapılmış dekoratif insan figürü. İskandinav tasarım mirasının bir parçası olan bu aksesuar, zamansız bir görünüme sahiptir.",
+    "price": 449,
+    "image_path": "/data/products/aksesuar/gestalta-naturel-dekoratif-aksesuar.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gestalta-naturel-33-cm-dekoratif-aksesuar-40255462"
+  },
+  {
+    "product_name": "EFTERTANKA kum saati, kum rengi, 10 cm",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Kum Rengi",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": 10
+    },
+    "description": "Modern zaman ölçümüne dekoratif bir alternatif. Şeffaf camdan kumun yavaşça akışını izleyebileceğiniz, evinizde benzersiz bir odak noktası oluşturacak şaşırtıcı ve eğlenceli bir dekorasyon.",
+    "price": 349,
+    "image_path": "/data/products/aksesuar/eftertanka-kum-rengi-10-cm-kum-saati.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/eftertanka-kum-rengi-10-cm-kum-saati-50495485"
+  },
+  {
+    "product_name": "GILLSTAD duvar dekorasyonu, saz, el yapımı, 3 parça",
+    "category": "Aksesuar",
+    "style": "Bohem",
+    "color": "Saz",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": null
+    },
+    "description": "Doğayı duvarlarınıza taşıyın. Kurutulmuş sazdan el yapımı 3 adet daire şeklinde duvar dekorasyonu. Nitelikli zanaatkarlar tarafından elle örülmüştür, bu yüzden her biri benzersizdir. Kullanılan malzeme evinize doğadan bir parça getirir ve sakin, sıcak bir his yayar.",
+    "price": 699,
+    "image_path": "/data/products/aksesuar/gillstad-saz-duvar-dekorasyonu.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gillstad-saz-el-yapimi-duvar-dekorasyonu-20518030"
+  },
+  {
+    "product_name": "DVÄRGTALL dekoratif aksesuar, kahverengi-siyah, 3 parça",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Kahverengi-Siyah",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": null
+    },
+    "description": "Inma Bermudez tarafından tasarlanan dekoratif DVÄRGTALL figürleri, üç farklı kişiliğe sahip oyuncu arkadaştır. Onları birçok yaratıcı şekilde birleştirebilir ve hatta ayaklarını değiştirebilirsiniz. Masif ahşaptan üretilmiştir.",
+    "price": 499,
+    "image_path": "/data/products/aksesuar/dvargtall-kahverengi-siyah-dekoratif-aksesuar.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/dvargtall-kahverengi-siyah-dekoratif-aksesuar-50537664"
+  },
+  {
+    "product_name": "EFTERTÄNKA kum saati, kum rengi, 15 cm",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Kum Rengi",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": 15
+    },
+    "description": "Modern zaman ölçümüne dekoratif bir alternatif. Şeffaf camdan kumun yavaşça aşağı aktığını görebilirsiniz. Evinizde benzersiz bir odak noktası oluşturacak şaşırtıcı ve eğlenceli bir dekorasyon.",
+    "price": 499,
+    "image_path": "/data/products/aksesuar/eftertanka-kum-rengi-15-cm-kum-saati.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/eftertanka-kum-rengi-15-cm-kum-saati-00495483"
+  },
+  {
+    "product_name": "GALLERISKOG duvar dekorasyonu, çok renkli, 3 parça",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Çok Renkli",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": null
+    },
+    "description": "Lisa Bengtsson tarafından tasarlanan GALLERISKOG duvar süslemeleri, eğlenceli bir ifadeyle birleşen 3 farklı illüstrasyondan oluşuyor. Tarzınızı ifade eden duvar dekorasyonları ile evinizi daha kişisel hale getirebilirsiniz.",
+    "price": 499,
+    "image_path": "/data/products/aksesuar/galleriskog-cok-renkli-duvar-dekorasyonu.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/galleriskog-cok-renkli-duvar-dekorasyonu-20538071"
+  },
+  {
+    "product_name": "BERÄKNA dekoratif kase, cam, 26 cm",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Şeffaf Cam",
+    "dimensions": {
+      "width_cm": 26,
+      "depth_cm": 26,
+      "height_cm": null
+    },
+    "description": "Çiçekler hemen hemen her günü aydınlatabilir. BERÄKNA ağızdan üfleme kase ile günün en taze tomurcukları ile güzel aranjmanlar yapabilir ya da taşlar ve dayanıklı bitkilerle hayali minyatür bir manzara oluşturabilirsiniz. Üfleme cam kase, usta bir sanatçı tarafından yapılmıştır. Gıda servisi için kullanılabilir.",
+    "price": 549,
+    "image_path": "/data/products/aksesuar/berakna-cam-dekoratif-kase.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/berakna-cam-26-cm-dekoratif-kase-00329040"
+  },
+  {
+    "product_name": "BEGÅVNING altlıklı cam küre, şeffaf, 19 cm",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Şeffaf",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": 19
+    },
+    "description": "BEGÅVNING ile sevdiğiniz eşyaları korurken bir yandan da sergileyebilirsiniz. Altlıklı cam küre, en sevdiğiniz dekoratif eşyaları sergilemek için kullanılabilir. Cam fanusun altına pille çalışan aydınlatma zinciri ekleyip ortama sıcak bir hava katabilirsiniz.",
+    "price": 549,
+    "image_path": "/data/products/aksesuar/begavning-seffaf-19-cm-altlikli-cam-kure.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/begavning-seffaf-19-cm-altlikli-cam-kure-70343938"
+  },
+  {
+    "product_name": "BEGÅVNING altlıklı cam küre, şeffaf, 26 cm",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Şeffaf",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": 26
+    },
+    "description": "Sadece bakmak yeter mi? BEGÅVNING ile sevdiğiniz eşyaları korurken bir yandan da sergileyebilirsiniz. Altlıklı cam küre, en sevdiğiniz dekoratif eşyaları sergilemek için kullanılabilir. Aynı zamanda cam fanusun altına pille çalışan aydınlatma zinciri ekleyip ortama sıcak bir hava katabilirsiniz.",
+    "price": 749,
+    "image_path": "/data/products/aksesuar/begavning-seffaf-26-cm-altlikli-cam-kure.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/begavning-seffaf-26-cm-altlikli-cam-kure-50343939"
+  },
+  {
+    "product_name": "SILKESTRÄD dekoratif kase, kahverengi-kırmızı, 18 cm",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Kahverengi-Kırmızı",
+    "dimensions": {
+      "width_cm": 18,
+      "depth_cm": 18,
+      "height_cm": null
+    },
+    "description": "Bu dekorasyon kasesi, Çin el sanatlarından ve kağıt kesimleriyle gölge kuklaları yaratma geleneğinden esinlenmiştir. Kaseyi dekoratif objelerle doldurabilir ya da kendi başına da güzel göründüğünden içi boş olarak tek başına kullanabilirsiniz.",
+    "price": 199,
+    "image_path": "/data/products/aksesuar/silkestrad-kahverengi-kirmizi-dekoratif-kase.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/silkestrad-kahverengi-kirmizi-18-cm-dekoratif-kase-10570518"
+  },
+  {
+    "product_name": "HEDERSAM kurutulmuş çiçek, açık yeşil, 90 g",
+    "category": "Aksesuar",
+    "style": "Doğal",
+    "color": "Açık Yeşil",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": null
+    },
+    "description": "HEDERSAM kurutulmuş buket, yeni kesilmiş çimen ve baharatlı otların ferahlatıcı bir hissini sunar. Potpuri, kase ya da vazo içinde güzel bir dekorasyon oluşturur ve evinize hoş bir koku verir. İlkbahar sabahlarından ilham alan aydınlık ve parlak bir atmosfer yaratır.",
+    "price": 54.99,
+    "image_path": "/data/products/aksesuar/hedersam-acik-yesil-kurutulmus-cicek.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hedersam-acik-yesil-90-g-kurutulmus-cicek-80502743"
+  },
+  {
+    "product_name": "ÖMSESIDIG tepsili kase seti, turuncu-gri",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Turuncu-Gri",
+    "dimensions": {
+      "width_cm": 15,
+      "depth_cm": 28,
+      "height_cm": 6.4
+    },
+    "description": "Paylaşmak daha eğlenceli. 2 kaseli ÖMSESIDIG tepsi, aile ve arkadaşları bir film gecesi, parti veya cuma buluşması için davet etme arzusunu uyandırır. Liliana Ovalle tarafından tasarlanmıştır. Soslar, kuruyemişler veya diğer atıştırmalıklar için mükemmeldir.",
+    "price": 499,
+    "image_path": "/data/products/aksesuar/omsesidig-turuncu-gri-tepsili-kase-seti.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/omsesidig-turuncu-gri-tepsili-kase-seti-60550023"
+  },
+  {
+    "product_name": "KULÖRT dekoratif kırma cam, beyaz",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": null
+    },
+    "description": "Kırma camlarla süsleyebilir ve şenlikli düzenlemeler yapabilirsiniz. Işığı yansıtır ve kase ya da vazo içinde güzel, ışıltılı dekoratif bir etki yaratır. Bir vazoya, bir kaseye veya bir mumla birlikte bir tabağa koyun.",
+    "price": 199,
+    "image_path": "/data/products/aksesuar/kulort-beyaz-dekoratif-kirma-cam.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/kulort-beyaz-dekoratif-kirma-cam-40317177"
+  },
+  {
+    "product_name": "ESSUNGA duvar dekorasyonu, siyah, 37x33 cm",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 33,
+      "depth_cm": null,
+      "height_cm": 37
+    },
+    "description": "Bu duvar dekorasyonu ile tüm ziyaretçilere evde dört ayaklı bir arkadaşınız olduğunu bildirebilirsiniz. Stilinizi yansıtan sanatsal eserlerle evinizi kişiselleştirebilirsiniz. Malzeme sıkıştırılmış MDF ve çeliktir.",
+    "price": 499,
+    "image_path": "/data/products/aksesuar/essunga-siyah-37x33-cm-duvar-dekorasyonu.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/essunga-siyah-37x33-cm-duvar-dekorasyonu-90395894"
+  },
+  {
+    "product_name": "JÄMLIK kurutulmuş çiçek, açık bej, 90 g",
+    "category": "Akesuar",
+    "style": "Doğal",
+    "color": "Açık Bej",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": null
+    },
+    "description": "JÄMLIK kurutulmuş buket, vanilya ve ılık sütün rahatlatıcı tatlı bir hissini sunar. Potpuri, kase ya da vazo içinde güzel bir dekorasyon oluşturur ve evinize hoş bir koku verir. Şehirdeki sonbahar günlerinden ilham alan rahat bir atmosfer yaratır.",
+    "price": 89.99,
+    "image_path": "/data/products/aksesuar/jamlik-acik-bej-kurutulmus-cicek.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/jamlik-acik-bej-90-g-kurutulmus-cicek-20502741"
+  },
+  {
+    "product_name": "FRUKTSKOG kurutulmuş çiçek, siyah-turkuaz, 90 g",
+    "category": "Aksesuar",
+    "style": "Doğal",
+    "color": "Siyah-Turkuaz",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": null
+    },
+    "description": "FRUKTSKOG, ormanda geçen günlerin ve akan derelerin enerji verici bir hissini sunar. İskandinav açık hava yaşamından ilham alan hoş bir atmosfere evinize hoş geldiniz. Güve otu ve sardunya kokuludur.",
+    "price": 59.99,
+    "image_path": "/data/products/aksesuar/fruktskog-siyah-turkuaz-kurutulmus-cicek.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/fruktskog-siyah-turkuaz-90-g-kurutulmus-cicek-20555819"
+  },
+  {
+    "product_name": "KOPPARBJÖRK dekoratif kase, parlak sarı, 16x33 cm",
+    "category": "Aksesuar",
+    "style": "Modern",
+    "color": "Parlak Sarı",
+    "dimensions": {
+      "width_cm": 33,
+      "depth_cm": 16,
+      "height_cm": null
+    },
+    "description": "Olduğu gibi güzel - ve anılar, süslemeler ve sevdiğiniz diğer şeylerle doldurduğunuzda daha da güzel. KOPPARBJÖRK dekor tabağı, bir masa, tezgah veya büfe üzerinde hoş bir ayrıntı oluşturur. Stoneware malzemeden üretilmiştir.",
+    "price": 399,
+    "image_path": "/data/products/aksesuar/kopparbjork-parlak-sari-dekoratif-kase.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/kopparbjork-parlak-sari-16x33-cm-dekoratif-kase-50559552"
+  },
+  {
+    "product_name": "GLANSLIND kurutulmuş çiçek, açık bej, 90 g",
+    "category": "Aksesuar",
+    "style": "Doğal",
+    "color": "Açık Bej",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": null
+    },
+    "description": "GLANSLIND, sıcak, tatlı bir dumanlı vanilya ve karamel hissi yaratır. Arkadaşlarınız ve ailenizle geçirdiğiniz rahat günlerden ilham alan rahatlatıcı bir atmosfere evinize hoş geldiniz. Potpuri, kase ya da vazo içinde güzel bir dekorasyon oluşturur.",
+    "price": 89.99,
+    "image_path": "/data/products/aksesuar/glanslind-acik-bej-kurutulmus-cicek.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/glanslind-acik-bej-90-g-kurutulmus-cicek-90552799"
+  },
+  {
+    "product_name": "ADLAD kurutulmuş çiçek, çok renkli, 90 g",
+    "category": "Aksesuar",
+    "style": "Doğal",
+    "color": "Çok Renkli",
+    "dimensions": {
+      "width_cm": null,
+      "depth_cm": null,
+      "height_cm": null
+    },
+    "description": "ADLAD kurutulmuş buket, baharatlı narenciye esintileri ile İskandinav ormanlarının rahatlatıcı ve tanıdık bir deneyimini sunuyor. Doğadan ilham alan gerçek bir atmosfere, evinize hoş geldiniz. Potpuri, kase ya da vazo içinde güzel bir dekorasyon oluşturur.",
+    "price": 89.99,
+    "image_path": "/data/products/aksesuar/adlad-cok-renkli-kurutulmus-cicek.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/adlad-cok-renkli-90-g-kurutulmus-cicek-60502744"
+  }
+]

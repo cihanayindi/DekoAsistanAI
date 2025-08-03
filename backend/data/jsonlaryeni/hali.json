@@ -1,0 +1,437 @@
+[
+    {
+        "product_name": "TIPHEDE büyük halı, naturel/kırık beyaz",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Naturel/Kırık Beyaz",
+        "dimensions": {
+            "width_cm": 120,
+            "depth_cm": 180,
+            "height_cm": 0.2
+        },
+        "description": "Pamuktan yapılmış bu düz dokuma halının bakımı kolaydır. Hafif olduğu için taşınması da kolaydır. Her iki yüzü de aynı desene sahip olduğu için çevirip kullanabilir, böylece halınızın ömrünü uzatabilirsiniz.",
+        "price": 599,
+        "image_path": "/data/products/hali/tiphede-naturel-kirik-beyaz.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/tiphede-naturel-kirik-beyaz-120x180-cm-buyuk-hali-40456757"
+    },
+    {
+        "product_name": "STARREKLINTE büyük halı, naturel/siyah",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Naturel/Siyah",
+        "dimensions": {
+            "width_cm": 120,
+            "depth_cm": 180,
+            "height_cm": 0.5
+        },
+        "description": "Jüt ve yün karışımından yapılmış bu el dokuması halı, doğal bir parlaklığa sahiptir. Dayanıklı malzeme, onu yemek masası veya oturma odası gibi çok kullanılan alanlar için mükemmel kılar.",
+        "price": 2699,
+        "image_path": "/data/products/hali/starreklinte-naturel-siyah.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/starreklinte-naturel-siyah-120x180-cm-buyuk-hali-20569133"
+    },
+    {
+        "product_name": "MORUM yolluk, koyu gri",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Koyu Gri",
+        "dimensions": {
+            "width_cm": 80,
+            "depth_cm": 200,
+            "height_cm": 0.6
+        },
+        "description": "Düz dokuma halı, hem iç hem de dış mekanlarda kullanımı kolaydır, temizlenmesi kolaydır ve hava koşullarına ve kire karşı dayanıklıdır. Sandalyeleri çekmeyi kolaylaştırır, bu da onu yemek odanız veya ev ofisiniz için uygun hale getirir.",
+        "price": 1449,
+        "image_path": "/data/products/hali/morum-koyu-gri.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/morum-koyu-gri-80x200-cm-yolluk-10203573"
+    },
+    {
+        "product_name": "RINGKLOCKA büyük halı, yeşil/kırık beyaz",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Yeşil/Kırık Beyaz",
+        "dimensions": {
+            "width_cm": 160,
+            "depth_cm": 230,
+            "height_cm": 0.3
+        },
+        "description": "El dokuması desenli bu halı, pamuklu kadife şeritleri ve yumuşaklığıyla odanıza sıcaklık katar. Nötr renkleri sayesinde çeşitli mobilyalarla kolayca uyum sağlar.",
+        "price": 3199,
+        "image_path": "/data/products/hali/ringklocka-yesil-kirik-beyaz.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/ringklocka-yesil-kirik-beyaz-160x230-cm-buyuk-hali-70578012"
+    },
+    {
+        "product_name": "TAGSPAR büyük halı, beyaz/bej",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Beyaz/Bej",
+        "dimensions": {
+            "width_cm": 170,
+            "depth_cm": 240,
+            "height_cm": 0.8
+        },
+        "description": "Bu yumuşak halı, sade ve zarif deseniyle her türlü dekorasyona uyum sağlar. Yoğun ve kalın dokuması sayesinde sesleri emer ve üzerinde yürümek için yumuşak bir yüzey sağlar.",
+        "price": 2799,
+        "image_path": "/data/products/hali/tagspar-beyaz-bej.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/tagspar-beyaz-bej-170x240-cm-buyuk-hali-10576351"
+    },
+    {
+        "product_name": "STOENSE büyük halı, kırık beyaz",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Kırık Beyaz",
+        "dimensions": {
+            "width_cm": 200,
+            "depth_cm": 300,
+            "height_cm": 1.8
+        },
+        "description": "Bu son derece yumuşak halı ile ayaklarınız sıcak kalır. Yoğun ve kalın dokuması sayesinde sesleri emer ve üzerinde yürümek için yumuşak bir yüzey sağlar. Her türlü döşemeyle uyum sağlar.",
+        "price": 6499,
+        "image_path": "/data/products/hali/stoense-kirik-beyaz-200-300.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/stoense-kirik-beyaz-200x300-cm-buyuk-hali-20426808"
+    },
+    {
+        "product_name": "PYSSLINGGRAS el dokuması halı, gri kareli",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Gri Kareli",
+        "dimensions": {
+            "width_cm": 240,
+            "depth_cm": 300,
+            "height_cm": 0.3
+        },
+        "description": "Bu büyük, el dokuması yün halı, Hindistan'daki organize dokuma merkezlerinde yetenekli zanaatkârlar tarafından yapılmıştır. Yün, halıyı kir tutmaz ve çok dayanıklı hale getirir.",
+        "price": 14999,
+        "image_path": "/data/products/hali/pysslinggras-gri-kareli.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/pysslinggras-gri-kareli-240x300-cm-el-dokumasi-hali-60583033"
+    },
+    {
+        "product_name": "LOHALS jüt halı, naturel",
+        "category": "Halı",
+        "style": "Bohem",
+        "color": "Naturel",
+        "dimensions": {
+            "width_cm": 200,
+            "depth_cm": 300,
+            "height_cm": 1.5
+        },
+        "description": "Jüt, odaya doğal bir his veren rustik bir cazibeye sahip dayanıklı bir malzemedir. Bu halı, Hindistan ve Bangladeş'teki organize dokuma merkezlerinde çalışan yetenekli zanaatkarlar tarafından elde dokunmuştur.",
+        "price": 6599,
+        "image_path": "/data/products/hali/lohals-naturel-200-300.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/lohals-naturel-200x300-cm-jut-hali-00277395"
+    },
+    {
+        "product_name": "LOHALS jüt halı, naturel",
+        "category": "Halı",
+        "style": "Bohem",
+        "color": "Naturel",
+        "dimensions": {
+            "width_cm": 160,
+            "depth_cm": 230,
+            "height_cm": 1.5
+        },
+        "description": "Jüt, odaya doğal bir his veren rustik bir cazibeye sahip dayanıklı bir malzemedir. Bu halı, Hindistan ve Bangladeş'teki organize dokuma merkezlerinde çalışan yetenekli zanaatkarlar tarafından elde dokunmuştur.",
+        "price": 4399,
+        "image_path": "/data/products/hali/lohals-naturel-160-230.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/lohals-naturel-160x230-cm-jut-hali-50277393"
+    },
+    {
+        "product_name": "MORUM büyük halı, açık kahverengi",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Açık Kahverengi",
+        "dimensions": {
+            "width_cm": 200,
+            "depth_cm": 300,
+            "height_cm": 0.6
+        },
+        "description": "Düz dokuma halı, hem iç hem de dış mekanlarda kullanımı kolaydır, temizlenmesi kolaydır ve hava koşullarına ve kire karşı dayanıklıdır. Sandalyeleri çekmeyi kolaylaştırır, bu da onu yemek odanız veya ev ofisiniz için uygun hale getirir.",
+        "price": 3899,
+        "image_path": "/data/products/hali/morum-acik-kahverengi-200-300.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/morum-acik-kahverengi-200x300-cm-buyuk-hali-80198295"
+    },
+    {
+        "product_name": "STOENSE büyük halı, kırık beyaz",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Kırık Beyaz",
+        "dimensions": {
+            "width_cm": 170,
+            "depth_cm": 240,
+            "height_cm": 1.8
+        },
+        "description": "Bu son derece yumuşak halı ile ayaklarınız sıcak kalır. Yoğun ve kalın dokuması sayesinde sesleri emer ve üzerinde yürümek için yumuşak bir yüzey sağlar. Her türlü döşemeyle uyum sağlar.",
+        "price": 4399,
+        "image_path": "/data/products/hali/stoense-kirik-beyaz-170-240.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/stoense-kirik-beyaz-170x240-cm-buyuk-hali-50425529"
+    },
+    {
+        "product_name": "STOENSE büyük halı, orta gri",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Orta Gri",
+        "dimensions": {
+            "width_cm": 200,
+            "depth_cm": 300,
+            "height_cm": 1.8
+        },
+        "description": "Ayaklarınız için gerçek bir zevk ve her türlü döşemeye hoş bir iltifat. Yoğun, kalın hav, sesi sönümler ve yürümek için yumuşak bir yüzey sağlar. Kanepe altına veya odadaki daha büyük oturma alanları için yerleştirin.",
+        "price": 6499,
+        "image_path": "/data/products/hali/stoense-orta-gri-200-300.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/stoense-orta-gri-200x300-cm-buyuk-hali-30426836"
+    },
+    {
+        "product_name": "SORTSÖ küçük halı, açık mavi",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Açık Mavi",
+        "dimensions": {
+            "width_cm": 55,
+            "depth_cm": 85,
+            "height_cm": 0.2
+        },
+        "description": "Bu düz dokuma halının bakımı kolay ve hafiftir. Her iki tarafı da aynı olduğu için ters çevirerek ömrünü uzatabilirsiniz. Pamuktan yapılmıştır ve çamaşır makinesinde yıkanabilir.",
+        "price": 119,
+        "image_path": "/data/products/hali/sortso-acik-mavi.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/sortso-acik-mavi-55x85-cm-kucuk-hali-60528876"
+    },
+    {
+        "product_name": "MORUM büyük halı, açık kahverengi",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Açık Kahverengi",
+        "dimensions": {
+            "width_cm": 160,
+            "depth_cm": 230,
+            "height_cm": 0.6
+        },
+        "description": "Düz dokuma halı, hem iç hem de dış mekanlarda kullanımı kolaydır, temizlenmesi kolaydır ve hava koşullarına ve kire karşı dayanıklıdır. Sandalyeleri çekmeyi kolaylaştırır, bu da onu yemek odanız veya ev ofisiniz için uygun hale getirir.",
+        "price": 2499,
+        "image_path": "/data/products/hali/morum-acik-kahverengi-160-230.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/morum-acik-kahverengi-160x230-cm-buyuk-hali-20203563"
+    },
+    {
+        "product_name": "MORUM büyük halı, koyu gri",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Koyu Gri",
+        "dimensions": {
+            "width_cm": 160,
+            "depth_cm": 230,
+            "height_cm": 0.6
+        },
+        "description": "Düz dokuma halı, hem iç hem de dış mekanlarda kullanımı kolaydır, temizlenmesi kolaydır ve hava koşullarına ve kire karşı dayanıklıdır. Sandalyeleri çekmeyi kolaylaştırır, bu da onu yemek odanız veya ev ofisiniz için uygun hale getirir.",
+        "price": 2499,
+        "image_path": "/data/products/hali/morum-koyu-gri-160-230.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/morum-koyu-gri-160x230-cm-buyuk-hali-40203557"
+    },
+    {
+        "product_name": "LOHALS jüt halı, naturel",
+        "category": "Halı",
+        "style": "Bohem",
+        "color": "Naturel",
+        "dimensions": {
+            "width_cm": 80,
+            "depth_cm": 150,
+            "height_cm": 1.5
+        },
+        "description": "Jüt, odaya doğal bir his veren rustik bir cazibeye sahip dayanıklı bir malzemedir. Bu halı, Hindistan ve Bangladeş'teki organize dokuma merkezlerinde çalışan yetenekli zanaatkarlar tarafından elde dokunmuştur.",
+        "price": 1299,
+        "image_path": "/data/products/hali/lohals-naturel-80-150.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/lohals-naturel-80x150-cm-jut-hali-20307481"
+    },
+    {
+        "product_name": "TVERSTED büyük halı, bej",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Bej",
+        "dimensions": {
+            "width_cm": 200,
+            "depth_cm": 300,
+            "height_cm": 0.8
+        },
+        "description": "Bu halı, odanıza sıcaklık ve rahatlık katan yumuşak bir dokuya sahiptir. Nötr bej rengi, farklı mobilya ve dekorasyon stilleriyle kolayca uyum sağlar.",
+        "price": 5799,
+        "image_path": "/data/products/hali/tversted-bej.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/tversted-bej-200x300-cm-buyuk-hali-40560805"
+    },
+    {
+        "product_name": "MORUM büyük halı, koyu gri",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Koyu Gri",
+        "dimensions": {
+            "width_cm": 200,
+            "depth_cm": 300,
+            "height_cm": 0.6
+        },
+        "description": "Düz dokuma halı, hem iç hem de dış mekanlarda kullanımı kolaydır, temizlenmesi kolaydır ve hava koşullarına ve kire karşı dayanıklıdır. Sandalyeleri çekmeyi kolaylaştırır, bu da onu yemek odanız veya ev ofisiniz için uygun hale getirir.",
+        "price": 3899,
+        "image_path": "/data/products/hali/morum-koyu-gri-200-300.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/morum-koyu-gri-200x300-cm-buyuk-hali-30198293"
+    },
+    {
+        "product_name": "LOHALS jüt halı, naturel",
+        "category": "Halı",
+        "style": "Bohem",
+        "color": "Naturel",
+        "dimensions": {
+            "width_cm": 133,
+            "depth_cm": 195,
+            "height_cm": 1.5
+        },
+        "description": "Jüt, odaya doğal bir his veren rustik bir cazibeye sahip dayanıklı bir malzemedir. Bu halı, Hindistan ve Bangladeş'teki organize dokuma merkezlerinde çalışan yetenekli zanaatkarlar tarafından elde dokunmuştur.",
+        "price": 2799,
+        "image_path": "/data/products/hali/lohals-naturel-133-195.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/lohals-naturel-133x195-cm-jut-hali-30511288"
+    },
+    {
+        "product_name": "TESAMMANS büyük halı, çok renkli",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Çok Renkli",
+        "dimensions": {
+            "width_cm": 155,
+            "depth_cm": 220,
+            "height_cm": 1
+        },
+        "description": "Bu renkli yün halı, evinizde anında neşeli bir atmosfer yaratır. Yumuşak ve dayanıklıdır, bu da onu oyun oynamak veya dinlenmek için mükemmel bir zemin haline getirir.",
+        "price": 5499,
+        "image_path": "/data/products/hali/tesammans-cok-renkli.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/tesammans-cok-renkli-155x220-cm-buyuk-hali-10551765"
+    },
+    {
+        "product_name": "LYDERSHOLM büyük halı, orta kahverengi",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Orta Kahverengi",
+        "dimensions": {
+            "width_cm": 200,
+            "depth_cm": 300,
+            "height_cm": 0.8
+        },
+        "description": "El dokuması bu halı, sisal ve yün karışımıdır ve dayanıklıdır. Her halı eşsizdir ve doğal renk varyasyonları vardır. Nötr rengi ve dokusuyla her odaya sıcaklık katar.",
+        "price": 8999,
+        "image_path": "/data/products/hali/lydersholm-orta-kahverengi.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/lydersholm-orta-kahverengi-200x300-cm-buyuk-hali-50495409"
+    },
+    {
+        "product_name": "BARNDRÖM çocuk halısı, pembe",
+        "category": "Halı",
+        "style": "Çocuk",
+        "color": "Pembe",
+        "dimensions": {
+            "width_cm": 133,
+            "depth_cm": 160,
+            "height_cm": 1
+        },
+        "description": "Bu halı, bir çocuğun odasını hayal gücüyle dolu bir dünyaya dönüştürür. Yumuşak, oynaması rahat ve bakımı kolaydır. Kaymaz alt yüzeyi sayesinde çocuğunuz oyun oynarken yerinde sabit kalır.",
+        "price": 1499,
+        "image_path": "/data/products/hali/barndrom-pembe.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/barndrom-pembe-133x160-cm-cocuk-halisi-80548208"
+    },
+    {
+        "product_name": "STOENSE büyük halı, kırık beyaz",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Kırık Beyaz",
+        "dimensions": {
+            "width_cm": 133,
+            "depth_cm": 195,
+            "height_cm": 1.8
+        },
+        "description": "Bu son derece yumuşak halı ile ayaklarınız sıcak kalır. Yoğun ve kalın dokuması sayesinde sesleri emer ve üzerinde yürümek için yumuşak bir yüzey sağlar. Her türlü döşemeyle uyum sağlar.",
+        "price": 2799,
+        "image_path": "/data/products/hali/stoense-kirik-beyaz-133-195.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/stoense-kirik-beyaz-133x195-cm-buyuk-hali-10425526"
+    },
+    {
+        "product_name": "STOENSE büyük halı, orta gri",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Orta Gri",
+        "dimensions": {
+            "width_cm": 170,
+            "depth_cm": 240,
+            "height_cm": 1.8
+        },
+        "description": "Ayaklarınız için gerçek bir zevk ve her türlü döşemeye hoş bir iltifat. Yoğun, kalın hav, sesi sönümler ve yürümek için yumuşak bir yüzey sağlar. Kanepe altına veya odadaki daha büyük oturma alanları için yerleştirin.",
+        "price": 4399,
+        "image_path": "/data/products/hali/stoense-orta-gri-170-240.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/stoense-orta-gri-170x240-cm-buyuk-hali-00426828"
+    },
+    {
+        "product_name": "LOHALS jüt halı, naturel",
+        "category": "Halı",
+        "style": "Bohem",
+        "color": "Naturel",
+        "dimensions": {
+            "width_cm": 80,
+            "depth_cm": 250,
+            "height_cm": 1.5
+        },
+        "description": "Jüt, odaya doğal bir his veren rustik bir cazibeye sahip dayanıklı bir malzemedir. Bu halı, Hindistan ve Bangladeş'teki organize dokuma merkezlerinde çalışan yetenekli zanaatkarlar tarafından elde dokunmuştur.",
+        "price": 2199,
+        "image_path": "/data/products/hali/lohals-naturel-80-250.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/lohals-naturel-80x250-cm-jut-hali-50515105"
+    },
+    {
+        "product_name": "LOHALS jüt halı, naturel",
+        "category": "Halı",
+        "style": "Bohem",
+        "color": "Naturel",
+        "dimensions": {
+            "width_cm": 130,
+            "depth_cm": 130,
+            "height_cm": 1.5
+        },
+        "description": "Yuvarlak şekli, odada yumuşak bir ifade yaratır. Jüt, odaya doğal bir his veren rustik bir cazibeye sahip dayanıklı bir malzemedir. Yetenekli zanaatkarlar tarafından elde dokunmuştur.",
+        "price": 1999,
+        "image_path": "/data/products/hali/lohals-naturel-130-yuvarlak.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/lohals-naturel-130-cm-jut-hali-80515104"
+    },
+    {
+        "product_name": "STOENSE yuvarlak halı, kırık beyaz",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Kırık Beyaz",
+        "dimensions": {
+            "width_cm": 130,
+            "depth_cm": 130,
+            "height_cm": 1.8
+        },
+        "description": "Yuvarlak şekli, odada yumuşak bir ifade yaratır. Bu son derece yumuşak halı ile ayaklarınız sıcak kalır. Yoğun ve kalın dokuması sayesinde sesleri emer ve üzerinde yürümek için yumuşak bir yüzey sağlar.",
+        "price": 1999,
+        "image_path": "/data/products/hali/stoense-kirik-beyaz-130-yuvarlak.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/stoense-kirik-beyaz-130-cm-yuvarlak-hali-70426801"
+    },
+    {
+        "product_name": "MORUM büyük halı, yeşil",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Yeşil",
+        "dimensions": {
+            "width_cm": 200,
+            "depth_cm": 300,
+            "height_cm": 0.6
+        },
+        "description": "Düz dokuma halı, hem iç hem de dış mekanlarda kullanımı kolaydır, temizlenmesi kolaydır ve hava koşullarına ve kire karşı dayanıklıdır. Sandalyeleri çekmeyi kolaylaştırır, bu da onu yemek odanız veya ev ofisiniz için uygun hale getirir.",
+        "price": 3899,
+        "image_path": "/data/products/hali/morum-yesil.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/morum-yesil-200x300-cm-buyuk-hali-10569143"
+    },
+    {
+        "product_name": "VOLLERSLEV büyük halı, beyaz",
+        "category": "Halı",
+        "style": "Modern",
+        "color": "Beyaz",
+        "dimensions": {
+            "width_cm": 160,
+            "depth_cm": 230,
+            "height_cm": 2.5
+        },
+        "description": "Ayaklarınızın altında yumuşacık ve rahat olan bu uzun tüylü halı, odanıza lüks bir his katar. Kalın tüyleri sesi emer ve sıcak bir atmosfer yaratır.",
+        "price": 4999,
+        "image_path": "/data/products/hali/vollerslev-beyaz.jpg",
+        "product_link": "https://www.ikea.com.tr/urun/vollerslev-beyaz-160x230-cm-buyuk-hali-30492572"
+    }
+]
