@@ -1,0 +1,452 @@
+[
+  {
+    "product_name": "LACK ayaksız duvar rafı, beyaz, 30x190 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 30,
+      "depth_cm": 28,
+      "height_cm": 190
+    },
+    "description": "Raf, duvara monte edildiğinde gizli montaj parçaları sayesinde duvarla bütünleşir.",
+    "price": 1499,
+    "image_path": "/data/products/dolap/lack-beyaz-30x190-cm-ayaksiz-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lack-beyaz-30x190-cm-ayaksiz-duvar-rafi-60282186"
+  },
+  {
+    "product_name": "LACK ayaksız duvar rafı, beyaz, 110x26 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 110,
+      "depth_cm": 26,
+      "height_cm": 5
+    },
+    "description": "Raf, duvara monte edildiğinde gizli montaj parçaları sayesinde duvarla bütünleşir.",
+    "price": 549,
+    "image_path": "/data/products/dolap/lack-beyaz-110x26-cm-ayaksiz-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lack-beyaz-110x26-cm-ayaksiz-duvar-rafi-90282180"
+  },
+  {
+    "product_name": "FLISAT duvar rafı, 70x9x16 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Açık Beyaz Vernikli Çam",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 9,
+      "height_cm": 16
+    },
+    "description": "Çocuğunuzun en sevdiği kitapları için pratik bir duvar saklama alanı.",
+    "price": 499,
+    "image_path": "/data/products/dolap/flisat-acik-beyaz-vernikli-cam-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/flisat-acik-beyaz-vernikli-cam-70x9x16-cm-duvar-rafi-00290778"
+  },
+  {
+    "product_name": "LACK ayaksız duvar rafı, ağartılmış meşe görünümlü, 110x26 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Ağartılmış Meşe Görünümlü",
+    "dimensions": {
+      "width_cm": 110,
+      "depth_cm": 26,
+      "height_cm": 5
+    },
+    "description": "Raf, duvara monte edildiğinde gizli montaj parçaları sayesinde duvarla bütünleşir.",
+    "price": 549,
+    "image_path": "/data/products/dolap/lack-agartilmis-mese-gorunumlu-110x26-cm-ayaksiz-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lack-agartilmis-mese-gorunumlu-110x26-cm-ayaksiz-duvar-rafi-60383519"
+  },
+  {
+    "product_name": "LACK ayaksız duvar rafı, beyaz, 190x26 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 190,
+      "depth_cm": 26,
+      "height_cm": 5
+    },
+    "description": "Raf, duvara monte edildiğinde gizli montaj parçaları sayesinde duvarla bütünleşir.",
+    "price": 949,
+    "image_path": "/data/products/dolap/lack-beyaz-190x26-cm-ayaksiz-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lack-beyaz-190x26-cm-ayaksiz-duvar-rafi-50282182"
+  },
+  {
+    "product_name": "SVENSHULT duvar rafı, gri-yeşil, 60x20 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Gri-Yeşil",
+    "dimensions": {
+      "width_cm": 60,
+      "depth_cm": 20,
+      "height_cm": 35
+    },
+    "description": "Bu duvar rafının farklı derinliklerde ve farklı seviyelerde rafları vardır; böylece küçük ve büyük eşyalar için yer oluşturmanıza olanak tanır. Vida delikleri farklı yönlere baktığı için rafı farklı şekillerde asabilirsiniz.",
+    "price": 399,
+    "image_path": "/data/products/dolap/svenshult-gri-yesil-60x20-cm-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/svenshult-gri-yesil-60x20-cm-duvar-rafi-90557259"
+  },
+  {
+    "product_name": "LACK ayaksız duvar rafı, venge, 110x26 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Venge",
+    "dimensions": {
+      "width_cm": 110,
+      "depth_cm": 26,
+      "height_cm": 5
+    },
+    "description": "Raf, duvara monte edildiğinde gizli montaj parçaları sayesinde duvarla bütünleşir.",
+    "price": 549,
+    "image_path": "/data/products/dolap/lack-venge-110x26-cm-ayaksiz-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lack-venge-110x26-cm-ayaksiz-duvar-rafi-40103633"
+  },
+  {
+    "product_name": "MOSSLANDA çerçeve rafı, beyaz, 55 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 55,
+      "depth_cm": 12,
+      "height_cm": 7
+    },
+    "description": "MOSSLANDA resim rafı, en sevdiğiniz eşyaları sergilemek için idealdir. Benzersiz bir şekilde tasarlanmış kenar kalıbı, küçük ve dar çerçevelerin bile güvenli bir şekilde yerinde durmasını sağlar.",
+    "price": 199,
+    "image_path": "/data/products/dolap/mosslanda-beyaz-55-cm-cerceve-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/mosslanda-beyaz-55-cm-cerceve-rafi-40291766"
+  },
+  {
+    "product_name": "MOSSLANDA çerçeve rafı, beyaz, 115 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 115,
+      "depth_cm": 12,
+      "height_cm": 7
+    },
+    "description": "MOSSLANDA resim rafı, en sevdiğiniz eşyaları sergilemek için idealdir. Benzersiz bir şekilde tasarlanmış kenar kalıbı, küçük ve dar çerçevelerin bile güvenli bir şekilde yerinde durmasını sağlar.",
+    "price": 329,
+    "image_path": "/data/products/dolap/mosslanda-beyaz-115-cm-cerceve-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/mosslanda-beyaz-115-cm-cerceve-rafi-90292103"
+  },
+  {
+    "product_name": "LACK ayaksız duvar rafı, venge, 190x26 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Venge",
+    "dimensions": {
+      "width_cm": 190,
+      "depth_cm": 26,
+      "height_cm": 5
+    },
+    "description": "Raf, duvara monte edildiğinde gizli montaj parçaları sayesinde duvarla bütünleşir.",
+    "price": 949,
+    "image_path": "/data/products/dolap/lack-venge-190x26-cm-ayaksiz-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lack-venge-190x26-cm-ayaksiz-duvar-rafi-40103751"
+  },
+  {
+    "product_name": "LACK ayaksız duvar rafı, ağartılmış meşe görünümlü, 30x190 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Ağartılmış Meşe Görünümlü",
+    "dimensions": {
+      "width_cm": 30,
+      "depth_cm": 28,
+      "height_cm": 190
+    },
+    "description": "Raf, duvara monte edildiğinde gizli montaj parçaları sayesinde duvarla bütünleşir.",
+    "price": 1499,
+    "image_path": "/data/products/dolap/lack-agartilmis-mese-gorunumlu-30x190-cm-ayaksiz-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lack-agartilmis-mese-gorunumlu-30x190-cm-ayaksiz-duvar-rafi-60430592"
+  },
+  {
+    "product_name": "LACK ayaksız duvar rafı, beyaz, 30x26 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 30,
+      "depth_cm": 26,
+      "height_cm": 5
+    },
+    "description": "Raf, duvara monte edildiğinde gizli montaj parçaları sayesinde duvarla bütünleşir.",
+    "price": 279,
+    "image_path": "/data/products/dolap/lack-beyaz-30x26-cm-ayaksiz-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lack-beyaz-30x26-cm-ayaksiz-duvar-rafi-50282177"
+  },
+  {
+    "product_name": "KLAVRESTROM duvar rafı, meşe, 60x20 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Meşe",
+    "dimensions": {
+      "width_cm": 60,
+      "depth_cm": 20,
+      "height_cm": 35
+    },
+    "description": "KLAVRESTRÖM duvar rafının farklı seviyelerde ve farklı derinliklerdeki rafları ile küçük ve büyük objeler için yer yaratın. Ayrıca farklı şekillerde asabilir ve saklama çözümünüzü kişiselleştirebilirsiniz.",
+    "price": 399,
+    "image_path": "/data/products/dolap/klavrestrom-mese-60x20-cm-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/klavrestrom-mese-60x20-cm-duvar-rafi-30601689"
+  },
+  {
+    "product_name": "TORNVIKEN duvar rafı, kırık beyaz, 120x30x24 cm",
+    "category": "Dolap",
+    "style": "Country",
+    "color": "Kırık Beyaz",
+    "dimensions": {
+      "width_cm": 120,
+      "depth_cm": 30,
+      "height_cm": 24
+    },
+    "description": "TORNVIKEN serisi, geleneksel, samimi ve kaliteli detaylara sahip bir mutfak için idealdir. Bu duvar rafı, mutfak eşyalarınızı sergilemeniz için ek depolama alanı sağlar ve aynı zamanda mutfağa sıcak ve davetkar bir his katar.",
+    "price": 2499,
+    "image_path": "/data/products/dolap/tornviken-kirik-beyaz-120x30x24-cm-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tornviken-kirik-beyaz-120x30x24-cm-duvar-rafi-60391661"
+  },
+  {
+    "product_name": "BESTA duvar dolabı, beyaz, 120x42x38 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 120,
+      "depth_cm": 42,
+      "height_cm": 38
+    },
+    "description": "Duvara monte edilen bir depolama ünitesi, odaya havadar ve modern bir görünüm kazandırırken zeminde de yer açar. Kapaklar, bas-aç mekanizması sayesinde sadece hafifçe bastırılarak açılır.",
+    "price": 4050,
+    "image_path": "/data/products/dolap/besta-beyaz-120x42x38-cm-duvar-dolabi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/besta-beyaz-120x42x38-cm-duvar-dolabi-69431865"
+  },
+  {
+    "product_name": "MOSSLANDA çerçeve rafı, siyah, 115 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 115,
+      "depth_cm": 12,
+      "height_cm": 7
+    },
+    "description": "MOSSLANDA resim rafı, en sevdiğiniz eşyaları sergilemek için idealdir. Benzersiz bir şekilde tasarlanmış kenar kalıbı, küçük ve dar çerçevelerin bile güvenli bir şekilde yerinde durmasını sağlar.",
+    "price": 329,
+    "image_path": "/data/products/dolap/mosslanda-siyah-115-cm-cerceve-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/mosslanda-siyah-115-cm-cerceve-rafi-70292104"
+  },
+  {
+    "product_name": "TORNVIKEN duvar rafı, kırık beyaz, 50x30x24 cm",
+    "category": "Dolap",
+    "style": "Country",
+    "color": "Kırık Beyaz",
+    "dimensions": {
+      "width_cm": 50,
+      "depth_cm": 30,
+      "height_cm": 24
+    },
+    "description": "TORNVIKEN serisi, geleneksel, samimi ve kaliteli detaylara sahip bir mutfak için idealdir. Bu duvar rafı, mutfak eşyalarınızı sergilemeniz için ek depolama alanı sağlar.",
+    "price": 1499,
+    "image_path": "/data/products/dolap/tornviken-kirik-beyaz-50x30x24-cm-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tornviken-kirik-beyaz-50x30x24-cm-duvar-rafi-80393517"
+  },
+  {
+    "product_name": "MOSSLANDA çerçeve rafı, siyah, 55 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 55,
+      "depth_cm": 12,
+      "height_cm": 7
+    },
+    "description": "MOSSLANDA resim rafı, en sevdiğiniz eşyaları sergilemek için idealdir. Benzersiz bir şekilde tasarlanmış kenar kalıbı, küçük ve dar çerçevelerin bile güvenli bir şekilde yerinde durmasını sağlar.",
+    "price": 199,
+    "image_path": "/data/products/dolap/mosslanda-siyah-55-cm-cerceve-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/mosslanda-siyah-55-cm-cerceve-rafi-20291767"
+  },
+  {
+    "product_name": "EKET kapaklı duvar dolabı, koyu gri, 35x35x70 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Koyu Gri",
+    "dimensions": {
+      "width_cm": 35,
+      "depth_cm": 35,
+      "height_cm": 70
+    },
+    "description": "EKET saklama serisi ile depolama alanınızı kişiselleştirin. Farklı boyutlarda ve renklerdeki modüllerle, ihtiyaçlarınıza ve alanınıza uygun kendi benzersiz kombinasyonunuzu oluşturun.",
+    "price": 1549,
+    "image_path": "/data/products/dolap/eket-koyu-gri-35x35x70-cm-kapakli-duvar-dolabi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/eket-koyu-gri-35x35x70-cm-kapakli-duvar-dolabi-50344929"
+  },
+  {
+    "product_name": "LINDÅSEN duvar rafı, antrasit, 40x60 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Antrasit",
+    "dimensions": {
+      "width_cm": 60,
+      "depth_cm": 13,
+      "height_cm": 40
+    },
+    "description": "LINDÅSEN duvar rafı, metal ve bambunun heyecan verici birleşiminden oluşur. Bu, eşyalarınızı şık ve pratik bir şekilde sergilemek için dekoratif bir duvar rafıdır.",
+    "price": 699,
+    "image_path": "/data/products/dolap/lindasen-antrasit-40x60-cm-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lindasen-antrasit-40x60-cm-duvar-rafi-00515805"
+  },
+  {
+    "product_name": "FRÖSJÖN duvar rafı, siyah, 40x51 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 40,
+      "depth_cm": 15,
+      "height_cm": 51
+    },
+    "description": "Bu şık duvar rafı, toz boya kaplı çelikten yapılmıştır ve en sevdiğiniz eşyaları sergilemek için mükemmeldir. Nereye asarsanız asın, banyonuza veya evinizdeki herhangi bir odaya modern ve zarif bir görünüm kazandırır.",
+    "price": 699,
+    "image_path": "/data/products/dolap/frosjon-siyah-40x51-cm-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/frosjon-siyah-40x51-cm-duvar-rafi-90574904"
+  },
+  {
+    "product_name": "SPIKSMED ayaksız duvar rafı, açık gri, 117x32 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Açık Gri",
+    "dimensions": {
+      "width_cm": 117,
+      "depth_cm": 32,
+      "height_cm": 4
+    },
+    "description": "Bu duvar rafı eşyalarınızı sergilemek için mükemmeldir. Pratik olduğu kadar dekoratiftir ve SPIKSMED serisindeki diğer ürünlerle kolayca tamamlanabilir.",
+    "price": 1099,
+    "image_path": "/data/products/dolap/spiksmed-acik-gri-117x32-cm-ayaksiz-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/spiksmed-acik-gri-117x32-cm-ayaksiz-duvar-rafi-00573150"
+  },
+  {
+    "product_name": "FJALLBO duvar rafı kombinasyonu, siyah, 101x20 cm",
+    "category": "Dolap",
+    "style": "Endüstriyel",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 101,
+      "depth_cm": 20,
+      "height_cm": 175
+    },
+    "description": "Bu rustik duvar rafı masif ahşap ve metalden yapılmıştır, böylece her raf benzersiz, doğal görünümlü bir yüzeye sahiptir. Masif ahşap doğal, dayanıklı bir malzemedir.",
+    "price": 2748,
+    "image_path": "/data/products/dolap/fjallbo-siyah-101x20-cm-duvar-rafi-kombinasyonu.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/fjallbo-siyah-101x20-cm-duvar-rafi-kombinasyonu-69338546"
+  },
+  {
+    "product_name": "BESTA duvar dolabı, beyaz/şeffaf cam, 60x22x64 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz/Şeffaf Cam",
+    "dimensions": {
+      "width_cm": 60,
+      "depth_cm": 22,
+      "height_cm": 64
+    },
+    "description": "Duvara monte edilen bir depolama ünitesi, odaya havadar ve modern bir görünüm kazandırırken zeminde de yer açar. Cam kapaklar, en sevdiğiniz eşyaları tozdan korurken sergilemenizi sağlar.",
+    "price": 2700,
+    "image_path": "/data/products/dolap/besta-beyaz-seffaf-cam-60x22x64-cm-duvar-dolabi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/besta-beyaz-seffaf-cam-60x22x64-cm-duvar-dolabi-29429666"
+  },
+  {
+    "product_name": "MOSSLANDA çerçeve rafı, ceviz görünümlü, 55 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Ceviz Görünümlü",
+    "dimensions": {
+      "width_cm": 55,
+      "depth_cm": 12,
+      "height_cm": 7
+    },
+    "description": "MOSSLANDA resim rafı, en sevdiğiniz eşyaları sergilemek için idealdir. Benzersiz bir şekilde tasarlanmış kenar kalıbı, küçük ve dar çerçevelerin bile güvenli bir şekilde yerinde durmasını sağlar.",
+    "price": 249,
+    "image_path": "/data/products/dolap/mosslanda-ceviz-gorunumlu-55-cm-cerceve-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/mosslanda-ceviz-gorunumlu-55-cm-cerceve-rafi-70586936"
+  },
+  {
+    "product_name": "EKET kapaklı duvar dolabı, beyaz, 35x35x70 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 35,
+      "depth_cm": 35,
+      "height_cm": 70
+    },
+    "description": "EKET saklama serisi ile depolama alanınızı kişiselleştirin. Farklı boyutlarda ve renklerdeki modüllerle, ihtiyaçlarınıza ve alanınıza uygun kendi benzersiz kombinasyonunuzu oluşturun.",
+    "price": 1449,
+    "image_path": "/data/products/dolap/eket-beyaz-35x35x70-cm-kapakli-duvar-dolabi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/eket-beyaz-35x35x70-cm-kapakli-duvar-dolabi-90333938"
+  },
+  {
+    "product_name": "BERGSHULT/GRANHULT duvar rafı, beyaz/nikelaj kaplama, 80x20 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz/Nikelaj Kaplama",
+    "dimensions": {
+      "width_cm": 80,
+      "depth_cm": 20,
+      "height_cm": 20
+    },
+    "description": "BERGSHULT raf ve GRANHULT konsol ile basit ve pratik bir duvar rafı oluşturun. Alanınıza ve tarzınıza uygun bir görünüm yaratmak için farklı konsol ve raf kombinasyonlarını kullanabilirsiniz.",
+    "price": 549,
+    "image_path": "/data/products/dolap/bergshult-granhult-beyaz-nikelaj-kaplama-80x20-cm-duvar-rafi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/bergshult-granhult-beyaz-nikelaj-kaplama-80x20-cm-duvar-rafi-39290824"
+  },
+  {
+    "product_name": "BESTA duvar dolabı, parlak cila beyaz, 180x42x64 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Parlak Cila Beyaz",
+    "dimensions": {
+      "width_cm": 180,
+      "depth_cm": 42,
+      "height_cm": 64
+    },
+    "description": "Duvara monte edilen bir depolama ünitesi, odaya havadar ve modern bir görünüm kazandırırken zeminde de yer açar. Kapaklar, bas-aç mekanizması sayesinde sadece hafifçe bastırılarak açılır. Parlak yüzey, ışığı yansıtarak odaya ferah bir his verir.",
+    "price": 10500,
+    "image_path": "/data/products/dolap/besta-parlak-cila-beyaz-180x42x64-cm-duvar-dolabi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/besta-parlak-cila-beyaz-180x42x64-cm-duvar-dolabi-99412484"
+  },
+  {
+    "product_name": "EKET kapaklı duvar dolabı, beyaz, 70x35x70 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 35,
+      "height_cm": 70
+    },
+    "description": "EKET saklama serisi ile depolama alanınızı kişiselleştirin. Farklı boyutlarda ve renklerdeki modüllerle, ihtiyaçlarınıza ve alanınıza uygun kendi benzersiz kombinasyonunuzu oluşturun. Kapaklı bu ünite, eşyalarınızı düzenli bir şekilde saklamanıza olanak tanır.",
+    "price": 2499,
+    "image_path": "/data/products/dolap/eket-beyaz-70x35x70-cm-kapakli-duvar-dolabi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/eket-beyaz-70x35x70-cm-kapakli-duvar-dolabi-89435221"
+  },
+  {
+    "product_name": "VÅLJARE kapaklı duvar dolabı, cam, 35x35x35 cm",
+    "category": "Dolap",
+    "style": "Modern",
+    "color": "Cam",
+    "dimensions": {
+      "width_cm": 35,
+      "depth_cm": 35,
+      "height_cm": 35
+    },
+    "description": "VÅLJARE serisi, eşyalarınızı sergilemek veya saklamak için akıllı ve esnek çözümler sunar. Bu cam kapaklı duvar dolabı, en sevdiğiniz objeleri tozdan korurken şık bir şekilde sergilemenizi sağlar.",
+    "price": 1149,
+    "image_path": "/data/products/dolap/valjare-cam-35x35x35-cm-kapakli-duvar-dolabi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/valjare-cam-35x35x35-cm-kapakli-duvar-dolabi-70536710"
+  }
+]

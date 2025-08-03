@@ -1,0 +1,452 @@
+[
+  {
+    "product_name": "STRANDMON Berjer, Nordvalla koyu gri",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Nordvalla Koyu Gri",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "STRANDMON berjer ile evinize nostaljik bir hava katın. 1950'lerden kalma bu klasik model, yuvarlak kolçakları ve yüksek arkalığı ile size ekstra konfor sunar. Kumaş kılıfı, dayanıklı ve bakımı kolaydır.",
+    "price": 8999,
+    "image_path": "/data/products/berjer/strandmon-nordvalla-koyu-gri.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-nordvalla-koyu-gri-berjer-20343224"
+  },
+  {
+    "product_name": "STRANDMON Berjer, Kelinge bej",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Kelinge Bej",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "STRANDMON berjer, klasik tasarımı ve modern konforu bir araya getiriyor. Yüksek arkalığı başınız için ekstra destek sağlarken, yumuşak Kelinge bej kılıfı her türlü dekorasyona sıcaklık katar.",
+    "price": 9999,
+    "image_path": "/data/products/berjer/strandmon-kelinge-bej.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-kelinge-bej-berjer-10492813"
+  },
+  {
+    "product_name": "STRANDMON Berjer, Djuparp koyu yeşil",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Djuparp Koyu Yeşil",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "Kadife dokulu Djuparp kılıfı ile STRANDMON berjer, oturduğunuz yere lüks ve sofistike bir dokunuş getirir. İkonik tasarımı, konforlu yapısı ve zengin rengiyle odanızın odak noktası olacak.",
+    "price": 10999,
+    "image_path": "/data/products/berjer/strandmon-djuparp-koyu-yesil.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-djuparp-koyu-yesil-berjer-80359844"
+  },
+  {
+    "product_name": "STRANDMON Berjer, Skiftebo sarı",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Skiftebo Sarı",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "Canlı Skiftebo sarı rengiyle STRANDMON berjer, her mekana enerji ve neşe katar. Yüksek arkalığı sayesinde okuma veya dinlenme anlarınız için mükemmel bir köşe oluşturur.",
+    "price": 8999,
+    "image_path": "/data/products/berjer/strandmon-skiftebo-sari.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-skiftebo-sari-berjer-90361894"
+  },
+  {
+    "product_name": "STRANDMON Berjer ve puf, Kelinge bej",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Kelinge Bej",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "STRANDMON berjer ve uyumlu puf seti ile konforunuzu ikiye katlayın. Ayaklarınızı uzatıp rahatlamak için ideal olan bu set, Kelinge bej rengiyle evinize aydınlık ve ferah bir görünüm kazandırır.",
+    "price": 13498,
+    "image_path": "/data/products/berjer/strandmon-kelinge-bej-ve-puf.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-kelinge-bej-berjer-ve-puf-79483905"
+  },
+  {
+    "product_name": "EKERÖ Berjer, Bomstad siyah",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Bomstad Siyah",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 73,
+      "height_cm": 75
+    },
+    "description": "EKERÖ berjer, şık ve modern tasarımıyla dikkat çeker. Sabit kılıfı, dayanıklı ve bakımı kolay Bomstad suni deriden yapılmıştır. Ayarlanabilir sırtlığı ile konforu kişiselleştirmenize olanak tanır.",
+    "price": 7499,
+    "image_path": "/data/products/berjer/ekero-bomstad-siyah.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/ekero-bomstad-siyah-berjer-70494588"
+  },
+  {
+    "product_name": "STRANDMON Berjer ve puf, Nordvalla koyu gri",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Nordvalla Koyu Gri",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "Klasik STRANDMON berjer ve puf kombinasyonu, Nordvalla koyu gri rengiyle hem şık hem de son derece rahattır. Uzun bir günün ardından dinlenmek için mükemmel bir seçim.",
+    "price": 12498,
+    "image_path": "/data/products/berjer/strandmon-nordvalla-koyu-gri-ve-puf.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-nordvalla-koyu-gri-berjer-ve-puf-39483907"
+  },
+  {
+    "product_name": "VEDBO Berjer, Gunnared açık yeşil",
+    "category": "Berjer",
+    "style": "İskandinav",
+    "color": "Gunnared Açık Yeşil",
+    "dimensions": {
+      "width_cm": 73,
+      "depth_cm": 65,
+      "height_cm": 75
+    },
+    "description": "VEDBO berjer, zarif çizgileri ve doğal ahşap ayaklarıyla İskandinav tasarımının zamansız bir örneğidir. Kompakt boyutları sayesinde küçük mekanlar için idealdir ve açık yeşil rengiyle ferahlık hissi verir.",
+    "price": 7999,
+    "image_path": "/data/products/berjer/vedbo-gunnared-acik-yesil.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/vedbo-gunnared-acik-yesil-berjer-40494250"
+  },
+  {
+    "product_name": "OSKARSHAMN Berjer ve puf, Tonerud kırmızı",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Tonerud Kırmızı",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 91,
+      "height_cm": 99
+    },
+    "description": "OSKARSHAMN berjer, vücudunuza destek olan esnek yapısı ve modern tasarımıyla öne çıkar. Uyumlu pufu ile birlikte gelir ve canlı kırmızı rengiyle cesur bir dekorasyon yaratır.",
+    "price": 13998,
+    "image_path": "/data/products/berjer/oskarshamn-tonerud-kirmizi-ve-puf.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/oskarshamn-tonerud-kirmizi-berjer-ve-puf-99485338"
+  },
+  {
+    "product_name": "STRANDMON Berjer ve puf, Djuparp koyu yeşil",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Djuparp Koyu Yeşil",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "Lüks kadife dokulu STRANDMON berjer ve puf seti, Djuparp koyu yeşil rengiyle mekanınıza asil bir görünüm katar. Konfor ve stili bir arada sunan bu set, evinizin favori köşesi olmaya aday.",
+    "price": 14998,
+    "image_path": "/data/products/berjer/strandmon-djuparp-koyu-yesil-ve-puf.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-djuparp-koyu-yesil-berjer-ve-puf-19483908"
+  },
+  {
+    "product_name": "FRIHETEN Berjer, Skiftebo koyu gri",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Skiftebo Koyu Gri",
+    "dimensions": {
+      "width_cm": 86,
+      "depth_cm": 90,
+      "height_cm": 80
+    },
+    "description": "FRIHETEN berjer, fonksiyonel ve modern bir tasarıma sahiptir. Geniş oturma alanı ve rahat minderleri ile konfor sunarken, sade çizgileriyle her türlü modern dekora uyum sağlar.",
+    "price": 6499,
+    "image_path": "/data/products/berjer/friheten-skiftebo-koyu-gri.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/friheten-skiftebo-koyu-gri-berjer-30304793"
+  },
+  {
+    "product_name": "OSKARSHAMN Berjer ve puf, Tibbleby bej/gri",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Tibbleby Bej/Gri",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 91,
+      "height_cm": 99
+    },
+    "description": "Nötr bej/gri tonlarındaki Tibbleby kılıfı ile OSKARSHAMN berjer ve puf seti, sakin ve huzurlu bir atmosfer yaratır. Vücudu saran ergonomik yapısı maksimum konfor sağlar.",
+    "price": 12998,
+    "image_path": "/data/products/berjer/oskarshamn-tibbleby-bej-gri-ve-puf.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/oskarshamn-tibbleby-bej-gri-berjer-ve-puf-99485343"
+  },
+  {
+    "product_name": "STRANDMON Berjer ve puf, Skiftebo sarı",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Skiftebo Sarı",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "STRANDMON berjer ve puf, neşeli Skiftebo sarı rengiyle mekanınıza aydınlık bir dokunuş yapar. Klasik tasarımı ve üstün konforu ile hem göz alıcı hem de fonksiyonel bir settir.",
+    "price": 12498,
+    "image_path": "/data/products/berjer/strandmon-skiftebo-sari-ve-puf.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-skiftebo-sari-berjer-ve-puf-59483906"
+  },
+  {
+    "product_name": "STRANDMON Berjer, Vibberbo siyah/bej",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Vibberbo Siyah/Bej",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "Vibberbo siyah/bej desenli kılıfı ile STRANDMON berjer, klasik tasarıma modern bir yorum katıyor. Bu göz alıcı desen, berjerinizi odanın yıldızı yapacak.",
+    "price": 9999,
+    "image_path": "/data/products/berjer/strandmon-vibberbo-siyah-bej.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-vibberbo-siyah-bej-berjer-20456956"
+  },
+  {
+    "product_name": "OSKARSHAMN Berjer ve puf, Gunnared siyah/gri",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Gunnared Siyah/Gri",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 91,
+      "height_cm": 99
+    },
+    "description": "OSKARSHAMN berjer ve puf, modern hatları ve Gunnared siyah/gri rengiyle minimalist dekorasyonlar için mükemmeldir. Ayarlanabilir özellikleri sayesinde kişisel konforunuzu en üst düzeye çıkarır.",
+    "price": 12998,
+    "image_path": "/data/products/berjer/oskarshamn-gunnared-siyah-gri-ve-puf.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/oskarshamn-gunnared-siyah-gri-berjer-ve-puf-09485333"
+  },
+  {
+    "product_name": "EKERÖ Berjer, Skiftebo koyu gri",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Skiftebo Koyu Gri",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 73,
+      "height_cm": 75
+    },
+    "description": "Kompakt ve akıllı tasarımlı EKERÖ berjer, Skiftebo koyu gri rengiyle modern mekanlara kolayca uyum sağlar. Sırt kısmındaki akıllı mekanizma sayesinde oturma derinliğini ayarlayabilirsiniz.",
+    "price": 6499,
+    "image_path": "/data/products/berjer/ekero-skiftebo-koyu-gri.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/ekero-skiftebo-koyu-gri-berjer-60494584"
+  },
+  {
+    "product_name": "BINGSTA Berjer, Vissle koyu sarı/Kabusa koyu sarı",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Vissle Koyu Sarı",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 58,
+      "height_cm": 76
+    },
+    "description": "BINGSTA berjer, sarı rengi ve kucaklayan formuyla hem rahat hem de dikkat çekicidir. Farklı kumaş dokuları bir arada kullanılarak tasarlanmıştır ve her açıdan harika görünür.",
+    "price": 6499,
+    "image_path": "/data/products/berjer/bingsta-vissle-koyu-sari.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/bingsta-vissle-koyu-sari-kabusa-koyu-sari-berjer-40455649"
+  },
+  {
+    "product_name": "EKERÖ Berjer, Skiftebo sarı",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Skiftebo Sarı",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 73,
+      "height_cm": 75
+    },
+    "description": "EKERÖ berjer, canlı sarı rengiyle bulunduğu ortama anında bir stil ifadesi katar. Modern ve kompakt tasarımı, onu her türlü yaşam alanı için pratik ve şık bir seçenek haline getirir.",
+    "price": 6499,
+    "image_path": "/data/products/berjer/ekero-skiftebo-sari.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/ekero-skiftebo-sari-berjer-00262879"
+  },
+  {
+    "product_name": "VEDBO Berjer, Gunnared açık kahverengi-pembe",
+    "category": "Berjer",
+    "style": "İskandinav",
+    "color": "Gunnared Açık Kahverengi-Pembe",
+    "dimensions": {
+      "width_cm": 73,
+      "depth_cm": 65,
+      "height_cm": 75
+    },
+    "description": "VEDBO berjer, yumuşak hatları ve açık kahverengi-pembe rengiyle sıcak ve davetkar bir atmosfer sunar. İskandinav tasarımının sadeliğini ve zarafetini yansıtır.",
+    "price": 7999,
+    "image_path": "/data/products/berjer/vedbo-gunnared-acik-kahverengi-pembe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/vedbo-gunnared-acik-kahverengi-pembe-berjer-10423589"
+  },
+  {
+    "product_name": "EKERÖ Berjer, Skiftebo mavi",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Skiftebo Mavi",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 73,
+      "height_cm": 75
+    },
+    "description": "Sakinleştirici mavi tonuyla EKERÖ berjer, modern ve şık bir dinlenme köşesi yaratır. Akıllı tasarımı sayesinde konforu ve stili küçük alanlarda bile bir araya getirir.",
+    "price": 6499,
+    "image_path": "/data/products/berjer/ekero-skiftebo-mavi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/ekero-skiftebo-mavi-berjer-20262878"
+  },
+  {
+    "product_name": "VEDBO Berjer, Gunnared koyu gri",
+    "category": "Berjer",
+    "style": "İskandinav",
+    "color": "Gunnared Koyu Gri",
+    "dimensions": {
+      "width_cm": 80,
+      "depth_cm": 85,
+      "height_cm": 108
+    },
+    "description": "Yüksek arkalıklı VEDBO berjer, size özel bir alan hissi verir. Koyu gri rengi ve ahşap ayakları ile modern İskandinav stilini yansıtırken, ergonomik tasarımıyla rahatlık sunar.",
+    "price": 10999,
+    "image_path": "/data/products/berjer/vedbo-gunnared-koyu-gri.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/vedbo-gunnared-koyu-gri-berjer-10424126"
+  },
+  {
+    "product_name": "REMSTA Berjer, Djuparp koyu yeşil-mavi",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Djuparp Koyu Yeşil-Mavi",
+    "dimensions": {
+      "width_cm": 60,
+      "depth_cm": 72,
+      "height_cm": 88
+    },
+    "description": "REMSTA berjer, zarif kıvrımları ve kompakt boyutuyla geleneksel bir tarza sahiptir. Koyu yeşil-mavi kadife kılıfı, ona hem lüks hem de rahat bir hava katar.",
+    "price": 7999,
+    "image_path": "/data/products/berjer/remsta-djuparp-koyu-yesil-mavi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/remsta-djuparp-koyu-yesil-mavi-berjer-00484955"
+  },
+  {
+    "product_name": "EKERÖ Berjer, Skiftebo turuncu",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Skiftebo Turuncu",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 73,
+      "height_cm": 75
+    },
+    "description": "Enerjik turuncu rengiyle EKERÖ berjer, her odaya canlılık katar. Modern tasarımı ve ayarlanabilir sırtlığı ile hem estetik hem de fonksiyonel bir parçadır.",
+    "price": 6499,
+    "image_path": "/data/products/berjer/ekero-skiftebo-turuncu.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/ekero-skiftebo-turuncu-berjer-80262880"
+  },
+  {
+    "product_name": "VEDBO Berjer, Gunnared açık kahverengi-pembe",
+    "category": "Berjer",
+    "style": "İskandinav",
+    "color": "Gunnared Açık Kahverengi-Pembe",
+    "dimensions": {
+      "width_cm": 80,
+      "depth_cm": 85,
+      "height_cm": 108
+    },
+    "description": "Yüksek arkalığı ile kişisel bir alan yaratan VEDBO berjer, yumuşak pembe tonuyla dinlendirici bir etki yaratır. El yapımı gibi görünen detayları ve zarif tasarımıyla öne çıkar.",
+    "price": 10999,
+    "image_path": "/data/products/berjer/vedbo-gunnared-acik-kahverengi-pembe-yuksek.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/vedbo-gunnared-acik-kahverengi-pembe-berjer-40423578"
+  },
+  {
+    "product_name": "FULLÖSA Berjer, koyu gri",
+    "category": "Berjer",
+    "style": "Modern",
+    "color": "Koyu Gri",
+    "dimensions": {
+      "width_cm": 69,
+      "depth_cm": 79,
+      "height_cm": 80
+    },
+    "description": "FULLÖSA berjer, sade ve modern tasarımıyla her mekana uyum sağlar. Metal iskeleti ve rahat minderleri ile hem dayanıklı hem de konforlu bir oturma deneyimi sunar.",
+    "price": 3499,
+    "image_path": "/data/products/berjer/fullosa-koyu-gri.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/fullosa-koyu-gri-berjer-00548052"
+  },
+  {
+    "product_name": "STRANDMON Berjer, Grann/Bomstad koyu kahve",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Grann/Bomstad Koyu Kahve",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "Deri görünümlü Grann/Bomstad kılıfı ile STRANDMON berjer, klasik ve zamansız bir şıklık sunar. Dayanıklı yüzeyi ve ikonik tasarımıyla yıllarca keyifle kullanabileceğiniz bir parçadır.",
+    "price": 14999,
+    "image_path": "/data/products/berjer/strandmon-grann-bomstad-koyu-kahve.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-grann-bomstad-koyu-kahve-berjer-00494638"
+  },
+  {
+    "product_name": "STRANDMON Berjer ve puf, Vibberbo siyah/bej",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Vibberbo Siyah/Bej",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 96,
+      "height_cm": 101
+    },
+    "description": "Desenli Vibberbo kılıflı STRANDMON berjer ve puf seti, cesur ve stil sahibi bir seçimdir. Konforlu yapısı ve göz alıcı deseniyle dinlenme köşenize karakter katar.",
+    "price": 13998,
+    "image_path": "/data/products/berjer/strandmon-vibberbo-siyah-bej-ve-puf.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandmon-vibberbo-siyah-bej-berjer-ve-puf-29483903"
+  },
+  {
+    "product_name": "REMSTA Berjer, Hakebo bej",
+    "category": "Berjer",
+    "style": "Klasik",
+    "color": "Hakebo Bej",
+    "dimensions": {
+      "width_cm": 60,
+      "depth_cm": 72,
+      "height_cm": 88
+    },
+    "description": "REMSTA berjer, Hakebo bej rengi ve zarif tasarımıyla aydınlık ve ferah bir görünüm sunar. Kompakt boyutları sayesinde dar alanlar için bile ideal, şık bir çözümdür.",
+    "price": 6999,
+    "image_path": "/data/products/berjer/remsta-hakebo-bej.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/remsta-hakebo-bej-berjer-40477948"
+  },
+  {
+    "product_name": "VEDBO Berjer, Gunnared mavi",
+    "category": "Berjer",
+    "style": "İskandinav",
+    "color": "Gunnared Mavi",
+    "dimensions": {
+      "width_cm": 80,
+      "depth_cm": 85,
+      "height_cm": 108
+    },
+    "description": "Yüksek arkalıklı VEDBO berjer, Gunnared mavi rengiyle sakin ve huzurlu bir köşe yaratır. İskandinav tasarımının temiz çizgilerini yüksek konforla birleştirir.",
+    "price": 10999,
+    "image_path": "/data/products/berjer/vedbo-gunnared-mavi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/vedbo-gunnared-mavi-berjer-40423583"
+  },
+  {
+    "product_name": "FRÖSET Ahşap koltuk, kırmızı vernikli meşe kaplama",
+    "category": "Berjer",
+    "style": "İskandinav",
+    "color": "Kırmızı",
+    "dimensions": {
+      "width_cm": 59,
+      "depth_cm": 58,
+      "height_cm": 74
+    },
+    "description": "FRÖSET ahşap koltuk, minimalist ve fonksiyonel İskandinav tasarımının bir yansımasıdır. Kırmızı vernikli meşe kaplamasıyla cesur bir ifade sunarken, katmanlı yapısı esneklik ve konfor sağlar.",
+    "price": 2499,
+    "image_path": "/data/products/berjer/froset-kirmizi-vernikli-mese.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/froset-kirmizi-vernikli-mese-kaplama-ahsap-koltuk-20429604"
+  }
+]

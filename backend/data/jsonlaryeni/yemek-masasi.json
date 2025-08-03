@@ -1,0 +1,452 @@
+[
+  {
+    "product_name": "SANDSBERG Mutfak Masası, siyah, 110x67 cm",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 67,
+      "depth_cm": 110,
+      "height_cm": 75
+    },
+    "description": "Sade tasarımı sayesinde birçok farklı tarzdaki sandalyeler ile kolayca kombine edilebilir. Masa, 4 kişilik olup küçük alanlar için idealdir. Hafif olmasına rağmen sağlamdır.",
+    "price": 1499,
+    "image_path": "/data/products/yemek-masasi/sandsberg-siyah.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sandsberg-siyah-110x67-cm-mutfak-masasi-29420393"
+  },
+  {
+    "product_name": "LISABO Mutfak Masası, dişbudak kaplama, 140x78 cm",
+    "category": "Yemek Masası",
+    "style": "İskandinav",
+    "color": "Dişbudak Kaplama",
+    "dimensions": {
+      "width_cm": 78,
+      "depth_cm": 140,
+      "height_cm": 74
+    },
+    "description": "Dişbudak kaplama ve masif huş ağacından ayakları ile evinize sıcak ve doğal bir hava katar. Her masanın kendine özgü bir damarlı deseni vardır. Geçmeli takozlar sayesinde montajı çok kolaydır.",
+    "price": 5499,
+    "image_path": "/data/products/yemek-masasi/lisabo-disbudak-kaplama.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lisabo-disbudak-kaplama-140x78-cm-mutfak-masasi-70294339"
+  },
+  {
+    "product_name": "INGATORP Açılır Yuvarlak Yemek Masası, beyaz, 4-6 kişilik",
+    "category": "Yemek Masası",
+    "style": "Klasik",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 155,
+      "depth_cm": 110,
+      "height_cm": 74
+    },
+    "description": "Yuvarlak şekli ve zarif detayları ile geleneksel bir görünüme sahiptir. Ek kanadı sayesinde misafirleriniz geldiğinde masayı 4 kişiden 6 kişiye kolayca büyütebilirsiniz.",
+    "price": 12999,
+    "image_path": "/data/products/yemek-masasi/ingatorp-beyaz-yuvarlak.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/ingatorp-beyaz-4-6-kisilik-yuvarlak-yemek-masasi-40217069"
+  },
+  {
+    "product_name": "MÖRBYLÅNGA Yemek Masası, meşe kaplama kahverengi, 220x100 cm",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Meşe Kaplama Kahverengi",
+    "dimensions": {
+      "width_cm": 100,
+      "depth_cm": 220,
+      "height_cm": 75
+    },
+    "description": "Tam bir aile masası hissi veren bu masa, plank hissi veren kalın meşe kaplamaya sahiptir. Damarlı desen ve doğal ahşap dokusu, her masayı benzersiz kılar. 8 kişiliktir.",
+    "price": 20999,
+    "image_path": "/data/products/yemek-masasi/morbylanga-mese-kahverengi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/morbylanga-mese-kaplama-kahverengi-220x100-cm-yemek-masasi-20293766"
+  },
+  {
+    "product_name": "HÄGERNÄS Mutfak Masası Takımı, antika vernik çam, 4 sandalyeli",
+    "category": "Yemek Masası",
+    "style": "Rustik",
+    "color": "Antika Vernik Çam",
+    "dimensions": {
+      "width_cm": 74,
+      "depth_cm": 118,
+      "height_cm": 74
+    },
+    "description": "Masif çam ağacından yapılmış bu takım, yıllandıkça güzelleşen doğal bir malzemedir. Antika vernik, ahşabın doğal dokusunu ortaya çıkarır ve dayanıklılığını artırır. 4 kişilik komple bir settir.",
+    "price": 7999,
+    "image_path": "/data/products/yemek-masasi/hagernas-antika-vernik-cam.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hagernas-antika-vernik-cam-4-sandalyeli-mutfak-masasi-takimi-70575947"
+  },
+  {
+    "product_name": "SANDSBERG / ADDE Mutfak Masası Takımı, siyah, 4 sandalyeli",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 67,
+      "depth_cm": 110,
+      "height_cm": 75
+    },
+    "description": "Bu 4 kişilik masa takımı, küçük alanlar için akıllıca tasarlanmıştır. SANDSBERG masanın sade tasarımı, istiflenebilir ADDE sandalyelerle birleşerek işlevsel ve modern bir çözüm sunar.",
+    "price": 2495,
+    "image_path": "/data/products/yemek-masasi/sandsberg-adde-siyah.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sandsberg-adde-siyah-4-sandalyeli-mutfak-masasi-takimi-59429194"
+  },
+  {
+    "product_name": "NORDEN Katlanır Mutfak Masası, beyaz, 2-4 kişilik",
+    "category": "Yemek Masası",
+    "style": "İskandinav",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 80,
+      "depth_cm": 89,
+      "height_cm": 74
+    },
+    "description": "Küçük mutfaklar için mükemmel bir çözüm. Her iki tarafı da katlanabilen bu masa, ihtiyaca göre 2 ila 4 kişilik olarak ayarlanabilir. Altındaki 6 adet çekmece, çatal-bıçak ve peçeteler için pratik saklama alanı sunar.",
+    "price": 8499,
+    "image_path": "/data/products/yemek-masasi/norden-beyaz-katlanir.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/norden-beyaz-2-4-kisilik-katlanir-mutfak-masasi-10423886"
+  },
+  {
+    "product_name": "SKANSNÄS Yuvarlak Yemek Masası, kahverengi kayın, 4-6 kişilik",
+    "category": "Yemek Masası",
+    "style": "Klasik",
+    "color": "Kahverengi Kayın",
+    "dimensions": {
+      "width_cm": 118,
+      "depth_cm": 118,
+      "height_cm": 75
+    },
+    "description": "Zarif torna ayakları ve masif ahşap yapısıyla klasik bir tasarıma sahiptir. Yuvarlak şekli, odada samimi bir atmosfer yaratır ve herkesin birbiriyle rahatça sohbet etmesini sağlar.",
+    "price": 10999,
+    "image_path": "/data/products/yemek-masasi/skansnas-kahverengi-kayin.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skansnas-kahverengi-kayin-4-6-kisilik-yuvarlak-yemek-masasi-70563237"
+  },
+  {
+    "product_name": "GLIVARP Açılır Yemek Masası, şeffaf/krom kaplama, 4-6 kişilik",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Şeffaf/Krom",
+    "dimensions": {
+      "width_cm": 85,
+      "depth_cm": 188,
+      "height_cm": 74
+    },
+    "description": "Cam tablası ve parlak krom ayakları ile ferah ve modern bir görünüm sunar. Tek elle kolayca uzatılabilen mekanizması sayesinde 4 kişiden 6 kişiye pratik bir şekilde genişletilebilir.",
+    "price": 11999,
+    "image_path": "/data/products/yemek-masasi/glivarp-seffaf-krom.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/glivarp-seffaf-krom-kaplama-4-6-kisilik-acilir-yemek-masasi-40334695"
+  },
+  {
+    "product_name": "NORDEN / HUS Katlanır Mutfak Masası, 2-4 kişilik",
+    "category": "Yemek Masası",
+    "style": "İskandinav",
+    "color": "Huş",
+    "dimensions": {
+      "width_cm": 80,
+      "depth_cm": 89,
+      "height_cm": 74
+    },
+    "description": "Dayanıklı masif huş ağacından yapılmış, katlanabilir kanatlı bir masa. Masayı ihtiyacınıza göre ayarlamanıza olanak tanır. Altındaki 6 adet pratik çekmece ile ekstra saklama alanı sunar.",
+    "price": 8499,
+    "image_path": "/data/products/yemek-masasi/norden-hus-katlanir.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/norden-hus-2-4-kisilik-katlanir-mutfak-masasi-90423887"
+  },
+  {
+    "product_name": "SKOGSTA Yemek Masası, akasya, 235x100 cm",
+    "category": "Yemek Masası",
+    "style": "Rustik",
+    "color": "Akasya",
+    "dimensions": {
+      "width_cm": 100,
+      "depth_cm": 235,
+      "height_cm": 75
+    },
+    "description": "Cömert boyutları ve masif akasya ağacının sıcaklığı ile yemek odanızın merkezi olacak. Her masanın kendine özgü damarlı deseni ve doğal renk değişimleri vardır. 8-10 kişi için idealdir.",
+    "price": 14999,
+    "image_path": "/data/products/yemek-masasi/skogsta-akasya.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skogsta-akasya-235x100-cm-yemek-masasi-70419264"
+  },
+  {
+    "product_name": "VOXLÖV Yemek Masası, bambu, 180x90 cm",
+    "category": "Yemek Masası",
+    "style": "İskandinav",
+    "color": "Bambu",
+    "dimensions": {
+      "width_cm": 90,
+      "depth_cm": 180,
+      "height_cm": 75
+    },
+    "description": "Bambunun sıcaklığı ve yuvarlak hatların yumuşaklığı ile davetkar bir atmosfer yaratır. Hafif görünümüne rağmen sağlam ve dayanıklıdır. 6 kişi için tasarlanmıştır.",
+    "price": 11499,
+    "image_path": "/data/products/yemek-masasi/voxlov-bambu.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/voxlov-bambu-180x90-cm-yemek-masasi-40434322"
+  },
+  {
+    "product_name": "INGATORP / INGOLF Yemek Masası Takımı, beyaz/Hallarp bej, 4 sandalyeli",
+    "category": "Yemek Masası",
+    "style": "Klasik",
+    "color": "Beyaz/Bej",
+    "dimensions": {
+      "width_cm": 155,
+      "depth_cm": 110,
+      "height_cm": 74
+    },
+    "description": "Klasik tasarımlı INGATORP açılır yuvarlak masa ve konforlu INGOLF sandalyelerden oluşan bu takım, yemek odanıza zarif bir hava katar. Misafirleriniz için kolayca 6 kişilik hale getirilebilir.",
+    "price": 20195,
+    "image_path": "/data/products/yemek-masasi/ingatorp-ingolf-beyaz-bej.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/ingatorp-ingolf-beyaz-hallarp-bej-4-sandalyeli-yemek-masasi-takimi-39482696"
+  },
+  {
+    "product_name": "PINNTORP / STEFAN Mutfak Masası Takımı, açık kahverengi-beyaz, 4 sandalyeli",
+    "category": "Yemek Masası",
+    "style": "Geleneksel",
+    "color": "Açık Kahverengi/Beyaz",
+    "dimensions": {
+      "width_cm": 75,
+      "depth_cm": 125,
+      "height_cm": 75
+    },
+    "description": "İki renkli görünümü ve fırça darbesi hissi veren yüzeyi ile geleneksel bir tarz sunar. Masif ahşap sandalyelerle tamamlanan bu takım, sıcak ve samimi bir yemek alanı oluşturur.",
+    "price": 8995,
+    "image_path": "/data/products/yemek-masasi/pinntorp-stefan-acik-kahve-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/pinntorp-stefan-acik-kahverengi-beyaz-4-sandalyeli-mutfak-masasi-takimi-59554932"
+  },
+  {
+    "product_name": "STRANDTORP Açılır Yemek Masası, beyaz, 4-10 kişilik",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 95,
+      "depth_cm": 260,
+      "height_cm": 75
+    },
+    "description": "Kalabalık aileler ve sık misafir ağırlayanlar için akıllı bir seçim. Tek bir kişi tarafından kolayca uzatılabilen bu masa, 4 kişilik samimi yemeklerden 10 kişilik büyük davetlere kadar her duruma uyum sağlar.",
+    "price": 14999,
+    "image_path": "/data/products/yemek-masasi/strandtorp-beyaz-acilir.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/strandtorp-beyaz-4-10-kisilik-acilir-yemek-masasi-40487278"
+  },
+  {
+    "product_name": "HAUGA Katlanır Mutfak Masası, beyaz, 2-4 kişilik",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 78,
+      "depth_cm": 90,
+      "height_cm": 75
+    },
+    "description": "HAUGA serisinin karakteristik yan panellerine ve üst rafına sahip bu katlanır masa, hem şık hem de işlevseldir. Küçük alanlarda yerden tasarruf sağlar ve ihtiyaca göre 2 veya 4 kişilik olarak kullanılabilir.",
+    "price": 4999,
+    "image_path": "/data/products/yemek-masasi/hauga-beyaz-katlanir.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hauga-beyaz-2-4-kisilik-katlanir-mutfak-masasi-20586000"
+  },
+  {
+    "product_name": "INGATORP Açılır Yuvarlak Yemek Masası, siyah, 4-6 kişilik",
+    "category": "Yemek Masası",
+    "style": "Klasik",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 155,
+      "depth_cm": 110,
+      "height_cm": 74
+    },
+    "description": "Siyah rengi ve zarif detayları ile dramatik ve klasik bir atmosfer yaratır. Tek ek kanadı sayesinde masayı 4 kişiden 6 kişiye kolayca büyütebilirsiniz. Gizli kilit fonksiyonu ile güvenlidir.",
+    "price": 12999,
+    "image_path": "/data/products/yemek-masasi/ingatorp-siyah-yuvarlak.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/ingatorp-siyah-4-6-kisilik-yuvarlak-yemek-masasi-80217072"
+  },
+  {
+    "product_name": "DANDERYD / INGOLF Mutfak Masası Takımı, beyaz/Hallarp bej, 4 sandalyeli",
+    "category": "Yemek Masası",
+    "style": "Geleneksel",
+    "color": "Beyaz/Bej",
+    "dimensions": {
+      "width_cm": 80,
+      "depth_cm": 130,
+      "height_cm": 75
+    },
+    "description": "Sağlam ve dayanıklı DANDERYD masa ile yüksek sırtlı konforlu INGOLF sandalyeleri bir araya getiren bu takım, geleneksel bir tarz sunar. Yuvarlatılmış köşeler çocuklar için daha güvenlidir.",
+    "price": 14795,
+    "image_path": "/data/products/yemek-masasi/danderyd-ingolf-beyaz-bej.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/danderyd-ingolf-beyaz-hallarp-bej-4-sandalyeli-mutfak-masasi-takimi-79388734"
+  },
+  {
+    "product_name": "MÖRBYLÅNGA Yuvarlak Yemek Masası, meşe kaplama kahverengi vernikli, 6 kişilik",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Meşe Kaplama Kahverengi",
+    "dimensions": {
+      "width_cm": 145,
+      "depth_cm": 145,
+      "height_cm": 75
+    },
+    "description": "Geniş yuvarlak tablası ve sağlam ayakları ile herkesin rahatça oturabileceği, samimi bir ortam yaratır. Plank hissi veren kalın meşe kaplaması, doğal ve rustik bir dokunuş katar.",
+    "price": 18999,
+    "image_path": "/data/products/yemek-masasi/morbylanga-mese-yuvarlak.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/morbylanga-mese-kaplama-kahverengi-vernikli-6-kisilik-yuvarlak-yemek-masasi-60412885"
+  },
+  {
+    "product_name": "PINNTORP Mutfak Masası, açık kahverengi-beyaz, 125x75 cm",
+    "category": "Yemek Masası",
+    "style": "Geleneksel",
+    "color": "Açık Kahverengi/Beyaz",
+    "dimensions": {
+      "width_cm": 75,
+      "depth_cm": 125,
+      "height_cm": 75
+    },
+    "description": "Fırça darbesi efekti verilmiş yüzeyi ve sağlam ahşap yapısıyla geleneksel İsveç mobilyalarından ilham alır. Kompakt boyutları sayesinde birçok mekana kolayca sığar.",
+    "price": 4999,
+    "image_path": "/data/products/yemek-masasi/pinntorp-acik-kahve-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/pinntorp-acik-kahverengi-beyaz-125x75-cm-mutfak-masasi-30529467"
+  },
+  {
+    "product_name": "INGATORP Açılır Yemek Masası, beyaz, 4-6 kişilik",
+    "category": "Yemek Masası",
+    "style": "Klasik",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 87,
+      "depth_cm": 215,
+      "height_cm": 74
+    },
+    "description": "Geleneksel detaylara sahip bu açılır masa, 4 kişilik samimi yemeklerden 6 kişilik davetlere kolayca uyum sağlar. Ek kanadı masanın altında saklanabilir.",
+    "price": 11999,
+    "image_path": "/data/products/yemek-masasi/ingatorp-beyaz-acilir.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/ingatorp-beyaz-4-6-kisilik-acilir-yemek-masasi-70221423"
+  },
+  {
+    "product_name": "VOXLÖV Yemek Masası Takımı, bambu, 4 sandalyeli",
+    "category": "Yemek Masası",
+    "style": "İskandinav",
+    "color": "Bambu",
+    "dimensions": {
+      "width_cm": 90,
+      "depth_cm": 180,
+      "height_cm": 75
+    },
+    "description": "Hafif ve havadar tasarımıyla modern ve sıcak bir yemek alanı yaratın. Dayanıklı bambudan yapılmış bu takım, yuvarlak hatları ve dokuma koltukları ile hem şık hem de konforludur.",
+    "price": 24495,
+    "image_path": "/data/products/yemek-masasi/voxlov-bambu-takim.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/voxlov-bambu-4-sandalyeli-yemek-masasi-takimi-29388656"
+  },
+  {
+    "product_name": "NORDVIKEN Katlanır Mutfak Masası, beyaz, 2-4 kişilik",
+    "category": "Yemek Masası",
+    "style": "Geleneksel",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 74,
+      "depth_cm": 104,
+      "height_cm": 75
+    },
+    "description": "Alanınız kısıtlı olduğunda mükemmel bir seçenek. Bir veya iki kanadını açarak masayı ihtiyacınıza göre 2, 3 veya 4 kişilik olarak kolayca ayarlayabilirsiniz. Pratik alt çekmecesi bulunur.",
+    "price": 7999,
+    "image_path": "/data/products/yemek-masasi/nordviken-beyaz-katlanir.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/nordviken-beyaz-2-4-kisilik-katlanir-mutfak-masasi-50368717"
+  },
+  {
+    "product_name": "PINNTORP Yemek Masası Takımı, beyaz/açık kahverengi, 6 sandalyeli",
+    "category": "Yemek Masası",
+    "style": "Geleneksel",
+    "color": "Beyaz/Açık Kahverengi",
+    "dimensions": {
+      "width_cm": 75,
+      "depth_cm": 125,
+      "height_cm": 75
+    },
+    "description": "Geleneksel İskandinav tarzını yansıtan bu 6 kişilik takım, sıcak ve davetkar bir atmosfer sunar. PINNTORP serisinin fırça darbesi efektli yüzeyi ve sağlam yapısı ile uzun yıllar kullanıma uygundur.",
+    "price": 12993,
+    "image_path": "/data/products/yemek-masasi/pinntorp-beyaz-acik-kahve-takim.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/pinntorp-beyaz-acik-kahverengi-6-sandalyeli-yemek-masasi-takimi-29564452"
+  },
+  {
+    "product_name": "LISABO Mutfak Masası, siyah, 140x78 cm",
+    "category": "Yemek Masası",
+    "style": "İskandinav",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 78,
+      "depth_cm": 140,
+      "height_cm": 74
+    },
+    "description": "Modern ve minimalist bir tasarıma sahip LISABO masa, siyah rengiyle her dekora şıklık katar. Geçmeli takozlar sayesinde alet kullanmadan sadece 3 dakikada kolayca monte edilebilir.",
+    "price": 5499,
+    "image_path": "/data/products/yemek-masasi/lisabo-siyah.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lisabo-siyah-140x78-cm-mutfak-masasi-80382439"
+  },
+  {
+    "product_name": "RESARÖ Katlanır Mutfak Masası, çam, 1-2 kişilik",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Çam",
+    "dimensions": {
+      "width_cm": 62,
+      "depth_cm": 78,
+      "height_cm": 73
+    },
+    "description": "En küçük alanlar için tasarlanmış akıllı bir çözüm. Duvara monte edilen bu masa, kullanılmadığında katlanarak hiç yer kaplamaz. Masif çam malzeme, sıcak ve doğal bir görünüm sunar.",
+    "price": 3199,
+    "image_path": "/data/products/yemek-masasi/resaro-cam-katlanir.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/resaro-cam-1-2-kisilik-katlanir-mutfak-masasi-20533337"
+  },
+  {
+    "product_name": "STOCKHOLM 2025 Yemek Masası, meşe kaplama, 230x90 cm",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Meşe Kaplama",
+    "dimensions": {
+      "width_cm": 90,
+      "depth_cm": 230,
+      "height_cm": 75
+    },
+    "description": "Yüksek kaliteli işçilik ve doğal malzemelerin birleşimi. Mat yüzeyli meşe kaplama, ahşabın güzelliğini ortaya çıkarır. Geniş boyutları ile büyük aileler ve davetler için mükemmeldir.",
+    "price": 27999,
+    "image_path": "/data/products/yemek-masasi/stockholm-2025-mese-kaplama.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/stockholm-2025-mese-kaplama-230x90-cm-yemek-masasi-79579984"
+  },
+  {
+    "product_name": "DANDERYD Mutfak Masası, meşe kaplama/beyaz, 130x80 cm",
+    "category": "Yemek Masası",
+    "style": "Geleneksel",
+    "color": "Meşe Kaplama/Beyaz",
+    "dimensions": {
+      "width_cm": 80,
+      "depth_cm": 130,
+      "height_cm": 75
+    },
+    "description": "Meşe kaplama tabla ve beyaz ayakların birleşimiyle aydınlık ve davetkar bir görünüm sunar. Metalik detaylar olmadan pürüzsüz bir yüzeye sahiptir ve 4 kişi için idealdir.",
+    "price": 5499,
+    "image_path": "/data/products/yemek-masasi/danderyd-mese-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/danderyd-mese-kaplama-beyaz-130x80-cm-mutfak-masasi-10463858"
+  },
+  {
+    "product_name": "LANEBERG Açılır Yemek Masası, beyaz, 4-6 kişilik",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 80,
+      "depth_cm": 190,
+      "height_cm": 75
+    },
+    "description": "Sade ve modern tasarımıyla her yemek odasına uyum sağlar. Tek kişi tarafından kolayca uzatılabilir ve ek kanat masanın altında saklanarak yer kaplamaz.",
+    "price": 6499,
+    "image_path": "/data/products/yemek-masasi/laneberg-beyaz-acilir.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/laneberg-beyaz-4-6-kisilik-acilir-yemek-masasi-60416138"
+  },
+  {
+    "product_name": "HAUGA Katlanır Mutfak Masası, gri, 2-4 kişilik",
+    "category": "Yemek Masası",
+    "style": "Modern",
+    "color": "Gri",
+    "dimensions": {
+      "width_cm": 78,
+      "depth_cm": 90,
+      "height_cm": 75
+    },
+    "description": "Gri rengi ve karakteristik tasarımı ile modern bir dokunuş. Katlanabilir kanatları sayesinde küçük alanlar için yerden tasarruf sağlayan akıllı bir çözümdür. Üst rafı dekoratif objeler için kullanılabilir.",
+    "price": 4999,
+    "image_path": "/data/products/yemek-masasi/hauga-gri-katlanir.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hauga-gri-2-4-kisilik-katlanir-mutfak-masasi-80586002"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "product_name": "KNARREVIK siyah komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 37,
+      "depth_cm": 28,
+      "height_cm": 45
+    },
+    "description": "KNARREVIK komodin, yatağınızın yanında veya kanepenizin kolçağının yanında pratik bir sehpa olarak kullanabileceğiniz kadar çok yönlüdür. Sağlam metalden yapılmıştır ve farklı tarzlardaki mobilyalarla kolayca uyum sağlar.",
+    "price": 449,
+    "image_path": "/data/products/komodin/knarrevik-siyah.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/knarrevik-siyah-42x34-cm-komodin-20569977"
+  },
+  {
+    "product_name": "HATTÅSEN beyaz komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 43,
+      "depth_cm": 27,
+      "height_cm": 58
+    },
+    "description": "HATTÅSEN komodinin temiz ve sade bir tasarımı vardır, bu da onu birçok farklı mobilya stiliyle birleştirmeyi kolaylaştırır. Kitaplar, gözlükler veya diğer başucu eşyaları için mükemmeldir.",
+    "price": 899,
+    "image_path": "/data/products/komodin/hattasen-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hattasen-beyaz-43x27x58-cm-komodin-80569234"
+  },
+  {
+    "product_name": "KULLEN beyaz komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 35,
+      "depth_cm": 40,
+      "height_cm": 49
+    },
+    "description": "Temiz bir görünüme sahip, diğer mobilyalarla uyumlu, yatak odasına veya evin herhangi bir yerine uyan bir komodin. Diğer KULLEN serisi mobilyalarla kombine etmek için bolca alana sahiptir.",
+    "price": 999,
+    "image_path": "/data/products/komodin/kullen-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/kullen-beyaz-35x49-cm-komodin-80309241"
+  },
+  {
+    "product_name": "HAUGA beyaz komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 40,
+      "depth_cm": 36,
+      "height_cm": 63
+    },
+    "description": "HAUGA komodin, yatağınızın yanında ihtiyacınız olan her şeyi elinizin altında tutar. Üst raf, gizli depolama alanı ve kullanışlı bir çekmece ile hem pratik hem de şıktır.",
+    "price": 1799,
+    "image_path": "/data/products/komodin/hauga-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hauga-beyaz-40x36-cm-komodin-00488963"
+  },
+  {
+    "product_name": "NORDKISA bambu komodin",
+    "category": "Komodin",
+    "style": "İskandinav",
+    "color": "Bambu",
+    "dimensions": {
+      "width_cm": 40,
+      "depth_cm": 40,
+      "height_cm": 67
+    },
+    "description": "NORDKISA serisindeki bu komodin, bambudan yapılmıştır ve sıcak bir görünüm yaratır. Bağımsız olarak kullanılabilir veya NORDKISA serisindeki diğer mobilyalarla birleştirilebilir.",
+    "price": 3199,
+    "image_path": "/data/products/komodin/nordkisa-bambu.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/nordkisa-bambu-40x40-cm-komodin-60447677"
+  },
+  {
+    "product_name": "HEMNES beyaz vernik komodin",
+    "category": "Komodin",
+    "style": "Klasik",
+    "color": "Beyaz Vernik",
+    "dimensions": {
+      "width_cm": 46,
+      "depth_cm": 35,
+      "height_cm": 70
+    },
+    "description": "Masif ahşaptan yapılmış geleneksel görünümlü bir komodin. Sessiz ve kolay açılan çekmecesi, eşyalarınızı düzenli tutmanıza yardımcı olur. HEMNES serisindeki diğer mobilyalarla uyumludur.",
+    "price": 2799,
+    "image_path": "/data/products/komodin/hemnes-beyaz-vernik.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hemnes-beyaz-vernik-46x35x70-cm-komodin-20200456"
+  },
+  {
+    "product_name": "IDANÄS beyaz komodin",
+    "category": "Komodin",
+    "style": "Klasik",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 47,
+      "depth_cm": 40,
+      "height_cm": 63
+    },
+    "description": "IDANÄS komodin, zamana meydan okuyan tasarımı ve işlevselliği birleştirir. Geniş çekmecesi ve entegre şarj çözümü ile modern yaşam için tasarlanmıştır.",
+    "price": 3499,
+    "image_path": "/data/products/komodin/idanas-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-beyaz-47x40-cm-komodin-90458810"
+  },
+  {
+    "product_name": "TOLKNING rattan komodin",
+    "category": "Komodin",
+    "style": "Bohem",
+    "color": "Rattan",
+    "dimensions": {
+      "width_cm": 52,
+      "depth_cm": 52,
+      "height_cm": 56
+    },
+    "description": "El yapımı TOLKNING komodin, evinize sıcak ve doğal bir dokunuş getirir. Rattan gibi doğal liflerden yapıldığı için her ürün benzersizdir. Hem komodin hem de sehpa olarak kullanılabilir.",
+    "price": 3199,
+    "image_path": "/data/products/komodin/tolkning-rattan.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tolkning-rattan-52-cm-komodin-20512660"
+  },
+  {
+    "product_name": "BRIMNES beyaz komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 39,
+      "depth_cm": 41,
+      "height_cm": 53
+    },
+    "description": "Temiz hatlara sahip bu komodin, BRIMNES serisindeki yatak başlığına mükemmel uyum sağlar. Çekmece, kablolar için arkası açık bir bölme ile eşyaları gözden uzak tutar.",
+    "price": 1499,
+    "image_path": "/data/products/komodin/brimnes-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/brimnes-beyaz-39x41x53-cm-komodin-10234942"
+  },
+  {
+    "product_name": "OLDERDALEN yeşil komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Yeşil",
+    "dimensions": {
+      "width_cm": 47,
+      "depth_cm": 43,
+      "height_cm": 61
+    },
+    "description": "OLDERDALEN komodin, yatağınızın yanında ihtiyacınız olan her şeyi elinizin altında tutar. Yatakta okumayı seviyorsanız, kitaplarınızı ve dergilerinizi saklamak için mükemmel olan pratik bir saklama alanına sahiptir.",
+    "price": 2999,
+    "image_path": "/data/products/komodin/olderdalen-yesil.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/olderdalen-yesil-47x43-cm-komodin-30500893"
+  },
+  {
+    "product_name": "KULLEN venge komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Venge",
+    "dimensions": {
+      "width_cm": 35,
+      "depth_cm": 40,
+      "height_cm": 49
+    },
+    "description": "Temiz bir görünüme sahip, diğer mobilyalarla uyumlu, yatak odasına veya evin herhangi bir yerine uyan bir komodin. Diğer KULLEN serisi mobilyalarla kombine etmek için bolca alana sahiptir.",
+    "price": 999,
+    "image_path": "/data/products/komodin/kullen-venge.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/kullen-venge-35x49-cm-komodin-60322130"
+  },
+  {
+    "product_name": "TONSTAD kahverengi-siyah/açık kahverengi komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Kahverengi-Siyah/Açık Kahverengi",
+    "dimensions": {
+      "width_cm": 40,
+      "depth_cm": 40,
+      "height_cm": 59
+    },
+    "description": "TONSTAD komodin, kâğıt folyo kaplamanın sıcak ahşap ifadesini metalin endüstriyel hissi ile birleştirir. Yatak odası, koridor veya oturma odası için mükemmel olan pratik bir depolama çözümüdür.",
+    "price": 2799,
+    "image_path": "/data/products/komodin/tonstad-kahverengi-mese-kaplama.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tonstad-kahverengi-mese-kaplama-40x40x59-cm-komodin-40489319"
+  },
+  {
+    "product_name": "TONSTAD kırık beyaz komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Kırık Beyaz",
+    "dimensions": {
+      "width_cm": 40,
+      "depth_cm": 40,
+      "height_cm": 59
+    },
+    "description": "TONSTAD komodin, kâğıt folyo kaplamanın sıcak ahşap ifadesini metalin endüstriyel hissi ile birleştirir. Yatak odası, koridor veya oturma odası için mükemmel olan pratik bir depolama çözümüdür.",
+    "price": 2799,
+    "image_path": "/data/products/komodin/tonstad-kirik-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tonstad-kirik-beyaz-40x40x59-cm-komodin-80510007"
+  },
+  {
+    "product_name": "TONSTAD açık kahverengi/siyah-kahverengi komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Açık Kahverengi/Siyah-Kahverengi",
+    "dimensions": {
+      "width_cm": 40,
+      "depth_cm": 40,
+      "height_cm": 59
+    },
+    "description": "TONSTAD komodin, kâğıt folyo kaplamanın sıcak ahşap ifadesini metalin endüstriyel hissi ile birleştirir. Yatak odası, koridor veya oturma odası için mükemmel olan pratik bir depolama çözümüdür.",
+    "price": 2799,
+    "image_path": "/data/products/komodin/tonstad-mese-kaplama.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tonstad-mese-kaplama-40x40x59-cm-komodin-80489322"
+  },
+  {
+    "product_name": "HEMNES venge komodin",
+    "category": "Komodin",
+    "style": "Klasik",
+    "color": "Venge",
+    "dimensions": {
+      "width_cm": 54,
+      "depth_cm": 38,
+      "height_cm": 66
+    },
+    "description": "Yüksek bir yatağın yanında durması için biraz daha yüksek bir komodin. Sürdürülebilir kaynaklardan elde edilen masif ahşaptan yapılmıştır. Geleneksel görünüm ve modern işlevsellik bir arada.",
+    "price": 2999,
+    "image_path": "/data/products/komodin/hemnes-venge-54x66.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hemnes-venge-54x66-cm-komodin-50242619"
+  },
+  {
+    "product_name": "RADMANSÖ kahverengi ceviz görünümlü komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Kahverengi Ceviz Görünüm",
+    "dimensions": {
+      "width_cm": 54,
+      "depth_cm": 38,
+      "height_cm": 58
+    },
+    "description": "Ceviz efektli kaplama ve mat siyah metalin zarif birleşimi. Bu komodin, RADMANSÖ serisindeki karyola ile mükemmel uyum sağlar ancak tek başına da evinize sıcaklık ve karakter katar.",
+    "price": 2199,
+    "image_path": "/data/products/komodin/radmanso-kahverengi-ceviz-gorunum.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/radmanso-kahverengi-ceviz-gorunum-54x38x58-cm-komodin-80593597"
+  },
+  {
+    "product_name": "VIKHAMMER beyaz komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 40,
+      "depth_cm": 39,
+      "height_cm": 65
+    },
+    "description": "Temiz hatlara sahip VIKHAMMER komodin, yatağınızın yanında harika durur. Çekmeceler yavaşça ve sessizce kapanır ve ince metal ayaklar ona hafif ve havadar bir görünüm verir.",
+    "price": 2499,
+    "image_path": "/data/products/komodin/vikhammer-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/vikhammer-beyaz-40x39-cm-komodin-00381764"
+  },
+  {
+    "product_name": "VIHALS beyaz komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 37,
+      "depth_cm": 37,
+      "height_cm": 50
+    },
+    "description": "VIHALS depolama serisi uyumlu bir görünüme sahiptir. Bu komodin, yatağınızın yanında, koridorda veya küçük bir yan sehpa olarak oturma odasında mükemmeldir.",
+    "price": 1199,
+    "image_path": "/data/products/komodin/vihals-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/vihals-beyaz-37x37-cm-komodin-80488737"
+  },
+  {
+    "product_name": "HEMNES beyaz vernik komodin",
+    "category": "Komodin",
+    "style": "Klasik",
+    "color": "Beyaz Vernik",
+    "dimensions": {
+      "width_cm": 54,
+      "depth_cm": 38,
+      "height_cm": 66
+    },
+    "description": "Yüksek bir yatağın yanında durması için biraz daha yüksek bir komodin. Sürdürülebilir kaynaklardan elde edilen masif ahşaptan yapılmıştır. Geleneksel görünüm ve modern işlevsellik bir arada.",
+    "price": 2999,
+    "image_path": "/data/products/komodin/hemnes-beyaz-vernik-54x66.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hemnes-beyaz-vernik-54x66-cm-komodin-80242627"
+  },
+  {
+    "product_name": "MALM ağartılmış meşe kaplama komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Ağartılmış Meşe Kaplama",
+    "dimensions": {
+      "width_cm": 40,
+      "depth_cm": 48,
+      "height_cm": 55
+    },
+    "description": "MALM komodin, her yere yakışan sade bir tasarıma sahiptir. Kolay açılır çekmeceler ve çeşitli kaplama seçenekleri ile MALM yatak serisini tamamlar.",
+    "price": 1999,
+    "image_path": "/data/products/komodin/malm-agartilmis-mese-kaplama.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/malm-agartilmis-mese-kaplama-40x55-cm-komodin-10178601"
+  },
+  {
+    "product_name": "NORDKISA bambu komodin",
+    "category": "Komodin",
+    "style": "İskandinav",
+    "color": "Bambu",
+    "dimensions": {
+      "width_cm": 60,
+      "depth_cm": 40,
+      "height_cm": 75
+    },
+    "description": "NORDKISA serisindeki bu komodin, bambudan yapılmıştır ve sıcak bir görünüm yaratır. Bağımsız olarak kullanılabilir veya NORDKISA serisindeki diğer mobilyalarla birleştirilebilir.",
+    "price": 3799,
+    "image_path": "/data/products/komodin/nordkisa-bambu-60x40.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/nordkisa-bambu-60x40-cm-komodin-00430745"
+  },
+  {
+    "product_name": "MALM venge komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Venge",
+    "dimensions": {
+      "width_cm": 40,
+      "depth_cm": 48,
+      "height_cm": 55
+    },
+    "description": "MALM komodin, her yere yakışan sade bir tasarıma sahiptir. Kolay açılır çekmeceler ve çeşitli kaplama seçenekleri ile MALM yatak serisini tamamlar.",
+    "price": 1999,
+    "image_path": "/data/products/komodin/malm-venge.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/malm-venge-40x55-cm-komodin-00103343"
+  },
+  {
+    "product_name": "TYSSEDAL beyaz komodin",
+    "category": "Komodin",
+    "style": "Klasik",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 51,
+      "depth_cm": 40,
+      "height_cm": 59
+    },
+    "description": "TYSSEDAL serisi, el işçiliği hissi veren geleneksel bir tasarıma sahiptir. Yumuşak kapanan çekmece ve dayanıklı boyalı yüzeyi ile uzun yıllar keyifle kullanabilirsiniz.",
+    "price": 3299,
+    "image_path": "/data/products/komodin/tyssedal-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tyssedal-beyaz-51x40-cm-komodin-70299959"
+  },
+  {
+    "product_name": "SONGESAND beyaz komodin",
+    "category": "Komodin",
+    "style": "Klasik",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 42,
+      "depth_cm": 40,
+      "height_cm": 55
+    },
+    "description": "SONGESAND, klasik detaylara sahip, uzun ömürlü ve zamansız bir mobilya serisidir. Bu komodin, yatağınızın yanında pratik bir saklama alanı sunar.",
+    "price": 1999,
+    "image_path": "/data/products/komodin/songesand-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/songesand-beyaz-42x40-cm-komodin-30367441"
+  },
+  {
+    "product_name": "HEMNES venge komodin",
+    "category": "Komodin",
+    "style": "Klasik",
+    "color": "Venge",
+    "dimensions": {
+      "width_cm": 46,
+      "depth_cm": 35,
+      "height_cm": 70
+    },
+    "description": "Masif ahşaptan yapılmış geleneksel görünümlü bir komodin. Sessiz ve kolay açılan çekmecesi, eşyalarınızı düzenli tutmanıza yardımcı olur. HEMNES serisindeki diğer mobilyalarla uyumludur.",
+    "price": 2799,
+    "image_path": "/data/products/komodin/hemnes-venge-46x35.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hemnes-venge-46x35x70-cm-komodin-90121234"
+  },
+  {
+    "product_name": "IDANÄS venge komodin",
+    "category": "Komodin",
+    "style": "Klasik",
+    "color": "Venge",
+    "dimensions": {
+      "width_cm": 47,
+      "depth_cm": 40,
+      "height_cm": 63
+    },
+    "description": "IDANÄS komodin, zamana meydan okuyan tasarımı ve işlevselliği birleştirir. Geniş çekmecesi ve entegre şarj çözümü ile modern yaşam için tasarlanmıştır.",
+    "price": 3499,
+    "image_path": "/data/products/komodin/idanas-venge.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-venge-47x40-cm-komodin-80458815"
+  },
+  {
+    "product_name": "HAUGA gri komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Gri",
+    "dimensions": {
+      "width_cm": 40,
+      "depth_cm": 36,
+      "height_cm": 63
+    },
+    "description": "HAUGA komodin, yatağınızın yanında ihtiyacınız olan her şeyi elinizin altında tutar. Üst raf, gizli depolama alanı ve kullanışlı bir çekmece ile hem pratik hem de şıktır.",
+    "price": 1799,
+    "image_path": "/data/products/komodin/hauga-gri.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hauga-gri-40x36-cm-komodin-40488961"
+  },
+  {
+    "product_name": "GURSKEN açık bej komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Açık Bej",
+    "dimensions": {
+      "width_cm": 39,
+      "depth_cm": 30,
+      "height_cm": 47
+    },
+    "description": "GURSKEN serisi sade, hoş bir tasarıma ve akıllı işlevselliğe sahiptir. Bu komodin, GURSKEN karyola ile mükemmel uyum sağlar ve diğer mobilyalarla da kolayca eşleştirilebilir.",
+    "price": 649,
+    "image_path": "/data/products/komodin/gursken-acik-bej.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gursken-acik-bej-39x30-cm-komodin-80486328"
+  },
+  {
+    "product_name": "STOMSO duvara monte komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Beyaz-Mavi",
+    "dimensions": {
+      "width_cm": 36,
+      "depth_cm": 29,
+      "height_cm": 20
+    },
+    "description": "Zeminde yer açmak ve temizliği kolaylaştırmak için duvara monte edilen bu komodin, küçük alanlar için mükemmeldir. Çocuk odaları için eğlenceli ve pratik bir çözüm sunar.",
+    "price": 999,
+    "image_path": "/data/products/komodin/stomso-hus-gorunumlu-beyaz-mavi.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/stomso-hus-gorunumlu-beyaz-mavi-36x29x20-cm-duvara-monte-komodin-70567805"
+  },
+  {
+    "product_name": "PLATSA/FONNES beyaz komodin",
+    "category": "Komodin",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 60,
+      "depth_cm": 57,
+      "height_cm": 53
+    },
+    "description": "PLATSA serisi, modüler yapısıyla ihtiyaçlarınıza göre bir depolama çözümü oluşturmanıza olanak tanır. Bu komodin, geniş depolama alanı sunar ve diğer PLATSA üniteleriyle birleştirilebilir.",
+    "price": 1610,
+    "image_path": "/data/products/komodin/platsa-fonnes-beyaz.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/platsa-fonnes-beyaz-60x55x53-cm-komodin-09277211"
+  }
+]

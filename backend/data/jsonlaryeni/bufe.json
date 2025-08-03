@@ -1,0 +1,452 @@
+[
+  {
+    "product_name": "BAGGEBO büfe, beyaz, 78x92 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 78,
+      "depth_cm": 35,
+      "height_cm": 92
+    },
+    "description": "BAGGEBO büfe, sadeliği, işlevselliği ve temiz hatları ile modern bir yaşam tarzını tamamlar. Metal örgü kapaklar eşyalarınızı sergilerken, aynı zamanda endüstriyel bir dokunuş katar.",
+    "price": 1999,
+    "image_path": "/data/products/bufe/baggebo-beyaz-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/baggebo-beyaz-78x92-cm-bufe-40553616"
+  },
+  {
+    "product_name": "BRIMNES büfe, beyaz, 78x95 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 78,
+      "depth_cm": 41,
+      "height_cm": 95
+    },
+    "description": "BRIMNES serisindeki mobilyalar, akıllı çözümler sunar. Bu büfe, ayarlanabilir rafları sayesinde depolama alanınızı kişiselleştirmenize olanak tanır ve sade tasarımıyla her dekora uyum sağlar.",
+    "price": 3499,
+    "image_path": "/data/products/bufe/brimnes-beyaz-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/brimnes-beyaz-78x95-cm-bufe-40300662"
+  },
+  {
+    "product_name": "TONSTAD büfe, meşe kaplama, 82x47x90 cm",
+    "category": "Büfe",
+    "style": "İskandinav",
+    "color": "Meşe kaplama",
+    "dimensions": {
+      "width_cm": 82,
+      "depth_cm": 47,
+      "height_cm": 90
+    },
+    "description": "TONSTAD büfe, sıcak meşe kaplaması ve temiz hatları ile İskandinav tasarımını yansıtır. Sürgülü kapaklar yerden tasarruf sağlarken, içindeki ayarlanabilir raflar esnek depolama sunar.",
+    "price": 10999,
+    "image_path": "/data/products/bufe/tonstad-mese-kaplama-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tonstad-mese-kaplama-82x47x90-cm-bufe-00489236"
+  },
+  {
+    "product_name": "FJÄLLBO büfe, siyah, 47x111x95 cm",
+    "category": "Büfe",
+    "style": "Endüstriyel",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 111,
+      "depth_cm": 47,
+      "height_cm": 95
+    },
+    "description": "Rustik metal ve masif ahşaptan yapılmış bu büfe, her bir parçayı benzersiz kılar. Masif çam, zamanla güzelleşen doğal bir malzemedir ve eşyalarınıza kişisel bir dokunuş katar.",
+    "price": 8799,
+    "image_path": "/data/products/bufe/fjallbo-siyah-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/fjallbo-siyah-47x111x95-cm-bufe-00502799"
+  },
+  {
+    "product_name": "LOMMARP büfe, koyu mavi-yeşil, 102x101 cm",
+    "category": "Büfe",
+    "style": "Geleneksel",
+    "color": "Koyu mavi-yeşil",
+    "dimensions": {
+      "width_cm": 102,
+      "depth_cm": 41,
+      "height_cm": 101
+    },
+    "description": "LOMMARP saklama serisi, geleneksel marangozluktan ilham alan işlenmiş kenarları ve detayları ile karakterizedir. Bu büfe, evin her odasına uyum sağlar ve eşyaları gözden uzak tutar.",
+    "price": 9999,
+    "image_path": "/data/products/bufe/lommarp-koyu-mavi-yesil-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lommarp-koyu-mavi-yesil-102x101-cm-bufe-80415468"
+  },
+  {
+    "product_name": "HEMNES konsol, açık kahverengi/beyaz, 157x88 cm",
+    "category": "Büfe",
+    "style": "Geleneksel",
+    "color": "Açık kahverengi/Beyaz",
+    "dimensions": {
+      "width_cm": 157,
+      "depth_cm": 40,
+      "height_cm": 88
+    },
+    "description": "Masif ahşap, doğal bir his verir. Geniş konsol masası, hem sergileme hem de saklama için bolca alan sunar. Sürdürülebilir kaynaklardan elde edilen masif çamdan yapılmıştır.",
+    "price": 10999,
+    "image_path": "/data/products/bufe/hemnes-acik-kahverengi-beyaz-konsol.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hemnes-acik-kahverengi-beyaz-157x88-cm-konsol-70476259"
+  },
+  {
+    "product_name": "IDANÄS konsol, beyaz, 124x50x95 cm",
+    "category": "Büfe",
+    "style": "Geleneksel",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 124,
+      "depth_cm": 50,
+      "height_cm": 95
+    },
+    "description": "IDANÄS serisi, zamansız tasarımı modern işlevsellikle birleştirir. Bu konsol, katlanır kapakları sayesinde ihtiyacınız olduğunda daha fazla alan sağlar ve düşünceli detaylara sahiptir.",
+    "price": 10999,
+    "image_path": "/data/products/bufe/idanas-beyaz-konsol.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-beyaz-124x50x95-cm-konsol-80496025"
+  },
+  {
+    "product_name": "SKRUVBY büfe, beyaz, 120x38x90 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 120,
+      "depth_cm": 38,
+      "height_cm": 90
+    },
+    "description": "SKRUVBY serisi, farklı ihtiyaçlarınıza ve alanlarınıza uyacak şekilde kolayca birleştirilebilen çeşitli parçalar sunar. Bu temiz ve sade tasarımlı büfe ile kişisel bir saklama çözümü oluşturun.",
+    "price": 4299,
+    "image_path": "/data/products/bufe/skruvby-beyaz-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skruvby-beyaz-120x38x90-cm-bufe-60568725"
+  },
+  {
+    "product_name": "STOCKHOLM 2025 konsol, meşe kaplama, 161x42x83 cm",
+    "category": "Büfe",
+    "style": "İskandinav",
+    "color": "Meşe kaplama",
+    "dimensions": {
+      "width_cm": 161,
+      "depth_cm": 42,
+      "height_cm": 83
+    },
+    "description": "Bu konsol, sıcak ve doğal bir his veren meşe kaplamadan yapılmıştır. Geniş depolama alanı ve temiz çizgileriyle hem işlevsel hem de estetik bir parçadır.",
+    "price": 13999,
+    "image_path": "/data/products/bufe/stockholm-2025-mese-kaplama-konsol.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/stockholm-2025-mese-kaplama-161x42x83-cm-konsol-10586604"
+  },
+  {
+    "product_name": "SKRUVBY büfe, beyaz, 70x90 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 38,
+      "height_cm": 90
+    },
+    "description": "SKRUVBY serisinin bu daha küçük büfesi, dar alanlar için mükemmel bir saklama çözümü sunar. Temiz ve sade tasarımı, diğer mobilyalarla kolayca uyum sağlar.",
+    "price": 2799,
+    "image_path": "/data/products/bufe/skruvby-beyaz-bufe-70x90.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skruvby-beyaz-70x90-cm-bufe-20503547"
+  },
+  {
+    "product_name": "FRYKSÅS kapaklı dolap, rattan, 81x124 cm",
+    "category": "Büfe",
+    "style": "Bohem",
+    "color": "Rattan",
+    "dimensions": {
+      "width_cm": 81,
+      "depth_cm": 39,
+      "height_cm": 124
+    },
+    "description": "Rattan dokuma kapakları olan bu dolap, odanıza sıcak ve doğal bir atmosfer katar. El yapımı olması her ürünü benzersiz kılar ve evinizde rahatlatıcı bir his yaratır.",
+    "price": 9999,
+    "image_path": "/data/products/bufe/fryksas-rattan-kapakli-dolap.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/fryksas-rattan-81x124-cm-kapakli-dolap-40574096"
+  },
+  {
+    "product_name": "HAUGA konsol, beyaz, 140x84 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 140,
+      "depth_cm": 46,
+      "height_cm": 84
+    },
+    "description": "HAUGA serisi, evinizdeki depolama alanını koordine etmenizi sağlar. Karakteristik üst rafı ve pratik sürgülü kapakları ile hem şık hem de işlevsel bir depolama çözümü sunar.",
+    "price": 5499,
+    "image_path": "/data/products/bufe/hauga-beyaz-konsol.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hauga-beyaz-140x84-cm-konsol-60407266"
+  },
+  {
+    "product_name": "SKRUVBY büfe, mavi-siyah, 120x38x90 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Mavi-siyah",
+    "dimensions": {
+      "width_cm": 120,
+      "depth_cm": 38,
+      "height_cm": 90
+    },
+    "description": "SKRUVBY serisinin bu şık mavi-siyah renkli büfesi ile evinize modern bir dokunuş katın. Temiz ve sade tasarımı, kişisel bir saklama çözümü oluşturmanıza olanak tanır.",
+    "price": 4299,
+    "image_path": "/data/products/bufe/skruvby-mavi-siyah-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skruvby-mavi-siyah-120x38x90-cm-bufe-70568720"
+  },
+  {
+    "product_name": "LOMMARP büfe, açık bej, 102x101 cm",
+    "category": "Büfe",
+    "style": "Geleneksel",
+    "color": "Açık bej",
+    "dimensions": {
+      "width_cm": 102,
+      "depth_cm": 41,
+      "height_cm": 101
+    },
+    "description": "LOMMARP saklama serisi, geleneksel marangozluktan ilham alan işlenmiş kenarları ve detayları ile karakterizedir. Bu açık bej renkli büfe, evinize aydınlık ve zarif bir hava katar.",
+    "price": 9999,
+    "image_path": "/data/products/bufe/lommarp-acik-bej-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/lommarp-acik-bej-102x101-cm-bufe-10436997"
+  },
+  {
+    "product_name": "SKRUVBY konsol, mavi-siyah, 190x90 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Mavi-siyah",
+    "dimensions": {
+      "width_cm": 190,
+      "depth_cm": 38,
+      "height_cm": 90
+    },
+    "description": "Farklı ihtiyaçlara ve alanlara uyum sağlayan SKRUVBY serisinin bir parçası. Bu geniş konsol, iki büfenin birleşiminden oluşarak geniş ve uyumlu bir saklama alanı yaratır.",
+    "price": 7098,
+    "image_path": "/data/products/bufe/skruvby-mavi-siyah-konsol.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skruvby-mavi-siyah-190x90-cm-konsol-69525604"
+  },
+  {
+    "product_name": "SKRUVBY büfe, beyaz, 70x90 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 38,
+      "height_cm": 90
+    },
+    "description": "Temiz ve basit tasarım, farklı stillerle birleştirmeyi kolaylaştırır. SKRUVBY serisindeki diğer ürünlerle birleştirerek daha büyük bir depolama çözümü oluşturabilirsiniz.",
+    "price": 2799,
+    "image_path": "/data/products/bufe/skruvby-beyaz-bufe-70x90-v2.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skruvby-beyaz-70x90-cm-bufe-20508842"
+  },
+  {
+    "product_name": "LEDAMOT konsol, açık gri-bej, 150x42x75 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Açık gri-bej",
+    "dimensions": {
+      "width_cm": 150,
+      "depth_cm": 42,
+      "height_cm": 75
+    },
+    "description": "LEDAMOT konsol, temiz hatları ve sakin renkleriyle modern bir estetik sunar. Geniş yüzeyi ve kapaklı dolapları ile hem dekoratif objeleriniz hem de saklamak istediğiniz eşyalar için bolca alan sağlar.",
+    "price": 9999,
+    "image_path": "/data/products/bufe/ledamot-acik-gri-bej-konsol.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/ledamot-acik-gri-bej-150x42x75-cm-konsol-40544740"
+  },
+  {
+    "product_name": "SKRUVBY konsol, beyaz, 190x90 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 190,
+      "depth_cm": 38,
+      "height_cm": 90
+    },
+    "description": "SKRUVBY serisinden iki adet büfenin birleşimiyle oluşan bu geniş konsol, ferah ve uyumlu bir saklama çözümü sunar. Sade tasarımı sayesinde farklı dekorasyonlara kolayca adapte olur.",
+    "price": 7098,
+    "image_path": "/data/products/bufe/skruvby-beyaz-konsol.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skruvby-beyaz-190x90-cm-konsol-39525605"
+  },
+  {
+    "product_name": "SKRUVBY büfe, mavi-siyah, 70x90 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Mavi-siyah",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 38,
+      "height_cm": 90
+    },
+    "description": "SKRUVBY serisinin bu dar ve şık mavi-siyah büfesi, daha küçük alanlar için idealdir. Modern ve sade hatlarıyla evinize zarif bir depolama alanı ekler.",
+    "price": 2799,
+    "image_path": "/data/products/bufe/skruvby-mavi-siyah-bufe-70x90.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skruvby-mavi-siyah-70x90-cm-bufe-30520358"
+  },
+  {
+    "product_name": "HAUGA büfe, beyaz, 70x116 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 46,
+      "height_cm": 116
+    },
+    "description": "HAUGA serisi ile evinizde uyumlu bir görünüm yaratın. Bu büfe, karakteristik üst rafı ve akıllı tasarımıyla hem tek başına hem de serinin diğer parçalarıyla birlikte kullanılabilir.",
+    "price": 3999,
+    "image_path": "/data/products/bufe/hauga-beyaz-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hauga-beyaz-70x116-cm-bufe-00415052"
+  },
+  {
+    "product_name": "VIHALS kapaklı dolap, koyu gri, 140x37x75 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Koyu gri",
+    "dimensions": {
+      "width_cm": 140,
+      "depth_cm": 37,
+      "height_cm": 75
+    },
+    "description": "VIHALS saklama serisi, evinizde bütüncül bir görünüm yaratır. Bu kapaklı dolap, sade hatları ve modern tasarımıyla eşyalarınızı düzenli bir şekilde saklamanıza olanak tanır.",
+    "price": 4999,
+    "image_path": "/data/products/bufe/vihals-koyu-gri-kapakli-dolap.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/vihals-koyu-gri-140x37x75-cm-kapakli-dolap-60542924"
+  },
+  {
+    "product_name": "BRIMNES büfe, siyah, 78x95 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 78,
+      "depth_cm": 41,
+      "height_cm": 95
+    },
+    "description": "BRIMNES serisi, fonksiyonel ve şık depolama çözümleri sunar. Ayarlanabilir rafları sayesinde bu siyah büfeyi kendi ihtiyaçlarınıza göre düzenleyebilirsiniz.",
+    "price": 3499,
+    "image_path": "/data/products/bufe/brimnes-siyah-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/brimnes-siyah-78x95-cm-bufe-80300660"
+  },
+  {
+    "product_name": "BRIMNES büfe, cam/siyah, 78x95 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Siyah",
+    "dimensions": {
+      "width_cm": 78,
+      "depth_cm": 41,
+      "height_cm": 95
+    },
+    "description": "Cam kapaklı bu BRIMNES büfe, favori eşyalarınızı sergilerken onları tozdan korur. Ayarlanabilir raflar, alanı kendi ihtiyaçlarınıza göre düzenlemenizi sağlar.",
+    "price": 3799,
+    "image_path": "/data/products/bufe/brimnes-cam-siyah-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/brimnes-cam-siyah-78x95-cm-bufe-00300664"
+  },
+  {
+    "product_name": "STOCKHOLM büfe, ceviz kaplama, 90x107 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Ceviz kaplama",
+    "dimensions": {
+      "width_cm": 90,
+      "depth_cm": 40,
+      "height_cm": 107
+    },
+    "description": "Ceviz kaplamanın zengin dokusu, bu büfeye sıcak ve zarif bir görünüm kazandırır. Bastırılarak açılan kapaklar, kulpsuz ve temiz bir tasarım sunar.",
+    "price": 14999,
+    "image_path": "/data/products/bufe/stockholm-ceviz-kaplama-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/stockholm-ceviz-kaplama-90x107-cm-bufe-80239724"
+  },
+  {
+    "product_name": "SKRUVBY büfe, mavi-siyah, 70x90 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Mavi-siyah",
+    "dimensions": {
+      "width_cm": 70,
+      "depth_cm": 38,
+      "height_cm": 90
+    },
+    "description": "SKRUVBY serisinin temiz ve sade tasarımı, bu mavi-siyah büfeyi farklı stillerle birleştirmeyi kolaylaştırır. Daha büyük bir depolama çözümü için serideki diğer ürünlerle kombine edilebilir.",
+    "price": 2799,
+    "image_path": "/data/products/bufe/skruvby-mavi-siyah-bufe-70x90-v2.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skruvby-mavi-siyah-70x90-cm-bufe-70520361"
+  },
+  {
+    "product_name": "SKRUVBY konsol, mavi-siyah, 190x90 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Mavi-siyah",
+    "dimensions": {
+      "width_cm": 190,
+      "depth_cm": 38,
+      "height_cm": 90
+    },
+    "description": "Bu geniş konsol, SKRUVBY serisinden iki büfenin birleştirilmesiyle oluşturulmuştur ve geniş, uyumlu bir saklama alanı sağlar. Modern mavi-siyah rengiyle dikkat çeker.",
+    "price": 7098,
+    "image_path": "/data/products/bufe/skruvby-mavi-siyah-konsol-v2.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/skruvby-mavi-siyah-190x90-cm-konsol-79525608"
+  },
+  {
+    "product_name": "TONSTAD büfe, meşe kaplama/kahverengi, 121x47x90 cm",
+    "category": "Büfe",
+    "style": "İskandinav",
+    "color": "Meşe kaplama/Kahverengi",
+    "dimensions": {
+      "width_cm": 121,
+      "depth_cm": 47,
+      "height_cm": 90
+    },
+    "description": "TONSTAD büfe, sürgülü kapakları ile yerden tasarruf sağlar ve İskandinav tasarımının sıcaklığını yansıtır. Meşe kaplama ve kahverengi tonları, doğal ve şık bir görünüm sunar.",
+    "price": 12999,
+    "image_path": "/data/products/bufe/tonstad-mese-kaplama-kahverengi-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tonstad-mese-kaplama-kahverengi-121x47x90-cm-bufe-40489296"
+  },
+  {
+    "product_name": "REGISSÖR büfe, kahverengi, 118x110 cm",
+    "category": "Büfe",
+    "style": "Geleneksel",
+    "color": "Kahverengi",
+    "dimensions": {
+      "width_cm": 118,
+      "depth_cm": 38,
+      "height_cm": 110
+    },
+    "description": "REGISSÖR serisi, kolay montaj özelliği ile öne çıkar. Bu kahverengi büfe, geleneksel tasarımı ve pratik kullanımıyla evinize değer katar.",
+    "price": 11999,
+    "image_path": "/data/products/bufe/regissor-kahverengi-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/regissor-kahverengi-118x110-cm-bufe-60342072"
+  },
+  {
+    "product_name": "IDANÄS konsol, koyu kahve, 124x50x95 cm",
+    "category": "Büfe",
+    "style": "Geleneksel",
+    "color": "Koyu kahve",
+    "dimensions": {
+      "width_cm": 124,
+      "depth_cm": 50,
+      "height_cm": 95
+    },
+    "description": "IDANÄS serisi, zamansız tasarımı modern işlevsellikle birleştirir. Bu koyu kahve konsol, katlanır kapakları ve düşünülmüş detaylarıyla hem şık hem de pratik bir kullanım sunar.",
+    "price": 10999,
+    "image_path": "/data/products/bufe/idanas-koyu-kahve-konsol.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-koyu-kahve-124x50x95-cm-konsol-50496022"
+  },
+  {
+    "product_name": "BRIMNES büfe, cam/beyaz, 78x95 cm",
+    "category": "Büfe",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 78,
+      "depth_cm": 41,
+      "height_cm": 95
+    },
+    "description": "Cam kapaklı bu beyaz BRIMNES büfe ile favori eşyalarınızı sergileyin. Ayarlanabilir raflar, depolama alanını kişisel ihtiyaçlarınıza göre uyarlamanıza olanak tanır.",
+    "price": 3799,
+    "image_path": "/data/products/bufe/brimnes-cam-beyaz-bufe.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/brimnes-cam-beyaz-78x95-cm-bufe-50300666"
+  }
+]

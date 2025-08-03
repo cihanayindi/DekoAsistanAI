@@ -1,0 +1,407 @@
+[
+  {
+    "product_name": "IDANÄS, Gunnared koyu gri 180x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Gunnared Koyu Gri",
+    "dimensions": {
+      "width_cm": 191,
+      "depth_cm": 213,
+      "height_cm": 112
+    },
+    "description": "IDANÄS karyola, hem güzel hem de pratik zamansız bir tasarıma sahiptir. Entegre çekmeceler yatağınızın altında ekstra depolama alanı yaratır ve eğimli, yastıklı başlık sayesinde yatakta okumak veya TV izlemek gerçekten rahattır.",
+    "price": 20499,
+    "image_path": "/data/products/yatak/idanas-gunnared-koyu-gri-180x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-gunnared-koyu-gri-180x200-cm-cift-kisilik-karyola-90458947"
+  },
+  {
+    "product_name": "IDANÄS, Gunnared koyu gri 160x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Gunnared Koyu Gri",
+    "dimensions": {
+      "width_cm": 171,
+      "depth_cm": 213,
+      "height_cm": 112
+    },
+    "description": "IDANÄS karyola, hem güzel hem de pratik zamansız bir tasarıma sahiptir. Entegre çekmeceler yatağınızın altında ekstra depolama alanı yaratır ve eğimli, yastıklı başlık sayesinde yatakta okumak veya TV izlemek gerçekten rahattır.",
+    "price": 18499,
+    "image_path": "/data/products/yatak/idanas-gunnared-koyu-gri-160x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-gunnared-koyu-gri-160x200-cm-cift-kisilik-karyola-20458941"
+  },
+  {
+    "product_name": "GLADSTAD, açık gri 160x200 cm çift kişilik baza",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Açık Gri",
+    "dimensions": {
+      "width_cm": 162,
+      "depth_cm": 202,
+      "height_cm": 93
+    },
+    "description": "GLADSTAD döşemeli karyola, sade ve modern bir tasarıma sahiptir. Yastıklı başlık, yatakta okumak veya TV izlemek için rahat bir sırt desteği görevi görür ve karyolanın altındaki geniş saklama çekmecelerinde yorganları, yastıkları ve nevresimleri saklayabilirsiniz.",
+    "price": 14799,
+    "image_path": "/data/products/yatak/gladstad-acik-gri-160x200-baza.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gladstad-acik-gri-160x200-cm-cift-kisilik-baza-59407012"
+  },
+  {
+    "product_name": "SAGESUND, LURÖY kahverengi 160x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Kahverengi",
+    "dimensions": {
+      "width_cm": 171,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kahverengi kumaş güzel ve rahattır, ayrıca bakımı kolay kılıfı çıkarıp makinede yıkayabilirsiniz.",
+    "price": 11999,
+    "image_path": "/data/products/yatak/sagesund-luroy-kahverengi-160x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-luroy-kahverengi-160x200-cm-cift-kisilik-karyola-19496487"
+  },
+  {
+    "product_name": "GLADSTAD, açık gri 160x200 cm çift kişilik baza",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Açık Gri",
+    "dimensions": {
+      "width_cm": 162,
+      "depth_cm": 202,
+      "height_cm": 93
+    },
+    "description": "GLADSTAD döşemeli karyola, sade ve modern bir tasarıma sahiptir. Yastıklı başlık, yatakta okumak veya TV izlemek için rahat bir sırt desteği görevi görür ve yatağın altındaki alana pratik saklama kutuları yerleştirebilirsiniz.",
+    "price": 12799,
+    "image_path": "/data/products/yatak/gladstad-acik-gri-160x200-baza-2.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gladstad-acik-gri-160x200-cm-cift-kisilik-baza-29406797"
+  },
+  {
+    "product_name": "GLADSTAD, açık gri 140x200 cm çift kişilik baza",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Açık Gri",
+    "dimensions": {
+      "width_cm": 142,
+      "depth_cm": 202,
+      "height_cm": 93
+    },
+    "description": "GLADSTAD döşemeli karyola, sade ve modern bir tasarıma sahiptir. Yastıklı başlık, yatakta okumak veya TV izlemek için rahat bir sırt desteği görevi görür ve yatağın altındaki alana pratik saklama kutuları yerleştirebilirsiniz.",
+    "price": 11799,
+    "image_path": "/data/products/yatak/gladstad-acik-gri-140x200-baza.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gladstad-acik-gri-140x200-cm-cift-kisilik-baza-09406798"
+  },
+  {
+    "product_name": "SAGESUND, LURÖY beyaz 160x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 171,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kılıfı çıkarılabilir ve makinede yıkanabilir olduğu için temiz tutmak kolaydır.",
+    "price": 11999,
+    "image_path": "/data/products/yatak/sagesund-luroy-beyaz-160x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-luroy-beyaz-160x200-cm-cift-kisilik-karyola-09502691"
+  },
+  {
+    "product_name": "SAGESUND, LINDBADEN beyaz 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 151,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kılıfı çıkarılabilir ve makinede yıkanabilir olduğu için temiz tutmak kolaydır.",
+    "price": 10899,
+    "image_path": "/data/products/yatak/sagesund-lindbaden-beyaz-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-lindbaden-beyaz-140x200-cm-cift-kisilik-karyola-29502708"
+  },
+  {
+    "product_name": "IDANÄS, Gunnared koyu gri 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Gunnared Koyu Gri",
+    "dimensions": {
+      "width_cm": 151,
+      "depth_cm": 213,
+      "height_cm": 112
+    },
+    "description": "IDANÄS karyola, hem güzel hem de pratik zamansız bir tasarıma sahiptir. Entegre çekmeceler yatağınızın altında ekstra depolama alanı yaratır ve eğimli, yastıklı başlık sayesinde yatakta okumak veya TV izlemek gerçekten rahattır.",
+    "price": 17299,
+    "image_path": "/data/products/yatak/idanas-gunnared-koyu-gri-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-gunnared-koyu-gri-140x200-cm-cift-kisilik-karyola-70458934"
+  },
+  {
+    "product_name": "GLADSTAD, açık gri 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Açık Gri",
+    "dimensions": {
+      "width_cm": 142,
+      "depth_cm": 202,
+      "height_cm": 93
+    },
+    "description": "GLADSTAD döşemeli karyola, sade ve modern bir tasarıma sahiptir. Yastıklı başlık, yatakta okumak veya TV izlemek için rahat bir sırt desteği görevi görür. Yatağın altındaki alanı pratik saklama kutuları yerleştirmek için kullanabilirsiniz.",
+    "price": 9999,
+    "image_path": "/data/products/yatak/gladstad-acik-gri-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gladstad-acik-gri-140x200-cm-cift-kisilik-karyola-60490449"
+  },
+  {
+    "product_name": "IDANÄS, bej 160x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Bej",
+    "dimensions": {
+      "width_cm": 171,
+      "depth_cm": 213,
+      "height_cm": 112
+    },
+    "description": "IDANÄS karyola, hem güzel hem de pratik zamansız bir tasarıma sahiptir. Entegre çekmeceler yatağınızın altında ekstra depolama alanı yaratır ve eğimli, yastıklı başlık sayesinde yatakta okumak veya TV izlemek gerçekten rahattır.",
+    "price": 18499,
+    "image_path": "/data/products/yatak/idanas-bej-160x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-bej-160x200-cm-cift-kisilik-karyola-50588069"
+  },
+  {
+    "product_name": "GLADSTAD, açık gri 140x200 cm çift kişilik baza",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Açık Gri",
+    "dimensions": {
+      "width_cm": 142,
+      "depth_cm": 202,
+      "height_cm": 93
+    },
+    "description": "GLADSTAD döşemeli karyola, sade ve modern bir tasarıma sahiptir. Yastıklı başlık, yatakta okumak veya TV izlemek için rahat bir sırt desteği görevi görür ve karyolanın altındaki 2 geniş saklama çekmecesinde yorganları, yastıkları ve nevresimleri saklayabilirsiniz.",
+    "price": 13799,
+    "image_path": "/data/products/yatak/gladstad-acik-gri-140x200-baza-2.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gladstad-acik-gri-140x200-cm-cift-kisilik-baza-09407024"
+  },
+  {
+    "product_name": "SAGESUND, LINDBADEN kahverengi 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Kahverengi",
+    "dimensions": {
+      "width_cm": 151,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kahverengi kumaş güzel ve rahattır, ayrıca bakımı kolay kılıfı çıkarıp makinede yıkayabilirsiniz.",
+    "price": 10899,
+    "image_path": "/data/products/yatak/sagesund-lindbaden-kahverengi-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-lindbaden-kahverengi-140x200-cm-cift-kisilik-karyola-59496536"
+  },
+  {
+    "product_name": "GLADSTAD, açık gri 160x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Açık Gri",
+    "dimensions": {
+      "width_cm": 162,
+      "depth_cm": 202,
+      "height_cm": 93
+    },
+    "description": "GLADSTAD döşemeli karyola, sade ve modern bir tasarıma sahiptir. Yastıklı başlık, yatakta okumak veya TV izlemek için rahat bir sırt desteği görevi görür. Yatağın altındaki alanı pratik saklama kutuları yerleştirmek için kullanabilirsiniz.",
+    "price": 10999,
+    "image_path": "/data/products/yatak/gladstad-acik-gri-160x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/gladstad-acik-gri-160x200-cm-cift-kisilik-karyola-80490453"
+  },
+  {
+    "product_name": "IDANÄS, pembe 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Pembe",
+    "dimensions": {
+      "width_cm": 151,
+      "depth_cm": 213,
+      "height_cm": 112
+    },
+    "description": "IDANÄS karyola, hem güzel hem de pratik zamansız bir tasarıma sahiptir. Entegre çekmeceler yatağınızın altında ekstra depolama alanı yaratır ve eğimli, yastıklı başlık sayesinde yatakta okumak veya TV izlemek gerçekten rahattır.",
+    "price": 17299,
+    "image_path": "/data/products/yatak/idanas-pembe-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-pembe-140x200-cm-cift-kisilik-karyola-20458936"
+  },
+  {
+    "product_name": "SAGESUND, LÖNSET kahverengi 160x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Kahverengi",
+    "dimensions": {
+      "width_cm": 171,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kahverengi kumaş güzel ve rahattır, ayrıca bakımı kolay kılıfı çıkarıp makinede yıkayabilirsiniz.",
+    "price": 13399,
+    "image_path": "/data/products/yatak/sagesund-lonset-kahverengi-160x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-lonset-kahverengi-160x200-cm-cift-kisilik-karyola-19496500"
+  },
+  {
+    "product_name": "SAGESUND, LÖNSET beyaz 160x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 171,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kılıfı çıkarılabilir ve makinede yıkanabilir olduğu için temiz tutmak kolaydır.",
+    "price": 13399,
+    "image_path": "/data/products/yatak/sagesund-lonset-beyaz-160x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-lonset-beyaz-160x200-cm-cift-kisilik-karyola-89502692"
+  },
+  {
+    "product_name": "SAGESUND, LURÖY kahverengi 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Kahverengi",
+    "dimensions": {
+      "width_cm": 151,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kahverengi kumaş güzel ve rahattır, ayrıca bakımı kolay kılıfı çıkarıp makinede yıkayabilirsiniz.",
+    "price": 10999,
+    "image_path": "/data/products/yatak/sagesund-luroy-kahverengi-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-luroy-kahverengi-140x200-cm-cift-kisilik-karyola-99496474"
+  },
+  {
+    "product_name": "SAGESUND, LÖNSET beyaz 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 151,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kılıfı çıkarılabilir ve makinede yıkanabilir olduğu için temiz tutmak kolaydır.",
+    "price": 12399,
+    "image_path": "/data/products/yatak/sagesund-lonset-beyaz-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-lonset-beyaz-140x200-cm-cift-kisilik-karyola-99502682"
+  },
+  {
+    "product_name": "SAGESUND, LÖNSET kahverengi 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Kahverengi",
+    "dimensions": {
+      "width_cm": 151,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kahverengi kumaş güzel ve rahattır, ayrıca bakımı kolay kılıfı çıkarıp makinede yıkayabilirsiniz.",
+    "price": 12399,
+    "image_path": "/data/products/yatak/sagesund-lonset-kahverengi-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-lonset-kahverengi-140x200-cm-cift-kisilik-karyola-09496497"
+  },
+  {
+    "product_name": "SAGESUND, LURÖY beyaz 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 151,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kılıfı çıkarılabilir ve makinede yıkanabilir olduğu için temiz tutmak kolaydır.",
+    "price": 10999,
+    "image_path": "/data/products/yatak/sagesund-luroy-beyaz-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-luroy-beyaz-140x200-cm-cift-kisilik-karyola-19502681"
+  },
+  {
+    "product_name": "HAUGA, Vissle gri 160x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Vissle Gri",
+    "dimensions": {
+      "width_cm": 169,
+      "depth_cm": 211,
+      "height_cm": 100
+    },
+    "description": "HAUGA döşemeli karyola, yatak odanıza sıcak bir görünüm kazandırır ve başucu masaları, gardırop veya çekmeceli dolap gibi HAUGA serisindeki diğer mobilyalarla mükemmel uyum sağlar. Yastıklı başlık, yatakta okurken veya TV izlerken arkanıza yaslanmak için idealdir.",
+    "price": 10499,
+    "image_path": "/data/products/yatak/hauga-vissle-gri-160x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/hauga-vissle-gri-160x200-cm-cift-kisilik-karyola-30446354"
+  },
+  {
+    "product_name": "SAGESUND, LINDBADEN kahverengi 160x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Kahverengi",
+    "dimensions": {
+      "width_cm": 171,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kahverengi kumaş güzel ve rahattır, ayrıca bakımı kolay kılıfı çıkarıp makinede yıkayabilirsiniz.",
+    "price": 11899,
+    "image_path": "/data/products/yatak/sagesund-lindbaden-kahverengi-160x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-lindbaden-kahverengi-160x200-cm-cift-kisilik-karyola-39496537"
+  },
+  {
+    "product_name": "IDANÄS, bej 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Bej",
+    "dimensions": {
+      "width_cm": 151,
+      "depth_cm": 213,
+      "height_cm": 112
+    },
+    "description": "IDANÄS karyola, hem güzel hem de pratik zamansız bir tasarıma sahiptir. Entegre çekmeceler yatağınızın altında ekstra depolama alanı yaratır ve eğimli, yastıklı başlık sayesinde yatakta okumak veya TV izlemek gerçekten rahattır.",
+    "price": 17299,
+    "image_path": "/data/products/yatak/idanas-bej-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-bej-140x200-cm-cift-kisilik-karyola-60588064"
+  },
+  {
+    "product_name": "SAGESUND, LINDBADEN beyaz 160x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Beyaz",
+    "dimensions": {
+      "width_cm": 171,
+      "depth_cm": 209,
+      "height_cm": 98
+    },
+    "description": "SAGESUND döşemeli karyola, yumuşak, kavisli bir başlık ve ayak ucu ile yatak odanıza sıcak ve rahat bir görünüm kazandırır. Kılıfı çıkarılabilir ve makinede yıkanabilir olduğu için temiz tutmak kolaydır.",
+    "price": 11899,
+    "image_path": "/data/products/yatak/sagesund-lindbaden-beyaz-160x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/sagesund-lindbaden-beyaz-160x200-cm-cift-kisilik-karyola-89502687"
+  },
+  {
+    "product_name": "IDANÄS, pembe 180x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Pembe",
+    "dimensions": {
+      "width_cm": 191,
+      "depth_cm": 213,
+      "height_cm": 112
+    },
+    "description": "IDANÄS karyola, hem güzel hem de pratik zamansız bir tasarıma sahiptir. Entegre çekmeceler yatağınızın altında ekstra depolama alanı yaratır ve eğimli, yastıklı başlık sayesinde yatakta okumak veya TV izlemek gerçekten rahattır.",
+    "price": 20499,
+    "image_path": "/data/products/yatak/idanas-pembe-180x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/idanas-pembe-180x200-cm-cift-kisilik-karyola-10458951"
+  },
+  {
+    "product_name": "TUFJORD, mavi 140x200 cm çift kişilik karyola",
+    "category": "Yatak",
+    "style": "Modern",
+    "color": "Mavi",
+    "dimensions": {
+      "width_cm": 152,
+      "depth_cm": 223,
+      "height_cm": 109
+    },
+    "description": "TUFJORD döşemeli karyola, yatak odanıza rahat bir hava katar. Kıvrımlı başlık, yatakta geçirilen rahat anlar için mükemmeldir. Kadife döşeme, lüks hissini arttırır ve her iki tarafa da rahatça yaslanmanızı sağlar.",
+    "price": 19499,
+    "image_path": "/data/products/yatak/tufjord-mavi-140x200.jpg",
+    "product_link": "https://www.ikea.com.tr/urun/tufjord-mavi-140x200-cm-cift-kisilik-karyola-00446402"
+  }
+]
