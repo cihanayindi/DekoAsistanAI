@@ -11,7 +11,7 @@
     },
     "description": "Bu çalışma sandalyesi, sade bir görünüme, ayarlanabilir yüksekliğe ve kolayca hareket ettirilebilen tekerleklere sahiptir. Temel konfor ihtiyaçlarınızı karşılar ve temizlenmesi kolaydır. Kompakt boyutu sayesinde küçük alanlar için idealdir.",
     "price": 1299,
-    "image_path": "/data/products/sandalye/smallen-siyah.jpg",
+    "image_path": "/data/products/sandalye/smållen-calisma-sandalyesi-siyah.jpg",
     "product_link": "https://www.ikea.com.tr/urun/smallen-siyah-calisma-sandalyesi-00503435"
   },
   {
@@ -26,7 +26,7 @@
     },
     "description": "TOBERGET çalışma sandalyesi, her dekora uyan geleneksel ve şık bir tasarıma sahiptir. Döner ve yüksekliği ayarlanabilir özelliğiyle, vücudunuza uygun rahat bir pozisyon sunar.",
     "price": 1999,
-    "image_path": "/data/products/sandalye/toberget-vissle-gri.jpg",
+    "image_path": "/data/products/sandalye/toberget-calisma-sandalyesi-vissle-gri.jpg",
     "product_link": "https://www.ikea.com.tr/urun/toberget-vissle-gri-calisma-sandalyesi-90432245"
   },
   {
@@ -41,7 +41,7 @@
     },
     "description": "Hafif ve havadar tasarımıyla her mekana uyum sağlayan ÖRFJÄLL, konforlu bir oturma deneyimi sunar. Yüksekliği kolayca ayarlanabilir ve sırt desteği vücudunuz için idealdir.",
     "price": 2199,
-    "image_path": "/data/products/sandalye/orfjall-beyaz-vissle-acik-gri.jpg",
+    "image_path": "/data/products/sandalye/orfjäll-calisma-sandalyesi-beyazvissle-acik-gri.jpg",
     "product_link": "https://www.ikea.com.tr/urun/orfjall-beyaz-vissle-acik-gri-calisma-sandalyesi-49416012"
   },
   {
@@ -56,7 +56,7 @@
     },
     "description": "ODGER döner sandalye, kase şeklindeki oturma yeri ve yuvarlak sırtlığı ile konfor sağlar. Ahşap ve plastik kompozit malzemeden üretilmiştir. Sade tasarımı ve ayarlanabilir yüksekliği ile her çalışma alanına uyum sağlar.",
     "price": 3299,
-    "image_path": "/data/products/sandalye/odger-antrasit.jpg",
+    "image_path": "/data/products/sandalye/odger-calisma-sandalyesi-antrasit.jpg",
     "product_link": "https://www.ikea.com.tr/urun/odger-antrasit-calisma-sandalyesi-20395270"
   },
   {
@@ -71,7 +71,7 @@
     },
     "description": "SKRUVSTA çalışma sandalyesinin temiz hatları ve ayarlanabilir fonksiyonları ile hem konforlu hem de şık bir çalışma alanı yaratın. Döner özelliği ve ayarlanabilir yüksekliği ile size özel bir oturma deneyimi sunar.",
     "price": 4299,
-    "image_path": "/data/products/sandalye/skruvsta-ysane-beyaz.jpg",
+    "image_path": "/data/products/sandalye/skruvsta-calisma-sandalyesi-ysane-beyaz.jpg",
     "product_link": "https://www.ikea.com.tr/urun/skruvsta-ysane-beyaz-calisma-sandalyesi-50402995"
   },
   {
@@ -86,7 +86,7 @@
     },
     "description": "MARKUS, uzun saatler boyunca rahat etmeniz için tasarlanmış ergonomik bir ofis koltuğudur. Ayarlanabilir yükseklik ve eğim fonksiyonu, kilitlenebilir sırtlık ve fileli arka kısım sayesinde konforlu bir çalışma ortamı sağlar.",
     "price": 8499,
-    "image_path": "/data/products/sandalye/markus-vissle-koyu-gri.jpg",
+    "image_path": "/data/products/sandalye/markus-calisma-sandalyesi-vissle-koyu-gri.jpg",
     "product_link": "https://www.ikea.com.tr/urun/markus-vissle-koyu-gri-calisma-sandalyesi-70261150"
   },
   {
@@ -101,7 +101,7 @@
     },
     "description": "Gerçek deri döşemesi ile geleneksel bir görünüme sahip ALEFJÄLL, modern ergonomik özellikler sunar. Oturma yeri ve sırtlığın yüksekliğini ve eğimini ayarlayarak vücudunuza en uygun pozisyonu bulabilirsiniz.",
     "price": 10999,
-    "image_path": "/data/products/sandalye/alefjall-grann-altin-kahverengi.jpg",
+    "image_path": "/data/products/sandalye/alefjäll-calisma-sandalyesi-grann-altin-kahverengi.jpg",
     "product_link": "https://www.ikea.com.tr/urun/alefjall-grann-altin-kahverengi-calisma-sandalyesi-40419982"
   },
   {
@@ -116,7 +116,7 @@
     },
     "description": "Ergonomik MARKUS ofis koltuğu, ayarlanabilir özellikleri sayesinde uzun süreli oturmalarda bile rahatlık sunar. Hava alan file sırtlığı ve ayarlanabilir eğim ve yükseklik fonksiyonları ile konforu en üst düzeye çıkarır.",
     "price": 8499,
-    "image_path": "/data/products/sandalye/markus-acik-gri.jpg",
+    "image_path": "/data/products/sandalye/markus-calisma-sandalyesi-acik-gri.jpg",
     "product_link": "https://www.ikea.com.tr/urun/markus-acik-gri-calisma-sandalyesi-10521858"
   },
   {
@@ -131,7 +131,7 @@
     },
     "description": "Kıvrımlı hatlara sahip HATTEFJÄLL, ergonomik bir sandalyedir ve ayarlanabilir oturma derinliği, sırt desteği ve kolçakları ile size özel konfor sunar. Nazik eğrileri ve dikişli detayları ile şık bir görünüme sahiptir.",
     "price": 9999,
-    "image_path": "/data/products/sandalye/hattefjall-gunnared-bej-beyaz.jpg",
+    "image_path": "/data/products/sandalye/hattefjäll-calisma-sandalyesi-gunnared-bejbeyaz.jpg",
     "product_link": "https://www.ikea.com.tr/urun/hattefjall-gunnared-bej-beyaz-calisma-sandalyesi-60538955"
   },
   {
@@ -146,7 +146,7 @@
     },
     "description": "MATCHSPEL oyuncu koltuğu, esnek sırtlığı ve ayarlanabilir baş/boyun desteği, kolçakları ve yüksekliği ile oyun sırasında mükemmel bir konfor sağlar. Vücudunuzla senkronize hareket ederek oyun performansınızı artırır.",
     "price": 7999,
-    "image_path": "/data/products/sandalye/matchspel-bomstad-acik-gri.jpg",
+    "image_path": "/data/products/sandalye/matchspel-oyuncu-sandalyesi-bomstad-acik-gri.jpg",
     "product_link": "https://www.ikea.com.tr/urun/matchspel-bomstad-acik-gri-oyuncu-sandalyesi-90571528"
   },
   {
@@ -161,7 +161,7 @@
     },
     "description": "RENBERGET çalışma sandalyesi, ayarlanabilir eğim gerilimi ve rahatça ayarlanabilen yüksekliği ile konforlu bir oturma pozisyonu sunar. Şık ve sade tasarımıyla her ofise uyum sağlar.",
     "price": 2799,
-    "image_path": "/data/products/sandalye/renberget-bomstad-siyah.jpg",
+    "image_path": "/data/products/sandalye/renberget-calisma-sandalyesi-bomstad-siyah.jpg",
     "product_link": "https://www.ikea.com.tr/urun/renberget-bomstad-siyah-calisma-sandalyesi-60493546"
   },
   {
@@ -176,7 +176,7 @@
     },
     "description": "Geleneksel görünümlü ve hakiki deri döşemeli ALEFJÄLL, ayarlanabilir oturma yeri, sırtlık ve eğim gibi modern ergonomik özelliklerle donatılmıştır, böylece gün boyu konfor sağlar.",
     "price": 10999,
-    "image_path": "/data/products/sandalye/alefjall-glose-siyah.jpg",
+    "image_path": "/data/products/sandalye/alefjäll-calisma-sandalyesi-glose-siyah.jpg",
     "product_link": "https://www.ikea.com.tr/urun/alefjall-glose-siyah-calisma-sandalyesi-70367458"
   },
   {
@@ -191,7 +191,7 @@
     },
     "description": "MILLBERGET çalışma sandalyesi, konfor, işlevsellik ve stili bir araya getirir. Ayarlanabilir eğim gerilimi ve yastıklı kolçakları ile vücudunuza destek olurken, zarif tasarımıyla çalışma alanınıza değer katar.",
     "price": 3299,
-    "image_path": "/data/products/sandalye/millberget-murum-siyah.jpg",
+    "image_path": "/data/products/sandalye/millberget-calisma-sandalyesi-murum-siyah.jpg",
     "product_link": "https://www.ikea.com.tr/urun/millberget-murum-siyah-calisma-sandalyesi-70489394"
   },
   {
@@ -206,7 +206,7 @@
     },
     "description": "JÄRVFJÄLLET ofis koltuğu, ayarlanabilir baş desteği, bel desteği ve oturma derinliği gibi ergonomik özelliklerle uzun süreli konfor için tasarlanmıştır. Deri döşemesi ile hem dayanıklı hem de şıktır.",
     "price": 10999,
-    "image_path": "/data/products/sandalye/jarvfjallet-glose-siyah.jpg",
+    "image_path": "/data/products/sandalye/järvfjället-calisma-sandalyesi-glose-siyah.jpg",
     "product_link": "https://www.ikea.com.tr/urun/jarvfjallet-glose-siyah-calisma-sandalyesi-80510639"
   },
   {
@@ -221,7 +221,7 @@
     },
     "description": "FLINTAN çalışma sandalyesi, ayarlanabilir yükseklik ve eğim gerilimi ile konfor sunar. Sırt kısmı, vücudunuzun şeklini alarak iyi bir bel desteği sağlar. Kılıfı çıkarılıp makinede yıkanabilir.",
     "price": 3149,
-    "image_path": "/data/products/sandalye/flintan-diserod-gri.jpg",
+    "image_path": "/data/products/sandalye/flintan-calisma-sandalyesi-diserod-gri.jpg",
     "product_link": "https://www.ikea.com.tr/urun/flintan-diserod-gri-calisma-sandalyesi-79572845"
   },
   {
@@ -236,7 +236,7 @@
     },
     "description": "HUVUDSPELARE oyuncu koltuğu, ayarlanabilir yükseklik ve konforlu kolçaklar ile oyun deneyiminizi iyileştirir. Sırt kısmındaki file malzeme, uzun oyun seanslarında hava sirkülasyonu sağlar.",
     "price": 2799,
-    "image_path": "/data/products/sandalye/huvudspelare-siyah.jpg",
+    "image_path": "/data/products/sandalye/huvudspelare-oyuncu-sandalyesi-siyah.jpg",
     "product_link": "https://www.ikea.com.tr/urun/huvudspelare-siyah-oyuncu-sandalyesi-90507603"
   },
   {
@@ -251,7 +251,7 @@
     },
     "description": "Bej rengiyle ferah bir görünüm sunan MILLBERGET, ayarlanabilir eğim gerilimi, yastıklı kolçakları ve konforlu oturma alanı ile çalışma saatlerinizi daha keyifli hale getirir.",
     "price": 3299,
-    "image_path": "/data/products/sandalye/millberget-murum-bej.jpg",
+    "image_path": "/data/products/sandalye/millberget-calisma-sandalyesi-murum-bej.jpg",
     "product_link": "https://www.ikea.com.tr/urun/millberget-murum-bej-calisma-sandalyesi-70489389"
   },
   {
@@ -266,7 +266,7 @@
     },
     "description": "GRUPPSPEL oyun koltuğu, vücudunuza uyum sağlayacak şekilde tasarlanmıştır. Ayarlanabilir baş desteği, bel desteği, kolçaklar ve oturma derinliği ile kişiselleştirilmiş konfor sunar. Sağlam yapısı ile uzun ömürlüdür.",
     "price": 9999,
-    "image_path": "/data/products/sandalye/gruppspel-gunnared-bej.jpg",
+    "image_path": "/data/products/sandalye/gruppspel-oyuncu-sandalyesi-gunnared-bej.jpg",
     "product_link": "https://www.ikea.com.tr/urun/gruppspel-gunnared-bej-oyuncu-sandalyesi-60507586"
   },
   {
@@ -281,7 +281,7 @@
     },
     "description": "Ergonomik HATTEFJÄLL, nazik kıvrımları ve ayarlanabilir oturma derinliği, sırt desteği ve kolçakları ile size özel konfor sunar. Açık yeşil rengiyle çalışma alanınıza taze bir dokunuş katar.",
     "price": 9999,
-    "image_path": "/data/products/sandalye/hattefjall-gunnared-acik-yesil-beyaz.jpg",
+    "image_path": "/data/products/sandalye/hattefjäll-calisma-sandalyesi-gunnared-acik-yesilbeyaz.jpg",
     "product_link": "https://www.ikea.com.tr/urun/hattefjall-gunnared-acik-yesil-beyaz-calisma-sandalyesi-70532953"
   },
   {
@@ -296,7 +296,7 @@
     },
     "description": "Beyaz deri döşemesi ile şık ve modern bir görünüme sahip JÄRVFJÄLLET, ayarlanabilir baş desteği, bel desteği ve oturma derinliği gibi ergonomik özelliklerle uzun süreli konfor için tasarlanmıştır.",
     "price": 10999,
-    "image_path": "/data/products/sandalye/jarvfjallet-grann-beyaz.jpg",
+    "image_path": "/data/products/sandalye/järvfjället-calisma-sandalyesi-grann-beyaz.jpg",
     "product_link": "https://www.ikea.com.tr/urun/jarvfjallet-grann-beyaz-calisma-sandalyesi-40521852"
   },
   {
@@ -311,7 +311,7 @@
     },
     "description": "SKRUVSTA'nın yumuşak, yuvarlak hatları ve ayarlanabilir fonksiyonları ile konforlu bir çalışma alanı yaratın. Döner özelliği ve ayarlanabilir yüksekliği ile size özel bir oturma deneyimi sunar.",
     "price": 4299,
-    "image_path": "/data/products/sandalye/skruvsta-vissle-gri.jpg",
+    "image_path": "/data/products/sandalye/skruvsta-calisma-sandalyesi-vissle-gri.jpg",
     "product_link": "https://www.ikea.com.tr/urun/skruvsta-vissle-gri-calisma-sandalyesi-30280004"
   },
   {
@@ -326,7 +326,7 @@
     },
     "description": "STYRSPEL oyuncu koltuğu, oyun sırasında vücudunuzun hareketlerini takip eden esnek bir yapıya sahiptir. Ayarlanabilir parçaları sayesinde baş, kol ve sırt için maksimum destek ve konfor sağlar.",
     "price": 9999,
-    "image_path": "/data/products/sandalye/styrspel-gri-koyu-gri.jpg",
+    "image_path": "/data/products/sandalye/styrspel-oyuncu-sandalyesi-grikoyu-gri.jpg",
     "product_link": "https://www.ikea.com.tr/urun/styrspel-gri-koyu-gri-oyuncu-sandalyesi-20522032"
   },
   {
@@ -341,7 +341,7 @@
     },
     "description": "LOPARBANA oyuncu koltuğu, konforlu bir oturma deneyimi için tasarlanmıştır. Ayarlanabilir yükseklik ve eğim, uzun oyun maratonlarında rahat etmenizi sağlar. Şık tasarımıyla her oyuncu odasına uyar.",
     "price": 3299,
-    "image_path": "/data/products/sandalye/loparbana-vissle-koyu-gri.jpg",
+    "image_path": "/data/products/sandalye/loparbana-oyuncu-sandalyesi-vissle-koyu-gri.jpg",
     "product_link": "https://www.ikea.com.tr/urun/loparbana-vissle-koyu-gri-oyuncu-sandalyesi-60586324"
   },
   {
@@ -356,7 +356,7 @@
     },
     "description": "Geçmişten ilham alan tasarımıyla BLECKBERGET, çalışma alanınıza retro bir hava katar. Konforlu ve ayarlanabilir yüksekliği ile modern ihtiyaçları karşılar. Canlı renkleriyle dikkat çeker.",
     "price": 1999,
-    "image_path": "/data/products/sandalye/bleckberget-klovsta-beyaz-turuncu-kahverengi.jpg",
+    "image_path": "/data/products/sandalye/bleckberget-calisma-sandalyesi-klovsta-beyazturuncu-kahverengi.jpg",
     "product_link": "https://www.ikea.com.tr/urun/bleckberget-klovsta-beyaz-turuncu-kahverengi-calisma-sandalyesi-30563871"
   },
   {
@@ -371,7 +371,7 @@
     },
     "description": "Siyah rengin asaletiyle MATCHSPEL oyuncu koltuğu, ayarlanabilir baş/boyun desteği, kolçakları ve yüksekliği ile oyun sırasında mükemmel bir konfor sağlar. Vücudunuzla senkronize hareket ederek oyun performansınızı artırır.",
     "price": 7999,
-    "image_path": "/data/products/sandalye/matchspel-bomstad-siyah.jpg",
+    "image_path": "/data/products/sandalye/matchspel-oyuncu-sandalyesi-bomstad-siyah.jpg",
     "product_link": "https://www.ikea.com.tr/urun/matchspel-bomstad-siyah-oyuncu-sandalyesi-80507608"
   },
   {
@@ -386,7 +386,7 @@
     },
     "description": "Geleneksel sandalyelerden ilham alan BLECKBERGET, modern konfor özellikleri sunar. Ayarlanabilir yüksekliği ve rahat oturma yeri ile çalışma alanınıza nostaljik bir dokunuş katar.",
     "price": 1999,
-    "image_path": "/data/products/sandalye/bleckberget-klovsta-beyaz-gri.jpg",
+    "image_path": "/data/products/sandalye/bleckberget-calisma-sandalyesi-klovsta-beyazgri.jpg",
     "product_link": "https://www.ikea.com.tr/urun/bleckberget-klovsta-beyaz-gri-calisma-sandalyesi-80573269"
   },
   {
@@ -401,7 +401,7 @@
     },
     "description": "VIMUND çocuk çalışma sandalyesi, çocuğunuzun büyümesine uyum sağlayacak şekilde ergonomik olarak tasarlanmıştır. Ayarlanabilir oturma derinliği ve sırtlık yüksekliği ile çocuğunuza rahat ve doğru bir oturma pozisyonu sunar.",
     "price": 2799,
-    "image_path": "/data/products/sandalye/vimund-acik-pembe.jpg",
+    "image_path": "/data/products/sandalye/vimund-cocuk-calisma-sandalyesi-acik-pembe.jpg",
     "product_link": "https://www.ikea.com.tr/urun/vimund-acik-pembe-cocuk-calisma-sandalyesi-10424353"
   },
   {
@@ -416,7 +416,7 @@
     },
     "description": "BALTSAR, basit ve temiz hatlara sahip, çok yönlü bir döner sandalyedir. Hem çalışma masası hem de yemek masası için uygundur. Esnek sırtlığı ve kavisli oturma yeri ile rahatlık sağlar.",
     "price": 1999,
-    "image_path": "/data/products/sandalye/baltsar-beyaz.jpg",
+    "image_path": "/data/products/sandalye/baltsar-donen-sandalye-beyaz.jpg",
     "product_link": "https://www.ikea.com.tr/urun/baltsar-beyaz-donen-sandalye-10511538"
   },
   {
@@ -431,7 +431,7 @@
     },
     "description": "FLINTAN çalışma sandalyesi, ayarlanabilir yükseklik ve eğim gerilimi ile konfor sunar. Sırt kısmı, vücudunuzun şeklini alarak iyi bir bel desteği sağlar. Sade ve işlevsel bir tasarıma sahiptir.",
     "price": 2799,
-    "image_path": "/data/products/sandalye/flintan-siyah.jpg",
+    "image_path": "/data/products/sandalye/flintan-calisma-sandalyesi-siyah.jpg",
     "product_link": "https://www.ikea.com.tr/urun/flintan-siyah-calisma-sandalyesi-89424468"
   }
 ]
