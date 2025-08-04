@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2025-08-05T00:26:16.224021",
+    "prompt_type": "imagen_enhancement_request",
+    "request_data": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Test notları",
+      "design_title": "Test Tasarım",
+      "design_description": "Test açıklaması",
+      "products_text": "Test ürün metni",
+      "dimensions_info": "400cm x 400cm",
+      "color_info": "Beyaz dominant"
+    },
+    "additional_data": {
+      "test": true
+    }
+  }
+]

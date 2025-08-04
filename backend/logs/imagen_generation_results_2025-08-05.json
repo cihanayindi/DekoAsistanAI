@@ -1,0 +1,40 @@
+[
+  {
+    "timestamp": "2025-08-05T00:26:16.228407",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "Photo-realistic modern living room interior",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1"
+    },
+    "error_message": null,
+    "generation_time_ms": 5000,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T00:26:16.230135",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "Photo-realistic modern living room interior",
+    "generation_success": false,
+    "image_data": {},
+    "error_message": "Test error message",
+    "generation_time_ms": 2000,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T00:38:41.901602",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a bedroom in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venue.\n\nH...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 22064,
+    "additional_data": {}
+  }
+]
