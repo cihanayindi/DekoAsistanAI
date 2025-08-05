@@ -36,5 +36,155 @@
     "error_message": null,
     "generation_time_ms": 22064,
     "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T09:02:48.120207",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 10540,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T09:11:17.431706",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 10293,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T09:34:36.129927",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 9894,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T09:36:06.075691",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 10461,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T09:39:03.830968",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 9709,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T09:39:54.795892",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 9783,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T09:41:14.961985",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home calisma in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 10092,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T10:07:03.011980",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home calisma in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 10331,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T10:10:46.757079",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 10605,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T10:30:48.291667",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow"
+    },
+    "error_message": null,
+    "generation_time_ms": 10636,
+    "additional_data": {}
   }
 ]
