@@ -444,5 +444,209 @@
     "error_message": null,
     "generation_time_ms": 12476,
     "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T16:33:45.986179",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 12307,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T16:34:30.348945",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12335,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T16:35:19.198530",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 12344,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T16:36:33.913964",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12213,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T16:37:46.667641",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 12280,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T16:45:16.862876",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 12502,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T16:45:44.601088",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12292,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T16:52:11.403321",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12484,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:18:41.381138",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12620,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:19:15.756792",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12541,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:21:15.828444",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 11440,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:22:03.026828",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 11353,
+    "additional_data": {}
   }
 ]
