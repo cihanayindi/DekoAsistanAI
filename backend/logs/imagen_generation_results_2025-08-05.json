@@ -359,5 +359,90 @@
     "error_message": null,
     "generation_time_ms": 12039,
     "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T15:50:57.702384",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 13566,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T15:55:40.748447",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a bedroom in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venue.\n\nH...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 8
+    },
+    "error_message": null,
+    "generation_time_ms": 14145,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T15:57:04.777077",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a bedroom in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venue.\n\nH...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12146,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T16:12:39.190088",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 2
+    },
+    "error_message": null,
+    "generation_time_ms": 10936,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T16:19:22.231631",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12476,
+    "additional_data": {}
   }
 ]
