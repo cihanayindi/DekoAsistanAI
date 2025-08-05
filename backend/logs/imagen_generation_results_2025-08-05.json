@@ -342,5 +342,22 @@
     "error_message": null,
     "generation_time_ms": 12075,
     "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T15:46:26.065290",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home living room in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or ...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 5
+    },
+    "error_message": null,
+    "generation_time_ms": 12039,
+    "additional_data": {}
   }
 ]
