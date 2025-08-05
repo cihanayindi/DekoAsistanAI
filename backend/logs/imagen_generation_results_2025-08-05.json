@@ -648,5 +648,192 @@
     "error_message": null,
     "generation_time_ms": 11353,
     "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:23:09.050711",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 5
+    },
+    "error_message": null,
+    "generation_time_ms": 11022,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:28:55.182855",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a bedroom in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venue.\n\nH...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12017,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:35:47.915073",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home çocuk in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venue....",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 13171,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:37:11.406706",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home çocuk in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venue....",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12214,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:37:46.771876",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 12299,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:38:23.740321",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in modern style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or venu...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 11360,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:41:12.683908",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in endüstriyel style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 12156,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:41:46.563937",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in endüstriyel style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 5
+    },
+    "error_message": null,
+    "generation_time_ms": 12637,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:44:00.577456",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in endüstriyel style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 12863,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:45:11.068942",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in endüstriyel style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 6
+    },
+    "error_message": null,
+    "generation_time_ms": 11933,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-05T17:46:04.498667",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "\nCreate a photorealistic residential home interior design image of a home kitchen in endüstriyel style.\n\nIMPORTANT: This is a HOME/RESIDENTIAL interior - family living space, NOT commercial, hotel, or...",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 5
+    },
+    "error_message": null,
+    "generation_time_ms": 11980,
+    "additional_data": {}
   }
 ]
