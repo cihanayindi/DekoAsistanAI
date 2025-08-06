@@ -251,5 +251,56 @@
     "error_message": null,
     "generation_time_ms": 10549,
     "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-06T20:11:05.420193",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "Photo-realistic modern living room featuring multiple KIVIK Tresund light beige sofas, offering wide seating. Comfortable, durable fabric complements sunset-toned cushions. Dominant colors: #FF6B35, #F7931E, #FFD23F, #EE4B2B, #C4622D. Minimalist design, machine washable covers.",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 10888,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-06T20:12:04.867504",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "Photo-realistic modern living room with sunset warmth color palette. Features multiple KIVIK Tresund light beige sofas. On the wall, a Turkish flag hangs proudly. The sofas are designed with wide seating, low armrests, and memory foam. The room has a bright and airy feel, perfect for family gatherings.",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 10829,
+    "additional_data": {}
+  },
+  {
+    "timestamp": "2025-08-06T20:13:10.640232",
+    "prompt_type": "imagen_generation_result",
+    "enhanced_prompt": "Photo-realistic modern living room with black, gray and white color palette. Features KIVIK light beige sofa. User asks for a teddy bear in the room.",
+    "generation_success": true,
+    "image_data": {
+      "format": "PNG",
+      "aspect_ratio": "1:1",
+      "safety_filter_level": "block_some",
+      "person_generation": "dont_allow",
+      "multimodal": true,
+      "reference_images_count": 7
+    },
+    "error_message": null,
+    "generation_time_ms": 10360,
+    "additional_data": {}
   }
 ]

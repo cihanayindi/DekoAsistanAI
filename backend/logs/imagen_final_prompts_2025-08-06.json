@@ -93,5 +93,62 @@
     "additional_data": {
       "hybrid": true
     }
+  },
+  {
+    "timestamp": "2025-08-06T20:10:54.529690",
+    "prompt_type": "final_imagen_prompt",
+    "enhanced_prompt": "Photo-realistic modern living room featuring multiple KIVIK Tresund light beige sofas, offering wide seating. Comfortable, durable fabric complements sunset-toned cushions. Dominant colors: #FF6B35, #F7931E, #FFD23F, #EE4B2B, #C4622D. Minimalist design, machine washable covers.",
+    "prompt_source": "hybrid_gemini_enhanced",
+    "prompt_length": 278,
+    "original_request_data": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "",
+      "design_title": "Günbatımı Esintili Modern Salon Tasarımı",
+      "design_description": "Bu modern salon tasarımı, günbatımının sıcaklığını evinize taşıyor. #FF6B35 renk paleti, enerji dolu ve davetkar bir atmosfer yaratırken, modern stil aile yaşamına uygun konfor ve fonksiyonellik sunuyor. Koltuk takımı, sehpa, TV ünitesi ve halı gibi odak noktaları, hem estetik hem de kullanışlı bir yaşam alanı oluşturuyor.",
+      "real_products": 7,
+      "fake_products": 0
+    },
+    "additional_data": {
+      "hybrid": true
+    }
+  },
+  {
+    "timestamp": "2025-08-06T20:11:54.035854",
+    "prompt_type": "final_imagen_prompt",
+    "enhanced_prompt": "Photo-realistic modern living room with sunset warmth color palette. Features multiple KIVIK Tresund light beige sofas. On the wall, a Turkish flag hangs proudly. The sofas are designed with wide seating, low armrests, and memory foam. The room has a bright and airy feel, perfect for family gatherings.",
+    "prompt_source": "hybrid_gemini_enhanced",
+    "prompt_length": 303,
+    "original_request_data": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Kullanıcı Notları: odamdaki duvarda bir adet türk bayrağı da bulunsun",
+      "design_title": "Modern Günbatımı Esintili Salon Tasarımı",
+      "design_description": "Bu modern salon tasarımı, günbatımının sıcaklığını evinize taşıyor. #FF6B35 renk paleti, enerji dolu ve davetkar bir atmosfer yaratırken, modern stil aile yaşamına uygun konfor ve fonksiyonellik sunuyor. Koltuk takımı, sehpa, TV ünitesi ve halı gibi odak noktaları, odanın estetiğini ve kullanışlılığını artırıyor.",
+      "real_products": 7,
+      "fake_products": 0
+    },
+    "additional_data": {
+      "hybrid": true
+    }
+  },
+  {
+    "timestamp": "2025-08-06T20:13:00.276642",
+    "prompt_type": "final_imagen_prompt",
+    "enhanced_prompt": "Photo-realistic modern living room with black, gray and white color palette. Features KIVIK light beige sofa. User asks for a teddy bear in the room.",
+    "prompt_source": "hybrid_gemini_enhanced",
+    "prompt_length": 149,
+    "original_request_data": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "Kullanıcı Notları: Odamın içerisinde Bir tane peluş ayı da olasını istiyorum ",
+      "design_title": "Modern Minimal Salon Tasarımı",
+      "design_description": "Bu modern minimal salon tasarımı, aile yaşamına uygun, konforlu ve fonksiyonel bir alan sunar. Nötr renk paleti (#000000, #333333, #666666, #CCCCCC, #FFFFFF) sıcak ve davetkar bir atmosfer yaratır. Koltuk takımı, sehpa, TV ünitesi ve halı gibi odak noktaları, modern stili yansıtan şık ve rahat parçalardır.",
+      "real_products": 7,
+      "fake_products": 0
+    },
+    "additional_data": {
+      "hybrid": true
+    }
   }
 ]
