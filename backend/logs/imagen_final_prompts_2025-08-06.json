@@ -1,0 +1,97 @@
+[
+  {
+    "timestamp": "2025-08-06T19:54:09.735169",
+    "prompt_type": "final_imagen_prompt",
+    "enhanced_prompt": "Photo-realistic kids room, modern style. Forest green dominant color. IDANÄS bed with forest animal headboard. Safe, rounded edges. Comfortable design. Gunnared dark gray 180x200 cm double bed. Extra storage drawers. Soft, angled headboard.",
+    "prompt_source": "hybrid_gemini_enhanced",
+    "prompt_length": 240,
+    "original_request_data": {
+      "room_type": "çocuk",
+      "design_style": "modern",
+      "notes": "",
+      "design_title": "Orman Esintili Çocuk Odası",
+      "design_description": "Modern çocuk odası tasarımı, orman yeşili renk paletiyle doğayı içeri taşıyor. Fonksiyonel ve aile dostu bu oda, oyun alanı, rahat yatak ve düzenli oyuncak dolaplarıyla çocukların keyifli vakit geçirebileceği bir alan sunuyor. Doğal ışık ve sıcak bir atmosferle çocukların hayal dünyasını destekliyor.",
+      "real_products": 7,
+      "fake_products": 0
+    },
+    "additional_data": {
+      "hybrid": true
+    }
+  },
+  {
+    "timestamp": "2025-08-06T19:58:48.503457",
+    "prompt_type": "final_imagen_prompt",
+    "enhanced_prompt": "Photo-realistic modern kids room featuring multiple white, cloud-shaped IDANÄS beds. The beds are the room's focal point, designed to spark imagination and made with safe materials. Dominant color is royal blue (#4169E1), accented by gold, crimson, purple, and dark grey. A playful and safe environment for children.",
+    "prompt_source": "hybrid_gemini_enhanced",
+    "prompt_length": 316,
+    "original_request_data": {
+      "room_type": "çocuk",
+      "design_style": "modern",
+      "notes": "",
+      "design_title": "Çocuk Odası Modern Tasarım",
+      "design_description": "Kraliyet Sarayı temalı bu modern çocuk odası, oyun ve öğrenmeyi bir araya getiriyor. Canlı renk paleti, çocukların hayal gücünü harekete geçirirken, fonksiyonel mobilyalar ve güvenli oyun alanı rahat bir ortam sunuyor. Halı ve oyuncak dolabı gibi belirgin özellikler, hem estetik hem de pratik bir kullanım sağlıyor.",
+      "real_products": 7,
+      "fake_products": 0
+    },
+    "additional_data": {
+      "hybrid": true
+    }
+  },
+  {
+    "timestamp": "2025-08-06T19:59:47.187504",
+    "prompt_type": "final_imagen_prompt",
+    "enhanced_prompt": "Photo-realistic modern living room featuring multiple KIVIK Tresund light beige 3-seater sofas in forest green tones, arranged as a spacious and comfortable sectional sofa. The seating area is designed for family enjoyment, with high-quality fabric and durable construction. The sofas have a wide seating area, low armrests, and memory foam for maximum comfort. The overall design is modern and minimalist. Forest green color palette.",
+    "prompt_source": "hybrid_gemini_enhanced",
+    "prompt_length": 434,
+    "original_request_data": {
+      "room_type": "salon",
+      "design_style": "modern",
+      "notes": "",
+      "design_title": "Orman Yeşili Modern Salon Tasarımı",
+      "design_description": "Bu modern salon tasarımı, orman yeşili renk paletiyle huzurlu ve davetkar bir atmosfer yaratır. Aile yaşamına uygun, konforlu ve fonksiyonel bir alan sunarken, doğal ışığı en iyi şekilde değerlendirir. Koltuk takımı, sehpa ve TV ünitesi gibi odak noktaları, modern stili ve yeşilin tonlarını vurgulayarak uyumlu bir bütünlük oluşturur.",
+      "real_products": 6,
+      "fake_products": 0
+    },
+    "additional_data": {
+      "hybrid": true
+    }
+  },
+  {
+    "timestamp": "2025-08-06T20:00:43.174523",
+    "prompt_type": "final_imagen_prompt",
+    "enhanced_prompt": "Photo-realistic classic kitchen with tropic paradise color palette. Cream cabinets with gold details. White marble laminate countertop. Golden fruit bowl accessory on the counter. Gold-framed mirror wall decor adds depth.",
+    "prompt_source": "hybrid_gemini_enhanced",
+    "prompt_length": 221,
+    "original_request_data": {
+      "room_type": "mutfak",
+      "design_style": "klasik",
+      "notes": "",
+      "design_title": "Tropik Esintili Klasik Mutfak",
+      "design_description": "Tropik Cennet renginin hakim olduğu bu klasik mutfak, ferah ve davetkar bir atmosfer sunuyor. Altın detaylar ve ahşap dokular, mekana sıcaklık katarken, fonksiyonel mutfak dolapları ve tezgah, aile yaşamını kolaylaştırıyor. Dekoratif objeler, kişisel dokunuşlar ekleyerek mutfağı evin kalbi haline getiriyor.",
+      "real_products": 1,
+      "fake_products": 3
+    },
+    "additional_data": {
+      "hybrid": true
+    }
+  },
+  {
+    "timestamp": "2025-08-06T20:01:54.351976",
+    "prompt_type": "final_imagen_prompt",
+    "enhanced_prompt": "Photo-realistic modern study room. Six TORALD white 65x40 cm desks with black metal legs and wood-look tops. Provides ample workspace. Durable materials, modern minimalist design. Predominantly black and white color palette with shades of gray.",
+    "prompt_source": "hybrid_gemini_enhanced",
+    "prompt_length": 244,
+    "original_request_data": {
+      "room_type": "calisma",
+      "design_style": "modern",
+      "notes": "",
+      "design_title": "Modern Çalışma Odası Tasarımı",
+      "design_description": "Bu modern çalışma odası, minimalist bir yaklaşımla tasarlanmıştır. Siyah, gri ve beyaz tonlarındaki renk paleti, odanın sakin ve odaklanmış bir atmosfere sahip olmasını sağlar. Fonksiyonellik ve konfor ön planda tutularak, hem çalışma hem de dinlenme için uygun bir alan yaratılmıştır.",
+      "real_products": 6,
+      "fake_products": 0
+    },
+    "additional_data": {
+      "hybrid": true
+    }
+  }
+]
